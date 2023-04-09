@@ -1,0 +1,192 @@
+24
+Einstein as aTransitionalFigure:
+The Birth of Wave Mechanics
+We now leave the period of the old quantum theory and turn to the time of tran-
+sition, during which matter waves were being discussed by a tiny group of phys-
+icists at a time when matter wave mechanics had not yet been discovered. This
+period begins in September 1923 with two brief communications by Louis de
+Broglie to the French Academy of Sciences [Bl, B2]. It ends in January 1926
+with Schroedinger's first paper on wave mechanics [SI]. The main purpose of this
+chapter is to stress Einstein's key role in these developments, his influence on de
+Broglie, de Broglie's subsequent influence on him, and, finally, the influence of
+both on Schroedinger.
+Neither directly nor indirectly did Einstein contribute to an equally fundamen-
+tal development that preceded Schroedinger's discovery of wave mechanics: the
+discovery of matrix mechanics by Heisenberg [HI]. Therefore, I shall have no
+occasion in this book to comment in any detail on Heisenberg's major
+achievements.
+24a. From Einstein to de Broglie
+During the period that began with Einstein's work on needle rays (1917) and
+ended with Debye's and Gompton's papers on the Compton effect (1923), there
+were a few other theoreticians also doing research on photon questions. Of those,
+the only one* whose contribution lasted was de Broglie.
+De Broglie had finished his studies before the First World War. In 1919, after
+a long tour of duty with the French forces, he joined the physics laboratory headed
+by his brother Maurice, where X-ray photoeffects and X-ray spectroscopy were
+the main topics of study. Thus he was much exposed to questions concerning the
+nature of electromagnetic radiation, a subject on which he published several
+papers. In one of these [B6], de Broglie evaluated independently of Bose (and
+"The other ones I know of are Brillouin [B3], Wolfke [Wl], Bothe [B4], Bateman [B5], and Orn-
+stein and Zernike [Ol].
+435
+436 THE QUANTUM THEORY
+published before him) the density of radiation states in terms of particle (photon)
+language. That was in October 1923—one month after his enunciation of the
+epochal new principle that particle-wave duality should apply not only to radia-
+tion but also to matter. 'After long reflection in solitude and meditation, I suddenly
+had the idea, during the year 1923, that the discovery made by Einstein in 1905
+should be generalized by extending it to all material particles and notably to elec-
+trons' [B7].
+He made the leap in his September 10, 1923, paper [Bl]: E = hv shall hold
+not only for photons but also for electrons, to which he assigns a 'fictitious asso-
+ciated wave.' In his September 24 paper [B2], he indicated the direction in which
+one 'should seek experimental confirmations of our ideas': a stream of electrons
+traversing an aperture whose dimensions are small compared with the wavelength
+of the electron waves 'should show diffraction phenomena.'
+Other important aspects of de Broglie's work are beyond the scope of this book
+(for more details, see, e.g.. [Kl]). The mentioned articles were extended to form
+his doctoral thesis [B7], which he defended on November 25, 1924. Einstein
+received a copy of this thesis from Langevin, who was one of de Broglie's exam-
+iners. A letter to Lorentz (in December) shows that Einstein was impressed and
+also that he had found a new application of de Broglie's ideas:
+A younger brother of . . . de Broglie has undertaken a very interesting attempt
+to interpret the Bohr-Sommerfeld quantum rules (Paris dissertation 1924). I
+believe it is a first feeble ray of light on this worst of our physics enigmas. I,
+too, have found something which speaks for his construction. [El]
+24b. From de Broglie to Einstein
+In 1909 and again in 1917, Einstein had drawn major conclusions about radiation
+from the study of fluctuations around thermal equilibrium. It goes without saying
+that he would again examine fluctations when, in 1924, he turned his attention
+to the molecular quantum gas.
+In order to appreciate what he did this time, it is helpful to again present the
+formula (Eq. 21.5) given earlier for the mean square energy fluctuation of elec-
+tromagnetic radiation:
+Put Vpdv=n(v)hv and (e2) = A(v)2(hv)2. The term n(v) can be interpreted as
+the average number of quanta in the energy interval dv, and A(c)2 as the mean
+square fluctuation of this number. One can now write Eq. 24.1 in the form
+(24.1)
+(21.2)EINSTEIN AS A TRANSITIONAL FIGURE: THE BIRTH OF WAVE MECHANICS 437
+where Z(v) is the number of states per interval dv given in Eq. 23.4. In his paper
+submitted on January 8, 1925, Einstein showed that Eq. 24.2 holds equally well
+for his quantum gas, as long as one defines v in the latter case by E = hv = p1/
+2m and uses Eq. 23.15 instead of Eq. 23.4 for the number of states [E2].
+When discussing radiation in 1909, Einstein recognized the second term of Eq.
+24.1 as the familiar wave term and the first one as the unfamiliar particle term.
+When in 1924 he revisited the fluctuation problem for the case of the quantum
+gas, he noted a reversal of roles. The first term, at one time unfamiliar for radia-
+tion, was now the old fluctuation term for a Poisson distribution of (distinguish-
+able) particles. What to do with the second term (which incorporates indistin-
+guishability effects of particles) for the gas case? Since this term was associated
+with waves in the case of radiation, Einstein was led to 'interpret it in a corre-
+sponding way for the gas, by associating with the gas a radiative phenomenon'
+[E2]. He added, 'I pursue this interpretation further, since I believe that here we
+have to do with more than a mere analogy.'
+But what were the waves?
+At this point, Einstein turned to de Broglie's thesis [B7], 'a very notable pub-
+lication.' He suggested that a de Broglie-type wavefield should be associated with
+the gas and pointed out that this assumption enabled him to interpret the second
+term in Eq. 24.2. Just as de Broglie had done, he also noted that a molecular
+beam should show diffraction phenomena but added that the effect should be
+extremely small for manageable apertures. He also remarked that the de Broglie
+wavefield had to be a scalar (the polarization factor is 2 for Eq. 23.4, as noted
+above, but it is 1 for Eq. 23.15!).
+It is another of Einstein's feats that he would be led to state the necessity of the
+existence of matter waves from the analysis of fluctuations. One may wonder what
+the history of twentieth century physics would have looked like had Einstein
+pushed the analogy still further. However, with the achievement of an indepen-
+dent argument for the particle-wave duality of matter, the twenty-year period of
+highest scientific creativity in Einstein's life, at a level probably never equalled,
+came to an end.
+Postscript, Summer 1978. In the course of preparing this chapter, I noticed
+a recollection by Pauli of a statement made by Einstein during a physics meeting
+held in Innsbruck in 1924. According to Pauli, Einstein proposed in the course of
+that meeting 'to search for interference and diffraction phenomena with molecular
+beams' [PI]. On checking the dates of that meeting, I found them to be September
+21-27. This intrigued me. Einstein arrived at the particle-wave duality of matter
+via a route that was independent of the one taken by de Broglie. The latter
+defended his thesis in November. If Pauli's memory is correct, then Einstein made
+his remark about two months prior to that time. Could he have come upon the
+wave properties of matter independently of de Broglie? After all, Einstein had
+been thinking about the molecular gas since July. The questions arise, When did
+438 THE QUANTUM THEORY
+Einstein become aware of de Broglie's work? In particular, when did he receive
+de Broglie's thesis from Langevin? Clearly, it would be most interesting to know
+what Professor de Broglie might have to say about these questions. Accordingly
+I wrote to him. He was kind enough to reply. With his permission, I quote from
+his answers.
+De Broglie does not believe that Einstein was aware of his three short publi-
+cations [Bl, B2, B3] written in 1923. 'Nevertheless, since Einstein would receive
+the Comptes Rendus and since he knew French very well, he might have noticed
+my articles' [B8]. De Broglie noted further that he had given Langevin the first
+typed copy of his thesis early in 1924. 'I am certain that Einstein knew of my
+These since the spring of 1924' [B9]. This is what happened. 'When in 1923 I
+had written the text of the These de Doctoral which I wanted to present in order
+to obtain the Doctorat es Sciences, I had three typed copies made. I handed one
+of these to M. Langevin so that he might decide whether this text could be
+accepted as a These. M. Langevin, probablement un peu etonne par la nouveaute
+de mes idees,* asked me to furnish him with a second typed copy of my These for
+transmittal to Einstein. It was then that Einstein declared, after having read my
+work, that my ideas seemed quite interesting to him. This made Langevin decide
+to accept my work' [B8].
+Thus, Einstein was not only one of the three fathers of the quantum theory,
+but also the sole godfather of wave mechanics.
+24c. From de Broglie and Einstein to Schroedinger
+Late in 1925, Schroedinger completed an article entitled 'On Einstein's Gas The-
+ory' [S2]. It was his last paper prior to his discovery of wave mechanics. Its con-
+tents are crucial to an understanding of the genesis of that discovery [K2].
+In order to follow Schroedinger's reasoning, it is necessary to recall first a der-
+ivation of Planck's formula given by Debye in 1910 [Dl]. Consider a cavity filled
+with radiation oscillators in thermal equilibrium. The spectral density is
+8irv2e(v, 7)/c3, where e is the equilibrium energy of a radiation field oscillator with
+frequency v. Debye introduced the quantum prescription that the only admissible
+energies of the oscillator shall be nhv, n = 0, 1, 2, .... In equilibrium, the nth
+energy level is weighted with its Boltzmann factor. Hence € = 'E,nhvyn/T^yn, y
+= exp (—hv/kT). This yields Planck's law.**
+Now back to Schroedinger. By his own admission, he was not much taken with
+the new BE statistics [S2]. Instead, he suggested, why not evade the new statistics
+* Probably a bit astonished by the novelty of my ideas.
+**This derivation differs from Planck's in that the latter quantized material rather than radiation
+oscillators. It differs from Bose's photon gas derivation in that here the energy nhv is interpreted as
+the nth state of a single oscillator, not (as was done in Chapter 23) as a state of n particles with
+energy hv.
+EINSTEIN AS A TRANSITIONAL FIGURE: THE BIRTH OF WAVE MECHANICS 439
+by treating Einstein's molecular gas according to the Debye method? That is, why
+not start from a wave picture of the gas and superimpose on that a quantization
+condition a la Debye? Now comes the key sentence in the article: 'That means
+nothing else but taking seriously the de Broglie-Einstein wave theory of moving
+particles' [S2]. And that is just what Schroedinger did. It is not necessary to discuss
+further details of this article, which was received by the publisher on December
+25, 1925.
+Schroedinger's next paper was received on January 27, 1926 [SI]. It contains
+his equation for the hydrogen atom. Wave mechanics was born. In this new paper,
+Schroedinger acknowledged his debt to de Broglie and Einstein:
+I have recently shown [S2] that the Einstein gas theory can be founded on the
+consideration of standing waves which obey the dispersion law of de Broglie.. . .
+The above considerations about the atom could have been presented as a gen
+eralization of these considerations.
+In April 1926, Schroedinger again acknowledged the influence of de Broglie and
+'brief but infinitely far-seeing remarks by Einstein' [S3].
+References
+Bl. L. de Broglie, C. R. Acad. Sci. Pans 177, 507 (1923).
+B2. , C. R. Acad. Set. Pans 177, 548 (1923).
+B3. L. Brillouin, /. de Phys. 2, 142 (1921).
+B4. W. Bothe, Z. Phys. 20, 145 (1923).
+B5. H. Bateman, Phil. Mag. 46, 977 (1923).
+B6. L. de Broglie, C. R. Acad. Sci. Paris 177, 630 (1923).
+B7. , preface to his reedited 1924 PhD thesis, Recherches sur la Theorie des
+Quanta, p. 4. Masson, Paris, 1963.
+B8. , letter to A. Pais, August 9, 1978.
+B9. —, letter to A. Pais, September 26, 1978.
+Dl. P. Debye, AdP 33, 1427 (1910).
+El. A. Einstein, letter to H. A. Lorentz, December 16, 1924.
+E2. , PAW, 1925. p. 3.
+HI. W. Heisenberg, Z. Phys. 33, 879 (1926).
+Kl. F. Kubli, Arch. Hist. Ex. Sci. 7, 26 (1970).
+K2. M. Klein, Nat. Phil. 3, 1 (1964).
+Ol. L. S. Ornstein and F. Zernike, Proc. K. Akad. Amsterdam 28, 280 (1919).
+PI. W. Pauli in Albert Einstein: Philosopher-Scientist (P. A. Schilpp, Ed.), p. 156.
+Tudor, New York, 1949.
+51. E. Schroedinger, AdP 79, 361 (1926).
+52. , Phys. Zeitschr. 27, 95 (1926).
+53. , AdP 79, 734, (1926); footnote on p. 735.
+Wl. M. Wolfke, Phys. Zeitschr. 22, 315 (1921).

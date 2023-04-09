@@ -1,0 +1,417 @@
+23
+A Loss of Identity:
+the Birth of Quantum Statistics
+23a. From Boltzmann to Dirac
+This episode begins with a letter dated June 1924 [Bl], written by a young Ben-
+gali. His name was Satyendra Nath Bose. The five papers he had published by
+then were of no particular distinction. The subject of his letter was his sixth paper.
+He had sent it to the Philosophical Magazine. A referee had rejected it [B2].
+Bose's letter was addressed to Einstein, then forty-five years old and already rec-
+ognized as a world figure by his colleagues and by the public at large. In this
+chapter I describe what happened in the scientific lives of these two men during
+the six months following Einstein's receipt of Bose's letter. For Bose the conse-
+quences were momentous. Virtually unknown before, he became a physicist whose
+name will always be remembered. For Einstein this period was only an inter-
+lude.* He was already deeply engrossed in his search for a unified theory. Such
+is the scope of his oeuvre that his discoveries in those six months do not even rank
+among his five main contributions, yet they alone would have sufficed for Einstein
+to be remembered forever.
+Bose's sixth paper deals with a new derivation of Planck's law. Along with his
+letter, he had sent Einstein a copy of his manuscript, written in English, and asked
+him to arrange for publication in the Zeitschrift fur Physik, if he thought the work
+of sufficient merit. Einstein acceded to Bose's request. He personally translated
+the paper into German and submitted it, adding as a translator's note: 'In my
+opinion, Bose's derivation of the Planck formula constitutes an important advance.
+The method used here also yields the quantum theory of the ideal gas, as I shall
+discuss elsewhere in more detail.'
+The purpose of this chapter is not to discuss the history of quantum statistics
+but rather to describe Einstein's contribution to the subject. Nevertheless, I include
+a brief outline of Bose's work for numerous reasons. (1) It will give us some insight
+into what made Einstein deviate temporarily from his main pursuits. (2) It will
+facilitate the account of Einstein's own research on the molecular gas. That work
+*In 1925 Einstein said of his work on quantum statistics, 'That's only by the way' [SI].
+423
+424 THE QUANTUM THEORY
+is discussed in Section 23b with the exception of one major point, which is reserved
+for the next chapter: Einstein's last encounter with fluctuation questions. (3) It
+will be of help in explaining Einstein's ambivalence to Bose's work. In a letter to
+Ehrenfest, written in July, Einstein did not withdraw, but did qualify his praise
+of Bose's paper: Bose's 'derivation is elegant but the essence remains obscure' [El ].
+(4) It will help to make clear how novel the photon concept still was at that time
+and will throw an interesting sidelight on the question of photon spin.
+Bose recalled many years later that he had not been aware of the extent to
+which his paper defied classical logic. (Such a lack of awareness is not uncommon
+in times of transition, but it is not the general rule. Einstein's light-quantum paper
+of 1905 is a brilliant exception.) 'I had no idea that what I had done was really
+novel. ... I was not a statistician to the extent of really knowing that I was doing
+something which was really different from what Boltzmann would have done,
+from Boltzmann statistics. Instead of thinking of the light-quantum just as a par-
+ticle, I talked about these states. Somehow this was the same question which Ein-
+stein asked when I met him [in October or November 1925]: how had I arrived
+at this method of deriving Planck's formula?' [Ml].
+In order to answer Einstein's question and to understand what gave Bose the
+idea that he was doing what Boltzmann would have done, I need to make a brief
+digression.
+As was discussed in Section 4b, both logically and historically classical statistics
+developed via the sequence
+fine-grained counting —* course-grained counting
+This is, of course, the logic of quantum statistics as well, but its historical devel-
+opment went the reverse way, from coarse-grained to fine-grained. For the oldest
+quantum statistics, the Bose-Einstein (BE) statistics, the historical order of events
+was as follows.
+1924-5. Introduction of a new coarse-grained counting, first by Bose, then by
+Einstein. These new procedures are the main subject of this chapter.
+1925-6. Discovery of nonrelativistic quantum mechanics. It is not at once
+obvious how the new theory should be supplemented with a fine-grained counting
+principle that would lead to BE statistics [HI].
+1926. This principle is discovered by Paul Adrien Maurice Dirac. Recall first
+Boltzmann's fine-grained counting formula for his discrete model of a classical
+ideal gas consisting of N particles with total energy E. Let there be n, particles
+with energy e, (see section 4b, especially Eq. 4.4 and Eq. 4.5):
+(23.1)
+Then the corresponding number w of microstates is given by
+(Boltzmann statistics) (23.2)
+A LOSS OF IDENTITY: THE BIRTH OF QUANTUM STATISTICS 425
+We owe to Dirac the observation that in the BE case, Eq. 23.2 must be replaced
+by
+w = 1 (BE statistics) (23.3)
+only the single microstate that is symmetric in the N particles is allowed. Dirac
+went on to show that Eq. 23.3 leads to the blackbody radiation law, Eq. 19.6 [Dl].
+Thus he brought to an end the search—which had lasted just over a quarter of a
+century—for the foundations of Planck's law.
+Equation 23.3 was of course not known at the time Bose and Einstein com-
+pleted the first papers ever written on quantum statistics. Theirs was guesswork,
+but of an inspired kind. Let us turn first to Bose's contribution.
+23b. Bose
+The paper by Bose [B3] is the fourth and last of the revolutionary papers of the
+old quantum theory (the other three being by, respectively, Planck [PI], Einstein
+[E2], and Bohr [B4]). Bose's arguments divest Planck's law of all supererogatory
+elements of electromagnetic theory and base its derivation on the bare essentials.
+It is the thermal equilibrium law for particles with the following properties: they
+are massless, they have two states of polarization, the number of particles is not
+conserved, and the particles obey a new statistics. In Bose's paper, two new ideas
+enter physics almost stealthily. One, the concept of a particle with two states of
+polarization, mildly puzzled Bose. The other is the nonconservation of photons. I
+do not know whether Bose even noticed this fact. It is not explicitly mentioned in
+his paper.
+Bose's letter to Einstein begins as follows: 'Respected Sir, I have ventured to
+send you the accompanying article for your perusal. I am anxious to know what
+you think of it. You will see that I have ventured to deduce the coefficient 8Tri>2/c^
+in Planck's law independent of the classical electrodynamics .. .' [Bl]. Einstein's
+letter to Ehrenfest contains the phrase, 'the Indian Bose has given a beautiful
+derivation of Planck's law, including the constant [i.e., Sirv2/^]' [El]. Nei-
+ther letter mentions the other parts of Planck's formula. Why this emphasis on
+8wv2/c}?
+In deriving Planck's law, one needs to know the number of states Zs in the
+frequency interval between cs and i>s + dv\ It was customary to compute Zs by
+counting the number of standing waves in a cavity with volume V. This yields
+Bose was so pleased because he had found a new derivation of this expression for
+Zs which enabled him to give a new meaning to this quantity in terms of particle
+language. His derivation rests on the replacing of the counting of wave frequencies
+by the counting of cells in one-particle phase space. He proceeded as follows.
+Integrate the one-particle phase space element dxdp over V and over all(23.4)
+426 THE QUANTUM THEORY
+momenta between p* and p* + dp'. Supply a further factor 2 to count polariza-
+tions. This produces the quantity STT V(ps)2dps, which equals A3ZS by virtue of the
+relation ps = hv'/c. Hence Zs is the number of cells of size A3 contained in the
+particle phase space region being considered. How innocent it looks, yet how new
+it was. Recall that the kinematics of the Compton effect had been written down
+only about a year and a half earlier. Here was a new application of p — hv/c\
+Before I turn to the rest of Bose's derivation, I shall comment briefly on the
+subject of photon spin. When Bose introduced his polarization factor of 2, he noted
+that 'it seems required' to do so. This slight hesitation is understandable. Who in
+1924 had ever heard of a particle with two states of polarization? For some time,
+this remained a rather obscure issue. After the discovery of the electron spin,
+Ehrenfest asked Einstein 'to tell [him] how the analogous hypothesis is to be stated
+for light-corpuscles, in a relativistically correct way' [E3]. As is well known, this
+is a delicate problem since there exists, of course, no rest frame definition of spin
+in this instance. Moreover, gauge invariance renders ambiguous the separation
+into orbital and intrinsic angular momentum (see, e.g., [Jl]). It is not surprising,
+therefore, that in 1926 the question of photon spin seemed quite confusing to Ein-
+stein. In fact, he went so far as to say that he was 'inclined to doubt whether the
+angular momentum law can be maintained in the quantum theory. At any rate,
+its significance is much less deep than that of the momentum law' [E4]. I believe
+that this is an interesting comment on the state of the art some fifty years ago and
+that otherwise not too much should be made of it.
+Let us return to Bose. His new interpretation of Zs was in terms of 'number of
+cells,' not 'number of particles.' This must have led him to follow Boltzmann's
+counting but to replace everywhere 'particles' by 'cells,' a procedure he neither did
+nor could justify—but which gave the right answer. It may help to understand
+Bose's remark that he did not know that he was 'doing something which was
+really different from what Boltzmann would have done, from Boltzmann statis-
+tics,' if I recall at this point Boltzmann's coarse-grained counting, which is dis-
+cussed at more length in Section 4b.
+Boltzmann. Partition N particles with total energy E over the one-particle
+phase space cells «,, w2,.. . There are NA particles in <OA. Their mean energy is
+£A. We have
+The relative probability W of this coarse-grained state is
+The equilibrium entropy S is given by(23.5)
+(23.6)
+(23.7)
+and then derived Planck's law for E(v, T)by standard manipulations—and there-
+with concluded his paper without further comments.
+Bose considered his Ansatz (Eq. 23.13) to be 'evident' [B3]. Nothing is further
+from the truth. I venture to guess that to him the cell counting (Eq. 23.13) was
+the perfect analog of Boltzmann's particle counting (Eq. 23.6) and that his cell
+constraint, hold Zs fixed, was similarly the analog of Boltzmann's particle con-
+straint, hold N fixed. Likewise, the two Lagrange parameters in Eq. 23.14 are
+his analogs of the parameters in Eq. 23.8. Bose's replacement of fixed N by fixed
+Zs already implies that N is not conserved. The final irony is that the constraint
+of fixed Z5 is irrelevant: if one drops this constraint, then one must drop Xs in Eq.
+23.14. Even so, it is easily checked that one still finds Planck's law! This is in
+accordance with the now-familiar fact that Planck's law follows from Bose statis-
+tics with E held fixed as the only constraint. In summary, Bose's derivation intro-
+duced three new features:He then maximized W as a function of the p\ holding Zs and E fixed so thatis the total number of photons. Next Bose introduced his new coarse-grained
+counting:
+(23.13)
+(23.14)(23.9)
+(23.10)
+(23.11)
+(23.12)andwhich incorporate the constraints (a) hold N fixed and (b) hold E fixed.
+Bose. Partition Zs into numbers psr, where p"r is defined as the number of cells
+which contain r quanta with frequency if. Let there be Ns photons in all with this
+frequency and let E be the total energy. ThenA LOSS OF IDENTITY: THE BIRTH OF QUANTUM STATISTICS 427
+where C is a constant and W^ follows from the extremal conditions
+(23.8)
+428 THE QUANTUM THEORY
+1. Photon number nonconservation.
+2. Bose's cell partition numbers p\ are defined by asking how many particles are
+in a cell. Boltzmann's axiom of distinguishability is gone.
+3. The Ansatz (Eq. 23.13) implies statistical independence of cells. Statistical
+independence of particles is gone.
+The astounding fact is that Bose was correct on all three counts. (In his paper,
+he commented on none of them.) I believe there had been no such successful shot
+in the dark since Planck introduced the quantum in 1900. Planck, too, had
+counted in strange ways, as was subtly recalled by Einstein in his review, written
+in 1924, of a new edition of Planck's Wdrmestrahlung: 'Planck's law [was] derived
+... by postulating statistical laws in the treatment of the interaction between pon-
+derable matter and radiation which appear to be justified on the one hand because
+of their simplicity, on the other hand because of their analogy to the corresponding
+relations of the classical theory' [E5].
+Einstein continued to be intrigued by Bose's paper. In an address given in
+Lucerne on October 4, 1924, before the Schweizerische Naturforschende Gesell-
+schaft, he stressed 'the particular significance for our theoretical concepts' of Bose's
+new derivation of Eq. 23.4 [E6]. By this time, he had already published his own
+first paper on quantum statistics.
+23c. Einstein
+As long as Einstein lived, he never ceased to struggle with quantum physics. As
+far as his constructive contributions to this subject are concerned, they came to an
+end with a triple of papers, the first published in September 1924, the last two in
+early 1925. In the true Einsteinian style, their conclusions are once again reached
+by statistical methods, as was the case for all his important earlier contributions
+to the quantum theory. The best-known result is his derivation of the Bose-Ein-
+stein condensation phenomenon. I shall discuss this topic next and shall leave for
+the subsequent section another result contained in these papers, a result that is
+perhaps not as widely remembered even though it is more profound.
+First, a postscript to Einstein's light-quantum paper of 1905.
+Its logic can be schematically represented in the following way.
+Wien's law 1
+Einstein 1905: I -* Light-quanta
+Gas analogy
+An issue raised in Section 19c should be dealt with now. We know that BE is the
+correct statistics when radiation is treated as a photon gas. Then how could Ein-
+stein have correctly conjectured the existence of light-quanta using Boltzmann sta-
+tistics? Answer: according to BE statistics, the most probable value (n,) of ni for
+photons is given by {«,) = [exp (hvJkT) —1]~'. This implies that (nt) <K 1 in
+A LOSS OF IDENTITY: THE BIRTH OF QUANTUM STATISTICS 429
+the Wien regime hv{ S> kT. Therefore, up to an irrelevant* factor TV!, Equations
+23.2 and 23.3 coincide in the Wien limit. This asymptotic relation in the Wien
+region fully justifies, ex post facto, Einstein's extraordinary step forward in 1905!
+Bose's reasoning in 1924 went as follows:
+Photons 1
+Bose 1924: I -» Planck's law
+Quantum statistics
+and in 1924-5 Einstein came full circle:
+Bose statistics 1
+Einstein 1924-5: I —>• The quantum gas
+Photon analogy
+It was inevitable, one might say, that he would do so. 'If it is justified to conceive
+of radiation as a quantum gas, then the analogy between the quantum gas and a
+molecular gas must be a complete one' [E7].
+In his 1924 paper [E8], Einstein adopted Bose's counting formula (Eq. 23.13),
+but with two modifications. He needed, of course, the Zs appropriate for nonre-
+lativistic particles with mass m:
+Second (and unlike Bose!), he needed the constraint that N be held fixed. This is
+done by adding a term
+(23.16)(23.15)
+inside the parentheses of Eq. 23.14.** One of the consequences of the thus mod-
+ified Eq. 23.14 is that the Lagrange multiplier (—ln^4) is determined by
+(23.17)
+(23.18)Hence, Einstein noted, the 'degeneracy parameter' A must satisfy
+In his first paper [E8], Einstein discussed the regime in which A does not reach
+*The TV! is irrelevant since it affects only C in Eq. 23.7. The constant C is interesting nevertheless.
+For example, its value bears on the possibility of defining 51 in such a way that it becomes an extensive
+thermodynamic variable. The interesting history of these normalization questions has been discussed
+in detail by M. Klein [Kl].
+**The term A~* is defined as exp (—p,/kT), where n is the chemical potential. Einstein, of course,
+never introduced the superfluous X* into the parenthetical term. In Eqs. 23.16-23.22,1 deviate from
+Einstein's notation.
+and asked what happens if T drops below T0 (for given v0). His answer:
+I maintain that, in this case, a number of molecules steadily growing with
+increasing density goes over in the first quantum state (which has zero kinetic
+energy) while the remaining molecules distribute themselves according to the
+parameter value A = 1. ... A separation is effected; one part condenses, the
+rest remains a 'saturated ideal gas.' [E7]
+He had come upon the first purely statistically derived example of a phase tran-
+sition, which is now called Bose-Einstein condensation. I defer a few comments
+on this phenomenon to the next section and turn to other important facets of the
+three Einstein papers.
+1. Einstein on Statistical Dependence. After the papers by Bose [B3] and the
+first one by Einstein [E8] came out, Ehrenfest and others objected (so we read in
+Einstein's second paper [E7]) that 'the quanta and molecules, respectively, are not
+treated as statistically independent, a fact that is not particularly emphasized in
+our papers' (i.e., [B3] and [E8]). Einstein replied, 'This [objection] is entirely
+correct' [E7]. He went on to stress that the differences between the Boltzmann
+and the BE counting 'express indirectly a certain hypothesis on a mutual influence
+of the molecules which for the time being is of a quite mysterious nature.' With
+this remark, Einstein came to the very threshold of the quantum mechanics of
+identical particle systems. The mysterious influence is, of course, the correlation
+induced by the requirement of totally symmetric wave functions.
+2. Einstein on Indistinguishability. In order to illustrate further the differ-
+ences between the new and the old counting of macrostates, Einstein cast W in awith v = V/N. He then discussed the region A < 1, where the equation of state
+(obtained by eliminating A between Eqs. 23.19) shows perturbative deviations
+from the classical ideal gas. All this is good physics, though unusually straightfor-
+ward for a man like Einstein.
+In his second paper [E7], the most important one of the three, Einstein began
+with the v — T relation at A = 1:
+(23.20)430 THE QUANTUM THEORY
+the critical value unity. He proceeded to the continuous limit, in which the sum
+in Eq. 23.17 is replaced by an integral over phase space, and found
+(23.19)A LOSS OF IDENTITY: THE BIRTH OF QUANTUM STATISTICS 431
+form alternative to Eq. 23.13. He counted the number of ways in which Ns indis-
+tinguishable particles in the dEs interval can be partitioned over the Z! cells. This
+yields
+Einstein's Eq. 23.21 rather than Bose's Eq. 23.13 is the one now used in all
+textbooks.
+3. Einstein on the Third Law of Thermodynamics. As was noted at the end
+of Section 20c, in 1914 Nernst introduced the hypothesis that the third law of
+thermodynamics applies to gases. It was also mentioned that no sensible model of
+a gas with that property was available at that time. In 1925 Einstein made his last
+contribution to thermodynamics by pointing out that the BE gas does satisfy the
+third law. (A Boltzmann gas does not do so, Einstein remarked.) Indeed, since all
+particles go into the zero energy state as T —* 0, we have in this limit N° = N,
+all other A^ = 0. Hence W —* 1 and S —*• 0 as T —* 0. It was as important to
+him that a molecular BE gas yield Nernst's law as that a BE photon gas yield
+Planck's law.
+4. Einstein and Nonconservation of Photons. After 1917 Einstein ceased to
+write scientific articles on questions related to radiation.* The only mention of
+radiation in the 1924-5 papers is that 'the statistical method of Herr Bose and
+myself is by no means beyond doubt, but seems only a posteriori justified by its
+success for the case of radiation' [Ell].
+There can be no doubt that he must have noted the nonconservation of photons.
+In his language, this is implemented by putting A = 1 in Eq. 23.16. Yet I have
+not found any reference to nonconservation, either in his scientific writings or in
+the correspondence I have seen. I cannot state with certainty why he chose to be
+silent on this and all further issues regarding photons. However, I do believe that
+it is a fair guess that Einstein felt he would have nothing fundamental to say about
+photons until such time as he could find his own way of dealing with the lack of
+causality he had noted in 1917. Such a time never came.
+Other physicists had followed Einstein's work on quantum statistics with inter-
+est. Lorentz invited him to speak on this subject at the 1927 Solvay congress. Ein-
+stein's reply, written in June 1927, may serve as a most appropriate preliminary
+to my subsequent discussion of quantum mechanics.
+I recall having committed myself to you to give a report on quantum statistics
+at the Solvay congress. After much reflection back and forth, I come to the con-
+viction that I am not competent [to give] such a report in a way that really
+'Except for a brief refutation of an objection to his work on needle radiation [E9]. I found a notice
+by Einstein in 1930 announcing a new paper on radiation fluctuations [E10]. This paper was never
+published, however.
+(23.21)432 THE QUANTUM THEORY
+corresponds to the state of things. The reason is that I have not been able to
+participate as intensively in the modern development of the quantum theory as
+would be necessary for this purpose. This is in part because I have on the whole
+too little receptive talent for fully following the stormy developments, in part
+also because I do not approve of the purely statistical way of thinking on which
+the new theories are founded. . . . Up until now, I kept hoping to be able to
+contribute something of value in Brussels; I have now given up that hope. I beg
+you not to be angry with me because of that; I did not take this lightly but tried
+with all my strength. . . . Perhaps Herr Fermi in Bologna ... or Langevin . . .
+could do a good job. [E12]
+23d. Postscript on Bose-Einstein Condensation
+(1) In December 1924, Einstein wrote to Ehrenfest, 'From a certain tempera-
+ture on, the molecules "condense" without attractive forces, that is, they accu-
+mulate at zero velocity. The theory is pretty, but is there also some truth to it?'
+[E13].
+(2) In 1925, Einstein mentioned hydrogen, helium, and the electron gas as the
+best possible candidates in which to observe his condensation phenomenon [E7].
+In 1925, these were, of course, sensible proposals. Recall that the Fermi-Dirac
+statistics was not discovered* until 1926 [Fl, Dl], following Pauli's enunciation
+of the exclusion principle in 1925 [P2]. Even then, it took some time until it was
+sorted out when BE and FD statistics apply respectively: referring to Dirac's
+paper [Dl], Pauli wrote in December 1926, 'We shall take the point of view also
+advocated by Dirac, that the Fermi, and not the Einstein-Bose, statistics applies
+to the material gas' [P3]. These matters were cleared up by 1927.
+(3) In his 1925 paper, Einstein did not call the condensation phenomenon a
+phase transition. According to Uhlenbeck (private communication), nobody real-
+ized in 1925 that the existence of a phase transition was a 'deep' problem. In 1926,
+Uhlenbeck himself raised an objection to Einstein's treatment of the condensation
+problem [Ul]. This critique was to lead to a more precise theoretical formulation
+of the conditions under which phase transitions can occur. Uhlenbeck noted that
+the quantity N° in Eq. 23.17 -«• oo as A — 1 (for fixed T); hence also N -*
+oo. Thus, if A —» 1, it is impossible to implement the constraint that N is a fixed
+finite number. Therefore A = 1 can be reached only asymptomatically and there
+is no two-phase regime.
+Uhlenbeck recently described the communications between Ehrenfest and Ein-
+stein on this question [U2]. Uhlenbeck and Einstein were both right, however.
+The point is that a sharp phase transition can occur only in the so-called ther-
+modynamic limit N —* oo, V —* GO, v fixed. This view emerged in a morning-
+long debate that took place during the van der Waals Centenary Conference in
+November 1937. The issue was, Does the partition function contain the infor-
+mation necessary to describe a sharp phase transition? The transition implies the
+*Dirac has given a charming account of the time sequence of these discoveries [D2].
+A LOSS OF IDENTITY: THE BIRTH OF QUANTUM STATISTICS 433
+existence of analytically distinct parts of isotherms. It was not clear how this could
+come about. The debate was inconclusive, and Kramers, the chairman, put the
+question to a vote. Uhlenbeck recalls that the ayes and nays were about evenly
+divided. However, Kramers' suggestion to go to the thermodynamic limit was
+eventually realized to be the correct answer. Shortly afterward, Uhlenbeck with-
+drew his objections to Einstein's result, in a joint paper with his gifted student, the
+late Boris Kahn (a Nazi victim) [K2].
+(4) Until 1938, the BE condensation had 'the reputation of having only a purely
+imaginary character' [LI]. Recall that the Hel-Hell phase transition was not
+discovered until 1928, by Willem Hendrik Keesom [K3]. In 1938, Fritz Londo
+proposed interpreting this helium transition as a BE condensation. Experimen-
+tally, the transition point lies at 2.19 K. It is most encouraging that Eq. 23.20
+gives T = 3.1 K [L2]. It is generally believed but not proved that the difference
+between these two values is due to the neglecting of intermolecular forces in the
+theoretical derivations.
+References
+Bl. S. N. Bose, letter to A. Einstein, June 4, 1924.
+B2. W. Blanpied, Am. J. Phys. 40, 1212 (1972).
+B3. S. N. Bose, Z. Phys. 26, 178 (1924).
+B4. N. Bohr, Phil. Mag. 26, 1 (1913).
+Dl. P. A. M. Dirac, Proc. Roy. Soc. 112, 661 (1926).
+D2. , History of Twentieth Century Physics, Varenna Summer School, pp. 133-4.
+Academic Press, New York, 1977.
+El. A. Einstein, letter to P. Ehrenfest, July 12, 1924.
+E2. , AdPl7, 132 (1905).
+E3. P. Ehrenfest, letter to A. Einstein, April 7, 1926.
+E4. A. Einstein, letter to P. Ehrenfest, April 12, 1926.
+E5. , Deutsche Literaturzeitung, 1924, p. 1154
+E6. , Verh. Schw. Naturf. Ces. 105, 85 (1924)
+E7. , PAW, 1925, p. 3.
+E8. , PAW, 1924, p. 261
+E9. , Z. Phys. 31, 784 (1925).
+E10. , PAW, 1930, p. 543.
+Ell. , PAW, 1925, p. 18.
+El 2. , letter to H. A. Lorentz, June 17, 1927
+E13. , letter to P. Ehrenfest, November 29, 1924
+Fl. E. Fermi, Z. Phys. 36, 902 (1926).
+HI. W. Heisenberg, Z. Phys. 38, 411 (1926).
+Jl. J. M. Jauch and F. Rohrlich, The Theory of Photons and Electrons, p. 40. Addi-
+son-Wesley, Reading, Mass., 1955.
+Kl. M. Klein, Proc. Kon. Ned. Akad. Wetensch. Amsterdam, 62, 41, 51 (1958
+K2. B. Kahn and G. E. Uhlenbeck, Physica 4, 399 (1938).
+K3. W. H. Keesom, Helium. Elsevier, New York, 1942.
+434 THE QUANTUM THEORY
+LI. F. London, Nature 141, 643 (1938).
+L2. , Phys. Rev. 54, 1947 (1938).
+Ml. J. Mehra, Biogr. Mem. Fell. Roy. Soc. 21, 117 (1975).
+PI. M. Planck, Verh. Deutsch. Phys. Ges. 2, 237 (1900).
+P2. W. Pauli, Z. Phys. 31, 625 (1925).
+P3. ; z. Phys. 41, 81 (1927).
+SI. E. Salaman, Encounter, April 1979, p. 19.
+Ul. G. E. Uhlenbeck, 'Over Statistische Methoden in de Theorie der Quanta,' PhD
+thesis, Nyhoff, the Hague, 1927.
+U2. , Proceedings Einstein Centennial Symposium 1979 (H. Woolf, Ed.). Addison-
+Wesley, Reading, Mass., 1980.

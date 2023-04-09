@@ -1,0 +1,890 @@
+1
+Purpose and Plan
+It must have been around 1950. I was accompanying Einstein on a walk from
+The Institute for Advanced Study to his home, when he suddenly stopped, turned
+to me, and asked me if I really believed that the moon exists only if I look at it.
+The nature of our conversation was not particularly metaphysical. Rather, we
+were discussing the quantum theory, in particular what is doable and knowable
+in the sense of physical observation. The twentieth century physicist does not, of
+course, claim to have the definitive answer to this question. He does know, how-
+ever, that the answer given by his nineteenth century ancestors will no longer do.
+They were almost exactly right, to be sure, as far as conditions of everyday life
+are concerned, but their answer cannot be extrapolated to things moving nearly
+as fast as light, or to things that are as small as atoms, or—in some respects—to
+things that are as heavy as stars. We now know better than before that what man
+can do under the best of circumstances depends on a careful specification of what
+those circumstances are. That, in very broad terms, is the lesson of the theory of
+relativity, which Einstein created, and of quantum mechanics, which he eventually
+accepted as (in his words) the most successful theory of our period but which, he
+believed, was none the less only provisional in character.
+We walked on and continued talking about the moon and the meaning of the
+expression to exist as it refers to inanimate objects. When we reached 112 Mercer
+Street, I wished him a pleasant lunch, then returned to the Institute. As had been
+the case on many earlier occasions, I had enjoyed the walk and felt better because
+of the discussion even though it had ended inconclusively. I was used to that by
+then, and as I walked back I wondered once again about the question, Why does
+this man, who contributed so incomparably much to the creation of modern phys-
+ics, remain so attached to the nineteenth century view of causality?
+To make that question more precise, it is necessary to understand Einstein's
+credo in regard not just to quantum physics but to all of physics. That much I
+believe I know, and will endeavor to explain in what follows. However, in order
+to answer the question, one needs to know not only his beliefs but also how they
+came to be adopted. My conversations with Einstein taught me ,'ittle about that.
+The issue was not purposely shunned; it simply was never raised. Only many
+years after Einstein's death did I see the beginnings of an answer when I realized
+5
+6 INTRODUCTORY
+that, nearly a decade before the discovery of modern quantum mechanics, he had
+been the first to understand that the nineteenth century ideal of causality was
+about to become a grave issue in quantum physics. However, while I know more
+now about the evolution of his thinking than I did when I walked with him, I
+would not go so far as to say that I now understand why he chose to believe what
+he did believe. When Einstein was fifty years old, he wrote in the introduction to
+the biography by his son-in-law Rudolph Kayser, 'What has perhaps been over-
+looked is the irrational, the inconsistent, the droll, even the insane, which nature,
+inexhaustibly operative, implants in an individual, seemingly for her own amuse-
+ment. But these things are singled out only in the crucible of one's own mind.'
+Perhaps this statement is too optimistic about the reach of self-knowledge. Cer-
+tainly it is a warning, and a fair one, to any biographer not to overdo answering
+every question he may legitimately raise.
+I should briefly explain how it happened that I went on that walk with Einstein
+and why we came to talk about the moon. I was born in 1918 in Amsterdam. In
+1941 I received my PhD with Leon Rosenfeld in Utrecht. Some time thereafter I
+went into hiding in Amsterdam. Eventually I was caught and sent to the Gestapo
+prison there. Those who were not executed were released shortly before VE Day.
+Immediately after the war I applied for a postdoctoral fellowship at the Niels Bohr
+Institute in Copenhagen and at The Institute for Advanced Study in Princeton
+where I hoped to work with Pauli. I was accepted at both places and first went
+to Copenhagen for one year. Soon thereafter, I worked with Bohr for a period of
+several months. The following lines from my account of that experience are rele-
+vant to the present subject: 'I must admit that in the early stages of the collabo-
+ration I did not follow Bohr's line of thinking a good deal of the time and was in
+fact often quite bewildered. I failed to see the relevance of such remarks as that
+Schroedinger was completely shocked in 1927 when he was told of the probability
+interpretation of quantum mechanics or a reference to some objection by Einstein
+in 1928, which apparently had no bearing whatever on the subject at hand. But
+it did not take very long before the fog started to lift. I began to grasp not only the
+thread of Bohr's arguments but also their purpose. Just as in many sports a player
+goes through warming-up exercises before entering the arena, so Bohr would
+relive the struggles which it took before the content of quantum mechanics was
+understood and accepted. I can say that in Bohr's mind this struggle started all
+over every single day. This, I am convinced, was Bohr's inexhaustible source of
+identity. Einstein appeared forever as his leading spiritual partner—even after the
+latter's death he would argue with him as if Einstein were still alive' [PI].
+In September 1946 I went to Princeton. The first thing I learned was that, in
+the meantime, Pauli had gone to Zurich. Bohr also came to Princeton that same
+month. Both of us attended the Princeton Bicentennial Meetings. I missed my first
+opportunity to catch a glimpse of Einstein as he walked next to President Truman
+in the academic parade. However, shortly thereafter, Bohr introduced me to Ein-
+stein, who greeted a rather awed young man in a very friendly way. The conver-
+sation on that occasion soon turned to the quantum theory. I listened as the two
+PURPOSE AND PLAN 7
+of them argued. I recall no details but remember distinctly my first impressions:
+they liked and respected each other. With a fair amount of passion, they were
+talking past each other. And, as had been the case with my first discussions with
+Bohr, I did not understand what Einstein was talking about.
+Not long thereafter, I encountered Einstein in front of the Institute and told
+him that I had not followed his argument with Bohr and asked if I could come to
+his office some time for further enlightenment. He invited me to walk home with
+him. So began a series of discussions that continued until shortly before his death.*
+I would visit with him in his office or accompany him (often together with Kurt
+Godel) on his lunchtime walk home. Less often I would visit him there. In all, I
+saw him about once every few weeks. We always spoke in German, the language
+best suited to grasp both the nuances of what he had in mind and the flavor of his
+personality. Only once did he visit my apartment. The occasion was a meeting of
+the Institute faculty for the purpose of drafting a statement of our position in the
+1954 Oppenheimer affair.
+Einstein's company was comfortable and comforting to those who knew him.
+Of course, he well knew that he was a legendary figure in the eyes of the world.
+He accepted this as a fact of life. There was nothing in his personality to promote
+his mythical stature; nor did he relish it. Privately he would express annoyance if
+he felt that his position was being misused. I recall the case of Professor X, who
+had been quoted by the newspapers as having found solutions to Einstein's gen-
+eralized equations of gravitation. Einstein said to me, 'Der Mann ist ein Narr,'
+the man is a fool, and added that, in his opinion, X could calculate but could not
+think. X had visited Einstein to discuss this work, and Einstein, always courteous,
+had said to him that his, X's, results would be important if true. Einstein was
+chagrined to have been quoted in the papers without this last provision. He said
+that he would keep silent on the matter but would not receive X again. According
+to Einstein, the whole thing started because X, in his enthusiasm, had repeated
+Einstein's opinion to some colleagues who saw the value of it as publicity for their
+university.
+To those physicists who could follow his scientific thought and who knew him
+personally, the legendary aspect was never in the foreground— yet it was never
+wholly absent. I remember an occasion in 1947 when I was giving a talk at the
+Institute about the newly discovered ir and /u mesons. Einstein walked in just after
+I had begun. I remember being speechless for the brief moment necessary to over-
+come a sense of the unreal. I recall a similar moment during a symposium** held
+* My stay at the Institute had lost much of its attraction because Pauli was no longer there. As I was
+contemplating returning to Europe, Robert Oppenheimer informed me that he had been approached
+for the directorship of the Institute. He asked me to join him in building up physics there. I accepted.
+A year later, I was appointed to a five-year membership and in 1950 to a professorship at the Insti-
+tute, where I remained until 1963.
+**The speakers were J. R. Oppenheimer, I. I. Rabi, E. P. Wigner, H. P. Robertson, S. M. Clem-
+ence, and H. Weyl.
+8 INTRODUCTORY
+in Princeton on March 19,1949, on the occasion of Einstein's seventieth birthday.
+Most of us were in our seats when Einstein entered the hall. Again there was this
+brief hush before we stood to greet him.
+Nor do I believe that such reactions were typical only of those who were much
+younger than he. There were a few occasions when Pauli and I were both with
+him. Pauli, not known for an excess of awe, was just slightly different in Einstein's
+company. One could perceive his sense of reverence. Bohr, too, was affected in a
+similar way, differences in scientific outlook notwithstanding.
+Whenever I met Einstein, our conversations might range far and wide but
+invariably the discussion would turn to physics. Such discussions would touch only
+occasionally on matters of past history. We talked mainly about the present and
+the future. When relativity was the issue, he would often talk of his efforts to
+unify gravitation and electromagnetism and of his hopes for the next steps. His
+faith rarely wavered in the path he had chosen. Only once did he express a res-
+ervation to me when he said, in essence, 'I am not sure that differential geometry
+is the framework for further progress, but, if it is, then I believe I am on the right
+track.' (This remark must have been made some time during his last few years.)
+The main topic of discussion, however, was quantum physics. Einstein never
+ceased to ponder the meaning of the quantum theory. Time and time again, the
+argument would turn to quantum mechanics and its interpretation. He was
+explicit in his opinion that the most commonly held views on this subject could not
+be the last word, but he also had more subtle ways of expressing his dissent. For
+example, he would never refer to a wave function as die Wellenfunktion but would
+always use mathematical terminology: die Psifunktion. I was never able to arouse
+much interest in him about the new particles which appeared on the scene in the
+late 1940s and especially in the early 1950s. It was apparent that he felt that the
+time was not ripe to worry about such things and that these particles would even-
+tually appear as solutions to the equations of a unified theory. In some sense, he
+may well prove to be right.
+The most interesting thing I learned from these conversations was how Einstein
+thought and, to some extent, who he was. Since I never became his co-worker, the
+discussions were not confined to any particular problem. Yet we talked physics,
+often touching on topics of a technical nature. We did not talk much about statis-
+tical physics, an area to which he had contributed so much but which no longer
+was the center of his interests. If the special and the general theory of relativity
+came up only occasionally, that was because at that time the main issues appeared
+to have been settled. Recall that the renewed surge of interest in general relativity
+began just after his death. However, I do remember him talking about Lorentz,
+the one father figure in his life; once we also talked about Poincare. If we argued
+so often about the quantum theory, that was more his choice than mine. It had
+not taken long before I grasped the essence of the Einstein-Bohr dialogue: com-
+plementarity versus objective reality. It became clear to me from listening to them
+both that the advent of quantum mechanics in 1925 represented a far greater
+PURPOSE AND PLAN 9
+break with the past than had been the case with the coming of special relativity
+in 1905 or of general relativity in 1915. That had not been obvious to me earlier,
+as I belong to the generation which was exposed to 'ready-made' quantum
+mechanics. I came to understand how wrong I was in accepting a rather wide-
+spread belief that Einstein simply did not care anymore about the quantum theory.
+On the contrary, he wanted nothing more than to find a unified field theory which
+not only would join together gravitational and electromagnetic forces but also
+would provide the basis for a new interpretation of quantum phenomena. About
+relativity he spoke with detachment, about the quantum theory with passion. The
+quantum was his demon. I learned only much later that Einstein had once said to
+his friend Otto Stern, 'I have thought a hundred times as much about the quantum
+problems as I have about general relativity theory' [Jl]. From my own experiences
+I can only add that this statement does not surprise me.
+We talked of things other than physics: politics, the bomb, the Jewish destiny,
+and also of less weighty matters. One day I told Einstein a Jewish joke. Since he
+relished that, I began to save good ones I heard for a next occasion. As I told these
+stories, his face would change. Suddenly he would look much younger, almost like
+a naughty schoolboy. When the punch line came, he would let go with contented
+laughter, a memory I particularly cherish.
+An unconcern with the past is a privilege of youth. In all the years I knew
+Einstein, I never read any of his papers, on the simple grounds that I already
+knew what to a physicist was memorable in them and did not need to know what
+had been superseded. Now it is obvious to me that I might have been able to ask
+him some very interesting questions had I been less blessed with ignorance. I
+might then have learned some interesting facts, but at a price. My discussions with
+Einstein never were historical interviews. They concerned live physics. I am glad
+it never was otherwise.
+I did read Einstein's papers as the years went by, and my interest in him as an
+historical figure grew. Thus it came about that I learned to follow his science and
+his life from the end to the beginnings. I gradually became aware of the most
+difficult task in studying past science: to forget temporarily what came afterward.
+The study of his papers, discussions with others who knew him, access to the
+Einstein Archives, personal reminiscences—these are the ingredients which led to
+this book. Without disrespect or lack of gratitude, I have found the study of the
+scientific papers to be incomparably more important than anything else.
+In the preface, I promised a tour through this book. The tour starts here. For
+ease I introduce the notation, to be used only in this and in the next chapter, of
+referring to, for example, Chapter 3 as (3) and to Chapter 5, Section (c), as (5c).
+To repeat, symbols such as [Jl] indicate references to be found at the end of the
+chapter.
+I shall begin by indicating how the personal biography is woven into the nar-
+10 INTRODUCTORY
+rative. The early period, from Einstein's birth in 1879 to the beginning of his
+academic career as Privatdozent in Bern in February 1908, is discussed in (3),
+which contains a sketch of his childhood, his school years (contrary to popular
+belief he earned high marks in elementary as well as high school), his brief reli-
+gious phase, his student days, his initial difficulties in finding a job, and most of
+the period he spent at the patent office in Bern, a period that witnesses the death
+of his father, his marriage to Mileva Marie, and the birth of his first son. In (lOa)
+we follow him from the time he began as a Privatdozent in Bern to the end, in
+March 1911, of his associate professorship at the University of Zurich. In that
+period his second son was born. The next phase (11 a) is his time as full professor
+in Prague (March 1911 to August 1912). In (12a) we follow him back to Zurich
+as a professor at the Federal Institute of Technology (ETH) (August 1912 to
+April 1914). The circumstances surrounding his move from Zurich to Berlin, his
+separation from Mileva and the two boys, and his reaction to the events of the
+First World War, are described in (14a). The story of the Berlin days is continued
+in (16) which ends with Einstein's permanent departure from Europe. This
+period includes years of illness, which did not noticeably affect his productivity;
+his divorce from Mileva and marriage to his cousin Elsa; and the death in his
+home in Berlin, of his mother (16a). Following this, (16b) and (16c) are devoted
+to the abrupt emergence in 1919 of Einstein (whose genius had already been fully
+recognized for some time by his scientific peers) as a charismatic world figure and
+to my views on the causes of this striking phenomenon. Next, (16d), devoted to
+Einstein's hectic years in Berlin in the 1920s, his early involvements with the
+Jewish destiny, his continued interest in pacifism, and his connection with the
+League of Nations, ends with his final departure from Germany in December
+1932. The Belgian interlude and the early years in Princeton are described in
+(25b), the final years of his life in (26) to (28). The book ends with a detailed
+Einstein chronology (32).
+Before starting on a similar tour of the scientific part, I interject a few remarks
+on Einstein and politics and on Einstein as a philosopher and humanist.
+Whenever I think of Einstein and politics, I recall my encounter with him in
+the late evening of Sunday, April 11, 1954. That morning, a column by the Alsop
+brothers had appeared in the New York Herald Tribune, entitled 'Next
+McCarthy target: the leading physicists,' which began by stating that the junior
+senator from Wisconsin was getting ready to play his ace in the hole. I knew that
+the Oppenheimer case was about to break. That evening I was working in my
+office at the Institute when the phone rang and a Washington operator asked to
+speak to Dr Oppenheimer. I replied that Oppenheimer was out of town. (In fact,
+he was in Washington.) The operator asked for Dr Einstein. I told her that Ein-
+stein was not at the office and that his home number was unlisted. The operator
+told me next that her party wished to speak to me. The director of the Washington
+PURPOSE AND PLAN 11
+Bureau of the Associated Press came on the line and told me that the Oppenhei-
+mer case would be all over the papers on Tuesday morning. He was eager for a
+statement by Einstein as soon as possible. I realized that pandemonium on Mercer
+Street the next morning might be avoided by a brief statement that evening and
+so said that I would talk it over with Einstein and would call back in any event.
+I drove to Mercer Street and rang the bell; Helen Dukas, Einstein's secretary, let
+me in. I apologized for appearing at such a late hour and said it would be good if
+I could talk briefly with the professor, who meanwhile had appeared at the top of
+the stairs dressed in his bathrobe and asked, 'Was ist los?' What is going on? He
+came down and so did his stepdaughter Margot. After I told him the reason for
+my call, Einstein burst out laughing. I was a bit taken aback and asked him what
+was so funny. He said that the problem was simple. All Oppenheimer needed to
+do, he said, was go to Washington, tell the officials that they were fools, and then
+go home. On further discussion, we decided that a brief statement was called for.
+We drew it up, and Einstein read it over the phone to the AP director in Wash-
+ington. The next day Helen Dukas was preparing lunch when she saw cars in
+front of the house and cameras being unloaded. In her apron (she told me) she
+ran out of the house to warn Einstein, who was on his way home. When he arrived
+at the front door, he declined to talk to reporters.
+Was Einstein's initial response correct? Of course it was, even though his sug-
+gestion would not and could not be followed. I remember once attending a seminar
+by Bertrand de Jouvenel in which he singled out the main characteristic of a
+political problem: it has no answer, only a compromise. Nothing was more alien
+to Einstein than to settle any issue by compromise, in his life or in his science. He
+often spoke out on political problems, always steering to their answer. Such state-
+ments have often been called naive.* In my view, Einstein was not only not naive
+but highly aware of the nature of man's sorrows and his follies. His utterances on
+political matters did not always address the immediately practicable, and I do not
+think that on the whole they were very influential. However, he knowingly and
+gladly paid the price of sanity.
+As another comment on political matters, I should like to relate a story I was
+told in 1979 by Israel's President Navon. After the death of the then Israeli pres-
+ident, Weizman, in November 1952, Ben Gurion and his cabinet decided to offer
+the presidency to Einstein. Abba Eban was instructed to transmit the offer from
+Washington (27). Shortly thereafter, in a private conversation, Ben Gurion asked
+Navon (who at that time was his personal secretary), 'What are we going to do
+if he accepts?'
+Einstein often lent his name to pacifist statements, doing so for the first time in
+1914 (14a). In 1916 he gave an interview to the Berlin paper Die Vossische Zei-
+tung about the work on Mach by his pacifist friend Friedrich Adler, then in jail
+"Oppenheimer's description, 'There was always with him a wonderful purity at once childlike and
+profoundly stubborn' [Ol] shows the writer's talent for almost understanding everything.
+12 INTRODUCTORY
+for having shot and killed Karl Sttirgkh, the prime minister of Austria [El]. After
+the death of Leo Arons, a physicist Einstein admired for his political courage but
+whom he did not know personally, he wrote an obituary in Sozialistische Mon-
+atshefte [E2]. After the assassination in 1922 of his acquaintance Walther Rath-
+enau, foreign minister of the Weimar republic and a physicist by education, Ein-
+stein wrote of him in Neue Rundschau: 'It is no art to be an idealist if one lives
+in cloud-cuckoo land. He, however, was an idealist even though he lived on earth
+and knew its smell better than almost anyone else' [E3]. In 1923 Einstein became
+a cofounder of the Association of Friends of the New Russia. Together with Lor-
+entz, Marie Curie, Henry Bergson, and others, he worked for a time as a member
+of the League of Nations' Committee for Intellectual Cooperation (16d). Among
+those he proposed or endorsed for the Nobel peace prize (31) were Masaryk; Her-
+bert Runham Brown, honorary secretary of War Resisters International; Carl von
+Ossietzky, at the time in a German concentration camp; and the organization
+Youth Aliyah. He spoke out about the plight of the Jews and helped. Numerous
+are the affidavits he signed in order to bring Jews from Europe to the United
+States.
+Pacifism and supranationalism were Einstein's two principal political ideals. In
+the 1920s he supported universal disarmament and a United Europe (16d). After
+the Second World War, he especially championed the concept of world govern-
+ment, and the peaceful—and only peaceful—uses of atomic energy (27). That
+pacifism and disarmament were out of place in the years 1933 to 1945 was both
+deeply regrettable and obvious to him (25b). In 1939 he sent his sensible letter to
+President Roosevelt on the military implications of nuclear fission. In 1943 he
+signed a contract with the U.S. Navy Bureau of Ordnance as occasional consultant
+(his fee was $25 per day).* Perhaps his most memorable contribution of that
+period is his saying, 'I am in the Navy, but I was not required to get a Navy
+haircut.' [Bl]. He never forgave the Germans (27).**
+Einstein's political orientation, which for simplicity may be called leftist,
+derived from his sense of justice, not from an approval of method or a sharing of
+philosophy. 'In Lenin I honor a man who devoted all his strength and sacrificed
+his person to the realization of social justice. I do not consider his method to be
+proper,' he wrote in 1929 [E4] and, shortly thereafter, 'Outside Russia, Lenin and
+Engels are of course not valued as scientific thinkers and no one might be inter-
+ested to refute them as such. The same might also be the case in Russia, but there
+one cannot dare to say so' [E5]. Much documentation related to Einstein's inter-
+ests in and involvements with political matters is found in the book Einstein on
+Peace [Nl]).
+Einstein was a lover of wisdom. But was he a philosopher? The answer to that
+"The account of Einstein's consultancy given in [Gl] is inaccurate.
+**Einstein's cousin Lina Einstein died in Auschwitz. His cousin Bertha Dreyfus died in Theresien-
+stadt.
+PURPOSE AND PLAN 13
+question is no less a matter of taste than of fact. I would say that at his best he
+was not, but I would not argue strenuously against the opposite view. It is as
+certain that Einstein's interest in philosophy was genuine as it is that he did not
+consider himself a philosopher.
+He studied philosophical writings throughout his life, beginning in his high
+school days, when he first read Kant (3). In 1943 Einstein, Godel, Bertrand Rus-
+sell, and Pauli gathered at Einstein's home to discuss philosophy of science about
+half a dozen times [Rl]. 'Science without epistemology is—in so far as it is think-
+able at all—primitive and muddled,' he wrote in his later years, warning at the
+same time of the dangers to the scientist of adhering too strongly to any one epis-
+temological system. 'He [the scientist] must appear to the systematic epistemologist
+as a type of unscrupulous opportunist: he appears as realist in so far as he seeks
+to describe a world independent of the acts of perception; an idealist in so far as
+he looks upon the concepts and theories as the free inventions of the human spirit
+(not logically derivable from what is empirically given); as positivist in so far as
+he considers his concepts and theories justified only to the extent to which they
+furnish a logical representation of relations among sensory experiences. He may
+even appear as a Platonist or Pythagorean in so far as he considers the viewpoint
+of logical simplicity as an indispensable and effective tool of his research' [E6].
+Elements of all these 'isms' are clearly discernible in Einstein's thinking. In the
+last thirty years of his life, he ceased to be an 'unscrupulous opportunist', however,
+when, much to his detriment, he became a philosopher by freezing himself into
+realism or, as he preferred to call it, objective reality. That part of his evolution
+will be described in detail in (25). There can be as little doubt that philosophy
+stretched his personality as that his philosophical knowledge played no direct role
+in his major creative efforts. Further remarks by Einstein on philosophical issues
+will be deferred until (16e), except for his comments on Newton.
+The men whom Einstein at one time or another acknowledged as his precursors
+were Newton, Maxwell, Mach, Planck, and Lorentz. As he told me more than
+once, without Lorentz he would never have been able to make the discovery of
+special relativity. Of his veneration for Planck, I shall write in (18a); of the influ-
+ence of Mach* in (15e); and of his views of Maxwell in (16e). I now turn to
+Newton but first digress briefly.
+Einstein's deep emotional urge not to let anything interfere with his thinking
+dates back to his childhood and lends an unusual quality of detachment to his
+personal life. It was not that he was aloof or a loner, incapable of personal attach-
+ments. He was also capable of deep anger, as his attitude toward Germany during
+*I should note that I do not quite share Isaiah Berlin's opinion [B2] that Mach was one of Einstein's
+philosophical mentors and that Einstein first accepted, then rejected Mach's phenomenalism. Ein-
+stein's great admiration for Mach came entirely from the reading of the latter's book on mechanics,
+in which the relativity of all motion is a guiding principle. On the other hand, Einstein considered
+Mach to be 'un deplorable philosophe' [E7], if only because to Mach the reality of atoms remained
+forever anathema.
+14 INTRODUCTORY
+and after the Nazi period attests. When he spoke or wrote of justice and liberty
+for others, called the Jews his brothers, or grieved for the heroes of the Warsaw
+ghetto, he did so as a man of feeling at least as much as a man of thought. That,
+having thus spoken and thus felt, he would want to return to the purity and safety
+of the world of ideas is not an entirely uncommon desire. Truly remarkable, how-
+ever, was his gift to effect the return to that world without emotional effort. He
+had no need to push the everyday world away from him. He just stepped out of
+it whenever he wished. It is therefore not surprising either that (as he wrote
+shortly before his death) he twice failed rather disgracefully in marriage or that
+in his life there is an absence of figures with whom he identified—with the excep-
+tion, perhaps, of Newton.
+It seems to me that, when in midlife Einstein wrote of 'The wonderful events
+which the great Newton experienced in his young days. .. Nature to him was an
+open book. ... In one person he combined the experimenter, the theorist, the
+mechanic, and, not least, the artist in exposition.. .. He stands before us strong,
+certain, and alone: his joy in creation and his minute precision are evident in every
+word and every figure .. .' [E8], he described his own ideals, the desire for ful-
+fillment not just as a theorist but also as an experimental physicist. (In the second
+respect, he, of course, never matched Newton.) Earlier he had written that New-
+ton 'deserves our deep veneration' for his achievements, and that Newton's own
+awareness of the weaknesses of his own theories 'has always excited my reverent
+admiration' [E9] (these weaknesses included the action of forces at a distance,
+which, Newton noted, was not to be taken as an ultimate explanation).
+'Fortunate Newton, happy childhood of Science!' [E8]. When Einstein wrote
+these opening words in the introduction to a new printing of Newton's Opticks,
+he had especially in mind that Newton's famous dictum 'hypotheses non fingo,'
+I frame no hypotheses, expressed a scientific style of the past. Elsewhere Einstein
+was quite explicit on this issue:
+We now know that science cannot grow out of empiricism alone, that in the
+constructions of science we need to use free invention which only a posteriori
+can be confronted with experience as to its usefulness. This fact could elude
+earlier generations, to whom theoretical creation seemed to grow inductively out
+of empiricism without the creative influence of a free construction of concepts.
+The more primitive the status of science is the more readily can the scientist
+live under the illusion that he is a pure empiricist. In the nineteenth century,
+many still believed that Newton's fundamental rule 'hypotheses non fingo'
+should underlie all healthy natural science. [E10]
+Einstein again expressed his view that the scientific method had moved on in
+words only he could have written:
+Newton, forgive me; you found the only way which in your age was just about
+possible for a man with the highest powers of thought and creativity. The con-
+cepts which you created are guiding our thinking in physics even today,
+PURPOSE AND PLAN 15
+although we now know that they will have to be replaced by others farther
+removed from the sphere of immediate experience, if we aim at a profounder
+understanding of relationships. [Ell]
+However, in one respect Einstein forever continued to side with Newton and
+to quote his authority. That was in the matter of causality. On the occasion of the
+bicentenary of Newton's death, Einstein wrote to the secretary of the Royal Soci-
+ety, 'All who share humbly in pondering over the secrets of physical events are
+with you in spirit, and join in the admiration and love that bind us to Newton',
+then went on to comment on the evolution of physics since Newton's day and
+concluded as follows:
+It is only in the quantum theory that Newton's differential method becomes
+inadequate, and indeed strict causality fails us. But the last word has not yet
+been said. May the spirit of Newton's method give us the power to restore
+unison between physical reality and the profoundest characteristic of Newton's
+teaching—strict causality. [E12]
+What is strict Newtonian causality? As an example, if I give you the precise
+position and velocity of a particle at a given instant, and if you know all the forces
+acting on it, then you can predict from Newton's laws the precise position and
+velocity of that particle at a later time. Quantum theory implies, however, that I
+am unable to give you that information about position and velocity with ideal
+precision, even if I have the most perfect instrumentation at my disposal. That is
+the problem I discussed with Einstein in our conversation about the existence of
+the moon, a body so heavy that the limitations on the precision of information on
+position and velocity I can give you are so insignificant that, to all astronomical
+intents and purposes, you can neglect the indeterminacy in the information you
+obtained from me and continue to talk of the lunar orbit.
+It is quite otherwise for things like atoms. In the hydrogen atom, the electron
+does not move in an orbit in the same sense as the moon moves around the earth,
+for, if it did, the hydrogen atom would be as flat as a little pancake whereas
+actually it is a little sphere. As a matter of principle, there is no way back to
+Newtonian causality. Of course, this recognition never diminished Newton's stat-
+ure. Einstein's hope for a return to that old causality is an impossible dream. Of
+course, this opinion, held by modern physicists, has not prevented them from rec-
+ognizing Einstein as by far the most important scientific figure of this century.
+His special relativity includes the completion of the work of Maxwell and Lorentz.
+His general relativity includes the completion of Newton's theory of gravitation
+and incorporates Mach's vision of the relativity of all motion. In all these respects,
+Einstein's oeuvre represents the crowning of the work of his precursors, adding to
+and revising the foundations of their theories. In this sense he is a transitional
+figure, perfecting the past and changing the stream of future events. At the same
+time he is a pioneer, as first Planck, then he, then Bohr founded a new physics
+without precursors—the quantum theory.
+l6 INTRODUCTORY
+Einstein deserves to be given the same compliment he gave Newton: he, too,
+was an artist in exposition. His talent for the German language was second only
+to his gift for science. I refer not so much to his proclivity for composing charming
+little rhymes as to the quality of his prose. He was a master of nuances, which are
+hard to maintain in translation. The student of Einstein should read him in Ger-
+man. It is fitting that several of his important papers, such as his scientific credo
+in the Journal of the Franklin Institute of 1936, and his autobiographical sketch
+in the Schilpp book [E6], should appear side by side in the original German and
+in English translation. He wrote all his scientific papers in German, whether or
+not they eventually appeared in that language. Not only his mastery of language
+but also his perceptiveness of people is evident in his writings in memory of col-
+leagues and friends: of Schwarzschild and Smoluchowski, of Marie Curie and
+Emmy Noether, of Michelson and Thomas Edison, of Lorentz, Nernst, Langevin,
+and Planck, of Walther Rathenau, and, most movingly, of Paul Ehrenfest. These
+portraits serve as the best foil for the opinion that Einstein was a naive man.
+In languages other than German, he was less at ease.* On his first visit to Paris,
+in 1922, he lectured in French[Kl]. He spoke in German, however, when address-
+ing audiences on his first visits to England and the United States, but became
+fluent in English in later years.
+Music was his love. He cared neither for twentieth century composers nor for
+many of the nineteenth century ones. He loved Schubert but was not attracted to
+the heavily dramatic parts of Beethoven. He was not particularly fond of Brahms
+and disliked Wagner. His favorite composers were earlier ones—Mozart, Bach,
+Vivaldi, Corelli, Scarlatti. I never heard him play the violin, but most of those
+who did attest to his musicality and the ease with which he sight-read scores.
+About his predilections in the visual arts, I quote from a letter by Margot Einstein
+to Meyer Schapiro:
+In visual art, he preferred, of course, the old masters. They seemed to him more
+'convincing' (he used this word!) than the masters of our time. But sometimes
+he surprised me by looking at the early period of Picasso (1905, 1906). . . .
+Words like cubism, abstract painting . . . did not mean anything to him.. . .
+Giotto moved him deeply ... also Fra Angelico .. . Piero della Francesca.. ..
+He loved the small Italian towns. . . . He loved cities like Florence, Siena
+(Sienese paintings), Pisa, Bologna, Padua and admired the architecture. ... If
+it comes to Rembrandt, yes, he admired him and felt him deeply. [El3]**
+*During the 1920s, Einstein once said to a young friend, 'I like neither new clothes nor new kinds
+of food. I would rather not learn new languages' [SI].
+**I have no clear picture of Einstein's habits and preferences in regard to literature. I do not know
+how complete or representative is the following randomly ordered list of authors he liked: Heine,
+Anatole France, Balzac, Dostoyevski (The Brothers Karamazov), Musil, Dickens, Lagerlof, Tolstoi
+(folk stories), Kazantzakis, Brecht (Galilei), Broch (The Death of Virgil), Gandhi (autobiography),
+Gorki, Hersey (A Bell for Adano), van Loon (Life and Times of Rembrandt), Reik (Listening with
+the Third Ear).
+PURPOSE AND PLAN l~]
+As a conclusion to this introductory sketch of Einstein the man, I should like to
+elaborate the statement made in the Preface that Einstein was the freest man I
+have known. By that I mean that, more than anyone else I have encountered, he
+was the master of his own destiny. If he had a God it was the God of Spinoza.
+Einstein was not a revolutionary, as the overthrow of authority was never his
+prime motivation. He was not a rebel, since any authority but the one of reason
+seemed too ridiculous to him to waste effort fighting against (one can hardly call
+his opposition to Nazism a rebellious attitude). He had the freedom to ask scien-
+tific questions, the genius to so often ask the right ones. He had no choice but to
+accept the answer. His deep sense of destiny led him farther than anyone before
+him. It was his faith in himself which made him persevere. Fame may on occasion
+have flattered him, but it never deflected him. He was fearless of time and, to an
+uncommon degree, fearless of death. I cannot find tragedy in his later attitude to
+the quantum theory or in his lack of success in finding a unified field theory,
+especially since some of the questions he asked remain a challenge to this day
+(2b)—and since I never read tragedy in his face. An occasional touch of sadness
+in him never engulfed his sense of humor.
+I now turn to a tour of Einstein's science.
+Einstein never cared much for teaching courses. No one was ever awarded a
+PhD degree working with him, but he was always fond of discussing physics prob-
+lems, whether with colleagues his age or with people much younger. All his major
+papers are his own, yet in the course of his life he often collaborated with others.
+A survey of these collaborative efforts, involving more than thirty colleagues or
+assistants, is found in (29). From his student days until well into his forties, he
+would seek opportunities to do experiments. As a student he hoped to measure the
+drift of the aether through which (as he then believed) the earth was moving (6d).
+While at the patent office, he tinkered with a device to measure small voltage
+differences (3, 29). In Berlin he conducted experiments on rotation induced by
+magnetization (14b), measured the diameter of membrane capillaries (29), and
+was involved with patents for refrigerating devices and for a hearing aid (29). But,
+of course, theoretical physics was his main devotion.
+There is no better way to begin this brief survey of his theoretical work than
+with a first look at what he did in 1905. In that year Einstein produced six papers:
+1. The light-quantum and the photoelectric effect, completed March 17 (19c),
+(19e). This paper, which led to his Nobel prize in physics, was produced before
+he wrote his PhD thesis.
+2. A new determination of molecular dimensions, completed April 30. This was
+his doctoral thesis, which was to become his paper most often quoted in modern
+literature (5c).
+l8 INTRODUCTORY
+3. Brownian motion, received* May 11. This was a direct outgrowth of his thesis
+work (5d).
+4. The first paper on special relativity, received* June 30.
+5. The second paper on special relativity, containing the E = me2 relation,
+received* September 27.
+6. A second paper on Brownian motion, received* December 19.
+There is little if anything in his earlier published work that hints at this
+extraordinary creative outburst. By his own account, the first two papers he ever
+wrote, dating from 1901 and 1902 and dealing with the hypothesis of a universal
+law of force between molecules, were worthless (4a). Then followed three papers
+of mixed quality (4c, 4d) on the foundations of statistical mechanics. The last of
+these, written in 1904, contains a first reference to the quantum theory. None of
+these first five papers left much of a mark on physics, but I believe they were very
+important warming-up exercises in Einstein's own development. Then came a
+year of silence, followed by the outpouring of papers in 1905.1 do not know what
+his trains of thought were during 1904. His personal life changed in two respects:
+his position at the patent office was converted from temporary to permanent status.
+And his first son was born. Whether these events helped to promote the emergence
+of Einstein's genius I cannot tell, though I believe that the arrival of the son may
+have been a profound experience. Nor do I know a general and complete char-
+acterization of what genius is, except that it is more than an extreme form of talent
+and that the criteria for genius are not objective. I note with relief that the case
+for Einstein as a genius will cause even less of an argument than the case for
+Picasso and much less of an argument than the case for Woody Allen, and I do
+hereby declare that—in my opinion—Einstein was a genius.
+Einstein's work before 1905 as well as papers 2, 3, and 6 of that year resulted
+from his interest in two central early twentieth-century problems, the subjects of
+Part II of this book.
+The first problem: molecular reality. How can one prove (or disprove) that
+atoms and molecules are real things? If they are real, then how can one determine
+their size and count their number? In (5a), there is an introductory sketch of the
+nineteenth century status of this question. During that period the chemist, member
+of the youngest branch of science, argued the question in one context, the physicist
+in another, and each paid little attention to what the other was saying. By about
+1900 many, though not all, leading chemists and physicists believed that molecules
+were real. A few among the believers already knew that the atom did not deserve
+its name, which means 'uncuttable.' Roughly a decade later, the issue of molecular
+reality was settled beyond dispute, since in the intervening years the many meth-
+ods for counting these hypothetical particles all gave the same result, to within
+small errors. The very diversity of these methods and the very sameness of the
+* By the editors of Annalen der Physik.
+PURPOSE AND PLAN 19
+answers gave the molecular picture the compelling strength of a unifying princi-
+ple. Three of these methods are found in Einstein's work of 1905. In March he
+counted molecules in his light-quantum paper (19c). In April he made a count
+with the help of the flow properties of a solution of sugar molecules in water (5c).
+In May he gave a third count in the course of explaining the long-known phe-
+nomenon of Brownian motion of small clumps of matter suspended in solution
+(5d). The confluence of all these answers is the result of important late nineteenth-
+century developments in experimental physics. Einstein's March method could be
+worked out only because of a breakthrough in far-infrared spectroscopy (19a).
+The April and May methods were a consequence of the discovery by Dr Pfeffer
+of a method for making rigid membranes (5c). Einstein's later work (1911) on the
+blueness of the sky and on critical opalescence yielded still other counting methods
+(5e).
+The second problem: the molecular basis of statistical physics. If atoms and
+molecules are real things, then how does one express such macroscopic concepts
+as pressure, temperature, and entropy in terms of the motion of these submicros-
+copic particles? The great masters of the nineteenth century—Maxwell, Boltz-
+mann, Kelvin, van der Waals, and others—did not, of course, sit and wait for the
+molecular hypothesis to be proved before broaching problem number two. The
+most difficult of their tasks was the derivation of the second law of thermodynam-
+ics. What is the molecular basis for the property that the entropy of an isolated
+system strives toward a maximum as the system moves toward equilibrium? A
+survey of the contributions to this problem by Einstein's predecessors as well as
+by Einstein himself is presented in (4). In those early days, Einstein was not the
+only one to underestimate the mathematical care that this very complex problem
+rightfully deserves. When Einstein did this work, his knowledge of the funda-
+mental contributions by Boltzmann was fragmentary, his ignorance of Gibbs'
+papers complete. This does not make any easier the task of ascertaining the merits
+of his contributions.
+To Einstein, the second problem was of deeper interest than the first. As he
+said later, Brownian motion was important as a method for counting particles, but
+far more important because it enables us to demonstrate the reality of those
+motions we call heat, simply by looking into a microscope. On the whole, Ein-
+stein's work on the second law has proved to be of less lasting value than his
+investigations on the verification of the molecular hypothesis. Indeed, in 1911 he
+wrote that he would probably not have published his papers of 1903 and 1904
+had he been aware of Gibbs' work.
+Nevertheless, Einstein's preoccupation with the fundamental questions of sta-
+tistical mechanics was extremely vital since it led to his most important contri-
+butions to the quantum theory. It is no accident that the term Boltzmann's prin-
+ciple, coined by Einstein, appears for the first time in his March 1905 paper on
+the light-quantum. In fact the light-quantum postulate itself grew out of a statis-
+tical argument concerning the equilibrium properties of radiation (19c). It should
+2O INTRODUCTORY
+also be remembered that the main applications of his first work (1904) on energy
+fluctuations (4c) are in the quantum domain. His analysis of these fluctuations in
+blackbody radiation led him to become the first to state, in 1909, long before the
+discovery of quantum mechanics, that the theory of the future ought to be based
+on a dual description in terms of particles and waves (21 a). Another link between
+statistical mechanics and the quantum theory was forged by his study of the
+Brownian motion of molecules in a bath of electromagnetic radiation. This inves-
+tigation led him to the momentum properties of light-quanta (21c). His new der-
+ivation, in 1916, of Planck's blackbody radiation law also has a statistical basis
+(21b). In the course of this last work, he observed a lack of Newtonian causality
+in the process called spontaneous emission. His discomfort about causality origi-
+nated from that discovery (21d).
+Einstein's active involvement with statistical physics began in 1902 and lasted
+until 1925, when he made his last major contribution to physics: his treatment of
+the quantum statistics of molecules (23). Again and for the last time, he applied
+fluctuation phenomena with such mastery that they led him to the very threshold
+of wave mechanics (24b). The links between the contributions of Einstein, de
+Broglie, and Schroedinger, discussed in (24), make clear that wave mechanics has
+its roots in statistical mechanics—unlike matrix mechanics, where the connections
+between the work of Bohr, Heisenberg, and Dirac followed in the first instance
+from studies of the dynamics of atoms (18c).
+Long periods of gestation are a marked characteristic in Einstein's scientific
+development. His preoccupation with quantum problems, which began shortly
+after Planck's discovery of the blackbody radiation law late in 1900, bore its first
+fruit in March 1905. Questions that lie at the root of the special theory of relativity
+dawned on him as early as 1895 (6d); the theory saw the light in June 1905. He
+began to think of general relativity in 1907 (9); that theory reached its first level
+of completion in November 1915 (14c). His interest in unified field theory dates
+back at least to 1918 (17a). He made the first of his own proposals for a theory
+of this kind in 1925 (17d). As far as the relativity theories are concerned, these
+gestation periods had a climactic ending. There was no more than about five weeks
+between his understanding of the correct interpretation of the measurement of
+time and the completion of his first special relativity paper (7a). Similarly, after
+years of trial and error, he did all the work on his ultimate formulation of general
+relativity in approximately two months (14c).
+I focus next on special relativity. One version of its history could be very brief:
+in June, 1905, Einstein published a paper on the electrodynamics of moving bod-
+ies. It consists of ten sections. After the first five sections, the theory lies before us
+in finished form. The rest, to this day, consists of the application of the principles
+stated in those first five sections.
+My actual account of that history is somewhat more elaborate. It begins with
+brief remarks on the nineteenth century concept of the aether (6a), that quaint,
+hypothetical medium which was introduced for the purpose of explaining the
+PURPOSE AND PLAN 21
+transmission of light waves and which was abolished by Einstein. The question
+has often been asked whether or not Einstein disposed of the aether because he
+was familiar with the Michelson-Morley experiment, which, with great accuracy,
+had demonstrated the absence of an anticipated drift of the aether as the earth
+moved through it without obstruction (6a). The answer is that Einstein undoubt-
+edly knew of the Michelson-Morley result (6d) but that probably it played only
+an indirect role in the evolution of his thinking (7a). From 1907 on, Einstein often
+emphasized the fundamental importance of the work by Michelson and Morley,
+but continued to be remarkably reticent about any direct influence of that exper-
+iment on his own development. An understanding of that attitude lies beyond the
+edge of history. In (8) I shall dare to speculate on this subject.
+Two major figures, Lorentz and Poincare, take their place next to Einstein in
+the history of special relativity. Lorentz, founder of the theory of electrons,
+codiscoverer of the Lorentz contraction (as Poincare named it), interpreter of the
+Zeeman effect, acknowledged by Einstein as his precursor, wrote down the Lor-
+entz transformations (so named by Poincare) in 1904. In 1905, Einstein, at that
+time aware only of Lorentz's writings up to 1895, rediscovered these transfor-
+mations. In 1898, Poincare, one of the greatest mathematicians of his day and a
+consummate mathematical physicist, had written that we have no direct intuition
+of the simultaneity of events occurring in two different places, a remark almost
+certainly known to Einstein before 1905 (6b). In 1905 Einstein and Poincare
+stated independently and almost simultaneously (within a matter of weeks) the
+group properties of the Lorentz transformations and the addition theorem of veloc-
+ities. Yet, both Lorentz and Poincare missed discovering special relativity; they
+were too deeply steeped in considerations of dynamics. Only Einstein saw the cru-
+cial new point: the dynamic aether must be abandoned in favor of a new kine-
+matics based on two new postulates (7). Only he saw that the Lorentz transfor-
+mations, and hence the Lorentz-Fitzgerald contraction, can be derived from
+kinematic arguments. Lorentz acknowledged this and developed a firm grasp of
+special relativity, but even after 1905 never quite gave up either the aether or his
+reservations concerning the velocity of light as an ultimate velocity (8). In all his
+life (he died in 1912), Poincare never understood the basis of special relativity (8).
+Special relativity brought clarity to old physics and created new physics, in par-
+ticular Einstein's derivation (also in 1905) of the relation E = me2 (7b). It was
+some years before the first main experimental confirmation of the new theory, the
+energy-mass-velocity relation for fast electrons, was achieved (7e). After 1905 Ein-
+stein paid only occasional attention to other implications (7d), mainly because
+from 1907 he was after bigger game: general relativity.
+The history of the discovery of general relativity is more complicated. It is a
+tale of a tortuous path. No amount of simplification will enable me to match the
+minihistory of special relativity given earlier. In the quantum theory, Planck
+started before Einstein. In special relativity, Lorentz inspired him. In general rel-
+ativity, he starts the long road alone. His progress is no longer marked by that
+22 INTRODUCTORY
+light touch and deceptive ease so typical of all his work published in 1905. The
+first steps are made in 1907, as he discovers a simple version of the equivalence
+principle and understands that matter will bend light and that the spectral lines
+reaching us from the sun should show a tiny shift toward the red relative to the
+same spectral lines produced on earth (9). During the next three and a half years,
+his attention focuses on that crisis phenomenon, the quantum theory, rather than
+on the less urgent problems of relativity (10). His serious concentration on general
+relativity begins after his arrival in Prague in 1911, where he teaches himself a
+great deal with the help of a model theory. He gives a calculation of the bending
+of light by the sun. His result is imperfect, since at that time he still believes that
+space is flat (11). In the summer of 1912, at the time of his return to Ziirich, he
+makes a fundamental discovery: space is not flat; the geometry of the world is not
+Euclidean. It is Riemannian. Ably helped by an old friend, the mathematician
+Marcel Grossmann, he establishes the first links between geometry and gravity.
+With his habitual optimism he believes he has solved the fifty-year-old problem
+(13) of finding a field theory of gravitation. Not until late in 1915 does he fully
+realize how flawed his theory actually is. At that very same time, Hilbert starts
+his important work on gravitation (14d). After a few months of extremely intense
+work, Einstein presents the final revised version of his theory on November 25,
+1915 (14c).
+One week earlier he had obtained two extraordinary results. Fulfilling an
+aspiration he had had since 1907, he found the correct explanation of the long-
+known precession of the perihelion of the planet Mercury. That was the high
+point in his scientific life He was so excited that for three days he could not work.
+In addition he found that his earlier result on the bending of light was too small
+by a factor of 2. Einstein was canonized in 1919 when this second prediction also
+proved to be correct (16b).
+After 1915 Einstein continued to examine problems in general relativity. He
+was the first to give a theory of gravitational waves (15d). He was also the founder
+of general relativistic cosmology, the modern theory of the universe at large (15e).
+Hubble's discovery that the universe is expanding was made in Einstein's lifetime.
+Radio galaxies, quasars, neutron stars, and, perhaps, black holes were found after
+his death. These post-Einsteinian observational developments in astronomy
+largely account for the great resurgence of interest in general relativity in more
+recent times. A sketchy account of the developments in general relativity after 1915
+up to the present appears in (15).
+I return to earlier days. After 1915 Einstein's activities in the domain of rela-
+tivity became progressively less concerned with the applications of general relativ-
+ity than with the search for generalization of that theory. During the early years
+following the discovery of general relativity, the aim of that search appeared to be
+highly plausible: according to general relativity the very existence of the gravita-
+tional field is inalienably woven into the geometry of the physical world. There
+was nothing equally compelling about the existence of the electromagnetic field,
+PURPOSE AND PLAN 23
+at that time the only field other than that of gravity known to exist (17a). Rie-
+mannian geometry does not geometrize electromagnetism. Should not one there-
+fore try to invent a more general geometry in which electromagnetism would be
+just as fundamental as gravitation? If the special theory of relativity had unified
+electricity and magnetism and if the general theory had geometrized gravitation,
+should not one try next to unify and geometrize electromagnetism and gravity?
+After he experimentally unified electricity and magnetism, had not Michael Far-
+aday tried to observe whether gravity could induce electric currents by letting
+pieces of metal drop from the top of the lecture room in the Royal Institution to
+a cushion on the floor? Had he not written, 'If the hope should prove well-
+founded, how great and mighty and sublime in its hitherto unchangeable character
+is the force I am trying to deal with, and how large may be the new domain of
+knowledge that may be opened to the mind of man'? And when his experiment
+showed no effect, had he not written, 'They do not shake my strong feeling of the
+existence of a relation between gravity and electricity, though they give no proof
+that such a relation exists'? [Wl] Thoughts and visions such as these led Einstein
+to his program for a unified field theory. Its purpose was neither to incorporate
+the unexplained nor to resolve any paradox. It was purely a quest for harmony.
+On his road to general relativity, Einstein had found the nineteenth century
+geometry of Riemann waiting for him. In 1915 the more general geometries which
+he and others would soon be looking for did not yet exist. They had to be invented.
+It should be stressed that the unification program was not the only spur to the
+search for new geometries. In 1916, mathematicians, acknowledging the stimulus
+of general relativity, began the very same pursuit for their own reasons. Thus
+Einstein's work was the direct cause of the development of a new branch of math-
+ematics, the theory of connections (17c).
+During the 1920s and 1930s, it became evident that there exist forces other than
+those due to gravitation and electromagnetism. Einstein chose to ignore those new
+forces although they were not and are not any less fundamental than the two
+which have been known about longer. He continued the old search for a unifica-
+tion of gravitation and electromagnetism, following one path, failing, trying a new
+one. He would study worlds having more than the familiar four dimensions of
+space and time (17b) or new world geometries in four dimensions (17d). It was
+to no avail.
+In recent years, the quest for the unification of all forces has become a central
+theme in physics (17e). The methods are new. There has been distinct progress
+(2b). But Einstein's dream, the joining of gravitation to other forces, has so far not
+been realized.
+In concluding this tour, I return to Einstein's contributions to the quantum
+theory. I must add that, late in 1906, Einstein became the founder of the quantum
+theory of the solid state by giving the essentially correct explanation of the anom-
+alous behavior of hard solids, such as diamond, for example, at low temperatures
+(20). It is also necessary to enlarge on the remark made previously concerning the
+24 INTRODUCTORY
+statistical origins of the light-quantum hypothesis. Einstein's paper of March
+1905 contains not one but two postulates. First, the light-quantum was conceived
+of as a parcel of energy as far as the properties of pure radiation (no coupling to
+matter) are concerned. Second, Einstein made the assumption—he called it the
+heuristic principle—that also in its coupling to matter (that is, in emission and
+absorption), light is created or annihilated in similar discrete parcels of energy
+(19c). That, I believe, was Einstein's one revolutionary contribution to physics
+(2). It upset all existing ideas about the interaction between light and matter. I
+shall describe in detail the various causes for the widespread disbelief in the heu-
+ristic principle (19f), a resistance which did not weaken after other contributions
+of Einstein were recognized as outstanding or even after the predictions for the
+photoelectric effect, made on the grounds of the heuristic principle, turned out to
+be highly successful (19e).
+The light-quantum, a parcel of energy, slowly evolved into the photon, a parcel
+of energy and momentum (21), a fundamental particle with zero mass and unit
+spin. Never was a proposal for a new fundamental particle resisted more strongly
+than this one for the photon (18b). No one resisted the photon longer than Bohr
+(22). All resistance came to an end when experiments on the scattering of light by
+electrons (the Compton effect) proved that Einstein was right (21f, 22).
+Quantum mechanics was born within a few months of the settling of the photon
+issue. In (25) I describe in detail Einstein's response to this new development. His
+initial belief that quantum mechanics contained logical inconsistencies (25a) did
+not last long. Thereafter, he became convinced that quantum mechanics is an
+incomplete description of nature (25c). Nevertheless, he acknowledged that the
+nonrelativistic version of quantum mechanics did constitute a major advance. His
+proposal of a Nobel prize for Schroedinger and Heisenberg is but one expression
+of that opinion (31).
+However, Einstein never had a good word for the relativity version of quantum
+mechanics known as quantum field theory. Its successes did not impress him.
+Once, in 1912, he said of the quantum theory that the more successful it is, the
+sillier it looks (20). When speaking of successful physical theories, he would, in
+his later years, quote the example of the old gravitation theory (26). Had Newton
+not been successful for more than two centuries? And had his theory not turned
+out to be incomplete?
+Einstein himself never gave up the search for a theory that would incorporate
+quantum phenomena but would nevertheless satisfy his craving for causality. His
+vision of a future interplay of relativity and quantum theory in a unified field
+theory is the subject of the last scientific chapter of this book (26), in which I
+return to the picture drawn in the preface.
+Finally, I may be permitted to summarize my own views. Newtonian causality
+is gone for good. The synthesis of relativity and the quantum theory is incomplete
+(2). In the absence of this synthesis, any assessment of Einstein's vision must be
+part of open history.
+PURPOSE AND PLAN 25
+The tour ends here. General comments on relativity and quantum theory come
+next, followed by a sketch of Einstein's early years. Then the physics begins.
+References
+Bl. S. Brunauer,/. Wash. Acad. Sci. 69, 108, (1979).
+B2. I. Berlin. Personal Impressions, pp. 145, 150. Viking, New York, 1980.
+El. A. Einstein, Die Vossische Zeitung, May 23, 1916.
+E2. , Sozialistische Monatshefte, 1919, p. 1055.
+E3. , Neue Rundschau 33, 815 (1922).
+E4. , statement prepared for the Ligafur Menschenrechte, January 6, 1929.
+E5. , letter to K. R. Leistner, September 8, 1932.
+E6. —— in Albert Einstein: Philosopher-Scientist (P. A. Schilpp, Ed.), p. 684. Tudor,
+New York, 1949.
+E7. , Bull. Soc. Fran. Phil. 22, 97 (1923).
+E8. — in I. Newton, Opticks, p. vii. McGraw-Hill, New York, 1931.
+E9. , Naturw. 15, 273 (1927). English trans, in Smithsonian Report for 1927, p.
+201.
+E10. in Emanuel Libman Anniversary Volumes, Vol. 1, p. 363. International, New
+York, 1932.
+Ell. , [E6], p. 31.
+E12. , Nature 119, 467, (1927); Science 65, 347 (1927).
+E13. Margot Einstein, letter to M. Schapiro, December 1978.
+Gl. G. Gamow, My World Line, p. 148. Viking, New York, 1970.
+Jl. R. Jost, letter to A. Pais, August 17, 1977.
+Kl. A. Kastler, Technion-lnformations, No. 11, December 1978.
+Nl. O. Nathan and H. Norden, Einstein on Peace, Schocken, New York, 1968.
+Ol. J. R. Oppenheimer in Einstein, a Centennial Volume (A. P. French, Ed.), p. 44.
+Harvard University Press, 1979.
+PI. A. Pais in Niels Bohr (S. Rozental, Ed.), p. 215. Interscience, New York, 1967.
+Rl. B. Russell, [Nl], p. xv.
+SI. E. Salaman, Encounter, April 1979, p. 19.
+Wl. L. P. Williams, Michael Faraday, pp. 468-9. Basic Books, New York, 1965.

@@ -1,0 +1,700 @@
+12
+The Einstein-Grossmann
+Collaboration
+In memoriam: Marcel Grossmann
+12a. From Prague to Zurich
+Grossmann appeared in previous chapters as the helpful fellow student who made
+his course notes available to Einstein, as the helpful friend who together with his
+father paved the way for Einstein's appointment at the patent office in Bern, and
+as the friend to whom Einstein dedicated his doctoral thesis. It is now time to get
+better acquainted with him.
+Grossmann, a descendant of an old Swiss family, was born in 1878 in Budapest,
+where his father was employed. He spent his first fifteen years there, then went
+to Switzerland, where he finished high school. Thereupon he studied at the ETH
+from 1896 to 1900, together with Einstein. During the next seven years, he taught
+high school, first in Frauenfeld and then in Basel. In that period he finished his
+thesis, 'On the Metrical Properties of Collinear Structures,' which earned him his
+doctoral degree at the University of Zurich, and published two geometry books for
+high school students and three papers on non-Euclidean geometry, his favorite
+subject. These papers contain very pretty planimetric constructions which, we are
+told, were praised by one no less than Hilbert [SI]. After a six-year pause, he
+published another four papers on related subjects in the years 1910-12. He pre-
+sented one of these at the fifth international congress of mathematicians in Cam-
+bridge, England, in August 1912 [Gl]. The mentioned papers are his entire sci-
+entific output prior to the collaboration with Einstein, which began a few months
+after the Cambridge conference. Evidently none of his prior research had any
+bearing on differential geometry or tensor analysis.
+Grossmann had meanwhile joined the mathematics faculty at the ETH in
+Zurich, first as a stand-in and then, in 1907, as a full professor of geometry. Soon
+thereafter, he began to organize summer courses for high school teachers. In 1910
+he became one of the founders of the Swiss Mathematical Society. The next year
+he was appointed dean of the mathematics-physics section of the ETH.
+One of the first acts of the uncommonly young dean was to sound out Einstein
+208
+annTHE EINSTEIN-GROSSMANN COLLABORATION 209
+as to whether he might be interested in returning to Zurich, this time to the ETH.
+Grossmann's letter is lost but not Einstein's reply: 'I am certainly prepared in
+principle to accept a teaching position at your [ETH]. I am extraordinarily happy
+about the prospect of returning to Zurich. This prospect has led me in recent days
+not to accept a call which reached me [from] the University of Utrecht' [El]. A
+positive outcome of Grossmann's initiative appeared to be assured. Speedy action
+was called for, however. Einstein was now in great demand. The offer from
+Utrecht, made by Willem Julius, 'one of the most original exponents of solar phys-
+ics' [E2], was only the first of several he received in 1911 and 1912. None of these
+swayed him. Zurich was where he wanted to be. Even before any official action
+had been taken, he telegraphed Zangger, 'Habe Grossmann zugesagt,' Have said
+yes to G. [E3]. Zangger himself wrote to the authorities, urging quick action,
+especially because he had heard that an offer from Vienna might be forthcoming
+[S2]. Einstein also wrote to Zangger of an offer (which he declined) to lecture at
+Columbia University in New York in the fall of 1912 [E4].
+On January 23, 1912, the ETH authorities sent their recommendation for a
+ten-year appointment [S3] to the federal Department of the Interior. It included
+recommendations from Marie Curie ('one is entitled to have the highest hopes for
+him and to see in him one of the first theoreticians of the future') and from Poin-
+care (already mentioned in Chapter 8). The authorities quickly accepted the pro-
+posal, and on February 2 Einstein could write to Alfred Stern, 'Two days ago I
+received the call from the [ETH] (halleluia!) and have already announced here
+my k. k.* departure' [E5]. And so, in the fall of 1912, Einstein began the next
+phase of his academic career.
+It was to last for only three semesters. Berlin was beckoning even before he
+arrived in Zurich. In the spring of 1912, Emil Warburg, the eminent director of
+the Physikalisch Technische Reichsanstalt, asked him to join the staff of his insti-
+tute. The formalities concerning the Zurich appointment had been completed by
+then. The offer from Vienna also came through after the ETH decision had been
+made. 'I declined to take anything into consideration until I had settled in Zurich,'
+Einstein wrote to Zangger, whom he had informed of the Berlin and Vienna over-
+tures [E6].
+There was one man who at that time came close to changing Einstein's mind
+and perhaps his destiny: Lorentz. During the Solvay conference in October 1911,
+Lorentz asked Einstein what the prospects were of his coming to Utrecht [LI].
+Perhaps it was not clear to Einstein whether Lorentz would actually have liked
+to see a foreigner occupy the chair in Utrecht. At any rate, upon his return to
+Prague he wrote to Lorentz, 'I write this letter to you with a heavy heart, as one
+who has done a kind of injustice to his father . . .' and added, 'If I had known that
+you wanted me to go to Utrecht then I would have gone' [E7]. Lorentz replied
+*k. k. = kaiserlich und koniglich = imperial and royal, the adjectives referring to the Austro-
+Hungarian empire.
+210 RELATIVITY, THE GENERAL THEORY
+that Einstein should accept his post in Zurich cheerfully and in good spirits [LI].
+Soon thereafter, Lorentz the father figure spoke again. On February 29, 1912,
+Einstein wrote to Zangger, 'I was called to Leiden by Lorentz to be his successor.
+It was good that I was already committed to Zurich, for, if not, I would have had
+to go there' [E8]. The Leiden position went to Ehrenfest, who took over in the fall
+of 1912. Some time in 1913 Einstein sent Ehrenfest a letter which must often have
+given its recipient food for thought: 'When Lorentz called me at that time I expe-
+rienced an undeniable shudder' [E9].
+12b. From scalar to tensor
+In August 1912, Einstein and his family arrived back in Zurich. On the tenth of
+that month they were officially registered as residents of an apartment at Hof-
+strasse 116. Some time between August 10 and August 16, it became clear to
+Einstein that Riemannian geometry is the correct mathematical tool for what we
+now call general relativity theory. The impact of this abrupt realization was to
+change his outlook on physics and physical theory for the rest of his life. The next
+three years were the most strenuous period in his scientific career.
+In order to appreciate what happened in August 1912, it is essential to know
+that before his arrival in Zurich Einstein had already concluded that the descrip-
+tion of gravitation in terms of the single scalar c-field of the Prague days had to
+go and that a new geometry of physical space-time was needed. I am convinced
+that he arrived in Zurich with the knowledge that not just one but ten gravitational
+potentials were needed. This opinion is based on some remarks in Einstein's
+papers; on a study of all the letters from the period March-August 16, 1912,
+which are in the Einstein archives in Princeton; and on recollections by myself
+and by Ernst Gabor Straus, Einstein's assistant from 1944 to 1948, of conversa-
+tions with Einstein.
+To begin with, let us recall that the second of the 1912 papers discussed in the
+previous chapter [E10] was completed in March. Toward the end of that month,
+Einstein wrote to Besso, 'Recently, I have been working furiously on the gravi-
+tation problem. It has now reached a stage in which I am ready with the statics.
+I know nothing as yet about the dynamic field, that must follow next. . .. Every
+step is devilishly difficult' [Ell].* Yet his initial response to the finished part, the
+static case, was strongly positive. From Prague he wrote to Ehrenfest, 'The inves-
+tigations on the statics of gravitation are ready and satisfy me very much. I really
+believe I have found a piece of truth. I am now thinking about the dynamic case,
+one again going from the special to the general' [E12]. This undated letter was
+certainly written in 1912 and most probably before the middle of May, since by
+that time, Einstein had become less assured. On May 20 he wrote to Zangger,
+'The investigations on gravitation have led to some satisfactory results, although
+"This important letter is not contained in the EB volume of their correspondence.
+THE EINSTEIN-GROSSMANN COLLABORATION 211
+until now I have been unable to penetrate beyond the statics of gravitation' [El 3].
+Soon thereafter, there are hints of difficulties: 'The further development of the
+theory of gravitation meets with great obstacles' ( . . . stosst auf grosse Hinder-
+nisse) [El4]. This undated letter to Zangger also contains a reference to von
+Laue's discovery of X-ray diffraction. Since Einstein wrote congratulations to von
+Laue in June [El5], it is most probable that the letter to Zangger was written in
+that same month. Another letter, certainly written in June, contains a similar com-
+ment: 'The generalization [of the static case] appears to be very difficult' [E16].
+These repeated references to his difficulties are never accompanied by expressions
+of doubt about his conclusions concerning the red shift and the bending of light.
+He never wavered in his opinion that these phenomena were to be part of the
+future physics. For example, he wrote in June, 'What do the colleagues say about
+giving up the principle of the constancy of the velocity of light? Wien tries to help
+himself by questioning the gravitational [action of] energy. That, however, is
+untenable ostrich polities' [El6]. It is my understanding that Einstein was sure he
+was moving in the right direction but that he gradually came to the conviction that
+some essential theoretical tools were lacking.
+There is a brief and cryptic statement in the last paper Einstein wrote in
+Prague, in July, which indicates that he was onto something new. This paper (a
+polemic against Abraham to which I shall return later) contains the following
+phrase: 'The simple physical interpretation of the space-time coordinates will
+have to be forfeited, and it cannot yet be grasped what form the general space-
+time transformation equations could have [my italics]. I would ask all colleagues
+to apply themselves to this important problem!' [El7]. Observe the exclamation
+mark at the end of this sentence. I do not know how often such a symbol is found
+in Einstein's writings, but I do know that it occurs only rarely.
+On August 10, as said, Einstein registered as a Zurich resident. On August 16,
+he writes a letter to Hopf. Gone are the remarks about devilish difficulties and
+great obstacles. Instead, he writes, 'Mit der Gravitation geht es glanzend. Wenn
+nicht alles trugt habe ich nun die allgemeinsten Gleichungen gefunden' [E18].*
+What happened in July and early August 1912?
+Two statements by Einstein tell the story. In his Kyoto address (December
+1922), he said, 'If all [accelerated] systems are equivalent, then Euclidean geom-
+etry cannot hold in all of them. To throw out geometry and keep [physical] laws
+is equivalent to describing thoughts without words. We must search for words
+before we can express thoughts. What must we search for at this point? This
+problem remained insoluble to me until 1912, when I suddenly realized that
+Gauss's theory of surfaces holds the key for unlocking this mystery. I realized that
+Gauss's surface coordinates had a profound significance. However, I did not know
+*'It is going splendidly with gravitation. If it is not all deception, then I have found the most general
+equations.' One Einstein biographer wrote general for most general [S4], a nontrivial modification
+of this crucial phrase.
+212 RELATIVITY, THE GENERAL THEORY
+at that time that Riemann had studied the foundations of geometry in an even
+more profound way. I suddenly remembered that Gauss's theory was contained
+in the geometry course given by Geiser when I was a student. ... I realized that
+the foundations of geometry have physical significance. My dear friend the math-
+ematician Grossmann was there when I returned from Prague to Zurich. From
+him I learned for the first time about Ricci and later about Riemann. So / asked
+my friend whether my problem could be solved by Riemann's theory [my italics],
+namely, whether the invariants of the line element could completely determine the
+quantities I had been looking for' [II].
+Regarding the role of Carl Friedrich Geiser,* it is known that Einstein attended
+at least some of Geiser's lectures [K2]. Toward the end of his life, he recalled his
+fascination with Geiser's course [S5] on 'Infinitesimalgeometrie' [E19]. Gross-
+mann's notebooks (preserved at the ETH) show that Geiser taught the Gaussian
+theory of surfaces.
+I believe that this first encounter with differential geometry played a secondary
+role in Einstein's thinking in 1912. During long conversations with Einstein in
+Prague, the mathematician Georg Pick expressed the conjecture that the needed
+mathematical instruments for the further development of Einstein's ideas might
+be found in the papers by Ricci and Levi-Civita [Fl]. I doubt that this remark
+made any impression on Einstein at that time. He certainly did not go to the
+trouble of consulting these important papers during his Prague days.
+Einstein's second statement on the July-August period was made in 1923: 'I
+had the decisive idea of the analogy between the mathematical problem of the
+theory [of general relativity] and the Gaussian theory of surfaces only in 1912,
+however, after my return to Zurich, without being aware at that time of the work
+of Riemann, Ricci, and Levi-Civita. This [work] was first brought to my attention
+by my friend Grossmann when I posed to him the problem of looking for generally
+covariant tensors whose components depend only on derivatives of the coefficients
+\-Sra,} of the quadratic fundamental invariant [g^dx^dx']' (my italics) [E20].
+We learn from these two statements that even during his last weeks in Prague
+Einstein already knew that he needed the theory of invariants and covariants
+associated with the differential line element
+'Geiser was a competent and influential mathematician who did much to raise the level of the math-
+ematics faculty at the ETH [Kl]. His successor was Hermann Weyl.in which the ten quantities g^, are to be considered as dynamic fields which in
+some way describe gravitation. Immediately upon his arrival in Zurich, he must
+have told Grossmann of the problems he was struggling with. It must have been
+at that time that he said, 'Grossmann, Du musst mir helfen, sonst werd' ich ver-
+riickt!' [K2], G., you must help me or else I'll go crazy! With Grossmann's help,
+THE EINSTEIN-GROSSMANN COLLABORATION 213
+the great transition to Riemannian geometry must have taken place during the
+week prior to August 16, as is indicated by Einstein's letter to Hopf.
+These conclusions are in harmony with my own recollections of a discussion
+with Einstein in which I asked him how the collaboration with Grossmann began.
+I have a vivid though not verbatim memory of Einstein's reply: he told Grossmann
+of his problems and asked him to please go to the library and see if there existed
+an appropriate geometry to handle such questions. The next day Grossmann
+returned (Einstein told me) and said that there indeed was such a geometry, Rie-
+mannian geometry. It is quite plausible that Grossmann needed to consult the
+literature since, as we have seen, his own field of research was removed from
+differential geometry.
+There is a curiously phrased expression of thanks to Grossmann which, I
+believe, comes close to confirming this recollection of mine. It is found at the end
+of the introduction to Einstein's first monograph on general relativity, written in
+1916: 'Finally, grateful thoughts go at this place to my friend the mathematician
+Grossmann, who by his help not only saved me the study of the relevant mathe-
+matical literature but also supported me in the search for the field equations of
+gravitation' [E21].
+Finally, there is a recollection which I owe to Straus [S6], who also remembers
+that Einstein was already thinking about general covariance when he met Gross-
+mann. Einstein told Grossmann that he needed a geometry which allowed for the
+most general transformations that leave Eq. 12.1 invariant. Grossmann replied
+that Einstein was looking for Riemannian geometry. (Straus does not recall that
+Einstein had asked Grossmann to check the literature.) But, Grossmann added,
+that is a terrible mess which physicists should not be involved with. Einstein then
+asked if there were any other geometries he could use. Grossmann said no and
+pointed out to Einstein that the differential equations of Riemannian geometry
+are nonlinear, which he considered a bad feature. Einstein replied to this last
+remark that he thought, on the contrary, that was a great advantage. This last
+comment is easily understood if we remember that Einstein's Prague model had
+taught him that the gravitational field equations had to be nonlinear since the
+gravitational field necessarily acts as its own source (see Eq. 11.14).
+Having discussed what happened in July and early August 1912,1 turn to the
+question of how it happened. Einstein gave the answer in 1921:
+The decisive step of the transition to generally covariant equations would cer-
+tainly not have taken place [had it not been for the following consideration].
+Because of the Lorentz contraction in a reference frame that rotates relative to
+an inertial frame, the laws that govern rigid bodies do not correspond to the
+rules of Euclidean geometry. Thus Euclidean geometry must be abandoned if
+noninertial frames are admitted on an equal footing. [E22]
+Let us pursue Einstein's 'decisive step' a little further.
+In June Einstein had written to Ehrenfest from Prague, 'It seems that the
+214 RELATIVITY, THE GENERAL THEORY
+equivalence [principle] can hold only for infinitely small systems [and] that there-
+fore Bonn's accelerated finite system cannot be considered as a static gravitational
+field, that is, it cannot be generated by masses at rest. A rotating ring does not
+generate a static field in this sense, although it is a field that does not change with
+time. ... In the theory of electricity, my case corresponds to the electrostatic field;
+on the other hand, the general static case would, in addition, include the analog
+of a static magnetic field. I am not that far yet. The equations found by me must
+refer only to the static case of masses at rest. Born's field of finite extension does
+not fall in this category. It has not yet become clear to me why the equivalence
+principle fails (or finite fields (Born)' [E23].* Einstein was not the greatest expert
+in following the scientific literature, but he apparently did know Born's main
+paper of 1909 on the relativistic treatment of rigid bodies [Bl]. At the Salzburg
+conference in the fall of 1909, Born's presentation of his work on the rigid body
+[B2] immediately preceded Einstein's own report on the constitution of radiation
+[E25], and it is known that the two men used that occasion for private discussions
+on scientific topics of so much common concern [B3]. In June 1912 Einstein was
+brooding over Born's earlier work, as his letter to Ehrenfest shows. I find this
+fascinating since Born's formalism of 1909 manifestly has Riemannian traits! It
+seems sufficiently interesting to explain how this came about.
+The two main points of Born's work are (1) to define rigidity as a limiting
+property of a continuously deformable medium (ignoring all aspects of its atomic
+constitution) and (2) to define rigidity only as a differential, not as a global, prop-
+erty. Born considered first the case of nonrelativistic Newtonian mechanics. Let
+£' (i = 1,2,3) denote the cartesian coordinates of some point in the medium at the
+time t = 0. The distance ds between two points £' and £' + d£' at t = 0 is given
+by
+*In a short paper entitled 'Does There Exist a Gravitational Action Analogous to the Electrodyn-
+amic Induction Effect?' [E24], published in the Quarterly for Forensic Medicine, Einstein briefly
+pursued the electromagnetic analogy mentioned in his letter to Ehrenfest. This uncommon choice of
+journal was made in order to contribute to a Festschrift for Zangger. It may also indicate that Ein-
+stein felt less than secure about his results.Let x'(l-',t) be the coordinates at time t of the point that was at £' at t = 0. Follow
+the so-called Lagrangian method, in which the functions x' are used to describe
+the history of every particle of the fluid [L2]. At t, the distance ds between two
+infinitesimally close points is given by ds2 = 'Z.(dx')2. Since
+THE EINSTEIN-GROSSMANN COLLABORATION 215
+we have
+The pu are in general time-dependent fields which satisfy pu(t;fi) = 5W. In the
+Newtonian case, Bern's infinitesimal rigidity condition is given by dpu/dt = 0.
+This is an invariance condition: ds2 remains the same at all times and has forever
+the magnitude given by the Euclidean expression (Eq. 12.2).
+Born attempted next to generalize from the Newtonian to the special relativistic
+case by means of a 'relativistic Lagrangian method.' Instead of the x'(g,t), he intro-
+duced *"(£")) x* = ict(£ = icr is the proper time) and we have
+The Minkowskian line element
+becomes, when expressed in Lagrangian coordinates,
+Consider those world points which are simultaneous as seen by an observer mov-
+ing with four-velocity w*1 with the volume element df?: u^d^dx^/d^1 = 0. Use
+this relation to eliminate d£ from Eq. 12.8. Then Eq.12.8 can be written in the
+form of Eq. 12.4 with the rigidity condition dpu/dr = 0. Ehrenfest [E26] and
+Herglotz [HI] noted that Bern's relativistic local rigidity criterion for a volume
+element of a body in general motion can be phrased as follows. Relative to an
+observer at rest, that volume element suffers a Lorentz contraction corresponding
+to the instantaneous velocity of the center of that volume element. For our pur-
+poses, it is of no relevance to discuss the paradoxes to which this approach gives
+rise for the case of a finite body—the case to which Einstein referred in his June
+7 letter to Ehrenfest. The interested reader can find more on this subject in Pauli's
+encyclopedia article [PI].
+Bern's reasoning can be transcribed as follows. In the Newtonian case, intro-
+duce a three-dimensional manifold on which Eq. 12.4 defines a Riemannian met-
+ric. The transformations (Eq. 12.3) are point transformations linear in the differ-
+entials which leave ds2 invariant. The pkl are determined by the dynamics that
+governs the motions of the medium. Generalize to four dimensions.
+I now return to Einstein. In his papers, he remained silent on the specific prob-
+2l6 RELATIVITY, THE GENERAL THEORY
+lem of the rigid body until 1916 [E27]. Could it be, however, that Horn's formal-
+ism had given him the inspiration for general covariance?
+However this may be, after his first dicussions with Grossmann, Einstein had
+found the correct starting point for general relativity. The real work could now
+begin. Hard days lay ahead. In October Einstein wrote to Sommerfeld:
+At present I occupy myself exclusively with the problem of gravitation and now
+believe that I shall master all difficulties with the help of a friendly mathema-
+tician here. But one thing is certain, in all my life I have labored not nearly as
+hard, and I have become imbued with great respect for mathematics, the subtler
+part of which I had in my simple-mindedness regarded as pure luxury until
+now. Compared with this problem, the original relativity is child's play. [E28]
+12c. The collaboration
+The Einstein-Grossmann paper (referred to here as EG), published in 1913
+[E29], contains profound physical insight into the nature of measurement, some
+correct general relativistic equations, some faulty reasoning, and clumsy notation.
+First some remarks about the notation. The concepts of covariant and contra-
+variant tensors are introduced, but all tensor indices are written as subscripts. For
+example, the covariant metric tensor is denoted by g^, its contravariant counter-
+part by 7^. In 1914 Einstein abandoned this miserable notation. 'Following Ricci
+and Levi-Civita, we denote the contravariant character in such a way that we
+place the index in the upper position' [E30]. Even then he excluded the coordinate
+differentials dx* from this rule. Nor does EG contain the modern convention that
+summation over repeated indices is automatically understood. This rule was intro-
+duced in 1916—by none other than Einstein himself [E31]. Later he said in jest
+to a friend, 'I have made a great discovery in mathematics; I have suppressed the
+summation sign every time that the summation must be made over an index which
+occurs twice.. ..' [K2]. I do not believe it will serve the reader if I push historical
+accuracy to the point of adhering to the EG notations. Instead, I shall transcribe
+the EG equations into their modern form by adopting the notations and conven-
+tions of Weinberg's book on gravitation and cosmology [Wl]. All technicalities
+that can be covered by a reference to that text will be omitted.
+In EG, Einstein expresses his indebtedness to Mach for inspiring some of his
+ideas. Comments on the influence of Mach on Einstein, an important subject in
+its own right, will be deferred till Chapter 15.
+As we have seen, the equivalence principle in its primitive form (equality of
+gravitational and inertial mass for a material object) was Einstein's guide ever
+since 1907. It is characteristic, -because of his limited acquaintance with the liter-
+ature, that only five years later would he become aware of the precision measure-
+ments of Roland the Baron Eotvos of Vasarosnameny that showed the high degree
+of accuracy of the equality of inertial and gravitational mass. He discussed the
+*For an account of the precursors of Eotvos and of the latter's experiments, see [W2]. For a descrip-
+tion of improved results of more recent vintage, see the papers by Dicke and collaborators [Rl] and
+by Braginskii and Panov [B4].THE EINSTEIN-GROSSMANN COLLABORATION 217
+Eotvos experiments for the first time in EG, concluding that 'the physical identity
+of gravitational and inertial mass . .. possesses a high degree of probability.'*
+After these prefatory remarks, I turn to Grossmann's contribution to EG. 'Ein-
+stein grew up in the Christoffel-Ricci tradition,' Christian Felix Klein wrote in
+his history of mathematics in the nineteenth century [K3]. This masterwork
+explains how from a mathematical point of view general relativity may be consid-
+ered as one of the culmination points in a noble line of descendance starting with
+the work of Carl Friedrich Gauss, moving on to Georg Friedrich Bernhard Rie-
+mann, and from there to Elwin Bruno Christoffel, Gregorio Ricci-Curbastro,
+Tullio Levi-Civita, and others. I hope my readers will derive the same enjoyment
+as I did in reading these original papers as well as Klein's history. I would further
+recommend the essays by Dirk Struik on the history of differential geometry [S7].
+I restrict my own task to explaining how Einstein 'grew up.' The two principal
+references in Grossmann's contribution to EG are the memoir 'On the Transfor-
+mation of Homogeneous Differential Forms of the Second Degree' by Christoffel
+[Cl], written in Zurich in 1869, and the comprehensive review paper of 1901 on
+the 'absolute differential calculus' [R2] by Ricci and his brilliant pupil Levi-
+Civita.
+Grossman's contribution consists of a lucid exposition of Riemannian geometry
+and its tensor calculus. In addition, he gives mathematical details in support of
+some of Einstein's arguments. He begins with a discussion of the invariance of the
+line element (Eq. 12.1) under the transformation
+Then follow the definitions of tensors, the principal manipulations of tensor alge-
+bra (as in [ W3]), the use of the metric tensor to relate covariant and contravariant
+tensors, and the description of covariant differentiation ('Erweiterung'). Recall
+that the covariant derivative V^ of a contravariant vector V is given by
+where the affine connection ('Christoffel Drei-Indizes Symbol') FJ, is a nontensor
+given by [W4]
+2l8 RELATIVITY, THE GENERAL THEORY
+Of particular interest for EG is the covariant divergence of a second-rank tensor
+T" rwm
+* For dcfiniteness, «**** is defined in a locally cartesian system where 0 denotes the time direction, 123
+the space directions.where
+For a symmetric T"" we have:
+a relation that Einstein used in the discussion of energy-momentum conservation.
+As a further instance of covariant differentiation, the equation
+should be mentioned [ W6]. This is one of the relations that threw Einstein off the
+track for some time.
+Grossmann devotes a special section to antisymmetric tensors. He notes that
+Eq. 12.13 implies that
+He also points out that ^^/Vg is a contravariant fourth-rank tensor derived
+from the Levi-Civita symbol ^^ = + 1( —1) if a@y8 is an even (odd) permuta-
+tion of 0123, zero otherwise.* As a result
+is a tensor, the dual of Fyl.
+Grossmann's concluding section starts as follows. 'The problem of the formu-
+lation of the differential equations of a gravitation field draws attention to the
+differential invariants . .. and ... covariants of ... ds2 = g^dx^dx".' He then
+presents to Einstein the major tensor of the future theory: the 'Ghristoffel four-
+index symbol,' now better known as the Riemann-Christoffel tensor [W7]:
+THE EINSTEIN-GROSSMANN COLLABORATION 219
+From this tensor 'it is ... possible to derive a second-rank tensor of the second
+order [in the derivatives of £„,],' the Ricci tensor:
+"The specifications of the actual rods and clocks suited for this purpose are delicate [Ml]. This
+author must confess to an occasional doubt as to whether this problem has as yet been fully under-
+stood on the atomic and subatomic levels.Having come this close, Grossmann next makes a mistake to which I shall return
+in the course of describing Einstein's contributions to EG, a topic which should
+be prefaced by stating Grossmann's agreement with Einstein. 'With pleasure, he
+[G.] was ready to collaborate on this problem under the condition, however, that
+he would not have to assume any responsibility for any assertions or interpreta-
+tions of a physical nature' [E32].
+Einstein begins by stating his desideratum: to generalize the theory of relativity
+in such a way that his earlier result on the variability of the light velocity in an
+inhomogeneous static gravitational field [E33] shall be contained as a special case.
+Without preliminaries, he turns at once to the demand of general covariance: the
+motion of a mass point shall be determined by Eqs. 11.12 and 12.1, which I copy:
+These equations shall be invariant under the transformations (Eqs. 12.9 and
+12.10), and ds2 shall be an 'absolute invariant.' Then he goes on to state the prin-
+ciple of equivalence as we know it today: there is a special transformation of the
+type(Eq. 12.9):
+that brings the quadratic form (Eq. 12.22) locally on principal axes:
+This local coordinate frame in which the gravitational field has been transformed
+away acts as a free-falling infinitesimal laboratory. Time and space measurements
+can be performed locally in this frame by the same methods used in the special
+theory of relativity.* It follows that in terms of the general dx1', as in Eq. 12.22,
+'the corresponding natural distance can be determined only when the g^ which
+determine the gravitational field are known. . .. The gravitational field influences
+the measuring bodies... in a definite way.' With these words, he states the broad
+program of the general theory of relativity.
+220 RELATIVITY, THE GENERAL THEORY
+Einstein uses Eqs. 12.21 and 12.22 to discuss the properties of the energy and
+momentum of a matter distribution with mass m (m being 'a characteristic con-
+stant independent of the gravitational potential'). In particular he derives the
+expression
+for the energy-momentum tensor of pressureless matter, where p0 = ml Va and
+VQ = d£ is the rest-volume element of the material distribution. His next advance
+is made with the help of Grossmann's Eq. 12.15. He conjectures that the energy-
+momentum conservation laws must be of the generally covariant form
+in which the second term expresses the action of the gravitational field on matter.
+The geodesic equation of motion
+[dr = (—g^dx'dx")^2 is the proper time] for a particle with nonvanishing mass
+is not found in EG (Einstein first derived this equation in 1914). It is important
+to note this absence, since the two authors experienced some difficulty in recog-
+nizing the connection between their work and the Newtonian limit. For later pur-
+poses, it is helpful to recall how this limit is found for the equation of motion (Eq.
+12.28) [W8]: (1) neglect die/dr relative to dt/dr (slow motion); (2) put dgjdt
+= 0 (stationarity); (3) write
+and retain only first-order terms in hm (weak-field approximation). Then one
+obtains the Newtonian equation
+where <j> = — h^/2 is the Newtonian potential, so that
+Nevertheless, though the discussion of the motion of matter was not complete,
+all was going well so far, and the same continued to be true for electrodynamics.
+Indeed, EG contains the correct generally covariant form of the Maxwell
+equations:
+THE EINSTEIN-GROSSMANN COLLABORATION 221
+12d. The Stumbling Block
+Clearly, Einstein and Grossmann were in quest of a tensor !"„, of such a kind that
+the Newton-Poisson equation(see Eqs. 12.17 and 12.18). There remained the last question: what are the field
+equations of gravitation itself? Einstein guessed correctly that 'the needed gener-
+alization [of the Newtonian equations] should be of the form
+where ... F,,,, is a ... tensor of the second rank which is generated by differential
+operations from the fundamental tensor gf,.'
+Then the trouble began.
+would emerge as a limiting case. This, Einstein said, was impossible as long as
+one requires, in the spirit of Eq. 12.35 that F^ be no higher than second order in
+the derivatives of the g^. Two arguments are given for this erroneous conclusion.
+The first one, found in Einstein's part, can be phrased as follows. One needs a
+generalization of div grad 0. The generalization of the gradient operator is the
+covariant differentiation. The generalization of 0 is g^. But the covariant deriv-
+ative of g,,, vanishes (Eq. 12.16)! In Einstein's words, 'These operations [the cov-
+ariant version of div grad] degenerate when they are applied to ... g^. From this,
+it seems to follow that the sought-for equations will be covariant only with respect
+to a certain group of transformations .. . which for the time being is unknown to
+us.'
+The second argument, contained in Grossmann's part, is also incorrect. As was
+mentioned above, Grossmann saw that the Ricci tensor (Eq. 12.20) might well be
+a candidate for T^ in Eq. 12.34. However, according to Grossmann, 'it turns out
+. . . that this tensor does not reduce to A0 in the special case of the weak gravita-
+tional field.' Reluctantly, the conclusion is drawn in EG that the invariance group
+for the gravitational equations has to be restricted to linear transformations only
+(dx"/dx'f is independent of x"), since then, it is argued, d/dx"(gvdgp,,/dx'') does
+transform like a tensor, which, moreover, reduces to Q^ in the weak-field limit
+given by Eq. 12.29. 'If the field is static and if only g^ varies [as a function of
+x], then we arrive at the case of Newton's gravitation theory.' The troublesome
+Eq. 12.16 had been evaded!
+Einstein also gave a 'physical argument' for the impossibility of generally
+covariant equations for the gravitational field. This argument, though of course
+222 RELATIVITY, THE GENERAL THEORY
+incorrect, is nevertheless quite important. Consider (he says) a four-dimensional
+space-time domain divided into two parts, L, and L2. The source 6^ of the grav-
+itational field (see Eq. 12.34) shall be nonzero only in L,. Nevertheless, B^ deter-
+mines the g,,, in all of L by means of Eq. 12.34. Make a generally covariant
+transformation #„ -» xj, such that x^ — x'^ in L, while, at least in part of L2,
+x^ ¥= x'p. Then g^ ¥= g'^ in that part of L2. The source 6^ remains unchanged:
+®i» — &*>in L, while, in L2, 6^ once it is equal to zero stays equal to zero. There-
+fore, general covariance implies that more than one g^ distribution is possible for
+a given 6^ distribution. 'If—as was done in this paper—the requirement is
+adhered to that the g,,, are completely determined by the #„„ then one is forced to
+restrict the choice of reference system' (my italics). (Note that the above transfor-
+mation x^ —* x\ is not allowed if the transformation is linear!) This reasoning is
+quite correct. Then what had gone wrong?
+Einstein's 'physical argument' is irrelevant. The gf, are not completely deter-
+mined by #„,,. His predicament was, put most succinctly, that he did not know the
+Bianchi identities. Let us consider the final form for Eq. 12.34, which he was to
+derive in 1915:
+where R^ is given by Eq. 12.20 and R = K"g^. The left-hand side satisfies the
+four Bianchi identities
+Because of these relations, Eq. 12.36 does not determine the g1" uniquely—just as
+the Maxwell equations do not determine the electromagnetic potentials uniquely
+[W9]. The gf, are determined only up to a transformation gf, —» g'^, correspond-
+ing to an arbitrary coordinate transformation x^ —*• x'f. Einstein still had to under-
+stand that this freedom expresses the fact that the choice of coordinates is a matter
+of convention without physical content. That he knew by 1915—although even
+then he still did not know the Bianchi identities (Chapter 15).
+We now also understand Grossmann's difficulty with the Newtonian limit. Use
+Eq. 12.29 and define h'^ = £„„-}£ v^**- Then Eq- 12-35 becomes
+an intransparent relation. However, one is free to choose a coordinate frame in
+which
+In the static weak-field limit, all components of Rf, except R^ are negligible and
+(see Eq. 12.31)
+THE EINSTEIN-GROSSMANN COLLABORATION 223
+Einstein did not at once perceive the apparent restrictions on general covariance
+as a flaw. He felt that the problem had been solved. Early in 1913 he wrote to
+Ehrenfest. 'The gravitation affair has been clarified to my full satisfaction
+(namely, the circumstance that the equations of the gravitational field are covar-
+iant only for linear transformations). One can specifically prove that generally
+covariant equations which completely determine the [gravitational] field from the
+matter tensor cannot exist at all. What can be more beautiful than that this nec-
+essary specialization follows from the conservation laws?' (his italics) [E34].
+This concludes a sketch of the arguments by which Einstein and Grossmann
+arrived at a hybrid theory in which some basic elements of the ultimate theory are
+already in evidence. I shall omit as of less interest the calculations which led them
+to explicit expressions for 6^ and T^ in Eq. 12.34 that satisfy the conservation
+laws. The effort had been immense. Apologizing to Ehrenfest for a long silence,
+Einstein wrote in May 1913, 'My excuse lies in the literally superhuman efforts
+I have devoted to the gravitational problem. I now have the inner conviction that
+I have come upon what is correct and also that a murmur of indignation will go
+through the rows of colleagues when the paper appears, which will be the case in
+a few weeks' [E35].
+I have now come to the end of the more complex and adventurous part of Ein-
+stein's road to the general theory of relativity. It began in 1907 with the equiva-
+lence principle, then there were the years of silence, then came the Prague papers
+about the c field, and finally the collaboration with Grossmann. In 1913 the theory
+was, of course, far from its logical completion. But the remaining story of Ein-
+stein's contributions is much more straightforward. It consists mainly of the rec-
+ognitions that general covariance can be implemented, that the Ricci tensor is the
+clue to the right gravitational equations, and that there are the three classical suc-
+cesses of the theory. All this will be discussed in later chapters.
+12e. The Aftermath
+In 1905 Einstein had dedicated his doctoral thesis to Grossmann. In 1955 he ded-
+icated his last published autobiographical sketch [E32] to the same old friend, long
+since deceased. The brief remainder of this chapter is devoted to the tale of Ein-
+stein and Grossmann from the times following their epochal collaboration until
+shortly before Einstein's death.the desired result.
+224 RELATIVITY, THE GENERAL THEORY
+On September 9, 1913, first Einstein then Grossmann read papers before the
+annual meeting of the Swiss Physical Society [E36, G2]. These papers are sim-
+plified versions of EG and contain nothing substantially new. Einstein had already
+moved to Berlin when their next and last joint paper came out [E37]. In this work,
+they returned to the gravitational equations to ask, What are the most general
+transformations admissible under the assumption that the g^ are completely
+determined by the field equations? In EG they had shown that the demand of
+linearity was sufficient for this purpose. Now they found that some nonlinear
+transformations are admissible as well (including accelerations of various kinds).
+Actually, they were getting closer to the correct answers: their unjustified criterion
+of uniquely determined g^, is expressed by a set of four not generally covariant
+constraints. As is now well known, four constraints with this property (the so-
+called coordinate conditions) are indeed required in the correct general theory in
+order to eliminate the ambiguities in the gm by means of the choice of some par-
+ticular coordinate system [W10].
+All publications by Grossmann during the next seven years deal with pedagog-
+ical and political subjects. Among social issues to which he devoted himself during
+the First World War was aid to students of all nations who had been taken pris-
+oners of war. Between 1922 and 1930 he wrote another five papers on his favorite
+subject: descriptive geometry.
+By 1920, the first signs of the disease that would fell him, multiple sclerosis,
+had already appeared. By 1926 the symptoms were severe. His daughter Elsbeth
+Grossmann told me that from then on he had difficulties speaking. In 1927 he had
+to resign his professorship at the ETH.
+In 1931 Grossmann wrote his last paper [G3]. It is a polemic, without formu-
+lae, against the concepts of parallel displacement (Levi-Civita), absolute parallel-
+ism (Cartan), and distant parallelism (Einstein). The paper originated as a reac-
+tion to what Grossmann was told by a friend about a lecture by Einstein on unified
+field theory. Grossmann asserts that there are logical objections to all the concepts
+just mentioned. One cannot but feel sad upon reading this paper. Its contents were
+discussed in a correspondence between Einstein and Grossmann that is friendly
+yet strained. Einstein also wrote to Cartan, urging him not to answer Grossmann
+publicly [E38]; Cartan agreed [C2].*
+After Grossmann's death in 1936, Einstein wrote a moving and deeply respect-
+ful letter to his widow [E39] about Grossmann's 'gruesome fate after early years
+rich in work and aspiration.' He writes of Grossmann 'the exemplary student
+. .. having good relations with the teachers ... . I, separate and dissatisfied, not
+very popular.' He writes of Grossmann's helping him to obtain a job, 'without
+which I would not have died but might have spiritually wasted away.' He writes
+of 'the joint feverish work a decade later.' And adds, 'Aber eines ist doch schon.
+Wir waren und blieben Freunde durchs Leben hindurch.'**
+* These two letters are contained in the published Cartan-Einstein correspondence [C3].
+**But one thing is really beautiful. We were and remained friends throughout life.
+THE EINSTEIN-GROSSMANN COLLABORATION 225
+I have a sense of regret that Einstein did not do something for which he had
+often demonstrated a talent and sensitivity: to write an obituary shortly after
+Grossmann's death. He did so later. In 1955 he wrote of Grossmann, of their
+collaboration, and of how the latter had 'checked through the literature and soon
+discovered that the mathematical problem had already been solved by Riemann,
+Ricci, and Levi-Civita.. . . Riemann's achievement was the greatest one.' In this
+article, Einstein wrote, 'The need to express at least once in my life my gratitude
+to Marcel Grossmann gave me the courage to write this .. . autobiographical
+sketch' [E32].
+References
+Bl. M. Born, AdP 30, 1 (1909).
+B2. , Phys. Zeitschr. 10, 814 (1909).
+B3. , Phys. Zeitschr. 11, 233 (1910).
+B4. V. B. Braginskii and V. I. Panov, Societ. Phys. JETP 34, 463 (1972).
+Cl. E. B. Christoffel, Z. Math. 70, 46 (1869).
+C2. E. Cartan, letter to A. Einstein, June 24, 1931.
+C3. Cartan-Einstein Correspondence on Absolute Parallelism (R. Debever, Ed.).
+Princeton University Press, Princeton, N.J., 1979.
+El. A. Einstein, letter to M. Grossmann, November 18, 1911.
+E2. , Astrophys. J. 63, 196 (1926).
+E3. , telegram to H. Zangger, November 20, 1911.
+E4. , letter to H. Zangger, January 27, 1912.
+E5. , letter to A. Stern, February 2, 1912.
+E6. , letter to H. Zangger, Spring 1912.
+E7. , letter to H. A. Lorentz, November 23, 1911.
+E8. , letter to H. Zangger, February 29, 1912.
+E9. , letter to P. Ehrenfest, 1913, undated.
+E10. , AdP3S, 443 (1912).
+Ell. , letter to M. Besso, March 26, 1912.
+E12. , letter to P. Ehrenfest, 1912, undated.
+E13. , letter to H. Zangger, May 20, 1912.
+E14. , letter to H. Zangger, 1912, undated.
+E15. , postcard to M. von Laue, June 10, 1912.
+E16. , letter to L. Hopf, June 12, 1912.
+E17. , AdP 38, 1059 (1912).
+E18. —, letter to L. Hopf, August 16, 1912.
+E19. —— in Helle Zeit, dunkle Zeit (C. Seelig, Ed.), p. 10. Europa Verlag, Zurich,
+1956.
+E20. Einstein a Praha (J. Bicak, Ed.), p. 42. Prometheus, Prague, 1979.
+E21. , Die Grundlage der Allgemeinen Relativitdtstheorie, p. 6. J. A. Barth,
+Leipzig, 1916.
+E22. —, Geometric undErfahnmg. Springer, Berlin, 1921; also PAW, 1921, p. 123.
+E23. , letter to P. Ehrenfest, June 7, 1912.
+E24. , Viertelj. Schrift Ger. Medizin 44, 37 (1912).
+£25. , Phys. Zeitschr. 10, 817 (1909).
+226 RELATIVITY, THE GENERAL THEORY
+E26. P. Ehrenfest, Phys. Zeitschr. 10, 918 (1909).
+E27. A. Einstein, AdP 49, 769 (1916).
+E28. , letter to A. Sommerfeld, October 29, 1912. See A. Hermann, Einstein/Som-
+merfeld Briefwechsel, p. 26. Schwabe Verlag, Stuttgart., 1968.
+E29. and M. Grossmann, Z. Math. Physik. 62, 225 (1913).
+E30. PAW, 1914, p. 1030.
+E31. , AdP 49, 769 (1916), Sec. 5.
+E32. in Helle Zeit, dunkle Zeit (C. Seelig, Ed.). Europa Verlag, Zurich, 1956.
+E33. , AdP 38, 443 (1912).
+E34. , letter to P. Ehrenfest, 1913, undated.
+E35. , letter to P. Ehrenfest, May 28, 1913.
+E36. Viertelj. Schrift Naturf. Ges. Zurich 58, 284 (1913). An abbreviated version
+appears in Verh. Schiu. Naturf. Ges. 96, 137 (1914), and a French translation in
+Arch. Sci. Phys. Nat. 37, 5 (1914).
+E37. and M. Grossmann, Z. Math. Physik. 63, 215 (1915).
+E38. , letter to E. Cartan, June 13, 1931.
+E39. , letter to Mrs M. Grossmann, September 26, 1936.
+Fl. Ph. Frank, Albert Einstein; Sein Leben und seine Zeit, p. 141. Vieweg, Braun-
+schweig, 1979.
+Gl. M. Grossmann, Proceedings of the 5th International Congress of Mathematicians,
+August 1912, p. 66. Cambridge University Press, Cambridge, 1913.
+G2. , Viertelj. Schrift Naturf. Ges. Zurich 58, 291 (1913).
+G3. , Viertelj. Schrift Naturf. Ges. Zurich 76, 42 (1931).
+HI. G. Herglotz, AdP 31, 393 (1909).
+II. J. Ishiwara, Einstein Koen-Roku. Tokyo-Tosho, Tokyo, 1977.
+Kl. L. Kollros, Verh. Schw. Naturf. Ges. 115, 522 (1934).
+K2. , Helv. Phys. Acta Suppl. 4, 271 (1956).
+K3. F. Klein, Vorlesungen iiber die Entwicklung der Mathematik im 19. Jahrhundert,
+Vol. 2, p. 189. Springer, New York, 1979.
+LI. H. A. Lorentz, letter to A. Einstein, December 6, 1911.
+L2. H. Lamb, Hydrodynamics (6th edn.), p. 12. Dover, New York.
+Ml. C. W. Misner, K. S. Thome, and J. A. Wheeler, Gravitation, p. 393. Freeman,
+San Francisco, 1973.
+PI. W. Pauli in Encyklopddie der Mathematischen Naturwissenschaften, Vol. V, 2,
+Sec. 45, Teubner, Leipzig, 1921.
+Rl. P. G. Roll, R. Krotkov, and R. H. Dicke, Ann. Phys. 26, 442 (1964).
+R2. G. Ricci and T. Levi-Civita, Math. Ann. 54, 125 (1901).
+51. W. Saxer, Viertelj. Schr. Naturf. Ges. Zurich 81, 322 (1936).
+52. Se, p. 226.
+53. Se, pp. 227-33.
+54. Se, p. 242.
+55. Se, p. 38.
+56. E. G. Straus, discussion with A. Pais, December 11, 1979.
+57. D. J. Struik, his 19, 92 (1932); 20, 161 (1933).
+Wl. S. Weinberg, Gravitation and Cosmology. Wiley, New York, 1972 (quoted as W
+hereafter).
+W2. W, pp. 11-13.
+THE EINSTEIN-GROSSMANN COLLABORATION 227
+W3. W, pp. 93-8.
+W4. W, pp. 75, 103-6.
+W5. W, pp. 98, 107.
+W6. W, p. 105.
+W7. W, p. 133.
+W8. W, p. 77.
+W9. W, p. 161.
+W10. W, p. 162.

@@ -1,0 +1,968 @@
+!9
+The Light - Quantum
+19a. From Kirchhoff to Planck
+In the last four months of 1859, there occurred a number of events that were to
+change the course of science.
+On the twelfth of September, Le Verrier submitted to the French Academy of
+Sciences the text of his letter to Faye concerning an unexplained advance of the
+perihelion of Mercury (see Section 14c), the effect explained by Einstein in
+November 1915. On the twenty-fourth of November, a book was published in
+London entitled On the Origin of Species by Means of Natural Selection, or the
+Preservation of Favoured Races in the Struggle for Life, by Charles Robert Dar-
+win. Meanwhile on the twentieth of October, Gustav Kirchhoff from Heidelberg
+submitted his observation that the dark D lines in the solar spectrum are darkened
+still further by the interposition of a sodium flame [Kl]. As a result, a few weeks
+later he proved a theorem and posed a challenge. The response to Kirchhoff's
+challenge led to the discovery of the quantum theory.
+Consider a body in thermal equilibrium with radiation. Let the radiation
+energy which the body absorbs be converted to thermal energy only, not to any
+other energy form. Let E,dv denote the amount of energy emitted by the body per
+unit time per cm2 in the frequency interval dv. Let A, be its absorption coefficient
+for frequency v. Kirchhoff's theorem [K2] states that EJA» depends only on v
+and the temperature T and is independent of any other characteristic of the body:
+Kirchhoff called a body perfectly black if A, = 1. Thus J(v, T) is the emissive
+power of a blackbody. He also gave an operational definition for a system, the
+'Hohlraumstrahlung,' which acts as a perfect blackbody: 'Given a space enclosed
+by bodies of equal temperature, through which no radiation can penetrate, then
+every bundle of radiation within this space is constituted, with respect to quality
+and intensity, as if it came from a completely black body of the same temperature.'
+Kirchhoff challenged theorists and experimentalists alike: 'It is a highly impor-
+tant task to find this function [/]. Great difficulties stand in the way of its exper-
+imental determination. Nevertheless, there appear grounds for the hope that it has
+364(19.1)
+THE LIGHT-QUANTUM 365
+a simple form, as do all functions which do not depend on the properties of indi-
+vidual bodies and which one has become acquainted with before now' [K2].
+Kirchhoff's emphasis on the experimental complexities turned out to be well
+justified. Even the simple property of / that it has one pronounced maximum
+which moves to lower v with decreasing T was not firmly established experimen-
+tally until about twenty years later [K3]. Experimentalists had to cope with three
+main problems: (1) to construct manageable bodies with perfectly black properties,
+(2) to devise radiation detectors with adequate sensitivity, and (3) to find ways of
+extending the measurements over large frequency domains. Forty years of exper-
+imentation had to go by before the data were sufficient to answer Kirchhoff's
+question.
+Kirchhoff derived Eq. 19.1 by showing that its violation would imply the pos-
+sibility of a perpetuum mobile of the second kind. The novelty of his theorem was
+not so much its content as the precision and generality of its proof, based exclu-
+sively on the still-young science of thermodynamics. A quarter of a century passed
+before the next theoretical advance in blackbody radiation came about.
+In 1879 Josef Stefan conjectured on experimental grounds that the total energy
+radiated by a hot body varies with the fourth power of the absolute temperature
+[SI]. This statement is not true in its generality. The precise formulation was
+given in 1884, when Boltzmann (then a professsor of experimental physics in
+Graz) proved theoretically that the strict T4 law holds only for bodies which are
+black. His proof again involved thermodynamics, but combined this time with a
+still younger branch of theoretical physics: the electromagnetic theory of Maxwell.
+For the case of Hohlraumstrahlung, the radiation is homogeneous, isotropic,
+and unpolarized, so that
+one had come as far as possible on the basis of thermodynamics and general elec-
+tromagnetic theory. (Proofs of Eqs. 19.3 and 19.4 are found in standard texts.)
+Meanwhile, proposals for the correct form of p had begun to appear as early
+as the 1860s. All these guesses may be forgotten except for one, Wien's exponential
+law, proposed in 1896 [W2]:(19.4)This law was the very first thermodynamic consequence derived from Maxwell's
+theorem, according to which the numerical value of the radiation pressure equals
+one third of the energy per unit volume. When in 1893 Wilhelm Wien proved his
+displacement law [Wll(19.3;where p(v,T), the spectral density, is the energy density per unit volume for fre-
+quency v. In this case, the Stefan-Boltzmann law reads (V is the volume of the
+cavity)(19.2)
+Experimental techniques had sufficiently advanced by then to put this formula to
+the test. This was done by Friedrich Paschen from Hannover, whose measure-
+ments (very good ones) were made in the near infrared, X = 1-8 fim (and T =
+400-1600 K). He published his data in January 1897. His conclusion: 'It would
+seem very difficult to find another function [of v and T, Eq. 19.5] that represents
+the data with as few constants' [PI]. For a brief period, it appeared that Wien's
+law was the final answer. But then, in the year 1900, this conclusion turned out
+to be premature and the correct response to Kirchhoff's challenge was found. Two
+factors were decisive. One was a breakthrough in experimental techniques in the
+far infrared. The other was the persistence and vision of Planck.
+It happened in Berlin. At the Physikalisch Technische Reichsanstalt, at that
+time probably the world's best-equipped physics laboratory, two teams were
+independently at work on blackbody radiation experiments. The first of these,
+Otto Lummer and Ernst Pringsheim, had tackled the problem in an as yet unex-
+plored wavelength region, X = 12-18 /an (and T = 300-1650 K). In February
+1900 they stated their conclusion: Wien's law fails in that region [LI].* The sec-
+ond team, consisting of Heinrich Rubens and Ferdinand Kurlbaum, moved even
+farther into the infrared: X = 30-60 urn (and T = 200-1500° C). They arrived
+at the same conclusion [Rl].
+I need to say more about the latter results, but I should like to comment first
+on the role of experiment in the discovery of the quantum theory. The Rubens-
+Kurlbaum paper is a classic. The work of these authors, as well as that of Paschen
+and of Lummer and Pringsheim, was of a pioneering nature. By the middle of the
+nineteenth century, wavelengths had been measured up to X « 1.5/im. Progress
+was slow in the next forty years, as demonstrated by a question raised by Samuel
+Pierpont Langley in a lecture given in 1885 before the AAAS meeting in Ann
+Arbor: 'Does [the] ultimate wavelength of 2.7 pm which our atmosphere transmits
+correspond to the lowest [frequency] which can be obtained from any terrestrial
+source?' [L2]. The great advance came in the 1890s. The first sentence of the first
+paper in the first issue of the Physical Review reads as follows: 'Within a few
+years the study of obscure radiation has been greatly advanced by systematic
+inquiry into the laws of dispersion of the infrared rays.' This was written in 1893,
+by Ernest Fox Nichols. At about that time, new techniques were developed which
+culminated in the 'Reststrahlen,' residual rays, method of Rubens and Nichols
+[R2]: one eliminates short wavelengths from a beam of radiation by subjecting it
+to numerous reflections on quartz or other surfaces. This procedure leads to the
+isolation of the long wavelengths in the beam. These experimental developments
+are of fundamental importance for our main subject, the quantum theory, since
+they were crucial to the discovery of the blackbody radiation law.
+* There had been earlier indications of deviations from Wien's law, but these were not well
+documented.366 THE QUANTUM THEORY
+(19.5)
+THE LIGHT-QUANTUM367
+Sample of the Rubens-Kurlbaum data which led Planck to guess his radiation formula
+[Rl]. P is plotted versus Tfor X = 51.2/un. ("berechnet nach" means "computed after",
+"beobachtet" means "observed".) The curves marked "Wien" and "Lord Rayleigh" refer
+to best fits to the Eqs. (19.5), (19.17), respectively. The curves marked "Thiesen" and
+"Lummer-Jahnke" refer to theoretical proposals which are not discussed in this book.
+Planck's formula is not yet plotted.
+The paper by Rubens and Kurlbaum was presented to the Prussian Academy
+on October 25, 1900. The figure above shows some of the measured points they
+recorded* and some theoretical curves with which they compared their findings.
+One of these was the Wien curve, which did not work. Neither did a second curve,
+proposed by Rayleigh (I shall return to Rayleigh's work in section 19c). I shall
+leave aside the two other comparison curves they drew and turn to the all-impor-
+tant 'fifth formula, given by Herr M. Planck after our experiments had already
+'These refer to observations at X = 51.2f«n. This wavelength was isolated by multiple reflections
+off rock salt. The blackbody radiation intensity is plotted as a function of T. (Recall that after mul-
+tiple reflection, those specific frequencies predominantly survive which correspond to the ionic vibra-
+tions in the crystal lattice chosen as reflector.)
+368 THE QUANTUM THEORY
+been concluded .. . [and which] reproduces our observations [from —188° to
+1500°C] within the limits of error' [Rl].
+Kirchhoff had moved from Heidelberg to Berlin to take the chair in theoretical
+physics. After his death, this position was offered to Boltzmann, who declined.
+Then Heinrich Hertz was approached; he also declined. The next candidate was
+Planck, to whom the offer of extraordinarius (associate professor) was made.
+Planck accepted and was soon promoted to full professor. His new position
+brought him close to the experimental developments outlined above. This nearness
+was to be one of the decisive factors in the destiny of this most unusual man.
+Planck most probably* discovered his law in the early evening of Sunday,
+October 7. Rubens and his wife had called on the Plancks on the afternoon of that
+day. In the course of the conversation, Rubens mentioned to Planck that he had
+found p(v, 7) to be proportional to T for small v. Planck went to work after the
+visitors left and found an interpolation between this result and Wien's law, Eq.
+19.5. He communicated his formula by postcard to Rubens that same evening and
+stated it publicly [P3] in a discussion remark on October 19, following the pre-
+sentation of a paper by Kurlbaum. Expressed in notations introduced by Planck
+two months later, he proposed that
+which is indeed correct in the quantum regime hv/kT 3> 1, a condition that is
+well satisfied in Paschen's experiment mentioned earlier (hv/kT ~ 15 for T =
+1000 K and X = 1 /urn). Strange as it may sound, the quantum theory was dis-
+covered only after classical deviations from the quantum regime had been observed
+in the far infrared.
+It would do grave injustice to Planck if I left the reader with the impression
+that Planck's discovery was exclusively the result of interpolating experimental
+data. For years, it had been his ambition to derive the correct radiation law from
+first principles. Thus the rapidity of his response to Ruben's remark is less sur-
+prising than the correctness of his answer. I must refrain from discussing Planck's
+earlier research (cf. [K4]), nor shall I describe how he made his guess. However,
+it is very important for an understanding of Einstein's starting point in 1905 and
+of the subsequent reactions to the light-quantum hypothesis to give a brief account
+of Planck's activities from October to December 1900, the heroic period of his life.
+*Here I rely on the obituary of Rubens by Gerhard Hettner [HI], himself an experimental expert
+on blackbody radiation. Hettner's account differs slightly from the recollections that Planck himself
+wrote in his late eighties [P2].(19.6)
+(19.7)Equation 19.6 contains Wien's law of 1896:
+THE LIGHT-QUANTUM 369
+Even if Planck had stopped after October 19, he would forever be remembered
+as the discoverer of the radiation law. It is a true measure of his greatness that he
+went further. He wanted to interpret Eq. 19.6. That made him the discoverer of
+the quantum theory. I shall briefly outline the three steps he took [P4].
+The Electromagnetic Step. This concerns a result Planck had obtained some
+time earlier [P5]. Consider a linear oscillator with mass m and charge e in inter-
+action with a monochromatic, periodic electric field (with frequency oj) in the
+direction of its motion. The equation of motion is
+Let v denote the frequency of the free oscillator, f/m = (2irv)2. Consider in par-
+ticular the case in which the radiation damping due to the 'x term is very small,
+that is, 7 <sC v, where 7 = Si^eV/Smc3. Then one may approximate 'x by —
+(2irv)2x. The solution of Eq. 19.8 can be written (see [P6]) x = C cos (2-irait —
+a). One can readily solve for C and a. The energy E of the oscillator equals
+m(2irv)2C2/2, and one finds that(19.8)
+(19.9)
+(19.10)
+;i9.11)Next, let the electric field consist of an incoherent isotropic superposition of fre-
+quencies in thermal equilibrium at temperature T. In that case, the equilibrium
+energy U of the oscillator is obtained by replacing the electric field energy density
+F2/2 in Eq. 19.9 by 4irp(o), T)du>/?> and by integrating over co:
+Since 7 is very small, the response of the oscillator is maximal if w = v. Thus we
+may replace p(w, T) by p(v, T) and extend the integration from — oo to + oo. This
+yields
+This equation for the joint equilibrium of matter and radiation, one of Planck's
+important contributions to classical physics, was the starting point for his discovery
+of the quantum theory. As we soon shall see, this same equation was also the point
+of departure for Einstein's critique in 1905 of Planck's reasoning and for his quan-
+tum theory of specific heats.
+The Thermodynamic Step. Planck concluded from Eq. 19.11 that it suffices
+to determine U in order to find p. (There is a lot more to be said about this
+seemingly innocent statement; see Section 19b.) Working backward from Eqs.
+19.6 and 19.11, he found U. Next he determined the entropy S of the linear
+Equation 19.6 follows if one can derive Eq. 19.12.
+The Statistical Step. I should rather say, what Planck held to be a statistical
+step. Consider a large number N of linear oscillators, all with frequency v. Let
+UN = NUandSN = NS be the total energy and entropy of the system, respectively
+Put SN = kin WN, where WN is the thermodynamic probability. Now comes the
+quantum postulate.
+The total energy UN is supposed to be made up of finite energy elements c.UN
+= Pe, where P is a large number. Define WN to be the number of ways in which
+the P indistinguishable energy elements can be distributed over N distinguishable
+oscillators. Example: for N = 2, P = 3, the partitions are (3e,0), (2e,e), (6,2e),
+(0,3e). In general,(19.12;370 THE QUANTUM THEORY
+oscillator by integrating TdS = dU, where T is to be taken as a function of U
+(for fixed v). This yields
+(19.13)
+Insert this in SN = k\n WN, use P/N = U/e, SN = NS and apply the Stirling
+approximation. This gives
+(19.14)
+It follows from Eqs. 19.4 and 19.11, and from TdS = dU, that S is a function
+of U/v only. Therefore
+(19.15)
+Thus one recovers Eq. 19.12. And that is how the quantum theory was born. This
+derivation was first presented on December 14, 1900 [P4].
+From the point of view of physics in 1900 the logic of Planck's electromagnetic
+and thermodynamic steps was impeccable, but his statistical step was wild. The
+latter was clearly designed to argue backwards from Eqs. 19.13-19.15 to 19.12.
+In 1931 Planck referred to it as 'an act of desperation. ... I had to obtain a positive
+result, under any circumstances and at whatever cost' [H2]. Actually there were
+two desperate acts rather than one. First, there was his unheard-of step of attach-
+ing physical significance to finite 'energy elements' [Eq. 19.15]. Second, there was
+his equally unheard-of counting procedure given by Eq. 19.13. In Planck's opin-
+ion, 'the electromagnetic theory of radiation does not provide us with any starting
+point whatever to speak of such a probability [ WN] in a definite sense' [PI]. This
+statement is, of course, incorrect. As will be discussed in Section 19b, the classical
+equipartition theorem could have given him a quite definite method for determin-
+THE LIGHT-QUANTUM 37!
+ing all thermodynamic quantities he was interested in—but would not have given
+him the answer he desired to derive.
+However, let us leave aside for the moment what Planck did not do or what he
+might have done and return to his unorthodox handling of Boltzmann's principle.
+In his papers, Planck alluded to the inspiration he had received from Boltzmann's
+statistical methods.* But in Boltzmann's case the question was to determine the
+most probable way in which a fixed number of distinguishable gas molecules with
+fixed total energy are distributed over cells in phase space. The corresponding
+counting problem, discussed previously in Section 4b, has nothing to do with
+Planck's counting of partitions of indistinguishable objects, the energy elements.
+In fact, this new way of counting, which prefigures the Bose-Einstein counting of
+a quarter century later, cannot be justified by any stretch of the classical imagi-
+nation. Planck himself knew that and said so. Referring to Eq. 19.13, he wrote:
+Experience will prove whether this hypothesis [my italics] is realized in nature.
+[P7]**
+Thus the only justification for Planck's two desperate acts was that they gave him
+what he wanted. His reasoning was mad, but his madness has that divine quality
+that only the greatest transitional figures can bring to science. It cast Planck, con-
+servative by inclination, into the role of a reluctant revolutionary. Deeply rooted
+in nineteenth century thinking and prejudice, he made the first conceptual break
+that has made twentieth century physics look so discontinuously different from
+that of the preceding era. Although there have been other major innovations in
+physics since December 1900, the world has not seen since a figure like Planck.
+From 1859 to 1926, blackbody radiation remained a problem at the frontier of
+theoretical physics, first in thermodynamics, then in electromagnetism, then in the
+old quantum theory, and finally in quantum statistics. From the experimental
+point of view, the right answer had been found by 1900. As Pringsheim put it in
+a lecture given in 1903, 'Planck's equation is in such good agreement with exper-
+iment that it can be considered, at least to high approximation, as the mathemat-
+ical expression of Kirchhoff's function' [P8]. That statement still holds true. Sub-
+sequent years saw only refinements of the early results.
+The quality of the work by the experimental pioneers can best be illustrated by
+the following numbers. In 1901 Planck obtained from the available data the value
+h = 6.55 X 10~27 erg-s for his constant [P9]. The modern value is 6.63 X 10~27.
+For the Boltzmann constant, he found k = 1.34 X 10~'6 erg-K"1; the present
+best value is 1.38 X 10~16. Using his value for k, he could determine Avogadro's
+number N from the relation R = Nk, where R is the gas constant. Then from
+Faraday's law for univalent electrolytes, F = Ne, he obtained the value e = 4.69
+X 10^10 esu [P7]. The present best value is 4.80 X 10~10. At the time of Planck's
+*In January 1905 and again in January 1906, Planck proposed Boltzmann for the Nobel prize.
+**The interesting suggestion has been made that Planck may have been led to Eq. 19.13 by a math-
+ematical formula in one of Boltzmann's papers [K4].
+372 THE QUANTUM THEORY
+determination of e, J. J. Thomson [Tl] had measured the charge of the electron
+with the result e = 6.5 X 10~10! Not until 1908, when the charge of the alpha
+particle was found to be 9.3 X 10~10 [R3] was it realized how good Planck's value
+for e was.
+From the very start, Planck's results were a source of inspiration and bewil-
+derment to Einstein. Addressing Planck in 1929, he said 'It is twenty-nine years
+ago that I was inspired by his ingenious derivation of the radiation formula which
+. . . applied Boltzmann's statistical method in such a novel way' [El]. In 1913,
+Einstein wrote that Planck's work 'invigorates and at the same time makes so
+difficult the physicist's existence.... It would be edifying if we could weigh the
+brain substance which has been sacrified by the physicists on the altar of the [Kirch-
+hoff function]; and the end of these cruel sacrifices is not yet in sight!' [E2]. Of his
+own earliest efforts, shortly after 1900, to understand the quantum theory, he
+recalled much later that 'all my attempts ... to adapt the theoretical foundations
+of physics to this [new type of] knowledge failed completely. It was as if the ground
+had been pulled from under one, with no firm foundation to be seen anywhere'
+[E3].
+From my discussions with Einstein, I know that he venerated Planck as the
+discoverer of the quantum theory, that he deeply respected him as a human being
+who stood firm under the inordinate sufferings of his personal life and of his coun-
+try, and that he was grateful to him: 'You were the first to advocate the theory of
+relativity' [El]. In 1918 he proposed Planck for the Nobel prize.* In 1948, after
+Planck's death, Einstein wrote, 'This discovery [i.e., the quantum theory] set sci-
+ence a fresh task: that of finding a new conceptual basis for all of physics. Despite
+remarkable partial gains, the problem is still far from a satisfactory solution' [E4].
+Let us now return to the beginnings of the quantum theory. Nothing further
+happened in quantum physics after 1901 until Einstein proposed the light-quan-
+tum hypothesis.
+19b. Einstein on Planck: 1905.
+The Rayleigh-Einstein-Jeans Law
+The first sentence on the quantum theory published by Einstein was written in
+the month of March, in the year 1905. It is the title of his first paper on light-
+quanta, 'On a heuristic point of view concerning the generation and conversion of
+light' [E5, Al]. (In this chapter, I shall call this paper the March paper.) Web-
+ster's Dictionary contains the following definition of the term heuristic: 'providing
+aid and direction in the solution of a problem but otherwise unjustified or inca-
+pable of justification.' Later on, I shall mention the last sentence published by
+Einstein on scientific matters, also written in March, exactly one half-century
+•See Chapter 30.
+THE LIGHT-QUANTUM 373
+later. It also deals with the quantum theory. It has one thing in common with the
+opening sentence mentioned above. They both express Einstein's view that the
+quantum theory is provisional in nature. The persistence of this opinion of Ein-
+stein's is one of the main themes of this book. Whatever one may think of the
+status of the quantum theory in 1955, in 1905 this opinion was, of course, entirely
+justified.
+In the March paper, Einstein referred to Eq. 19.6 as 'the Planck formula,
+which agrees with all experiments to date.' But what was the meaning of Planck's
+derivation of that equation? 'The imperfections of [that derivation] remained at
+first hidden, which was most fortunate for the development of physics' [E3]. The
+March paper opens with a section entitled 'on a difficulty concerning the theory
+of blackbody radiation,' in which he put these imperfections in sharp focus.
+His very simple argument was based on two solid consequences of classical
+theory. The first of these was the Planck equation (Eq. 19.11). The second was
+the equipartition law of classical mechanics. Applied to f/in Eq. (19.11), that is,
+to the equilibrium energy of a one-dimensional material harmonic oscillator, this
+law yields
+(19.16)
+where R is the gas constant, N Avogadro's number, and R/N (= k) the Boltz-
+mann constant (for a number of years, Einstein did not use the symbol k in his
+papers). From Eqs. 19.10 and 19.16, Einstein obtained
+^ T i-.
+and went on to note that this classical relation is in disagreement with experiment
+and has the disastrous consequence that a = oo, where a is the Stefan-Boltzmann
+constant given in Eq. 19.3.
+'If Planck had drawn this conclusion, he would probably not have made his
+great discovery,' Einstein said later [E3]. Planck had obtained Eq. 19.11 in 1897.
+At that time, the equipartition law had been known for almost thirty years. Dur-
+ing the 1890s, Planck had made several errors in reasoning before he arrived at
+his radiation law, but none as astounding and of as great an historical significance
+as his fortunate failure to be the first to derive Eq. 19.17. This omission is no
+doubt related to Planck's decidedly negative attitude (before 1900) towards Boltz-
+mann's ideas on statistical mechanics.
+Equation 19.17, commonly known as the Rayleigh-Jeans law, has an inter-
+esting and rather hilarious history, as may be seen from the following chronology
+of events.
+June 1900. There appears a brief paper by Rayleigh [R4]. It contains for the
+first time the suggestion to apply to radiation 'the Maxwell -Boltzmann doctrine
+of the partition of energy' (i.e., the equipartition theorem). From this doctrine,
+Rayleigh goes on to derive the relation p = c^v2 T but does not evaluate the con-
+. slant c,. It should be stressed that Rayleigh's derivation of this result had the
+This expression became known as the Rayleigh law. Already in 1900 Rubens and
+Kurlbaum (and also Lummer and Pringsheim) found this law wanting, as was
+seen on page 367.
+Thus the experimentalists close to Planck were well aware of Rayleigh's work.
+One wonders whether or not Planck himself knew of this important paper, which
+appeared half a year before he proposed his own law. Whichever may be the case,
+in 1900 Planck did not refer to Rayleigh's contribution.!
+March 17 and June 9, 1905. Einstein gives the derivation of Eq. 19.17 dis-
+cussed previously. His paper is submitted March 17 and appears on June 9.
+May 6 and 18, 1905. In a letter to Nature (published May 18), Rayleigh
+returns to his ^T^law and now computes c,. His answer for ct is off by a factor
+of 8[R5].
+June 5, 1905. James Hopwood Jeans adds a postscript to a completed paper,
+in which he corrects Rayleigh's oversight. The paper appears a month later [Jl].
+In July 1905 Rayleigh acknowledges Jeans' contribution [R6].
+It follows from this chronology (not that it matters much) that the Rayleigh-
+Jeans law ought properly to be called the Rayleigh-Einstein-Jeans law.
+The purpose of this digression about Eq. 19.17 is not merely to note who said
+what first. Of far greater interest is the role this equation played in the early
+reactions to the quantum theory. From 1900 to 1905, Planck's radiation formula
+was generally considered to be neither more nor less than a successful represen-
+tation of the data (see [Bl]). Only in 1905 did it begin to dawn, and then only on
+* Planck derived his radiation law in a circuitous way via the equilibrium properties of his material
+oscillators. He did so because of his simultaneous concern with two questions, How is radiative
+equilibrium established? What is the equilibrium distribution? The introduction of the material
+oscillators would, Planck hoped, show the way to answer both questions. Rayleigh wisely concen-
+trated on the second question only. He considered a cavity filled with 'aetherial oscillators' assumed
+to be in equilibrium. This enabled him to apply equipartition directly to these radiation oscillators.
+**This same observation was also made independently by Einstein in 1905 [E5].
+fNeither did Lorentz, who in 1903 gave still another derivation of the v2T law [L3]. The details
+need not concern us. It should be noted that Lorentz gave the correct answer for the constant ct.
+However, he did not derive the expression for ct directly. Rather he found c\ by appealing to the
+long-wavelength limit of Planck's law.(19.18)374 THE QUANTUM THEORY
+distinct advantage over Planck's reasoning of dispensing altogether with the lat-
+ter's material oscillators.* Rayleigh also realizes that this relation should be inter-
+preted as a limiting law: 'The suggestion is then that [p = c^T], rather than
+[Wien's law, Eq. 19.5] may be the proper form when [ T/v\ is great' (my ital-
+ics).** In order to suppress the catastrophic high frequency behavior, he intro-
+duces next an ad hoc exponential cutoff factor and proposes the overall radiation
+law
+THE LIGHT-QUANTUM 375
+a few, that a crisis in physics was at hand [E6]. The failure of the Rayleigh-
+Einstein-Jeans law was the cause of this turn of events.
+Rayleigh's position on the failure of Eq. 19.17 as a universal law was that 'we
+must admit the failure of the law of equipartition in these extreme cases' (i.e., at
+high frequencies) [R5]. Jeans took a different view: the equipartition law is cor-
+rect but 'the supposition that the energy of the ether is in equilibrium with that
+of matter is utterly erroneous in the case of ether vibrations of short wavelength
+under experimental conditions' [J2]. Thus Jeans considered Planck's constant h
+as a phenomenological parameter well-suited as an aid in fitting data but devoid
+of fundamental significance. The nonequilibrium-versus-failure-of-equipartition
+debate continued for a number of years [H2]. The issue was still raised at the first
+Solvay Congress in 1911, but by then the nonequilibrium view no longer aroused
+much interest.
+The March paper, the first of Einstein's six papers written in 1905, was com-
+pleted almost exactly one year after he had finished the single article he published
+in 1904 [E7], in which Planck is mentioned for the first time (see Section 4c). The
+middle section of that paper is entitled 'On the meaning of the constant K in the
+kinetic atomic energy,' K being half the Boltzmann constant. In the final section,
+'Application to radiation,' he had discussed energy fluctuations of radiation near
+thermal equilibrium. He was on his way from studying the second law of ther-
+modynamics to finding methods for the determination of k or—which is almost
+the same thing—Avogadro's number N. He was also on his way from statistical
+physics to quantum physics. After the 1904 paper came a one-year pause. His
+first son was born. His first permanent appointment at the patent office came
+through. He thought long and hard in that year, I believe. Then, in Section 2 of
+the March paper, he stated the first new method of the many he was to give in
+1905 for the determination of N: compare Eq. 19.17 with the long-wavelength
+experimental data. This gave him
+(19.19)
+1 his value is just as good as the one Planck had tound trom his radiation law,
+but, Einstein argued, if I use Eq. 19.17 instead of Planck's law (Eq. 19.6), then
+I understand from accepted first principles what I am doing.
+Einstein derived the above value for N in the light-quantum paper, completed
+in March 1905. One month later, in his doctoral thesis, he found N — 2.1 X
+1023. He did not point out either that the March value was good or that the April
+value left something to be desired, for the simple reason that TV was not known
+well at that time. I have already discussed the important role that Einstein's May
+1905 method, Brownian motion, played in the consolidation of the value for N.
+We now leave the classical part of the March paper and turn to its quantum
+part.
+376 THE QUANTUM THEORY
+19c. The Light-Quantum Hypothesis and the Heuristic Principle
+I mentioned in Chapter 3 that the March paper was Einstein's only contribution
+that he himself called revolutionary. Let us next examine in detail what this rev-
+olution consisted of.
+In 1905, it was Einstein's position that Eq. 19.6 agreed with experiment but
+not with existing theory, whereas Eq. 19.17 agreed with existing theory but not
+with experiment. He therefore set out to study blackbody radiation in a new way
+'which is not based on a picture of the generation and propagation of radiation'—
+that is, which does not make use of Planck's equation (Eq. 19.11). But then some-
+thing had to be found to replace that equation. For that purpose, Einstein chose
+to reason 'im Anschluss an die Erfahrung,' phenomenologically. His new starting
+point was the experimentally known validity of Wien's guess (Eq. 19.5) in the
+region of large (3v/T, the Wien regime. He extracted the light-quantum postulate
+from an analogy between radiation in the Wien regime and a classical ideal gas
+of material particles.
+Einstein began by rederiving in his own way the familiar formula for the finite
+reversible change of entropy S at constant T for the case where n gas molecules
+in the volume v0 are confined to a subvolume v:
+(19.20)
+Two and a half pages of the March paper are devoted to the derivation and dis-
+cussion of this relation. What Einstein had to say on this subject was described
+following Eq. 4.15.
+Now to the radiation problem. Let <j>(v,T)dv be the entropy density per unit
+volume in the frequency interval between v and v + dv. Then (p is again the
+spectral density)
+(19.21)
+Assume that Wien's guess (Eq. 19.5) is applicable. Then
+(19.22)
+Let the radiation be contained in a volume v. Then S(v,v,T} = fyvdv and E(v,
+v, T) = pvdv are the total entropy and energy in that volume in the interval v to
+v + dv, respectively. In the Wien regime, S follows trivially from Eq. 19.22 and
+one finds that
+(19.23)
+Compare Eqs. 19.23 and 19.20 and we have Einstein's
+THE LIGHT-QUANTUM 377
+Light-quantum hypothesis: Monochromatic radiation of low density [i.e.,
+within the domain of validity of the Wien radiation formula] behaves in ther-
+modynamic respect as if it consists of mutually independent energy quanta of
+magnitude Rftv/N (ft = h/k, R/N = k, Rftv/N = hv).
+This result, which reads like a theorem, was nevertheless a hypothesis since it
+was based on Wien's guess, which itself still needed proof from first principles.
+To repeat, the derivation is based on a blend of purely classical theoretical physics
+with a piece of experimental information that defies description in classical terms.
+The genius of the light-quantum hypothesis lies in the intuition for choosing the
+right piece of experimental input and the right, utterly simple, theoretical ingre-
+dients. One may wonder what on earth moved Einstein to think of the volume
+dependence of the entropy as a tool for his derivation. That choice is less surprising
+if one recalls* that a year earlier the question of volume dependence had seemed
+quite important to him for the analysis of the energy fluctuations of radiation.
+Einstein's introduction of light-quanta in the Wien regime is the first step
+toward the concept of radiation as a Bose gas of photons. Just as was the case for
+Planck's derivation of his radiation law, Einstein's derivation of the light-quantum
+hypothesis grew out of statistical mechanics. The work of both men has a touch
+of madness, though of a far more subtle kind in Einstein's case. To see this, please
+note the words mutually independent in the formulation of the hypothesis. Since
+1925, we have known (thanks to Bose and especially to Einstein) that the photon
+gas obeys Bose statistics for all frequencies, that the statistical independence of
+energy quanta is not true in general, and that the gas analogy which makes use
+of the Boltzmann statistics relation (Eq. 19.20) is not true in general either. We
+also know that it is important not to assume—as Einstein had tacitly done in his
+derivation—that the number of energy quanta is in general conserved. However,
+call it genius, call it luck, in the Wien regime the counting according to Boltzmann
+and the counting according to Bose happen to give the same answer while non-
+conservation of photons effectively plays no role. This demands some explanation,
+which I shall give in Chapter 23.
+So far there is still no revolution. The physicist of 1905 could take or leave the
+light-quantum hypothesis as nothing more than a curious property of pure radia-
+tion in thermal equilibrium, without any physical consequence. Einstein's
+extraordinary boldness lies in the step he took next, a step which, incidentally,
+gained him the Nobel prize in 1922.
+The heuristic principle: If, in regard to the volume dependence of the entropy,
+monochromatic radiation (of sufficiently low density) behaves as a discrete
+medium consisting of energy quanta of magnitude Rfiv/' N, then this suggests
+an inquiry as to whether the laws of the generation and conversion of light are
+also constituted as if light were to consist of energy quanta of this kind.
+*See the discussion following Eq. 4.14.
+378 THE QUANTUM THEORY
+In other words, the light-quantum hypothesis is an assertion about a quantum
+property of free electromagnetic radiation; the heuristic principle is an extension
+of these properties of light to the interaction between light and matter. That,
+indeed, was a revolutionary step.
+I shall leave Einstein's applications of the heuristic principle to Section 19e and
+shall describe next how, in 1906, Einstein ceased assiduously avoiding Planck's
+equation (Eq. 19.11) and embraced it as a new hypothesis.
+19d. Einstein on Planck: 1906
+In 1906 Einstein returned once more to Planck's theory of 1900. Now he had
+much more positive things to say about Planck's radiation law. This change in
+attitude was due to his realization that 'Planck's theory makes implicit use of the
+. . . light-quantum hypothesis' [E8]. Einstein's reconsideration of Planck's reason-
+ing and of its relation to his own work can be summarized in the following way:
+1. Planck had used the p- U relation, Eq. 19.11, which follows from classical
+mechanics and electrodynamics.
+2. Planck had introduced a quantization related to U, namely, the prescription
+U = Phv/N(sce Eqs. 19.12-19.15).
+3. If one accepts step 2, which is alien to classical theory, then one has no reason
+to trust Eq. 19.11, which is an orthodox consequence of classical theory.
+4. Einstein had introduced a quantization related to p: the light-quantum hypoth-
+esis. In doing so, he had not used the p- U relation (Eq. 19.11).
+5. The question arises of whether a connection can be established between
+Planck's quantization related to U and Einstein's quantization related to p.
+Einstein's answer was that this is indeed possible, namely, by introducing a
+new assumption: Eq. 19.11 is also valid in the quantum theory! Thus he proposed
+to trust Eq. 19.11 even though its theoretical foundation had become a mystery
+when quantum effects are important. He then re-examined the derivation of
+Planck's law with the help of this new assumption. I omit the details and only
+state his conclusion. 'We must consider the following theorem to be the basis of
+Planck's radiation theory: the energy of a [Planck oscillator] can take on only those
+values that are integral multiples of hv; in emission and absorption the energy of
+a [Planck oscillator] changes by jumps which are multiples of hv.' Thus already
+in 1906 Einstein correctly guessed the main properties of a quantum mechanical
+material oscillator and its behavior in radiative transitions. We shall see in Section
+19f that Planck was not at all prepared to accept at once Einstein's reasoning,
+despite the fact that it lent support to his own endeavors. As to Einstein himself,
+his acceptance of Planck's Eq. 19.11, albeit as a hypothesis, led to a major advance
+in his own work: the quantum theory of specific heats, to be discussed in the next
+chapter.
+THE LIGHT-QUANTUM 379
+19e. The Photoelectric Effect: The Second Coming of h
+The most widely remembered part of Einstein's March paper deals with his inter-
+pretation of the photoelectric effect. The present discussion of this subject is orga-
+nized as follows. After a few general remarks, I sketch its history from 1887 to
+1905. Then I turn to Einstein's contribution. Finally I outline the developments
+up to 1916, by which time Einstein's predictions were confirmed.
+These days, photoelectron spectroscopy is a giant field of research with its own
+journals. Gases, liquids, and solids are being investigated. Applications range from
+solid state physics to biology. The field has split into subdisciplines, such as the
+spectroscopy in the ultraviolet and in the X-ray region. In 1905, however, the
+subject was still in its infancy. We have a detailed picture of the status of photo-
+electricity a few months before Einstein finished his paper on light-quanta: the
+first review article on the photoelectric effect, completed in December 1904 [S2],
+shows that at that time photoelectricity was as much a frontier subject as were
+radioactivity, cathode ray physics, and (to a slightly lesser extent) the study of
+Hertzian waves.
+In 1905 the status of experimental techniques was still rudimentary in all these
+areas; yet in each of them initial discoveries of great importance had already been
+made. Not suprisingly, an experimentalist mainly active in one of these areas
+would also work in some of the others. Thus Hertz, the first to observe a photo-
+electric phenomenon (if we consider only the so-called external photoelectric
+effect), made this discovery at about the same time he demonstrated the electro-
+magnetic nature of light. The high school teachers Julius Elster and Hans Geitel
+pioneered the study of photoelectric effects in vacuum tubes and constructed the
+first phototubes [E9]; they also performed fundamental experiments in radioac-
+tivity. Pierre Curie and one of his co-workers were the first to discover that pho-
+toelectric effects can be induced by X-rays [Cl]. J. J. Thomson is best remem-
+bered for his discovery of the electron in his study of cathode rays [T2]; yet
+perhaps his finest experimental contribution deals with the photoeffect.
+Let us now turn to the work of the pioneers.
+1887: Hertz. Five experimental observations made within the span of one
+decade largely shaped the physics of the twentieth century. In order of appearance,
+they are the discoveries of the photoelectric effect, X-rays, radioactivity, the Zee-
+man effect, and the electron. The first three of these were made accidentally. Hertz
+found the photoeffect when he became intrigued by a side effect he had observed
+in the course of his investigations on the electromagnetic wave nature of light
+[H3]. At one point, he was studying spark discharges generated by potential dif-
+ferences between two metal surfaces. A primary spark coming from one surface
+generates a secondary spark on the other. Since the latter was harder to see, Hertz
+built an enclosure around it to eliminate stray light. He was struck by the fact
+that this caused a shortening of the secondary spark. He found next that this effect
+was due to that part of the enclosure that was interposed between the two sparks.
+380 THE QUANTUM THEORY
+It was not an electrostatic effect, since it made no qualitative difference whether
+the interposed surface was a conductor or an insulator. Hertz began to suspect
+that it might be due to the light given off by the primary spark. In a delightful
+series of experiments, he confirmed his guess: light can produce sparks. For exam-
+ple, he increased the distance between the metal surfaces until sparks ceased to be
+produced. Then he illuminated the surfaces with a nearby electric arc lamp: the
+sparks reappeared. He also came to the (not quite correct) conclusion that 'If the
+observed phenomenon is indeed an action of light, then it is only one of ultraviolet
+light.'
+1888: Hallwachs. Stimulated by Hertz's work, Wilhelm Hallwachs showed
+next that irradiation with ultraviolet light causes uncharged metallic bodies to
+acquire a positive charge [H4].
+The earliest speculations on the nature of the effect predate the discovery of the
+electron in 1897. It was suggested in 1889 that ultraviolet light might cause specks
+of metallic dust to leave the metal surface [ L4].
+1899: J. J. Thomson. Thomson was the first to state that the photoeffect
+induced by ultraviolet light consists of the emission of electrons [T3]. He began
+his photoelectric studies by measuring the e/m of the particles produced by light,
+using the same method he had applied to cathode rays two years earlier (the par-
+ticle beams move through crossed electric and magnetic fields). His conclusion:
+'The value of m/e in the case of ultraviolet light. ... is the same as for cathode
+rays.' In 1897 he had been unable to determine m or e separately for cathode
+rays. Now he saw his way clear to do this for photoelectrons. His second conclu-
+sion: 'e is the same in magnitude as the charge carried by the hydrogen atom in
+the electrolysis of solutions.'
+Thomson's method for finding e is of major interest, since it is one of the earliest
+applications of cloud chamber techniques. His student Charles Thomson Rees
+Wilson had discovered that charged particles can form nuclei for condensation of
+supersaturated water vapor. Thomson applied this method to the determination
+of the number of charged particles by droplet counting. Their total charge was
+determined electrometrically. In view of these technical innovations, his value for
+e (6.8 X 10~10 esu) must be considered very respectable.
+1902: Lenard. In 1902 Philip Lenard studied the photoeffect using a carbon
+arc light as a source. He could vary the intensity of his light source by a factor of
+1000. He made the crucial discovery that the electron energy showed 'not the
+slightest dependence on the light intensity' [L5]. What about the variation of the
+photoelectron energy with the light frequency? One increases with the other; noth-
+ing more was known in 1905 [S2].
+1905: Einstein. On the basis of his heuristic principle, Einstein proposed the
+following 'simplest picture' for the photoeffect. A light-quantum gives all its
+energy to a single electron, and the energy transfer by one light-quantum is inde-
+pendent of the presence of other light-quanta. He also noted that an electron
+ejected from the interior of the body will in general suffer an energy loss before
+where v is the frequency of the incident (monochromatic) radiation and P is the
+work function, the energy needed to escape the surface. He pointed out that Eq.
+19.24 explains Lenard's observation of the light intensity independence of the elec-
+tron energy.
+Equation 19.24 represents the second coming of h. This equation made very
+new and very strong predictions. First, E should vary linearly with v. Second, the
+slope of the (E,v) plot is a universal constant, independent of the nature of the
+irradiated material. Third, the value of the slope was predicted to be Planck's
+constant determined from the radiation law. None of this was known then.
+Einstein gave several other applications of his heuristic principle: (1) the fre-
+quency of light in photoluminescence cannot exceed the frequency of the incident
+light (Stokes's rule) [E5]; (2) in photbionization, the energy of the emitted electron
+cannot exceed hv, where v is the incident light frequency [E5];* (3) in 1906, he
+discussed the application to the inverse photoeffect (the Volta effect) [E8]; (4) in
+1909, he treated the generation of secondary cathode rays by X-rays [Ell]; (5) in
+1911, he used the principle to predict the high-frequency limit in Bremsstrahlung
+[E12].
+7975: Millikan; the Duane-Hunt Limit. In 1909, a second review paper on
+the photoeffect appeared [L6]. We learn from it that experiments were in progress
+to find the frequency dependence of Em:al but that no definite conclusions could be
+drawn as yet. Among the results obtained during the next few years, those of
+Arthur Llewellyn Hughes, J. J. Thomson's last student, are of particular interest.
+Hughes found a linear E-v relation and a value for the slope parameter that
+varied from 4.9 to 5.7 X 10~27, depending on the nature of the irradiated material
+[H5]. These and other results were critically reviewed in 1913 and technical res-
+ervations about Hughes's results were expressed [P10]. However, soon thereafter
+Jeans stated in his important survey of the theory of radiation [ J3] that 'there is
+almost general agreement' that Eq. 19.24 holds true. Opinions were divided, but
+evidently experimentalists were beginning to close in on the Einstein relation.
+In the meantime, in his laboratory at the University of Chicago, Millikan had
+already been at work on this problem for several years. He used visible light (a
+set of lines in the mercury spectrum); various alkali metals served as targets (these
+are photosensitive up to about 0.6|tm). On April 24, 1914, and again on April 24,
+1915, he reported on the progress of his results at meetings of the American Phys-
+ical Society [Ml, M2]. A long paper published in 1916 gives the details of the
+*In 1912, Einstein [E10] noted that the heuristic principle could be applied not only to photonion-
+ization but also in a quite similar way to photochemical processes.THE LIGHT-QUANTUM 381
+it reaches the surface. Let £max be the electron energy for the case where this
+energy loss is zero. Then, Einstein proposed, we have the relation (in modern
+notation)
+(19.24)
+382 THE QUANTUM THEORY
+experiments and a summary of his beautiful results: Eq. 19.24 holds very well
+and 'Planck's h has been photoelectrically determined with a precision of about
+0.5% and is found to have the value h = 6.57 X 10~27.'
+The Volta effect also confirmed the heuristic principle. This evidence came
+from X-ray experiments performed in 1915 at Harvard by William Duane and
+his assistant Franklin Hunt [Dl]. (Duane was one of the first biophysicists in
+America. His interest in X-rays was due largely to the role they play in cancer
+therapy.) Working with an X-ray tube operated at a constant potential V, they
+found that the X-ray frequencies produced have a sharp upper limit v given by
+eV = hv, as had been predicted by Einstein in 1906. This limiting frequency is
+now called the Duane-Hunt limit. They also obtained the respectable value h
+= 6.39 X 10~27.
+In Section 18a, I mentioned some of Millikan's reactions to these developments.
+Duane and Hunt did not quote Einstein at all in their paper. I turn next to a
+more systematic review of the responses to the light-quantum idea.
+19f. Reactions to the Light-Quantum Hypothesis
+Comments by Planck, Nernst, Rubens, and Warburg written in 1913 when they
+proposed Einstein for membership in the Prussian Academy will set the right tone
+for what follows next. Their recommendation, which expressed the highest praise
+for his achievements, concludes as follows. 'In sum, one can say that there is hardly
+one among the great problems in which modern physics is so rich to which Ein-
+stein has not made a icmarkable contribution. That he may sometimes have
+missed the target in his speculations, as, for example, in his hypothesis of light-
+quanta, cannot really be held too much against him, for it is not possible to intro-
+duce really new ideas even in the most exact sciences without sometimes taking a
+risk' [K5].
+/. Einstein's Caution. Einstein's letters provide a rich source of his insights
+into physics and people. His struggles with the quantum theory in general and
+with the light-quantum hypothesis in particular are a recurring theme. In 1951
+he wrote to Besso, 'Die ganzen 50 Jahre bewusster Grubelei haben mich der
+Antwort der Frage "Was sind Lichtquanten" nicht naher gebracht' [E13].*
+Throughout his scientific career, quantum physics remained a crisis phenome-
+non to Einstein. His views on the nature of the crisis would change, but the crisis
+would not go away. This led him to approach quantum problems with great cau-
+tion in his writings—a caution already evident in the way the title of his March
+paper was phrased. In the earliest years following his light-quantum proposal,
+Einstein had good reasons to regard it as provisional. He could formulate it clearly
+only in the domain hv/kT^>\, where Wien's blackbody radiation law holds. Also,
+*A11 these fifty years of pondering have not brought me any closer to answering the question, What
+are light quanta?
+THE LIGHT-QUANTUM 383
+he had used this law as an experimental fact without explaining it. Above all, it
+was obvious to him from the start that grave tensions existed between his principle
+and the wave picture of electromagnetic radiation—tensions which, in his own
+mind, were resolved neither then nor later. A man as perfectly honest as Einstein
+had no choice but to emphasize the provisional nature of his hypothesis. He did
+this very clearly in 1911, at the first Solvay congress, where he said, 'I insist on
+the provisional character of this concept [light-quanta] which does not seem recon-
+cilable with the experimentally verified consequences of the wave theory' [El2].
+It is curious how often physicists believed that Einstein was ready to retract.
+The first of these was his admirer von Laue, who wrote Einstein in 1906, 'To me
+at least, any paper in which probability considerations are applied to the vacuum
+seems very dubious'[L7], and who wrote him again at the end of 1907, 'I would
+like to tell you how pleased I am that you have given up your light-quantum
+theory' [L8]. In 1912 Sommerfeld wrote, 'Einstein drew the most far-reaching
+consequences from Planck's discovery [of the quantum of action] and transferred
+the quantum properties of emission and absorption phenomena to the structure of
+light energy in space without, as I believe, maintaining today his original point of
+view [of 1905] in all its audacity' [S3]. Referring to the light-quanta, Millikan
+stated in 1913 that Einstein 'gave . . . up, I believe, some two years ago' [M3],
+and in 1916 he wrote, 'Despite . . . the apparently complete success of the Einstein
+equation [for the photoeffect], the physical theory of which it was designed to be
+the symbolic expression is found so untenable that Einstein himself, I believe, no
+longer holds to it' [M4].
+It is my impression that the resistance to the light-quantum idea was so strong
+that Einstein's caution was almost hopefully mistaken for vacillation. However,
+judging from his papers and letters, I find no evidence that he at any time with-
+drew any of his statements made in 1905.
+2. Electromagnetism: Free Fields and Interactions. Einstein's March paper
+is the second of the revolutionary papers on the old quantum theory. The first one
+was, of course, Planck's of December 1900 [P4]. Both papers contained proposals
+that flouted classical concepts. Yet the resistance to Planck's ideas—while cer-
+tainly not absent—was much less pronounced and vehement than in the case of
+Einstein. Why?
+First, a general remark on the old quantum theory. Its main discoveries con-
+cerned quantum rules for stationary states of matter and of pure radiation. By and
+large, no comparable breakthroughs occurred in regard to the most difficult of all
+questions concerning electromagnetic phenomena: the interaction between matter
+and radiation. There, advances became possible only after the advent of quantum
+field theory, when the concepts of particle creation and annihilation were formu-
+lated. Since then, progress on the interaction problems has been enormous. Yet
+even today this is not by any means a problem area on which the books are closed.
+As we saw in Section 19a, when Planck introduced the quantum in order to
+describe the spectral properties of pure radiation he did so by a procedure of quan-
+384 THE QUANTUM THEORY
+tization applied to matter, to his material oscillators. He was unaware of the fact
+that his proposal implied the need for a revision of the classical radiation field
+itself. His reasoning alleged to involve only a modification of the interaction
+between matter and radiation. This did not seem too outlandish, since the inter-
+action problem was full of obscurities in any event. By contrast, when Einstein
+proposed the light-quantum he had dared to tamper with the Maxwell equations
+for free fields, which were believed (with good reason) to be much better under-
+stood. Therefore, it seemed less repugnant to accept Planck's extravaganzas than
+Einstein's.
+This difference in assessment of the two theoretical issues, one raised by Planck,
+one by Einstein, is quite evident in the writings of the leading theorists of the day.
+Planck himself had grave reservations about light-quanta. In 1907 he wrote to
+Einstein:
+I am not seeking the meaning of the quantum of action [light-quanta] in the
+vacuum but rather in places where absorption and emission occur, and [I]
+assume that what happens in the vacuum is rigorously described by Maxwell's
+equations. [Pll]
+A remark by Planck at a physics meeting in 1909 vividly illustrates his and others'
+predilections for 'leaving alone' the radiation field and for seeking the resolution
+of the quantum paradoxes in the interactions:
+I believe one should first try to move the whole difficulty of the quantum theory
+to the domain of the interaction between matter and radiation. [PI2]
+In that same year, Lorentz expressed his belief in 'Planck's hypothesis of the
+energy elements' but also his strong reservations regarding 'light-quanta which
+retain their individuality in propagation' [L9].
+Thus by the end of the first decade of the twentieth century, many leading
+theorists were prepared to accept the fact that the quantum theory was here to
+stay. However, the Maxwell theory of the free radiation field, pure and simple,
+provided neither room for modification (it seemed) nor a place to hide one's igno-
+rance, in contrast with the less transparent situation concerning the interaction
+between matter and radiation. This position did not change much until the 1920s
+and remained one of the deepest roots of resistance to Einstein's ideas.
+3. The Impact of Experiment. The first three revolutionary papers on the
+old quantum theory were those by Planck [P4], Einstein [E5], and Bohr [B2]. All
+three contained proposals that flouted classical concepts. Yet the resistance to the
+ideas of Planck and Bohr—while certainly not absent—was much less pro-
+nounced and vehement than in the case of Einstein. Why? The answer: because
+of the impact of experiment.
+Physicists—good physicists—enjoy scientific speculation in private but tend to
+frown upon it when done in public. They are conservative revolutionaries, resist-
+ing innovation as long as possible and at all intellectual cost, but embracing it
+THE LIGHT-QUANTUM 385
+when the evidence is incontrovertible. If they do not, physics tends to pass them
+by.
+I often argued with Einstein about reliance on experimental evidence for con-
+firmation of fundamental new ideas. In Chapter 25, I shall have more to say on
+that issue. Meanwhile, I shall discuss next the influence of experimental devel-
+opments on the acceptance of the ideas of Planck, Bohr, and Einstein.
+First, Planck. His proximity to the first-rate experiments on blackbody radia-
+tion being performed at the Physikalisch Technische Reichsanstalt in Berlin was
+beyond doubt a crucial factor in his discovery of 1900 (though it would be very
+wrong to say that this was the only decisive factor). In the first instance, experi-
+ment also set the pace for the acceptance of the Planck formula. One could (and
+did and should) doubt his derivation, as, among others, Einstein did in 1905. At
+the same time, however, neither Einstein nor any one else denied the fact that
+Planck's highly nontrivial universal curve admirably fitted the data. Somehow he
+had to be doing something right.
+Bohr's paper [B2] of April 1913 about the hydrogen atom was revolutionary
+and certainly not at once generally accepted. But there was no denying that his
+expression 2ir2e4m/h}c for the Rydberg constant of hydrogen was remarkably
+accurate (to within 6 per cent, in 1913). When, in October 1913, Bohr was able
+to give for the ratio of the Rydberg constants for singly ionized helium and hydro-
+gen an elementary derivation that was in agreement with experiment to five sig-
+nificant figures [B3], it became even more clear that Bohr's ideas had a great deal
+to do with the real world. When told of the helium/hydrogen ratio, Einstein is
+reported to have said of Bohr's work, 'Then it is one of the greatest discoveries'
+[H6].
+Einstein himself had little to show by comparison.
+To be sure, he had mentioned a number of experimental consequences of his
+hypothesis in his 1905 paper. But he had no curves to fit, no precise numbers to
+show. He had noted that in the photoelectric effect the electron energy E is con-
+stant for fixed light frequency v. This explained Lenard's results. But Lenard's
+measurements were not so precise as to prevent men like J. J. Thomson and Som-
+merfeld from giving alternative theories of the photoeffect of a kind in which Len-
+ard's law does not rigorously apply [S4]. Einstein's photoelectric equation, E =
+hv — P, predicts a linear relation between E and v. At the time Einstein proposed
+his heuristic principle, no one knew how E depended on v beyond the fact that
+one increases with the other. Unlike Bohr and Planck, Einstein had to wait a
+decade before he saw one of his predictions, the linear E-v relation, vindicated,
+as was discussed in the previous section. One immediate and salutary effect of
+these experimental discoveries was that alternative theories of the photoeffect van-
+ished from the scene.
+Yet Einstein's apartness did not end even then.
+I have already mentioned that Millikan relished his result on the photoeffect
+but declared that, even so, the light quantum theory 'seems untenable' [M5]. In
+386 THE QUANTUM THEORY
+1918, Rutherford commented on the Duane-Hunt results, 'There is at present no
+physical explanation possible of this remarkable connection between energy and
+frequency' [R7]. One can go on. The fact of the matter is that, even after Ein-
+stein's photoelectric law was accepted, almost no one but Einstein himself would
+have anything to do with light-quanta.
+This went on until the early 1920s, as is best illustrated by quoting the citation
+for Einstein's Nobel prize in 1922: 'To Albert Einstein for his services to theoret-
+ical physics and especially for his discovery of the law of the photoelectric effect'
+[A2]. This is not only an historic understatement but also an accurate reflection
+on the consensus in the physics community.
+To summarize: the enormous resistance to light-quanta found its roots in the
+particle-wave paradoxes. The resistance was enhanced because the light-quan-
+tum idea seemed to overthrow that part of electromagnetic theory believed to be
+best understood: the theory of the free field. Moreover, experimental support was
+long in coming and, even after the photoelectric effect predictions were verified,
+light-quanta were still largely considered unacceptable. Einstein's own emphasis
+on the provisional nature of the light-quantum hypothesis tended to strengthen
+the reservations held by other physicists.
+Right after March 1905, Einstein sat down and wrote his doctoral thesis. Then
+came Brownian motion, then special relativity, and then the equivalence principle.
+He did not return to the light-quantum until 1909. However, in 1906 he made
+another important contribution to quantum physics, his theory of specific heats.
+This will be the subject of the next chapter. We shall return to the light-quantum
+in Chapter 21.
+References
+Al. A. B. Arons and M. B. Peppard, Am. J. Phys. 33, 367 (1965).
+A2. S. Arrhenius in Nobel Lectures in Physics, Vol. 1, p. 478. Elsevier, New York,
+1965.
+Bl. U. Benz, Arnold Sommerfeld, p. 74. Wissenschaftliche Verlagsgesellschaft, Stutt-
+gart, 1975.
+B2. N. Bohr, Phil. Mag. 26, 1 (1913).
+B3. , Nature 92, 231 (1913).
+Cl. P. Curie and G. Sagnac, C. R. Acad. Sci. Paris 130, 1013 (1900).
+Dl. W. Duane and F. L. Hunt, Phys. Rev. 6, 166 (1915).
+El. A. Einstein, Forschungen undFortschritte 5, 248 (1929).
+E2. , Naturw. 1, 1077 (1913).
+E3. , in Albert Einstein: Philosopher-Scientist (P. A. Schilpp, Ed.), p. 2. Tudor,
+New York, 1949.
+E4. , in Out of My Later Years, p. 229. Philosophical Library, New York, 1950.
+E5. ,AdP 17, 132(1905).
+E6. ,Naturw. 1, 1077 (1913).
+E7. ,AdP 14, 354 (1904).
+THE LIGHT-QUANTUM 387
+E8. ,AdP20, 199(1906).
+E9. J. Elster and H. Geitel, AdP 41, 166 (1890).
+E10. A. Einstein, AdP 37, 832 (1912); 38, 881, 888 (1912).
+Ell. , Phys. Zeitschr. 10, 817 (1909).
+E12. ——, in Proceedings of the First Solvay Congress (P. Langevin and M. de Broglie,
+Eds.), p. 443. Gauthier-Villars, Paris, 1912.
+E13. , letter to M. Besso, December 12, 1951, EB p. 453.
+HI. G. Hettner, Naturw. 10, 1033 (1922).
+H2. A. Hermann, Frilhgeschichte der Quantentheorie 1899-1913, p. 32. Mosbach,
+Baden, 1969.
+H3. H. Hertz, AdP 33, 983 (1887).
+H4. W. Hallwachs, AdP 33, 310 (1888).
+H5. A. L. Hughes, Trans. Roy. Soc. 212, 205 (1912).
+H6. G. de Hevesy, letter to E. Rutherford, October 14, 1913. Quoted in A. S. Eve,
+Rutherford, p. 226. Cambridge University Press, Cambridge, 1939.
+Jl. J. H. Jeans, Phil. Mag. 10, 91 (1905).
+J2. , Nature 72, 293(1905).
+J3. , The Electrician, London, 1914, p. 59.
+Kl. G. Kirchhoff, Monatsber. Berlin, 1859, p. 662.
+K2. , Ann. Phys. Chem. 109, 275 (I860)
+K3. H.Kangro, History of Planck's Radiation Law. Taylor and Francis, London, 1976.
+K4. M. Klein in History of Twentieth Century Physics. Academic Press, New York,
+1977.
+K5. G. Kirsten and H. Korber, Physiker uber Physiker, p. 201. Akademie Verlag, Ber-
+lin, 1975.
+LI. O. Lummer and E. Pringsheim, Verh. Deutsch. Phys. Ges. 2, 163 (1900).
+L2. S. P. Langley, Phil. Mag. 21, 394 (1886).
+L3. H. A. Lorentz in Collected Works, Vol. 3, p. 155. Nyhoff, the Hague, 1936.
+L4. P. Lenard and M. Wolf, AdP 37, 443 (1889).
+L5. ,AdP9, 149(1902).
+L6. R. Ladenburg, Jahrb. Rad. Elektr. 17, 93, 273 (1909).
+L7. M. von Laue, letter to A. Einstein, June 2, 1906.
+L8. , letter to A. Einstein, December 27, 1907.
+L9. H. A. Lorentz, letter to W. Wien, April 12, 1909. Quoted in [H2], p. 68.
+Ml. R. A. Millikan, Phys. Rev. 4, 73 (1914).
+M2. , Phys. Rev. 6, 55 (1915).
+M3. , Science 37, 119 (1913).
+M4. , Phys. Rev. 7, 355 (1916).
+M5. , Phys. Rev. 7, 18 (1916).
+PI. W. Paschen, AdP 60, 662 (1897).
+P2. M. Planck in M. Planck, Physikalische Abhandlungen und Vortrage (M. von
+Laue, Ed.), Vol. 3, p. 374. Vieweg, Braunschweig, 1958.
+P3. , Verh. Deutsch. Phys. Ges. 2, 202 (1900): Abhandlungen, Vol. 1, p. 687.
+P4. , Verh. Deutsch. Phys. Ges. 2, 237 (1900); Abhandlungen, Vol. 1, p. 698.
+P5. , AdP 1, 69 (1900); Abhandlungen, Vol. 1, p. 614.
+P6. W. Pauli, Collected Scientific Papers, Vol. 1, pp. 602-7. Interscience, New York,
+1964.
+388 THE QUANTUM THEORY
+P7. M. Planck, AdP 4, 553 (1901); Abhandlungen, Vol. 1, p. 717.
+P8. E. Pringsheim, Arch. Math. Phys. 7, 236 (1903).
+P9. M. Planck, AdP 4, 564 (1901); Abhandlungen, Vol. 1, p. 728.
+P10. R. Pohl and L. Pringsheim, Phil. Mag. 26, 1017 (1913).
+Pll. M. Planck, letter to A. Einstein, July 6, 1907.
+PI2. , Phys. Zeitschr. 10, 825 (1909).
+Rl. H. Rubens and F. Kurlbaum, PAW, 1900, p. 929.
+R2. and E. F. Nichols, AdP 60, 418 (1897).
+R3. E. Rutherford and H. Geiger, Proc. Roy. Soc. A81, 162 (1908).
+R4. J. W. S. Rayleigh, Phil. Mag. 49, 539 (1900).
+R5. , Nature 72, 54 (1905).
+R6. , Nature, 72, 243 (1905).
+R7. E. Rutherford, /. Rdntgen Soc. 14, 81 (1918).
+51. J. Stefan, Sitzungsber. Ak. Wiss. Wien, Math. Naturw. Kl,2Abt. 79, 391 (1879).
+52. E. von Schweidler, Jahrb. Rad. Elektr. 1, 358 (1904).
+53. A. Sommerfeld, Verh. Ges. Deutsch. Naturf. Arzte 83, 31 (1912).
+54. R. H. Stuewer, The Compton Effect, Chap. 2. Science History, New York, 1975.
+Tl. J. J. Thomson, Phil. Mag. 48, 547 (1899).
+T2. , Phil. Mag. 44, 269 (1897).
+T3. , Phil. Mag. 48, 547 (1899).
+Wl. W. Wien, PAW, 1893, p. 55.
+W2. , AdP 58, 662 (1896).

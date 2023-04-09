@@ -1,0 +1,1077 @@
+H
+The Field Equations of Gravitation
+14a. From Zurich to Berlin
+On November 25, 1915, Einstein presented to the physics-mathematics section of
+the Prussian Academy of Sciences a paper in which 'finally the general theory of
+relativity is closed as a logical structure' [El]. The title of that paper is identical
+with the heading of the present chapter, in which it is described how his field
+equations reached their final form.
+Einstein was still a professor at the ETII when he presented his report to the
+Vienna meeting discussed in Chapter 13. However, by then he had already
+decided to leave Zurich.
+In the spring of 1913, Planck and Nernst had come to Zurich for the purpose
+of sounding out Einstein about his possible interest in moving to Berlin. A com-
+bination of positions was held out to him: membership in the Prussian Academy
+with a special salary to be paid, half by the Prussian government and half by the
+physics-mathematics section of the Academy from a fund maintained with outside
+help, a professorship at the University of Berlin with the right but not the obli-
+gation to teach, and the directorship of a physics institute to be established. The
+new institute was to be under the auspices of the Kaiser Wilhelm Gesellschaft, an
+organization founded in 1911 to support basic research with the aid of funds from
+private sources.*
+Much later, Einstein recalled an interesting exchange between himself and
+Planck during this Zurich visit. 'Planck had asked him what he was working on,
+and Einstein described general relativity as it was then. Planck said, "As an older
+friend I must advise you against it for in the first place you will not succeed; and
+even if you succeed, no one will believe you." ' [SI j.
+Einstein reacted rapidly and positively to the approach from Berlin. His cor-
+respondence from that period makes abundantly clear the principal reason for his
+interest in this offer. Neither then nor later was he averse to discussing physics
+issues with younger colleagues and students; but he had had enough of teaching
+classes. All he wanted to do was think. The catalogue of PhD theses awarded at
+"This physics institute started its activities in 1917. In 1921, von Laue took over the main day-to-
+day responsibilities.
+239
+240 RELATIVITY, THE GENERAL THEORY
+the ETH shows that he had acted as Korreferent* for four theses, all in experi-
+mental physics, but had not taken on PhD students in theoretical physics.
+Encouraged by Einstein's response, Planck, Nernst, Rubens, and Warburg
+joined in signing a formal laudatio, the statement supporting a proposal for mem-
+bership, which was presented to the academy on June 12, 1913 [Kl]. On July 3,
+the physics-mathematics section voted on the proposal. The result was twenty-
+one for, one against [K2]. A number of arrangements remained to be worked out,
+but already in July 1913 Einstein wrote to a friend that he was going to be in
+Berlin by the spring of 1914 [E2]. In August he wrote to Lorentz, 'My cordial
+thanks for your friendly congratulations concerning the new position. I could not
+resist the temptation to accept a position which frees me of all obligations so that
+I can devote myself freely to thinking' (Griibelei) [E3]. To similar good wishes by
+Ehrenfest, he replied that he 'accepted this odd sinecure because it got on my
+nerves to give courses, whereas there [in Berlin] I do not have to lecture' [E4]. To
+Zangger he mentioned that contact with the colleagues in Berlin might be stim-
+ulating. 'In particular, the astronomers are important to me (at this time)' [E5].
+This was in obvious reference to his current interest in the red shift and the bend-
+ing of light.
+In a letter [K3] sent to the academy on December 7, 1913, Einstein formally
+accepted membership and declared that he wished to begin his new position in
+April 1914. On February 9, 1914, he gave a farewell talk before the Physical
+Society of Zurich, in which he noted that 'we have progressed as little in the theory
+of gravitation as the physicists of the eighteenth century when they knew only
+Coulomb's law' [E6]. He mentioned the Nordstrom and the Einstein-Grossmann
+theories, remarked that the former is simpler and more plausible but does not shed
+any light on the relativity of nonuniform motion, and expressed the hope that the
+bending of light (present in the Einstein-Grossmann theory, absent in the Nord-
+strom theory) would soon lead to an experimental choice between these two
+possibilities.
+The Einsteins left Zurich in late March 1914. Einstein went for a brief visit to
+Leiden and from there to Berlin, which was to be his home until December 1932.
+His wife and children went for a few weeks to Locarno [E7] and then joined him
+in Berlin, but not for long. Soon after Mileva's arrival, the Einsteins separated.
+I do not know what precipitated this course of events at that particular moment.
+But the marriage had been an unhappy one. Einstein never put all the blame for
+that on Mileva. With inner resistance, he had entered an undertaking which even-
+tually went beyond his strength [E7a]. Now Mileva and the boys were to return
+to Zurich. Einstein saw them off at the station. 'Weinend ist er vom Bahnhof
+zuriickgegangen'.** His love for his boys endured. For many years he would reg-
+*The acceptance of an ETH thesis required formal approval by both a principal examiner (Refer-
+ent) and a coexaminer (Korreferent). Einstein acted in the latter capacity for the theses of Karl
+Renger, Hans Renker, Elsa Frenkel, and August Piccard.
+**'He wept as he returned from the railway station.' (H. Dukas, private communication).
+THE FIELD EQUATIONS OF GRAVITATION 24!
+ularly take them on holiday trips. These contacts were not always easy, since
+Mileva never reconciled herself to the separation and subsequent divorce. In later
+times, after Einstein's remarriage, the sons would visit and stay with their father
+in Berlin.
+Soon after the separation, Einstein moved into a bachelor apartment at Wit-
+telsbacherstrasse 13. Early in April he wrote to Ehrenfest, 'It is pleasant here in
+Berlin. A nice room ... my relations here give me great joy, especially a "Cousine"
+[female cousin] of my age to whom I am attached by a long friendship' [E8]. A
+year later he told Zangger, 'Concerning my personal circumstances, I have never
+been as peaceful and happy as I am now. I live a retiring life, yet not a lonely one
+thanks to the loving care of a "Cousine" who in fact drew me to Berlin' [E9].*
+We shall hear more about this cousin in Chapter 16.
+By the time Einstein arrived in Berlin, he was already a man of great renown,
+though not yet the stellar figure he was to become five years later. It was therefore
+natural that soon after his arrival, he would be approached by the editors of Die
+Vossische Zeitung, a major German daily newspaper, with the request that he
+explain something of his work to their readers. Einstein accepted. On April 26,
+1914, his first newspaper article appeared, entitled 'Vom Relativitatsprinzip,'
+About the relativity principle [E10]. It is nicely written and deals mainly with
+topics in the special theory. Its last paragraph begins with the question, 'Is the
+[special] relativity theory sketched above essentially complete or does it represent
+only a first step of a farther-reaching development?' Einstein remarked that the
+second alternative appeared to him to be the correct one but added that 'on this
+point, the views even of those physicists who understand relativity theory are still
+divided.'**
+This divergence in views on the future of relativity theory, characteristic for the
+period 1913-15, was much in evidence on the occasion of Einstein's inaugural
+address before the Prussian Academy, on July 2, 1914 [E12]. After expressing his
+gratitude for the opportunity given him to devote himself 'fully to scientific study,
+free of the excitements and cares of a practical profession,' he turned to the major
+current issues in physics. He spoke in praise of Planck, whose 'quantum hypoth-
+esis overthrew classical mechanics for the case of sufficiently small masses moving
+with sufficiently small velocities and large accelerations. . .. Our position regard-
+ing the basic laws of these [molecular] motions is similar to that of the pre-New-
+tonian astronomers in regard to planetary motions.' Then he went on to relativity
+theory and observed that the special theory 'is not fully satisfactory from the the-
+oretical point of view because it gives a preferred position to uniform motion.'
+Planck replied [PI], welcoming Einstein and remarking, 'I know you well
+enough to dare say that your real love belongs to that direction of work in which
+*' . . . die mich ja uberhaupt nach Berlin zog.'
+**A 1915 review of relativity theory by Einstein [Ell] has the same tenor as his newspaper article.
+It is almost entirely devoted to the special theory and toward the end contains phrases nearly identical
+to the ones just quoted.
+242 RELATIVITY, THE GENERAL THEORY
+the personality can unfold itself in the freest possible way.' Then he, too, addressed
+the question of the preferred uniform motions in the special theory. 'In my opin-
+ion, one could just as well take the opposite view [of Einstein's] and look upon the
+preferred position of uniform motion as precisely a very important and valuable
+characteristic of the theory'. For, Planck notes, natural laws always imply certain
+restrictions on infinitely many possibilities. 'Should we consider Newton's law of
+attraction unsatisfactory because the power 2 plays a preferred role?' Could one
+perhaps not relate the preferred uniform motion to 'the special privilege which
+indeed singles out the straight line among all other spatial curves'?! These are not
+impressive comments. However, one must side with Planck when he courteously
+and justly chided Einstein, noting that in the latter's general theory not all coor-
+dinate systems are on an equal footing anyway, 'as you yourself have proved only
+recently.' Planck ended by expressing the hope that the expedition planned to
+observe the solar eclipse of August 21, 1914, would provide information about the
+bending of light predicted (not yet correctly) by Einstein. These hopes were dashed
+by the outbreak of the First World War.
+Einstein's productivity was not affected by the deep troubles of the war years,
+which, in fact, rank among the most productive and creative in his career. During
+this period, he completed the general theory of relativity, found the correct values
+for the bending of light and the displacement of the perihelion of Mercury, did
+pioneering work on cosmology and on gravitational waves, introduced his A and
+B coefficients for radiative transitions, found a new derivation of Planck's radia-
+tion law—and ran into his first troubles with causality in quantum physics. Dur-
+ing the war he produced, in all, one book and about fifty papers, an outpouring
+all the more astounding since he was seriously ill in 1917 and physically weakened
+for several years thereafter.
+This intense scientific activity did not banish from Einstein's mind a genuine
+and intense concern for the tragic events unfolding in the world around him. On
+the contrary, the period of 1914-18 marks the public emergence of Einstein the
+radical pacifist, the man of strong moral convictions who would never shy away
+from expressing his opinions publicly, whether they were popular or not. Early
+in the war, he and a few other scholars signed a 'manifesto to Europeans' criticiz-
+ing scientists and artists for having 'relinquished any further desire for the contin-
+uance of international relations' and calling 'for all those who truly cherish the
+culture of Europe to join forces.. . . We shall endeavor to organize a League of
+Europeans' (an effort that came to naught). This appears to be the first political
+document to which Einstein lent his name. He also joined the pacifist Bund Neues
+Vaterland, League of the New Fatherland.* It gave him joy to find colleagues
+who 'stand above the situation and do not let themselves be driven by the murky
+* Einstein on Peace by Otto Nathan and Heinz Norden describes in detail Einstein's political activ-
+ities during the First World War [Nl]. The quotations from the manifesto are taken from that book,
+which contains its full text.
+THE FIELD EQUATIONS OF GRAVITATION 243
+currents of [our] time.. .. Hilbert regrets .. . having neglected to foster interna-
+tional relations more.. .. Planck does all he can to keep the chauvinist majority
+of the Academy in check. I must say that in this respect the hostile nations are
+well matched' [El3].
+The strength of Einstein's own convictions was not lessened by the amused
+detachment with which throughout his life he regarded human folly. 'I begin to
+feel comfortable amid the present insane tumult (wahnsinnige Gegenwartsrum-
+mel), in conscious detachment from all things which preoccupy the crazy com-
+munity (die verriickte Allgemeinheit). Why should one not be able to live con-
+tentedly as a member of the service personnel in the lunatic asylum? After all, one
+respects the lunatics as the ones for whom the building in which one lives exists.
+Up to a point, one can make one's own choice of institution—though the distinc-
+tion between them is smaller than one thinks in one's younger years' [El4].
+Einstein's initial hopes that the voices of reason might prevail yielded to increas-
+ing pessimism as the war dragged on. In 1917 he wrote to Lorentz, 'I cannot help
+being constantly terribly depressed over the immeasurably sad things which bur-
+den our lives. It no longer even helps, as it used to, to escape into one's work in
+physics' [El5]. These feelings of dejection may have been enhanced, I think, by
+Einstein's own illness at that time.
+After this digression on Einstein and the war, I return to the developments in
+general relativity. We are in the fall of 1914, at which time Einstein wrote a long
+paper for the proceedings of the Prussian Academy [El6]. Its main purpose was
+to give a more systematic and detailed discussion of the methods used and the
+results obtained in the first paper with Grossmann [El7]. Nearly half the paper
+deals with an expose of tensor analysis and differential geometry. Einstein clearly
+felt the need to explain these techniques in his own way; they were as new to him
+as to most other physicists. The paper also contains several new touches concern-
+ing physics. First of all, Einstein takes a stand against Newton's argument for the
+absolute character of rotation (as demonstrated, for example, by Newton's often
+reproduced discussion of the rotating bucket filled with water [Wl]). Instead, Ein-
+stein emphasizes, 'we have no means of distinguishing a "centrifugal field" from
+a gravitational field, [and therefore] we may consider the centrifugal field to be a
+gravitational field.' The paper contains another advance. For the first time, Ein-
+stein derives the geodesic equation of motion of a point particle (cf. Eq. 12.28)
+[E18] and shows that it has the correct Newtonian limit (cf. Eq. 12.30) [E19]. He
+also shows that his earlier results about the red shift and the bending of light (still
+the old value, off by a factor of 2) are contained in the tensor theory [E20]. As a
+final positive result, an important comment about the character of space-time
+should be mentioned, which (to my knowledge) he makes here for the first time:
+'According to our theory, there do not exist independent (selbstandige) qualities
+of space' [E21].
+Regarding the covariance properties of the gravitational field equations, how-
+ever, there is no progress. If anything, the situation is getting slightly worse.
+We saw in Section 12d that early in 1913 Einstein and Grossmann had been
+244 RELATIVITY, THE GENERAL THEORY
+unable to find generally covariant gravitational field equations [El7] and that
+Einstein had given a 'physical argument' for the impossibility of such general
+covariance. Now, late in 1914, Einstein reproduced this same argument in his
+long paper. Not only did he still believe it, but he prefaced it with the remark that
+'we must restrict this requirement [of general covariance] if we wish to be in full
+agreement with the law of causality' [E22]. This remark is understandable in the
+context of Einstein's unjustified criterion that the metric tensor g^ should be
+uniquely determined by its source, the energy momentum tensor. In the 1914
+paper he returned to the division of space-time into two domains L, and L2, as
+described in Section 12d. Recall that he had found g^ ¥= g^ in the matter-free
+region L2. This time, he wrote this inequality in more detail: g^x) =£ g'^x'). But,
+he now adds, grua(x') = g'm(x'(x)) = /^(x). Anyone familiar with tensor fields
+will not be shocked by the fact that g^x) ¥= /^(x). Einstein, on the other hand,
+concluded from this inequality that generally covariant gravitational field equa-
+tions are inadmissible. In 1914 not only did he have some wrong physical ideas
+about causality but in addition he did not yet understand some elementary math-
+ematical notions about tensors [HI]. Once again he insisted that the gravitational
+field equations can be covariant only under linear transformations.*
+Einstein next proceeded to show that this restricted covariance uniquely deter-
+mines the gravitational Lagrangian, provided that the latter is assumed to be
+homogeneous and of the second degree in the (ordinary, noncovariant) first deriv-
+atives of the gp, [E24]. In the course of 1915 he realized, however, that this
+'argument for the determination of the Lagrange function of the gravitational field
+was entirely illusory, since it could easily be modified in such a way that [this
+Lagrangian] . .. could be chosen entirely freely' [E25].
+The mathematical details of the October 1914 paper are of no interest for the
+understanding of the evolution of the general theory and will be omitted. This
+paper gave rise to a correspondence between Einstein and Levi-Civita, early in
+1915. The latter pointed out some technical errors. Einstein was grateful for hav-
+ing these brought to his attention. Above all, however, he was happy to have
+finally found a professional who took a keen interest in his work. 'It is remarkable
+how little my colleagues are susceptible to the inner need for a real relativity the-
+ory. ... It is therefore doubly gladdening to get to know better a man like you'
+[E26].
+In summary, toward the end of 1914 Einstein could look back on a year which
+had brought major changes to his personal life and his professional career. He
+was still essentially alone in his convictions about the future of relativity theory
+and confused about some of its crucial features. One year later, he had corrected
+his conceptual errors, completed the theory, and seen others participate actively in
+its development.
+"The slight extension of the set of allowed transformations given in the second Einstein-Grossmann
+paper [E23] (Section 12d) must have been found shortly afterward.
+THE FIELD EQUATIONS OF GRAVITATION 245
+14b. Interlude: Rotation by Magnetization
+'I firmly believe that the road taken is in principle the correct one and that later
+[people] will wonder about the great resistance the idea of general relativity is
+presently encountering' [E27]. This prophesy was made by Einstein in the first
+week of 1915. It would be fulfilled before the year was out, but not until Einstein
+had passed through a crisis followed by an exhausting struggle. Toward the
+autumn of 1915 he finally realized* that his theory up until then was seriously
+wrong in several respects.
+Meanwhile, early in 1915 he did not publish anything substantially new on
+relativity.** He did write two review articles, one on relativity theory [Ell] and
+one on the atomic theory of matter [E29], and a short paper on the statistical
+properties of electromagnetic radiation in thermal equilibrium [E30]. Of more
+interest are his activities in experimental physics. At that time Einstein made good
+use of a temporary guest appointment at the Physikalisch Technische Reichsan-
+stalt in Charlottenburg [K4]. 'In my old age, I am acquiring a passion for exper-
+iment' [E31]. This passion led to the discovery of the Einstein-de Haas (EdH)
+effect, the torque induced in a suspended cylinder (made of iron, for example) as
+a consequence of its being abruptly magnetized. The present interlude is devoted
+to a brief account of these activities.
+Wander Johannes de Haas was a Dutch physicist of Einstein's age. He received
+his PhD in Leiden, in 1912, with Kamerlingh Onnes. Later that same year, he
+went to the University of Berlin to work in the laboratory of Henri du Bois.f In
+August 1913, when Lorentz sent congratulations to Einstein on his forthcoming
+appointment in Berlin, he must have added (the letter is lost) a query concerning
+de Haas, as is seen from Einstein's reply: 'At present, I do not know what to do
+in the matter of your son-in-law, since in Berlin I will have neither an institute
+nor an assistant.' [E3]. Then came the visiting appointment at the Reichsanstalt.
+Einstein was now in a position to do something for de Haas—and for Lorentz.^
+I do not know when de Haas joined Einstein at the Reichsanstalt. However, their
+gyromagnetic experiment was performed 'in a very brief period' [HIa]. De Haas
+left the Reichsanstalt in April 1915.
+Soon after the conclusion of their collaboration, Einstein wrote enthusiastically
+about the results obtained. 'Scientifically, I have done a wonderful experimental
+thing this semester, together with Lorentz's son-in-law. We have given firm proof
+*See Section 14c.
+**It is sometimes incorrectly stated that a brief abstract of a talk by Einstein before the Prussian
+Academy [E28] contains the announcement of the final formulation of his theory as published in
+November 1915 [Dl],
+fin October 1912 the Ehrenfests visited de Haas and his wife in Berlin—at the suggestion of Lorentz
+[K5].
+HOn one occasion, Einstein referred in print to de Haas as Herr de Haas-Lorentz [E32].
+246 RELATIVITY, THE GENERAL THEORY
+of the existence of Ampere's molecular currents* (explanation of para- and fer-
+romagnetism) . .. within the limits of error (about 10 per cent) the experiment
+yielded in all detail a confirmation of the theory' [E14].** Their experiment, sim-
+ple in principle, riddled with complexities in practice, gave the first proof of the
+existence of rotation induced by magnetization. Their result was qualitatively
+right. However, in the pre-spin days of 1915, any dynamic theory of ferromag-
+netism had necessarily to be incorrect. Einstein could not know that his theoretical
+prediction was wrong by a factor of about 2. Since Einstein and de Haas claimed
+to have found agreement between theory and experiment, their experiment had
+also to be wrong by a factor of 2. Their estimate of a 10 per cent experimental
+error had to be too optimistic. As we shall see, the alleged agreement between
+theory and experiment was largely a theoretical prejudice.
+Characteristically, Einstein was unaware of earlier efforts to measure gyro-
+magnetic effects until some time after his own work had been completed [E33].
+These attempts go back to Maxwell, who remarked in his treatise of 1873 that
+'there is as yet no experimental evidence to show whether the electric current is
+really a current of a material substance' [Ml]. He proposed several methods for
+testing this idea: acceleration of a conductor should generate a currentf; and a
+magnet should act like a gyroscope, which is the basic idea of the EdH effect [M2].
+In 1861 Maxwell himself attempted to detect such gyroscopic effects, but without
+success.
+Two other instances of related work prior to 1915 must be mentioned.ff The
+theoretical derivation by Einstein in 1915 had already been given in 1907 by
+Owen Willans Richardson, who had also tried in vain to observe the rotation by
+magnetization, at Palmer Laboratory in Princeton [R1J-H In 1909 Samuel Jack-
+son Barnett, then at Tulane University, began the study of the inverse effect, mag-
+netization by rotation, now known as the Barnett effect. I shall next outline the
+EdH work of 1915 and then state the interesting results obtained by Barnett at
+about the same time [B2].
+Let us first phrase Ampere's hypothesis in modern language. ^^ The magnetic
+moment M of a magnetized body (assumed at rest) is due to circulating 'hidden
+* Andre-Marie Ampere had conjectured around 1820 that magnetism can be considered to be caused
+by electricity in motion.
+**There exists a German [E33], a Dutch [E34], and an English [E35] version of the EdH paper.
+Each one of these differs slightly from the other two. The statement on the limits of error in each
+paper agrees in substance with what is said in the letter quoted in the text. All three papers appeared
+in 1915.
+•(•This effect was first observed in 1916 [Tl].
+ffA detailed early history of gyromagnetic effects is found in papers by Barnett [Bl].
+1[For some years after 1915, the effect was called the Einstein-Richardson effect.
+HHIn EdH and other early papers, the magnetic moment is defined as cM.
+THE FIELD EQUATIONS OF GRAVITATION 247
+electric currents.' The hidden flow of current is due to a hidden flow of charged
+matter (electrons) moving in closed orbits. Thus there exists a hidden angular
+momentum /, related to M by
+where — e and m are the charge and mass of the electron, respectively. The factor
+g is now called the Lande factor (g > 0 for para- and ferromagnetic substances).
+In the model of Richardson and Einstein, the value
+was obtained by the following reasoning. Consider one electron moving with uni-
+form velocity v in a circular orbit with radius r and circular frequency v. Then
+v = 2irrv. The angular momentum has the magnitude mvr = 2irrzmv. An
+amount of electricity —ev passes per second through a point of the orbit. The
+magnetic moment is therefore equal to (—ev)(irr2)/c. Hence g = 1. The same
+value of g should also hold, it was argued, for a piece of paramagnetic or ferro-
+magnetic matter as long as magnetism is caused by a set of electrons moving
+independently in circular orbits.
+Einstein and de Haas knew well that objections could be raised against this
+derivation. 'One of these is even more serious than it was in Ampere's days . ..
+circulating electrons must lose their energy by radiation . . . the molecules of a
+magnetic body would therefore lose their magnetic moment. Nothing of the kind
+having ever been observed, the [Ampere] hypothesis seems irreconcilable with a
+general validity of the fundamental laws of electromagnetism. It appears . . . that
+... as much may be said in favour of Ampere's hypothesis as against it and that
+the question concerns important physical principles' [E35]. Clearly the proof that
+permanently circulating electrons indeed exist meant far more to Einstein than
+only the verification of a century-old hypothesis.* So it did to Bohr, whose theory
+of stationary atomic orbits was only two years old at that time. To Bohr the out-
+come of the EdH experiment was a confirmation of his own ideas. Later in 1915
+he wrote, 'As pointed out by Einstein and de Haas, [their] experiments indicate
+very strongly that electrons can rotate in atoms without emission of energy radia-
+tion' [B3].**
+The EdH technique for measuring g consisted in analyzing the motion of an
+iron cylinder hung vertically (in the z direction; 'up' counted as positive) by means
+'There was still another reason why Einstein attached great significance to the EdH effect, as is
+seen especially clearly in a paper he wrote in May 1915 (E32J: he believed (incorrectly) that the
+persistence of ferromagnetism at zero absolute temperature indicated the existence of a zero point
+energy of rotation. (In 1913 he had invoked just such a zero point energy in an attempt to explain
+certain anomalies in the specific heats of diatomic molecules [E36]. By 1915 he knew that his specific
+heat argument was incorrect, however [Fl].)
+**The quantum theory is not mentioned in any of the EdH papers, however.
+248 RELATIVITY, THE GENERAL THEORY
+of a wire. A fixed solenoid is placed coaxially around the cylinder. The iron is
+magnetized by an alternating current run through the solenoid. The change AM
+of the magnetic moment in the z direction induces a change A/ in the hidden
+angular momentum due to the electron motions such that AM = —eg&J/2mc.
+Angular momentum conservation demands that A/ be compensated for. Thus the
+iron cylinder as a whole acquires an angular momentum — A/, since this body
+may be considered rigid. The resulting angular velocity Aa would be given by
+egQAa = 2mcAM if only the magnetic force were acting on the cylinder (Q being
+the moment of inertia in the z direction). The true Aa results from the interplay
+between the magnetic driving force and the restoring force due to the attachment
+of the cylinder to the wire. It is clear that the experiment serves to determine g if
+the various other magnetic and mechanical parameters are known.
+There are many complications. The cylinder has to be hung precisely on its
+axis; the magnetic field has to be symmetric with respect to the cylinder axis; it
+also has to be uniform in order to give a simple meaning to AM; the effect of the
+earth's magnetic field needs to be compensated for; there may be effects due to the
+interaction of the alternating current with some remanent magnetization of the
+cylinder. No wonder that the cylinder underwent 'the most adventurous motions'
+[E33]. Einstein and de Haas showed that many of these difficulties could be over-
+come by an ingenious trick, the resonance method. The cylinder is hung by means
+of a rather rigid glass wire. The mechanical oscillation frequency of this system
+is matched with the frequency of the alternating current. The resulting resonance
+makes it much easier to separate the desired effect from perturbing influences.*
+Einstein and de Haas took two sets of measurements. They managed to obtain
+agreement with their calculated value g = 1 by singling out one of these two sets.
+Six years later—after it was clear that g = 1 is not the right value—de Haas
+described what they had done.** 'The numbers which we found [for g] are 1.45
+and 1.02. The second value is nearly equal to the classical value [g = 1] so that
+we thought that experimental errors had made the first value too large.... We
+did not measure the field of the solenoid; we calculated it.... We did not measure
+the magnetism of the cylinder, either; we calculated or estimated it. All this is
+stated in our original memoir. These preliminary results seemed satisfactory to us,
+and one can easily understand that we were led to consider the value 1.02 as the
+better one ...' [Hla]. I am not aware of a similar confession by Einstein.
+This section would not be complete without a few remarks about the transition
+to the modern era. It is now known that ferromagnetism is almost purely a spin
+* Additional information was obtained by measuring not only at resonance but also around resonance.
+The many technical details of the measurement not discussed here can be found in Barnett's article
+in the Reviews of Modern Physics [Bl].
+**I express the answers in terms of g, thereby slightly changing the wording of de Haas.
+THE FIELD EQUATIONS OF GRAVITATION 249
+effect. The orbital contributions of earlier days have turned out to be nearly
+entirely quenched. The quantum mechanical theory of ferromagnetism, given by
+Heisenberg in 1928 [Hlb] provided the basis for a refined treatment of the cor-
+responding gyromagnetic effects [H2]. Experimentally, the g value for ferromag-
+netic materials has been found to lie close to 2 (except for Fe7S8) with deviations
+<10 per cent [S2]. The first experimental indications for g ~ 2 were published
+in 1915 by Barnett (then at Ohio State University). In his earlier-mentioned paper
+on the Barnett effect [B2], he concluded that 'the magnitude ... is within the
+experimental error equal to twice the .. . value computed,' the latter value being
+g = 1. However, further measurements done by him in 1917 gave g ~ 1, 'but
+the experimental errors . .. are such that great importance cannot, in my opinion,
+be attached to the discrepancies [with his earlier results]' [B4]. In the period
+1918-20, three independent measurements of the EdH effect were reported. In
+chronological order, these came from Princeton [S3], the ETH in Zurich [B5],
+and Uppsala [Al]. The answers found were g « 1.96, 1.88, and 1.87, respec-
+tively. From that time on, the 'gyromagnetic anomaly' (as it was often called) was
+firmly established. Inevitably this led to fairly widespread speculations about
+'planetary motions of [positively-charged] constituents of nuclei' [B6]. The first
+one to suspect a connection between the anomalous Zeeman effect and this new
+gyromagnetic anomaly was Alfred Lande [LI] in 1921, the same year Heisenberg
+expressed the opinion in a letter to Pauli that g = 2 could occur only in ferro-
+magnetic bodies [H3].
+Since de Haas was from Leiden, where the spin was discovered, it was only
+natural that I would ask Uhlenbeck whether the EdH effect had played any role
+in the discovery of the electron spin by him and Goudsmit (knowing that the effect
+is not mentioned in their paper). Uhlenbeck replied that he knew of the effect
+because he was in Leiden but that this subject was not in the center of attention
+at that time. 'Had Ehrenfest thought it pertinent, he would surely have mentioned
+it to us.' Thus the EdH effect served to confirm rather than stimulate subsequent
+theoretical developments.
+As to Einstein, his interest in gyromagnetism continued after de Haas's depar-
+ture. In 1916 he published another paper on the EdH effect. It contains the design
+of a new experimental arrangement* for determining g [E37]. He also remained
+interested in the activities at the Reichsanstalt. In 1916 he was appointed member
+of its Kuratorium (board of governors) and played an active role in the planning
+and design of its experimental projects [K6].
+Let us now return to our main topic, Einstein's final formulation of his theory
+of general relativity.
+"The idea was to flip the remanent magnetization of a premagnetized iron cylinder. This method
+has the advantage that the cylinder is exposed to a magnetic field for such a brief time (=slO~3 s)
+that irritating side effects are largely eliminated.
+250 RELATIVITY, THE GENERAL THEORY
+14c. The Final Steps
+7. The Crisis. On the first of January 1916, when it was all over, Einstein wrote
+to Lorentz, 'During the past autumn, the gradually dawning realization of the
+incorrectness of the old gravitational equations caused me hard times (bose Zei-
+ten)' [E25]. It appears that this crisis occurred between late July and early Octo-
+ber 1915. For on July 7, 1915, Einstein described to Zangger the subject of lec-
+tures he had just given in Goettingen as 'die nun schon sehr geklarte
+Gravitationstheorie,' the by now already quite clarified theory of gravitation
+[E38]. A week later, he wrote to Sommerfeld about a tentative plan to write a
+short treatise on relativity which was to be oriented toward a general theory of
+relativity [E39]. But on November 7 he wrote to Hilbert, 'I realized about four
+weeks ago that my methods of proof used until then were deceptive' [E40], and
+on October 12, to Lorentz, 'In my paper [of October 1914, [E16]], I carelessly
+(leichtsinnig) introduced the assumption that [the gravitational Lagrangian] is an
+invariant for linear transformations' [E41]. He abandoned this linear invariance
+in a series of papers completed in November 1915, which culminate in the final
+form of his gravitational equations, presented on November 25. On November 28
+he wrote to Sommerfeld: "During the past month I had one of the most exciting
+and strenuous times of my life, but also one of the most successful ones' [E42]. All
+these statements taken together convince me that Einstein still believed in the 'old'
+theory as late as July 1915, that between July and October he found objections
+to that theory, and that his final version was conceived and worked out between
+late October and November 25. In December he wrote with irony about his earlier
+faith in the old version of the theory. 'That fellow Einstein suits his convenience
+(Es ist bequem mil dem E.). Every year he retracts what he wrote the year before
+...' [E43].
+What made Einstein change his mind between July and October? Letters to
+Sommerfeld [E42] and Lorentz [E25] show that he had found at least three objec-
+tions against the old theory: (1) its restricted covariance did not include uniform
+rotations, (2) the precession of the perihelion of Mercury came out too small by
+a factor of about 2, and (3) his proof of October 1914 of the uniqueness of the
+gravitational Lagrangian was incorrect. Einstein got rid of all these shortcomings
+in a series of four brief articles. 'Unfortunately, I immortalized in [these] academy
+papers the last errors made in this struggle' [E42].
+2. November the Fourth. Einstein presents to the plenary session of the Prus-
+sian Academy a new version of general relativity 'based on the postulate of covar-
+iance with respect to transformations with determinant 1' [E44]. He began this
+paper by stating that he had 'completely lost confidence' in the equations proposed
+in October 1914 [El6]. At that time he had given a proof of the uniqueness of the
+gravitational Lagrangian. He had realized meanwhile that this proof 'rested on
+misconception,' and so, he continued, 'I was led back to a more general covariance
+of the field equations, a requirement which I had abandoned only with a heavy
+THE FIELD EQUATIONS OF GRAVITATION 25!
+heart in the course of my collaboration with my friend Grossmann three years
+earlier.' (It should be said that in matters of science a heavy heart never lasted
+very long for Einstein.)
+For the last time, I recall that Einstein and Grossmann had concluded [El7]
+that the gravitational equations could be invariant under linear transformations
+only and that Einstein's justification for this restriction was based on the belief
+that the gravitational equations ought to determine the g^ uniquely, a point he
+continued to stress in October 1914 [E16]. In his new paper [E44], he finally
+liberated himself from this three-year-old prejudice. That is the main advance on
+November 4. His answers were still not entirely right. There was still one flaw,
+a much smaller one, which he eliminated three weeks later. But the road lay open.
+He was lyrical. 'No one who has really grasped it can escape the magic of this
+[new] theory.'
+The remaining flaw was, of course, Einstein's unnecessary restriction to uni-
+modular transformations. The reasons which led him to introduce this constraint
+were not deep, I believe. He simply noted that this restricted class of transfor-
+mations permits simplifications of the tensor calculus. This is mainly because
+Vg is a scalar under unimodular transformations (cf. Eq. 12.14). Therefore the
+distinction between tensors and tensor densities no longer exists. As a result, it is
+possible to redefine covariant differentiation for tensors of rank higher than 1. For
+example, instead of Eq. 12.13, one may use [E45]
+Equation 12.17 can be similarly simplified. 'The most radical simplification' con-
+cerns the Ricci tensor given in Eq. 12.20. Write*
+where [W2]
+Up is a vector since yg is a scalar; s^ is the covariant derivative of v^. Therefore,
+under unimodular transformations, R^ decomposes into two parts, r^ and s^, each
+of which separately is a tensor.
+*The quantities /?,,„, ?•„„, $„„ correspond to Einstein's G^, Rf,, Sf, in [E44].
+252 RELATIVITY, THE GENERAL THEORY
+Having described this splitting of the Ricci tensor, Einstein next proposed his
+penultimate version of the gravitational equations:
+covariant under local unimodular transformations. They are a vast improvement
+over the Einstein-Grossman equations and cure one of the ailments he had diag-
+nosed only recently: unimodular transformations do include rotations with arbi-
+trarily varying angular velocities. In addition, he proved that Eqs. 14.8 can be
+derived from a variational principle; that the conservation laws are satisfied (here
+the simplified definitions Eq. 14.3 play a role); and that there exists an identity
+where T is the trace of T^. He interpreted this equation as a constraint on the
+g^. A week later, he would have more to say on this relation.
+In the weak-field limit, g^ = t}^ + h^ (Eq. 12.29), one recovers Newton's law
+from Eq. 14.8. Einstein's proof of this last statement is by far the most important
+part of this paper. 'The coordinate system is not yet fixed, since four equations
+are needed to determine it. We are therefore free to choose* [my italics]
+Then Eqs. 14.8 and 14.10 yield
+which reduces to the Newton-Poisson equation in the static limit.
+The phrase italicized in the above quotation shows that Einstein's understand-
+ing of general covariance had vastly improved. The gravitational equations do not
+determine the h^ (hence the g^) unambiguously. This is not in conflict with caus-
+ality. One may choose a coordinate system at one's convenience simply because
+coordinate systems have no objective meaning. Einstein did not say all this explic-
+itly in his paper. But shortly afterward he explained it to Ehrenfest. 'The appar-
+ently compelling nature of [my old causality objection] disappears at once if one
+realizes that ... no reality can be ascribed to the reference system' [E43].
+3. November the Eleventh. A step backward. Einstein proposes [E46] a
+scheme that is even tighter than the one of a week earlier. Not only shall the
+theory be invariant with respect to unimodular transformations—which implies
+that g is a scalar field—but, more strongly, it shall satisfy
+*'Wir diirfen deshalb willkiirlich festsetzen . . .'. Equation 14.10 is the harmonic coordinate condi-
+tion in the weak-field limit [W3].
+THE FIELD EQUATIONS OF GRAVITATION 253
+He writes the gravitational equations in the form
+where R^ is the full Ricci tensor. However, Eqs. 14.7 and 14.12 imply that s^
+= 0. Thus Eqs. 14.4 and 14.13 give once again Eq. 14.8, the gravitational equa-
+tions of November 4.
+Though not compelling, this new idea may seem simple. It is in fact quite mad.
+Equation 14.12 together with Eq. 14.9 implies that T = 0. The trace of the
+energy momentum tensor does vanish for electromagnetic fields but not for matter.
+Thus there seems to be a contradiction, which Einstein proposed to resolve by
+means of 'the hypothesis that molecular gravitational fields constitute an essential
+part of matter.' The trace density we 'see' in matter, he suggests, is actually the
+sum T' of T and the trace of the gravitational field. Then T' can be positive and
+yet T = 0. 'We assume in what follows that the condition T = 0 is actually
+fulfilled.'
+During the next two weeks, Einstein believed that his new equation (Eq. 14.12)
+had brought him closer to general covariance. He expressed this opinion to Hilbert
+on November 12. 'Meanwhile, the problem has been brought one step forward.
+Namely, the postulate \/g = 1 enforces general covariance; the Riemann tensor
+yields directly the gravitational equations. If my current modification ... is justi-
+fied, then gravitation must play a fundamental role in the structure of matter.
+Curiosity makes it hard to work!' [E47].
+One week later, he remarked that 'no objections of principle' can be raised
+against Eq. 14.12 [E48]. Two weeks later, he declared that 'my recently stated
+opinion on this subject was erroneous' [El].
+4. November the Eighteenth. Einstein still subscribes to the demands of
+unimodular invariance and \/g = 1 • On the basis of this 'most radical relativity
+theory,' he presents two of his greatest discoveries [E48]. Each of these changed
+his life.
+The first result was that his theory 'explains .. . quantitatively .. . the secular
+rotation of the orbit of Mercury, discovered by Le Verrier, . . . without the need
+of any special hypothesis.' This discovery was, I believe, by far the strongest emo-
+tional experience in Einstein's scientific life, perhaps in all his life. Nature had
+spoken to him. He had to be right. 'For a few days, I was beside myself with
+joyous excitement' [E49]. Later, he told Fokker that his discovery had given him
+palpitations of the heart [F2]. What he told de Haas [F2] is even more profoundly
+significant: when he saw that his calculations agreed with the unexplained astro-
+nomical observations, he had the feeling that something actually snapped in
+him. .. .
+Einstein's discovery resolved a difficulty that was known for more than sixty
+years. Urbain Jean Joseph Le Verrier had been the first to find evidence for an
+anomaly in the orbit of Mercury and also the first to attempt to explain this effect.
+On September 12, 1859, he submitted to the Academy of Sciences in Paris the text
+254 RELATIVITY, THE GENERAL THEORY
+of a letter to Herve Faye in which he recorded his findings [L2]. The perihelion
+of Mercury advances by thirty-eight seconds per century due to 'some as yet
+unknown action on which no light has been thrown* ... a grave difficulty, worthy
+of attention by astronomers.' The only way to explain the effect in terms of known
+bodies would be (he noted) to increase the mass of Venus by at least 10 per cent,
+an inadmissible modification. He strongly doubted that an intramercurial planet,
+as yet unobserved, might be the cause. A swarm of intramercurial asteroids was
+not ruled out, he believed. 'Here then, mon cher confrere, is a new complication
+which manifests itself in the neighborhood of the sun.'
+Perihelion precessions of Mercury and other bodies** have been the subject of
+experimental study from 1850 up to the present.f The value 43 seconds per cen-
+tury for Mercury, obtained in 1882 by Simon Newcomb [Nla], has not changed.
+The present best value is 43". 11 + 0.45 [W4]. The experimental number quoted
+by Einsteintf on November 18, 1915, was 45" ± 5 [E48].
+In the late nineteenth and early twentieth centuries, attempts at a theoretical
+interpretation of the Mercury anomaly were numerous. Le Verrier's suggestions
+of an intramercurial planet^ or planetary ring were reconsidered. Other mecha-
+nisms examined were a Mercury moon (again as yet unseen), interplanetary dust,
+and a possible oblateness of the sun [O2, F3]. Each idea had its proponents at one
+time or another. None was ever generally accepted. All of them had in common
+that Newton's 1 /r2 law of gravitation was assumed to be strictly valid. There were
+also a number of proposals to explain the anomaly in terms of a deviation from
+this law. Recall that Newton himself already knew that small deviations from the
+power —2 would lead to secular perturbations of planetary orbits [N2]. Two
+kinds of modifications from Newton's law were considered: a slightly different,
+purely static law [O3] or a 1/r2 law corrected with velocity-dependent terms [Zl]
+(Lorentz's theory of gravitation mentioned in Chapter 13 belongs to this last cat-
+egory). These attempts either failed or are uninteresting because they involve
+adjustable parameters. Whatever was tried, the anomaly remained puzzling. In
+his later years, Newcomb tended 'to prefer provisionally the hypothesis that the
+sun's gravitation is not exactly as the inverse square' [N3J.5H
+Against this background, Einstein's joy in being able to give an explanation
+'without any special hypothesis' becomes all the more understandable. The tech-
+*' . .. du a quelque action encore inconnue, "cui theoriae lumen nundum accessed!." '
+**See, for example, the table in [W4].
+t A detailed list of nineteenth century references is found in [Ol].
+f fEinstein took this value from a review by Freundlich [F3]. For his appreciation of Newcomb, see
+[E49a].
+Uln the 1870s, it was briefly thought that such a planet (it was named Vulcan) had actually been
+seen.
+51[For a detailed survey of Le Verrier's and Newcomb's work, see [Gl].
+THE FIELD EQUATIONS OF GRAVITATION 255
+nicalities of his calculation need not be described in detail since they largely coin-
+cide with standard textbook treatments. The following comments will suffice.
+a) Einstein started from his field equations
+r^ = 0 (14.14)
+for empty space (cf. Eq. 14.8) and his general condition yg = 1, Eq. 14.12. The
+modern treatment starts from R^ = 0 and a choice of coordinate system such that
+V£ = 1. Either way, the answers for the effect are, of course, the same, a fact
+Einstein became aware of in the course of preparing his paper [E50].
+b) On November 18, he did not yet have the g^R/2 term in the field equations.
+This term plays no role in the actual calculations he made, as he himself stressed
+one week later.
+c) The approximation method developed in this paper marks the beginning of
+post-Newtonian celestial mechanics. Einstein asked for a static isotropic solution
+of the metric (as it is now called [W5]). His answer: g^ = —5^ — ax^Jr3, g^
+= 0, £00 = ~1 + <x/r (i,k = 1,2,3), where a is an integration constant. He
+expanded in a/r; \/g — 1 is satisfied to first order. It suffices to compute F^ to
+first order, T'm to second order. The results are inserted in the geodesic equations
+(Eq. 12.28) and the standard bound-orbit caculation is performed. And so, one
+week before the general theory of relativity was complete, Einstein obtained for
+the precession per revolution: 247T3a2/7"V(l — e2), which yields 43"/century (a
+= semimajor axis, T = period of revolution, e = eccentricity; see [W6] for the
+relation between this result and modern experiment).
+d) Two months later, on January 16, 1916, Einstein read a paper [S4] before
+the Prussian Academy on behalf of Karl Schwarzschild, who was in the German
+army at the Russian front at that time. The paper contained the exact solution of
+the static isotropic gravitational field of a mass point, the first instance of a rigorous
+solution of Einstein's full gravitational field equations. On February 24, 1916,
+Einstein read another paper by Schwarzschild [S5], this one giving the solution
+for a mass point in the gravitational field of an incompressible fluid sphere. It is
+there that the Schwarzschild radius is introduced for the first time. On June 29,
+1916, Einstein addressed the Prussian Academy [E51] to commemorate
+Schwarzschild, who had died on May 11 after a short illness contracted at the
+Russian front. He spoke of Schwarzschild's great talents and contributions both
+as an experimentalist and a theorist. He also spoke of Schwarzschild's achieve-
+ments as director (since 1909) of the astrophysical observatory in Potsdam. He
+concluded by expressing his conviction that Schwarzschild's contributions would
+continue to play a stimulating role in science. .. .
+I return to the November 18 paper. Einstein devoted only half a page to his
+second discovery: the bending of light is twice as large as he had found earlier. 'A
+light ray passing the sun should suffer a deflection of 1".7 (instead of 0".85).' As
+is well known [ W7], this result can be obtained with the help of the same solutions
+256 RELATIVITY, THE GENERAL THEORY
+for gy, as mentioned above, applied this time to compute unbound orbits.* The
+discussion of the momentous consequences of this result will be reserved for Chap-
+ter 16.
+5. November the Twenty-Fifth \E1\:
+The work is done. The conservation laws are satisfied: yg = 1 is no equation of
+principle but rather an important guide to the choice of convenient coordinate
+systems. The identity Eq. 14.9, thought earlier to have major physical implica-
+tions, is replaced by a triviality. The calculations of the week before remain
+unaffected:
+Any physical theory that obeys special relativity can be incorporated into the
+general theory of relativity; the general theory does not provide any criterion
+for the admissibility of that physical theory.. . . Finally the general theory of
+relativity is closed as a logical structure.[El]
+Note that Eq. 14.15 is equivalent to R" - g^R/2 = -K.T".
+In Section 12d, I mentioned that Einstein did not know the Bianchi identities
+[W8]
+when he did his work with Grossmann. He still did not know them on November
+25 and therefore did not realize that the energy-momentum conservation laws
+follow automatically from Eqs. 14.15 and 14.16. Instead, he used these conser-
+vation laws as a constraint on the theory! I paraphrase his argument. Start from
+Eq. 14.15 but with the coefficient % replaced by a number a to be determined.
+Differentiate Eq. 14.15 covariantly and use Eq. 14.17. Next take the trace of Eq.
+14.15, then differentiate. One finds that (R" + a(\ - 4a)-y7?):, = 0 (use
+gi** = 0)- Choose coordinates such that \fg = 1. See if there is a solution for a.
+One finds a = & Einstein's choice of coordinates is of course admissible, but it
+is an unnecessary restriction that prevented him from discovering Eq. 14.16 as a
+generally covariant relation. We shall see in Section 15c how the Bianchi identities
+finally entered physics.
+Einstein's brief belief in Eq. 14.9 may have been a useful mistake, since he had
+discovered that funny equation by the same compatibility method. In the case of
+Eq. 14.8, the relations are r = — /cTand r£ = 0. The term on the left-hand side
+in Eq. 14.9 arose because in the November 4 paper Einstein had redefined his
+*Einstein inserted those gf, into gf,dx"dx' = 0 and then applied Huyghens" principle.
+THE FIELD EQUATIONS OF GRAVITATION 257
+covariant derivatives (cf. Eq. 14.3) in such a way that the conservation laws read
+On November 28, Einstein wrote to Sommerfeld that three years earlier he and
+Grossmann had considered Eq. 14.15 'without the second term on the right-hand
+side,' but had come to the wrong conclusion that it did not contain Newton's
+approximation [E42].
+On December 10, he wrote to Besso that he was 'zufrieden aber ziemlich
+kaputt' [E52].*
+On June 20, 1933, Einstein, exiled from Germany, gave a lecture at the Uni-
+versity of Glasgow on the origins of the general theory of relativity. In concluding
+this address, he said:
+The years of searching in the dark for a truth that one feels but cannot express,
+the intense desire and the alternations of confidence and misgiving until one
+breaks through to clarity and understanding are known only to him who has
+himself experienced them. [ E52a]
+14d. Einstein and Hilbert**
+To repeat, on November 25 Einstein presented his final version (Eq. 14.15) of the
+gravitational equations to the Prussian Academy. Five days earlier, David Hilbert
+had submitted a paper to the Gesellschaft der Wissenschaften in Goettingen [H4]
+which contained the identical equation but with one qualification. Einstein, having
+learned the hard way from his mistakes a few weeks earlier, left the structure of
+T1" entirely free, except for its transformation and conservation properties. Hil-
+bert, on the other hand, was as specific about gravitational as about all other
+forces. Correspondingly (and this is the qualification), his T" has a definite
+dynamic form:'. . . I believe that [my paper] contains simultaneously the solution
+of the problems of Einstein and of Mie.'
+In 1912-13, Mie had proposed a field theory of electromagnetism and matter
+based on non-gauge-invariant modifications of Maxwell's equations [M4]. It was
+meant to be a theory of everything but gravitation.f Mie's ideas attracted attention
+in the second decade of this century but are now of historical interest only and of
+no relevance to our present subject. Suffice it to say that it was Hilbert's aim to
+give not just a theory of gravitation but an axiomatic theory of the world. This
+'Content but rather worn out.
+"See also [M3j.
+f Mie's ideas on gravitation were referred to in Chapter 13. For a comment by Einstein on Mie's
+electromagnetic theory, see [E52b]. The reader will find clear synopses of Mie's theory in the texts
+by Pauli [P2] and by Weyl [W9].
+258 RELATIVITY, THE GENERAL THEORY
+lends an exalted quality to his paper, from the title, 'Die Grundlagen der Physik,'
+The Foundations of Physics, to the concluding paragraph, in which he expressed
+his conviction that his fundamental equations would eventually solve the riddles
+of atomic structure. In December 1915, Einstein remarked that Hilbert's com-
+mitment to Mie's theory was unnecessary from the point of view of general rela-
+tivity [E53]. 'Hilbert's Ansatz for matter seems childish to me,' he wrote some
+time later [E54]. Justified though these criticisms are, Hilbert's paper nevertheless
+contains a very important and independent contribution to general relativity: the
+derivation of Eq. 14.15 from a variational principle.
+Hilbert was not the first to apply this principle to gravitation. Lorentz had done
+so before him [L3]. So had Einstein, a few weeks earlier [E44]. Hilbert was the
+first, however, to state this principle correctly:
+for infinitesimal variations g*"(x) —* g"(x) + f>g**(x) such that 8g"" = 0 at the
+boundary of the integration domain (R is the Riemann curvature scalar, L the
+matter Lagrangian). It is well known that Eq. 14.18 leads to Eq. 14.15, including
+the trace term, if L depends on gf" but not on their derivatives.*
+Hilbert's paper also contains the statement (but not the proof!!) of the following
+theorem. Let / be a scalar function of n fields and let b$J\/~gd*x = 0 for varia-
+tions x" —* x" + ^(x) with infinitesimal |". Then there exist four relations
+between the n fields. It is now known* that these are the energy-momentum
+conservation laws (Eq. 14.17) if /= L and the identities (Eq. 14.16) if /= R,
+but in 1915 that was not yet clear. Hilbert misunderstood the meaning of the
+theorem as it applied to his theory. Let / correspond to his overall gravitational-
+electromagnetic Lagrangian. Then / depends on 10 + 4 fields, the g^, and the
+electromagnetic potentials. There are four identities between them. 'As a conse-
+quence of... the theorem, the four [electromagnetic] equations may be considered
+as a consequence of the [gravitational] equations.... In [this] sense electromag-
+netic phenomena are gravitational effects. In this observation I see the simple and
+very surprising solution of the problem of Riemann, who was the first to seek
+theoretically for the connection between gravitation and light.'** Evidently Hil-
+bert did not know the Bianchi identities either!
+These and other errors were expurgated in an article Hilbert wrote in 1924
+[H5]. It is again entitled 'Die Grundlagen der Physik' and contains a synopsis of
+his 1915 paper and a sequel to it [H6], written a year later. Hilbert's collected
+works, each volume of which contains a preface by Hilbert himself, do not include
+these two early papers, but only the one of 1924 [H7]. In this last article, Hilbert
+*Scc the detailed discussion of variational principles in [W10] and [M5]. The tensor T" is defined
+by SJL Vgd'x = }i-SV^T"(x)Sgl,(x)dtX.
+"Here Hilbert referred to the essay 'Gravitation und Licht' in Riemann's Nachlass [R2].
+THE FIELD EQUATIONS OF GRAVITATION 259
+credited Amalie Emmy Noether (who was in Goettingen in 1915) with the proof
+of the theorem about the four identities; Noether's theorem had meanwhile been
+published, in 1918 [N4]. By 1924 Lorentz [L4], Felix Klein [K7], Einstein [E55],
+and Weyl [Wll] had also written about the variational methods and the identities
+to which they give rise (see further Section 15c).
+I must return to Einstein and Hilbert, however. The remarkable near simul-
+taneity of their common discovery raises the obvious question of what exchanges
+took place between them in 1915. This takes me back to the summer of that year.
+As was mentioned earlier, in late June-early July, Einstein had spent about a
+week in Goettingen, where he 'got to know and love Hilbert. I gave six two-hour
+lectures there' [E9].* The subject was general relativity. 'To my great joy, I suc-
+ceeded in convincing Hilbert and Klein completely' [E56]. 'I am enthusiastic about
+Hilbert. An important figure . . .,' [E39], he wrote upon his return to Berlin. From
+the period in which Einstein lectured, it is clear that his subject was the imperfect
+theory described in his paper of October 1914. I have already mentioned that
+Einstein made his major advance in October-November 1915. I know much less
+about the time it took Hilbert to work out the details of the paper he presented
+on November 20. However, we have Felix Klein's word that, as with Einstein,
+Hilbert's decisive thoughts came to him also in the fall of 1915—not in Goettingen
+but on the island of Rugen in the Baltic [K8].
+The most revealing source about the crucial month of November is the corre-
+spondence during that period between Einstein and Hilbert. Between November
+7 and 25, Einstein, otherwise a prolific letter writer, did not correspond with any-
+one—except Hilbert (if the Einstein archive in Princeton is complete in regard to
+that period). Let us see what they had to say to each other.
+November 7: E. to H. Encloses the proofs of the November 4 paper 'in which
+I have derived the gravitational equations after I recognized four weeks ago that
+my earlier methods of proof were deceptive.' Alludes to a letter by Sommerfeld
+according to which Hilbert had also found objections to his October 1914 paper
+[E40]. The whole November correspondence may well have been triggered, it
+seems to me, by Einstein's knowledge that he was not the only one to have found
+flaws in this earlier work of his.
+November 12: E. to H. Communicates the postulate \fg = 1 (the November
+II paper). Sends along two copies of the October 1914 paper [E47].
+November 14: H. to E. Is excited about his own 'axiomatic solution of your
+grand problem. ... As a consequence of a general mathematical theorem, the
+(generalized Maxwellian) electrodynamic equations appear as a mathematical
+consequence of the gravitational equations so that gravitation and electrodynamics
+are not distinct at all.' Invites E. to attend a lecture on the subject, which he plans
+to give on November 16 [H8].
+*Einstein and Hilbert began corresponding at least as early as October 1912, when Einstein was
+still in Zurich.
+260 RELATIVITY, THE GENERAL THEORY
+November 15: E. to H. 'The indications on your postcards lead to the greatest
+expectations.' Apologizes for his inability to attend the lecture, since he is overtired
+and bothered by stomach pains. Asks for a copy of the proofs of Hilbert's paper
+[E57].
+November 18: E. to H. Apparently Einstein has received a copy of Hilbert's
+work. 'The system [of equations] given by you agrees—as far as I can see—
+exactly with what I found in recent weeks and submitted to the Academy' [E58].
+November 19: H. to E. Congratulates him for having mastered the perihelion
+problem. 'If I could calculate as quickly as you, then the electron would have to
+capitulate in the face of my equations and at the same time the hydrogen atom
+would have to offer its excuses for the fact that it does not radiate' [H9]. Here, on
+the day before Hilbert submitted his November 20 paper, the known November
+correspondence between the two men ends.
+Let us come back to Einstein's paper of November 18. It was written at a time
+in which (by his own admission) he was beside himself about his perihelion dis-
+covery (formally announced that same day), very tired, unwell, and still at work
+on the November 25 paper. It seems most implausible to me that he would have
+been in a frame of mind to absorb the content of the technically difficult paper
+Hilbert had sent him on November 18. More than a year later, Felix Klein wrote
+that he found the equations in that paper so complicated that he had not checked
+them [K9]. It is true that Hilbert's paper contains the trace term which Einstein
+had yet to introduce.* But Einstein's method for doing so was, as mentioned ear-
+lier, the adaptation of a trick he had already used in his paper of November 4.
+Thus it seems that one should not attach much significance either to Einstein's
+agreeing with Hilbert 'as far as I can see' or to Hilbert's agreeing with Einstein
+'as it seems to me' [H4]. I rather subscribe to Klein's opinion that the two men
+'talked past each other, which is not rare among simultaneously productive math-
+ematicians' [K10]. (I leave aside the characterization of Einstein as a mathema-
+tician, which he never was nor pretended to be.) I again agree with Klein 'that
+there can be no question of priority, since both authors pursued entirely different
+trains of thought to such an extent that the compatibility of the results did not at
+once seem assured' [Kll]. I do believe that Einstein was the sole creator of the
+physical theory of general relativity and that both he and Hilbert should be cred-
+ited for the discovery of the fundamental equation (Eq. 14.15).
+I am not sure that the two protagonists would have agreed.
+Something happened between these two men between November 20 and
+December 20, when Einstein wrote to Hilbert, 'There has been a certain pique
+between us, the causes of which I do not wish to analyze. I have struggled with
+complete success against a feeling of bitterness connected with that. I think of you
+once again with untroubled friendliness and ask you to try to do the same regard-
+"Hilbert's Tf, has a nonvanishing trace since his L refers to the Mie theory. I find it hard to believe
+that Einstein went as far as thinking that Hilbert's Triad to vanish [E59].
+THE FIELD EQUATIONS OF GRAVITATION 26l
+ing me. It is really a shame if two real fellows who have freed themselves to some
+extent from this shabby world should not enjoy each other' [E60]. The full story
+may never be known. However, in a reply to a query, E. G. Straus wrote to me,
+'Einstein felt that Hilbert had, perhaps unwittingly, plagiarized Einstein's
+[largely wrong!] ideas given in a colloquium talk at Goettingen.* The way Ein-
+stein told it, Hilbert sent a written apology in which he said that '[this talk] had
+completely slipped his mind . . ." [SI]. Whatever happened, Einstein and Hilbert
+survived. The tone of their subsequent correspondence is friendly. In May 1916
+Einstein gave a colloquium on Hilbert's work in Berlin [E61]. On that occasion
+he must have expressed himself critically about Hilbert's approach.** In May
+1917 he told a student from Goettingen, 'It is too great an audacity to draw
+already now a picture of the world, since there are still so many things which we
+cannot yet remotely anticipate' [S6], an obvious reference to Hilbert's hopes for a
+unification of gravitation and electromagnetism. Einstein was thirty-eight when
+he said that. He was to begin his own program for a picture of the world shortly
+thereafter. ...
+References
+Al. G. Arvidsson, Phys. Zeitschr. 21, 88 (1920).
+Bl. S. J. Barnett, Physica 13, 241 (1933); Phys. Zeitschr. 35, 203 (1934); Rev. Mod.
+Phys. 7, 129 (1935).
+B2. , Phys. Rev. 6, 239 (1915).
+B3. N. Bohr, Phil. Mag. 30, 394 (1915).
+B4. S. J. Barnett, Phys. Rev. 10, 7 (1917).
+B5. E. Beck, AdP 60, 109 (1919).
+B6. Cf. W. Braunbeck, Phys. Zeitschr. 23, 307 (1922) and also the discussion at the
+end of [Hla].
+Cl. J. Chazy, La Theorie de la Relativite et la Mecanique Celeste, Chap. 4. Gauthier-
+Villars, Paris, 1928.
+Dl. Cf., e.g., Dictionary of Scientific Biography, Vol. 4, pp. 324, 327. Scribner's, New
+York, 1971.
+El. A. Einstein, PAW, 1915, p. 844.
+E2. , letter to J. Laub, July 22, 1913.
+E3. , letter to H. A. Lorentz, August 14, 1913.
+E4. , letter to P. Ehrenfest, undated, probably winter 1913-14.
+E5. —, letter to H. Zangger, March 10, 1914.
+E6. , Viertelj. Schr. Naturf. Ges. Zurich 59, 4 (1914).
+E7. , letter to M. Besso, early March 1914; EB, p. 52.
+*I am forced to assume that this is in reference to the June-July talks, since it is hard to believe
+that Einstein visited Goettingen in November 1915.
+"Einstein to Ehrenfest: 'I don't like Hilbert's presentation . .. unnecessarily special . .. unneces-
+sarily complicated . .. not honest in structure (vision of the Ubermensch by means of camouflaging
+the methods) .. .' [E62].
+262 RELATIVITY, THE GENERAL THEORY
+E7a. , letter to C. Seelig, May 5, 1952.
+E8. —, letter to P. Ehrenfest, April 10, 1914.
+E9. , letter to H. Zangger, July 7, 1915.
+E10. , Die Vossische Zeitung, April 26, 1914.
+Ell. —•— in Kultur der Gegenwart (E. Lecher, Ed.), Vol. 3. Teubner, Leipzig, 1915.
+E12. , PAW, 1914, p. 739.
+E13. , letter to H. Zangger, July 7, 1915.
+E14. ——, letter to H. Zangger, undated, probably spring 1915.
+E15. , letter to H. A. Lorentz, December 18, 1917.
+E16. , PAW, 1914, p. 1030.
+E17. — and M. Grossmann, Z. Math. Phys. 62, 225 (1913).
+£18. , [E16], p. 1046, Eq. 23b.
+E19. , [E16], p. 1083, the second of Eqs. 88.
+E20. , [E16], p. 1084.
+E21. , [E16], p. 1085.
+E22. , [E16], p. 1066.
+E23. and M. Grossmann, Z. Math. Phys. 63, 215 (1915).
+E24. , [E16], pp. 1075, 1076, especially Eq. 78.
+E25. , letter to H. A. Lorentz, January 1, 1916.
+E26. , letter to T. Levi-Civita, April 14, 1915.
+E27. , letter to P. Straneo, January 7, 1915.
+E28. ,/MW, 1915, p. 315.
+E29. in Kultur der Gegenwart (E. Lecher, Ed.), Vol. 3. Teubner, Leipzig, 1915.
+E30. , AdP47, 879 (1915).
+E31. , letter to M. Besso, February 12, 1915; EB, p. 57.
+E32. , Naturw. 3, 237 (1915).
+E33. and W. de Haas, Verh. Deutsch. Phys. Ges. 17, 152 (1915); correction, 17,
+203 (1915).
+E34. and W. de Haas, Versl. K. Ak. Amsterdam 23, 1449 (1915).
+E35. and W. de Haas, Proc. K. Ak. Amsterdam 18, 696 (1915).
+E36. and O. Stern, AdP 40, 551 (1913).
+E37. , Verh. Deutsch. Phys. Ges. 18, 173 (1916).
+E38. , letter to H. Zangger, July 7, 1915.
+E39. , letter to A. Sommerfeld, July 15, 1915. Reprinted in Einstein/Sommerfeld
+Briefwechsel (A. Hermann, Ed.), p. 30. Schwabe, Stuttgart, 1968.
+E40. , letter to D. Hilbert, November 7, 1915.
+E41. —, letter to H. A. Lorentz, October 12, 1915.
+E42. , letter to A. Sommerfeld, November 28, 1915. Reprinted in Einstein/Som-
+merfeld Briefwechsel, p. 32.
+E43. , letter to P. Ehrenfest, December 26, 1915.
+E44. , PAW, 1915, p. 778.
+E45. , [E44], Eq. 5a.
+E46. , PAW, 1915, p. 799.
+E47. , letter to D. Hilbert, November 12, 1915.
+E48. , PAW, 1915, p. 831.
+E49. , letter to P. Ehrenfest, January 17, 1916.
+E49a. , Science 69, 248 (1929).
+THE FIELD EQUATIONS OF GRAVITATION 263
+E50. , [E48], p. 831.
+E51. , PAW, 1916, p. 768, footnote 1.
+E52. , letter to M. Besso, December 10, 1915; EB, p. 59.
+E52a. , The Origins of the General Theory of Relativity. Jackson, Wylie, Glasgow,
+1933.
+E52b. and J. Grommer, PAW, 1927, p. 3.
+E53. , letter to A. Sommerfeld, December 9, 1915. Reprinted in Einstein/Som-
+merfeld Briefwechsel, p. 36.
+E54. , letter to H. Weyl, November 23, 1916.
+E55. , PAW, 1916, p. 1111.
+E56. —, letter to W. J. de Haas, undated, probably August 1915.
+E57. —-, letter to D. Hilbert, undated, very probably November 15, 1915.
+E58. , letter to D. Hilbert, November 18, 1915.
+E59. J. Barman and C. Glymour, Arch. Hist. Ex. Set. 19, 291 (1978).
+E60. A. Einstein, letter to D. Hilbert, December 20, 1915.
+E61. , letter to D. Hilbert, May 25, 1916.
+E62. , letter to P. Ehrenfest, May 24, 1916.
+Fl. A. D. Fokker, AdP 43, 810 (1914).
+F2. , Ned. Tydschr. Natuurk. 21, 125 (1955).
+F3. E. Freundlich, Astr. Nachr. 201, 51 (1915).
+HI. B. Hoffmann, Proc. Einstein Symposium Jerusalem, 1979.
+Hla. W. de Haas in Proceedings of the Third Solvay Conference, April 1921, p. 206.
+Gauthier-Villars, Paris, 1923.
+Hlb. W. Heisenberg, Z. Phys. 49, 619 (1928).
+H2. S. P. Heims and E. T. Jaynes, Rev. Mod. Phys. 34, 143 (1962).
+H3. W. Heisenberg, letter to W. Pauli, December 17, 1921. See W. Pauli: Scientific
+Correspondence, Vol. 1, p. 48. Springer, New York, 1979.
+H4. D. Hilbert, Goett. Nachr., 1915, p. 395.
+H5. , Math. Ann. 92, 1 (1924).
+H6. , Goett. Nachr., 1917, p. 53.
+H7. ——, Gesammelte Abhandlungen, Vol. 3, p. 258. Springer, New York, 1970.
+H8. , two postcards to A. Einstein, November 14, 1915.
+H9. , letter to A. Einstein, November 19, 1915.
+Kl. C. Kirsten and H. J. Treder, Albert Einstein in Berlin, 1913-1933, Vol. I, p. 95.
+Akademie Verlag, Berlin, 1979. This volume is referred to below as K.
+K2. K, p. 98.
+K3. K, p. 101.
+K4. K, p. 50.
+K5. M. Klein, Paul Ehrenfest, Vol. 1, p. 194. North Holland, Amsterdam, 1970.
+K6. K, p. 50.
+K7. F. Klein, Gesammelte Mathematische Abhandlungen, Vol. 1, pp. 553, 568, 586.
+Springer, New York, 1973.
+K8. , letter to W. Pauli, May 8, 1921; Pauli correspondence cited in [H3], p. 31.
+K9. , [K7], p. 559.
+K10. , letter to W. Pauli, March 8, 1921; Pauli correspondence cited in [H3], p.
+27.
+Kll. , [K7],p. 566.
+264 RELATIVITY, THE GENERAL THEORY
+LI. A. Lande, Z. Phys. 7, 398 (1921).
+L2. U. J. J. Le Verrier, C. R. Ac. Sci. Paris 49, 379 (1859).
+L3. H. A. Lorentz, Proc. K. Ac. Wetensch. Amsterdam 23, 1073 (1915).
+L4. , Collected Papers, Vol. 5, p. 246. Nyhoff, the Hague, 1934.
+Ml. J. C. Maxwell, Treatise on Electricity and Magnetism (1st edn.), Vol. 2, p. 202.
+Clarendon Press, Oxford, 1873.
+M2. , ibid., pp. 200-4.
+M3. J. Mehra, Einstein, Hilbert and the Theory of Gravitation. D. Reidel, Boston,
+1974.
+M4. G. Mie, AdP37, 511 (1912); 39, 1 (1912); 40, 1 (1913).
+M5. C. Misner, K. Thorne, and J. Wheeler, Gravitation, Chap. 21. Freeman, San
+Francisco, 1970.
+Nl. O. Nathan and H. Norden, Einstein on Peace, Chap. 1. Schocken, New York,
+1968.
+Nla. S. Newcomb. Astr. Papers of the Am. Ephemeris 1, 472 (1882).
+N2. I. Newton, Principia, liber 1, sectio 9. Best accessible in the University of Cali-
+fornia Press edition, 1966 (F. Cajori, Ed.).
+N3. S. Newcomb, Encyclopedia Britannica, Vol. 18, p. 155. Cambridge University
+Press, Cambridge, 1911.
+N4. E. Noether, Goett. Nachr., 1918, pp. 37, 235.
+01. S. Oppenheim, Encyklopadie der Mathematischen Wissenschaften Vol. 6, Chap.
+22, p. 94. Teubner, Leipzig, 1922.
+02. , [Ol], Chap. 4.
+03. , [Ol], Chap. 5.
+PI. M. Planck, PAW, 1914, p. 742.
+P2. W. Pauli, Relativity Theory, Sec. 64. Pergamon Press, London, 1958.
+Rl. O. W. Richardson, Phys. Rev. 26, 248 (1908).
+R2. B. Riemann, Gesammelte Mathematische Werke und Wissenschaftlicher Nachlass
+(H. Weber, Ed.), p. 496. Teubner, Leipzig, 1876.
+51. E. G. Straus, letter to A. Pais, October 1979.
+52. G. G. Scott, Rev. Mod. Phys. 34, 102 (1962).
+53. J. Q. Stewart, Phys. Rev. 11, 100 (1918).
+54. K. Schwarzschild, PAW, 1916, p. 189.
+55. , /MW, 1916, p. 424.
+56. Se, p. 261.
+Tl. R. Tolman and J. Q. Stewart, Phys. Rev. 8, 97 (1916).
+Wl. See, e.g., S. Weinberg, Gravitation and Cosmology, p. 16. Wiley, New York, 1972.
+This book is quoted as W hereafter.
+W2. W, p. 107.
+W3. W, p. 163.
+W4. W, p. 198.
+W5. W, p. 176.
+W6. C. M. Will in General Relativity (S. Hawking and W. Israel, Eds.), p. 55. Cam-
+bridge University Press, New York, 1979.
+W7. W, p. 188.
+W8. W, p. 147.
+THE FIELD EQUATIONS OF GRAVITATION 265
+W9. H. Weyl, Space, Time and Matter, Sec. 28. Dover, New York, 1961.
+W10. W, Chap. 12.
+Wll. H. Weyl, AdP 54, 117 (1917).
+Zl. J. Zenneck, Encyklopadie der Mathematischen Wissenschaften, Vol. 5, Chap. 2,
+Part 3. Teubner, Leipzig, 1903.

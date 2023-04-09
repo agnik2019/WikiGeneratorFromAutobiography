@@ -1,0 +1,985 @@
+7
+The New Kinematics
+7a. June 1905: Special Relativity Defined,
+Lorentz Transformations Derived
+7. Relativity's Aesthetic Origins. Without a carrying medium, light can as little
+be seen as sound can be heard. Such was the sensible prejudice of nineteenth cen-
+tury physics. The better light was understood, the more circumscribed became the
+properties of its medium, the aether. The best of all possible aethers, it appeared,
+was one which blows through man and his planet as they speed through this
+absolutely immobile medium. When light turned out to be a transverse wave phe-
+nomenon, the aether had to be declared quasi-rigid.
+The special theory of relativity divested the aether of its principal mechanical
+property, absolute rest, and thereby made the aether redundant. As Einstein put
+it in the introduction to his June 1905 paper (referred to in this chapter as the
+June paper), 'the introduction of a "light-aether" will prove to be superfluous
+since, according to the view to be developed [here], neither will a "space in abso-
+lute rest" endowed with special properties be introduced nor will a velocity vector
+be associated with a point of empty space in which electromagnetic processes take
+place' [El].* Special relativity represents the abandonment of mechanical pictures
+as an aid to the interpretation of electromagnetism. The one preferred coordinate
+system in absolute rest is forsaken. Its place is taken by an infinite set of preferred
+coordinate systems, the inertial frames. By definition, any two of these are in uni-
+form motion with respect to each other. The preference for uniformity of relative
+motion makes this version of relativity a special one.
+In the spring of 1905, even before the completion of the relativity paper, Ein-
+stein had written to his friend Conrad Habicht, 'The fourth work [i.e., El, the
+fourth paper Einstein published in 1905] is available only in draft form and is an
+electrodynamics of moving bodies in which use is made of a modification of the
+tenets about space and time; the purely kinematic part of this work will surely
+interest you' [E2]. Small wonder that Einstein would draw his friend's attention
+to the kinematic part. In its entirety, the June paper consists of an introduction,
+five sections on kinematics followed by five sections on electrodynamics, no refer-
+ences, and one acknowledgment. The kinematic part contains the complete first
+principles of the special relativity theory.
+*For an English translation of this paper, see [SI].
+138
+THE NEW KINEMATICS 139
+As indicated in Chapter 6, special relativity was born after a decade of gestation.
+However, the crucial kinematic insights which underlie this theory dawned on its
+author not more than five or six weeks before the actual completion of the paper
+under discussion. We know this from the talk given by Einstein in Kyoto, in
+December 1922, which also reveals that this climactic period was preceded by a
+year of struggle which had led him nowhere. I quote once again from the Kyoto
+address [Ol]:
+'I took into consideration Fizeau's experiment, and then attempted to deal with
+the problems on the assumption that Lorentz's equations concerning the electron
+should hold as well in the case of our system of coordinates being defined on the
+moving bodies as defined in vacuo. At any rate, at that time I felt certain of the
+truth of the Maxwell-Lorentz equations in electrodynamics. All the more, it
+showed to us the relations of the so-called invariance of the velocity of light that
+those equations should hold also in the moving frame of reference. This invariance
+of the velocity of light was, however, in conflict with the rule of addition of veloc-
+ities we knew of well in mechanics.
+'I felt a great difficulty to resolve the question why the two cases were in conflict
+with each other. I had wasted time almost a year in fruitless considerations, with
+a hope of some modification of Lorentz's idea, and at the same time I could not
+but realize that it was a puzzle not easy to solve at all.
+'Unexpectedly a friend of mine in Bern then helped me. That was a very beau-
+tiful day when I visited him and began to talk with him as follows:
+' "I have recently had a question which was difficult for me to understand. So
+I came here today to bring with me a battle on the question." Trying a lot of
+discussions with him, I could suddenly comprehend the matter. Next day I visited
+him again and said to him without greeting: "Thank you. I've completely solved
+the problem." My solution was really for the very concept of time, that is, that
+time is not absolutely defined but there is an inseparable connection between time
+and the signal velocity. With this conception, the foregoing extraordinary difficulty
+could be thoroughly solved. Five weeks after my recognition of this, the present
+theory of special relativity was completed.'
+The friend in Bern was Besso, close to Einstein since the student days in Zurich,
+colleague at the patent office since 1904. Thus the Kyoto address makes clear what
+was the substance of the 'loyal assistance of my friend M. Besso,' to which Einstein
+devoted the acknowledgment in his June paper. As to the completion of the work
+in five weeks, since the paper was received by the Annalen der Physik on June
+30, Einstein's total concentration on relativity followed immediately upon the
+relief of his having finished three major projects in statistical physics: the paper
+on the light-quantum, his thesis, and the paper on Brownian motion, completed
+on March 17, April 30, and around May 10, respectively.
+In 1905 Einstein's belief in 'the truth of the Maxwell-Lorentz equations' was
+not unqualified, as we shall see later. It was strong enough, however, for him to
+perceive the conflict between the constancy of the velocity of light (in the vacuum)
+140 RELATIVITY, THE SPECIAL THEORY
+and the relativity principle of classical mechanics. This principle, already long
+known by then, states that all mechanical laws should be the same in any two
+coordinate systems (x,y,z,t) and (x',y',z',t') related by*
+x' = x - vt y' = y z' = z t' = t (7.1)
+Since 1909 these transformations have been called Galilean transformations.**
+(Recall that in 1905 there existed as yet no evidence against the general validity
+of Galilean invariance in pure mechanics.) The conflict arises if one attempts to
+elevate Galilean invariance to a universal principle. An aether at absolute rest
+hardly fits this scheme of things. Some physicists believed therefore that the very
+foundations of electrodynamics should be revised.f Einstein opted for the alter-
+native: 'The phenomena of electrodynamics and mechanics possess no properties
+corresponding to the idea of absolute rest' [El]. In the June paper, he gave two
+concrete reasons for this view: first, the absence of experimental evidence for an
+aether drift and second, the existence of 'asymmetries which do not appear to be
+inherent in the phenomena.' As an example of such an asymmetry, he considered
+a system consisting of a magnet and a conductor. If the magnet moves in the pres-
+ence of a resting conductor, then an electric field is generated which induces a
+current in the conductor. If, on the other hand, the conductor moves in the pres-
+ence of the resting magnet, then an electromotive force (proportional to ~u X H)
+is generated, which again causes a current. Transcribed rather freely, one might
+say that Einstein cared for neither the logical disconnectedness of electricity and
+magnetism nor the asymmetry between the two coordinate systems just described.
+I argued in Chapter 6 that Einstein rejected the nineteenth century explanations
+of the first-order aether drift effects as unconvincing and artificial and that the
+second-order Michelson-Morley paradox was to some extent secondary to him.
+Add to this his remark that 'Maxwell's electrodynamics—as usually understood
+at the present time—when applied to moving bodies, leads to asymmetries which
+are not inherent in the phenomena' and one has the motivation for the June paper:
+Einstein was driven to the special theory of relativity mostly by aesthetic argu-
+ments, that is, arguments of simplicity. This same magnificent obsession would
+stay with him for the rest of his life. It was to lead him to his greatest achievement,
+general relativity, and to his noble failure, unified field theory.
+2. The Two Postulates. The new theory is based in its entirety on two pos-
+tulatesf [El]:
+*As in the previous chapter, I shall, for simplicity, consider relative motions in the x direction only.
+**This term was introduced by Philipp Frank [Fl].
+fFor details, see Section 3 of Pauli's encyclopedia article, in German [PI], or in its English trans-
+lation [P2].
+^1 do not copy Einstein verbatim. The term inertial frame gained currency only some time later, as
+did the terms Galilean invariance and Lorentz invariance, which I freely use from now on.
+THE NEW KINEMATICS 14!
+1. The laws of physics take the same form in all inertial frames.
+2. In any given inertial frame, the velocity of light c is the same whether the light
+be emitted by a body at rest or by a body in uniform motion.
+FitzGerald and Lorentz had already seen that the explanation of the Michel-
+son-Morley experiment demanded the introduction of a new postulate, the con-
+traction hypothesis. Their belief that this contraction is a dynamic effect (molec-
+ular forces in a rod in uniform motion differ from the forces in a rod at rest) was
+corrected by Einstein: the contraction of rods is a necessary consequence of his two
+postulates and is for the very first time given its proper observational meaning in
+the June paper.
+What is so captivating about the Einstein of 1905 is the apparent ease and the
+fraicheur with which he introduces new ideas. If free radiation consists of light-
+quanta, then the emission and absorption of light should also go by discrete steps;
+if van't Hoff's law holds for solutions, then it should also hold for suspensions; if
+the velocity of light does not seem to depend on the velocity of the emitter, then
+why not make that into a postulate? Steps like these were the result of very hard
+thinking, yet the final product has that quality of greatness of looking easy if not
+obvious.
+The big question was, of course, the compatibility of the two postulates, about
+which Einstein had the following to say in his review article of 1907 [E3]: 'Sur-
+prisingly, it turned out that it was only necessary to formulate the concept of time
+sufficiently precisely to overcome the first-mentioned difficulty [i.e., the Michel-
+son-Morley result, which Einstein did mention for the first time in this 1907
+paper]. All that was needed was the insight that an auxiliary quantity introduced
+by H. A. Lorentz and denoted by him as "local time" can be defined as "time",
+pure and simple.'
+There are as many times as there are inertial frames. That is the gist of the
+June paper's kinematic sections, which rank among the highest achievements of
+science, in content as well as in style. If only for enjoyment, these sections ought
+to be read by all scientists, whether or not they are familiar with relativity. It also
+seems to me that this kinematics, including the addition of velocity theorem, could
+and should be taught in high schools as the simplest example of the ways in which
+modern physics goes beyond everyday intuition.* (If only I could make a similar
+recommendation for the case of quantum theory. .. .)
+I briefly recapitulate the content of the new kinematics.** In a given inertial
+frame an observer A measures his position xk relative to the origin by means of
+rigid rods, using (as Einstein states explicitly) 'the methods of Euclidean geome-
+try.' A second observer B does likewise for *B. Then A's clock at JA is synchronized
+with B's clock at JB by means of light signals. If A's clock is synchronous with
+*See, for example, the excellent popular yet rigorous account by Born [Bl].
+"More details are found in standard texts, e.g., [Ml] and [P3].
+142 RELATIVITY, THE SPECIAL THEORY
+B's, and B's with that of a third observer C, then A's is synchronous with C's.
+Synchronicity is therefore fully defined within any one inertial frame. Because of
+the second postulate, the use of light signals remains a valid tool for the compar-
+ison of the A and B clocks even if, after initial synchronization in the common
+inertial frame, B and his clock start moving with uniform velocity relative to A,
+that is, if B joins another inertial frame.
+[Remark. In an unpublished manuscript,f written in 1921, Einstein spells out
+three additional assumptions which are made in this reasoning: (1) Homogeneity:
+the properties of rods and clocks depend neither on their position nor on the time
+at which they move, but only on the way in which they move. (2) Isotropy: the
+properties of rods and clocks are independent of direction. (3) These properties
+are also independent of their history.]
+The time of an event is defined as the reading of a clock coincident with the
+event and at rest relative to it. Events which are simultaneous in one inertial frame
+are not simultaneous in another. Einstein's example: two identical rods R, and R2
+are coincident in a given inertial frame in which two observers O, and O2 have
+synchronized their respective clocks. Observer O, stays with R, in this frame, O2
+moves with R2 into another inertial frame. Three durations are measured: Oj
+measures the time i, for a light ray to move from one end of R, to the other and
+back, and O2 does the same for R2, finding a time /2. Observer O, also measures
+the duration t\ for light to move from one end of R2 to the other and back. Then
+i, = t2, in accordance with the first postulate, but £, ¥= t(: 'We see that we cannot
+attach absolute meaning to the concept of simultaneity.'
+The two postulates of special relativity have physical content only if the exper-
+imental prescriptions for measuring position and time (and, therefore, for velocity)
+are added. The postulates together with these prescriptions fully specify Einstein's
+theory of special relativity.
+3. From the Postulates to the Lorentz Transformations. Let us continue with
+the example of the two rods. Physics would be incomplete if the inequality £, ^
+t\ could not be sharpened into a specific relation between these two durations.
+Einstein obtained this relation by deriving the Lorentz transformation from his
+postulates. In essence, his argument runs as follows. Consider two inertial frames,
+(x,y,z,t) and (x',y',z',tr), the second moving with a velocity v in the x direction
+relative to the first. At t = t' = 0, the two frames coincide. At that moment a
+spherical light wave is emitted from the joint origin, t seconds later the wave is
+spread over the sphere
+The compatibility of the two postulates demands that the wave be equivalently
+spread over
+t This is the Morgan manuscript, the origins of which are described in Chapter 9.
+THE NEW KINEMATICS 143
+The relations between the two sets of coordinates implied by these two equations
+are assumed to be linear, in accordance with the homogeneity of space and time.
+Then simple arithmetic yields
+where « is an arbitrary scale factor depending on v only. Since the product of this
+transformation and its inverse should yield the identity, one has
+Symmetry demands that the transformations on y and z should not change if v
+—>• — v, and hence
+Thus (.(v) = 1 (since e(0) = 1) and
+In Chapter 6, we encountered Eqs. 7.4-7.8 in the discussion of papers by Lorentz
+and Poincare. The derivation of the Lorentz transformations (Eq. 7.8) from first
+principles occurs for the first time in Einstein's paper, however.*
+Einstein also pointed out that transformations of the type shown in Eq. 7.8 form
+a group, Vie dies sein muss,' as it should be**: two successive transformations
+with velocities w,,u2 in the same direction result in a new transformation of the
+form of Eq. 7.8 with a velocity v given by
+Twenty years later, Einstein heard something about the Lorentz group that
+greatly surprised him. It happened while he was in Leiden. In October 1925
+George Eugene Uhlenbeck and Samuel Goudsmit had discovered the spin of the
+electron [Ul] and thereby explained the occurrence of the alkali doublets, but for
+a brief period it appeared that the magnitude of the doublet splitting did not come
+out correctly. Then Llewellyn Thomas supplied the missing factor, 2, now known
+as the Thomas factor [Tl]. Uhlenbeck told me that he did not understand a word
+of Thomas's work when it first came out. 'I remember that, when I first heard
+about it, it seemed unbelievable that a relativistic effect could give a factor of 2
+instead of something of order v/c. . . . Even the cognoscenti of the relativity theory
+(Einstein included!) were quite surprised' [U2]. At the heart of the Thomas
+precession lies the fact that a Lorentz transformation with velocity y, followed by
+a second one with a velocity ~v2 m a different direction does not lead to the same
+*See [Rl] for interesting comments on the roles of postulates and observations in the special theory
+of relativity.
+**He did not expand on this cryptic statement.
+144 RELATIVITY, THE SPECIAL THEORY
+inertial frame as one single Lorentz transformation with the velocity v, + v2
+[Kl]. (It took Pauli a few weeks before he grasped Thomas's point.*)
+4. Applications. In his June paper, Einstein put his postulates to use in ways
+which are now standard textbook material. No derivations will therefore be given
+in what follows next. (For Einstein's own derivations, see [SI].)
+a) From the postulates to the Lorentz transformations, as already discussed.
+b) From the Lorentz transformations to the FitzGerald-Lorentz contraction of
+rods and the dilation of time:
+e) The transformation law for light frequencies:
+*See the correspondence between Pauli, Bohr, and Kramers between February 26 and March 12,
+1926 [P4].
+**See Section 6a for the meaning of the various symbols. For comments by Einstein on the drag in
+dispersive media, see [E5a].where /0 and t0 are, respectively, a length and a duration in the rest frame.
+The kinematic origins of these relations were not at once generally understood.
+In 1911 Einstein still had to explain: 'The question whether the Lorentz con-
+traction does or does not exist is confusing. It does not "really" exist in so far
+as it does not exist for an observer who moves [with the rod]; it "really" exists,
+however, in the sense that it can as a matter of principle be demonstrated by
+a resting observer' [E4].
+c) The addition of velocities, already mentioned.
+d) The relativistic expression of the aberration from the zenith:
+where <t> is the angle between a monochromatic light ray with frequency v and
+the x direction. Thus Einstein is the discoverer of the transverse Doppler effect:
+i/ differs from v even if the motion of the light source is perpendicular to the
+direction of observation. In 1907 he published a brief note about the experi-
+mental detectability of the transverse effect [E5].
+f) Not found in the June paper is a derivation of the Fresnel formula**
+THE NEW KINEMATICS 145
+which is an immediate consequence of Eq. 7.9: let y, = c/n, v2 = v and
+expand to the first order in vlv2/c2. I find the absence of this derivation in the
+June paper more remarkable than the absence of any mention of Michelson
+and Morley. The labor involved is not excessive, the Fizeau experiment had
+been very important for Einstein's thinking, and a successful aether-free der-
+ivation might have pleased even a man like Einstein, who was not given to
+counting feathers in his cap. The honor of the first derivation (in 1907) goes
+to Max von Laue, who pointed out that 'according to the relativity principle,
+light is completely dragged along by the body [i.e., the streaming fluid], but
+just because of that its velocity relative to an observer who does not participate
+in the motion of the body does not equal the vector sum of its velocity relative
+to the body and [the velocity] of the body relative to the observer' [LI]. As was
+noted in Chapter 6, for small v/c it is possible to derive Eq. 7.13 by means of
+a dynamic calculation that does not explicitly involve relativity [P5]. The
+kinematic derivation just given does not mean that such a calculation is incor-
+rect, but rather that it is not necessary. Lorentz invariance suffices to obtain
+the desired result.
+g) Einstein rather casually mentioned that if two synchronous clocks G, and C2
+are at the same initial position and if C2 leaves A and moves along a closed
+orbit, then upon return to A, C2 will run slow relative to C,, as often observed
+since in the laboratory. He called this result a theorem and cannot be held
+responsible for the misnomer clock paradox, which is of later vintage. Indeed,
+as Einstein himself noted later [E6], "no contradiction in the foundations of
+the theory can be constructed from this result" since C2 but not C, has expe-
+rienced acceleration.
+h) Covariance of the electrodynamic equations. Using a horrible but not uncom-
+mon notation in which each component of the electric and magnetic field has
+its own name,* Einstein proved the Lorentz covariance of the Maxwell-
+Lorentz equations, first for the source-free case, then for the case with sources.
+He also discussed the equations of motion of an electrically charged particle
+with charge e and mass m in an external electromagnetic field. In a frame
+(x,t) in which the particle is instantaneously at rest, these equations are
+Applying the transformations (Eq. 7.8), he found that in a frame with velocity
+v in the x direction:
+* Hertz, Planck, and Poincare did likewise. Lorentz used three-vector language.
+146 RELATIVITY, THE SPECIAL THEORY
+and thus obtained what he called a 'new manner of expression' for the Lorentz
+force: whereas in 1895 Lorentz [L2] had introduced Eq. 7.16 as a new
+assumption (see Eq. 6.13), Einstein obtained this force kinematically from the
+purely electric force acting on a charged particle that is instantaneously at rest.
+He also gave an expression for the kinetic energy W of the particle for the case
+where accelerations are small and therefore no energy is given off in the form
+of radiation. In that case,
+a relation which led him to comment: 'When v = c, W becomes infinite.
+Velocities greater than light have ... no possibilities of existence.' (During
+1907 Einstein had a correspondence with W. Wien on this question.)
+[Remark. This conclusion is perhaps not quite correct. The precise statement
+is: If a particle moves with a velocity smaller (larger) than c in one inertial frame,
+then it moves with a velocity smaller (larger) than c in all inertial frames. (The
+relative velocity of inertial frames is < c by definition.) Thus c is a velocity bar-
+rier in two respects. According to Eq. 7.9, c is the upper (lower) limit for a particle
+moving with sublight (superlight) velocity. Several physicists have speculated
+about the weird properties of 'tachyons,' the name coined by Gerald Feinberg [F2]
+for hypothetical superlight-velocity particles.* Tachyons can appear in our cosy
+sub-c world only if they are produced in pairs. Tachyon physics is therefore nec-
+essarily a topic in quantum field theory. The quantum theory of free tachyons has
+been developed to some extent [F2]. The theoretical description of interactions
+involving tachyons is thus far an open problem.]
+5. Relativity Theory and Quantum Theory. The June paper also contains the
+transformation law for the energy £ of a light beam:
+(where 4> is defined as in Eq. 7.12) as well as the following comment by Einstein
+on the similarities between Eqs. 7.12 and 7.18: 'It is remarkable that the energy
+and the frequency of a light complex vary with the state of motion of the observer
+in accordance with the same law.'
+Three months earlier, Einstein had completed a paper which contains the
+relation
+E = hv (7.19)
+between the energy and the frequency of a light-quantum [E7]. It is therefore of
+interest that Einstein would call the similarities in transformation properties of E
+*See, e.g., [B2] and [F2] also for references to earlier literature.
+THE NEW KINEMATICS 147
+and v remarkable without referring to his own quantum relation between the
+energy and the frequency of light, which must have been fresh in his mind.
+Remarkable though this silence may be, it is not inexplicable. As I have already
+intimated, Einstein's belief in the validity of the Maxwell-Lorentz electrody-
+namics was strong but not unqualified. As he put it in his light-quantum paper,
+'The wave theory of light which operates with continuous functions of space vari-
+ables has proved itself an excellent tool for the description of purely optical phe-
+nomena. ... [However] it is conceivable that [this] theory may lead to conflicts
+with experiment when one applies it to the phenomena of the generation and
+conversion of light' [E7]. He considered the Maxwell-Lorentz theory of the free
+electromagnetic field to be so good that 'it will probably never be replaced by
+another theory'; but he had his doubts about this theory where the interaction of
+light and matter was concerned. Also, he rightly regarded his own quantum
+hypotheses of 1905 more of a new phenomenological description than a new the-
+ory, in sharp contrast to his relativity theory, which he rightly regarded as a true
+theory with clearly defined first principles. Thus it is not surprising that he would
+derive Eqs. 7.12 and 7.18 separately, without appeal to Eq. 7.19.
+Not just in 1905 but throughout his life Einstein considered quantum theory as
+a preliminary to a true theory and relativity as the royal road toward such a the-
+ory. But that is a subject that will have to wait until Chapter 26.
+6. 7 Could Have Said That More Simply.' In the fall of 1943 Einstein
+received a visit from Julian Boyd, then the librarian of the Princeton University
+library. The purpose of Boyd's call was to ask Einstein to give the manuscript of
+the June paper to the Book and Authors War Bond Committee as a contribution
+to the sale of war bonds. Einstein replied that he had discarded the original man-
+uscript after its publication but added that he was prepared to write out a copy of
+its text in his own hand. This offer was gladly accepted. Einstein completed this
+task on November 21, 1943. Under the auspices of the committee, this manuscript
+was auctioned at a sale in Kansas City on February 3, 1944, sponsored by the
+Kansas City Women's City Club and the Women's Division of the Kansas City
+War Finance Committee. The winning bid of six and a half million dollars was
+made by the Kansas City Life Insurance Company. On that same occasion, an
+original incomplete manuscript by Einstein and Valentin Bargmann, entitled 'Das
+Bi-Vektor Feld,' was auctioned for five million dollars.* Soon after these events
+both manuscripts were given to the Library of Congress [B3].
+Helen Dukas told me how the copy of the June paper was produced. She would
+sit next to Einstein and dictate the text to him. At one point, Einstein laid down
+his pen, turned to Helen and asked her whether he had really said what she had
+just dictated to him. When assured that he had, Einstein said, 'Das hatte ich ein-
+facher sagen konnen.'
+"This paper was published in English in 1944 [E8].
+148 RELATIVITY, THE SPECIAL THEORY
+7b. September 1905: About E = me2
+'The mass of a body is a measure of its energy content,' Einstein, technical expert
+third class at the patent office in Bern, concluded in September 1905 [E9]. 'The
+law of conservation of mass is a special case of the law of conservation of energy,'
+Einstein, technical expert second class, wrote in May 1906 [E10]. 'In regard to
+inertia, a mass m is equivalent to an energy content ... me2. This result is of
+extraordinary importance since [it implies that] the inertial mass and the energy
+of a physical system appear as equivalent things,' he stated in 1907 [Ell]. For
+special cases the equivalence of mass and energy had been known for about
+twenty-five years.* The novelty of 1905 was the generality of this connection.
+Einstein's proof of 1905** for the relation
+Now, Einstein said, note that Eq. 7.21 for the energy differential is identical in
+structure to Eq. 7.17 for the kinetic energy differential of a particle, so that 'if a
+body gives off the energy L in the form of radiation, its mass diminishes by L/c2.
+The fact that the energy withdrawn from the body becomes energy of radiation
+evidently makes no difference.'
+This brief paper of September 1905 ends with the remark that bodies 'whose
+energy content is variable to a high degree, for example, radium salts,' may per-
+haps be used to test this prediction. But Einstein was not quite sure. In the fall of
+1905 he wrote to Habicht, 'The line of thought is amusing and fascinating, but
+*See Section 7e on electromagnetic mass. Also before September 1905, Fritz Hasenohrl had discov-
+ered that the kinetic energy of a cavity increases when it is filled with radiation, in such a way that
+the mass of the system appears to increase [HI].
+**He gave two proofs in later years. In 1934 he gave the Gibbs lecture in Pittsburgh and deduced
+Eq. 7.20 from the validity in all inertial frames of energy and momentum conservation for a system
+of point particles [El2]. In 1946 he gave an elementary derivation in which the equations for the
+aberration of light and the radiation pressure are assumed given [E13].runs as follows. Consider a body with energy E{ at rest in a given inertial frame.
+The body next emits plane waves of light with energy L/2 in a direction making
+an angle (j> with the x axis and an equal quantity of light in the opposite direction.
+After these emissions the body has an energy Es, so that A£ = E, — E, = L.
+Consider this same situation as seen from an inertial frame moving with a velocity
+v in the x direction. According to Eq. 7.18, A.E1' = E[ — E'f = yL indepen-
+dently of $. Thus
+or, to second orderTHE NEW KINEMATICS 149
+I cannot know whether the dear Lord doesn't laugh about this and has played a
+trick on me' (. . . mich an der Nase herumgefiihrt hat) [El4]. In his 1907 review
+he considered it 'of course out of the question' to reach the experimental precision
+necessary for using radium as a test [El5]. In another review, written in 1910, he
+remarked that 'for the moment there is no hope whatsoever' for the experimental
+verification of the mass-energy equivalence [E16].
+In all these instances, Einstein had in mind the loss of weight resulting from
+radioactive transformations. The first to remark that the energy-mass relation
+bears on binding energy was Planck. In 1907 he estimated the mass equivalent of
+the molecular binding energy for a mole of water [P6]. This amount (about 10~8
+g) was of course too small to be observed—but at least it could be calculated. A
+quarter of a century had to pass before a similar estimate could be made for
+nuclear binding energy. Even that question did not exist until 1911, the year the
+nuclear model of the atom was published. Two years later, Paul Langevin had an
+idea: 'It seems to me that the inertial mass of the internal energy [of nuclei] is
+evidenced by the existence of certain deviations from the law of Prout' [L3]. That
+was also the year in which J. J. Thomson achieved the first isotope separation.
+Langevin's interesting thought did not take account of the influence of isotopic
+mixing and therefore overrated nuclear binding effects. Next came the confusion
+that the nucleus was supposed to consist of protons and electrons—no one had the
+right constituents yet. Still, Pauli was correct in surmising—we are now in
+1921 —that 'perhaps the law of the inertia of energy will be tested at some future
+time [my italics] by observations on the stability of nuclei' [P7]. In 1930 it was
+written in the bil>!e of nuclear physics of the day that one can deduce from the
+binding energy of the alpha particle that a free proton weighs 6.7 MeV more than
+a proton bound in a helium nucleus [R2]. What else could one say in terms of a
+proton-electron model of the nucleus?
+Nuclear binding energy and its relation to E = me2 came into its own in the
+1930s. In 1937 it was possible to calculate the velocity of light from nuclear reac-
+tions in which the masses of the initial and final products and also the energy
+release in the reaction were known. The resulting value for c was accurate to
+within less than one half of one per cent [B4]. When in 1939 Einstein sent his
+well-known letter to President Roosevelt, it is just barely imaginable that he might
+have recalled what he wrote in 1907: 'It is possible that radioactive processes may
+become known in which a considerably larger percentage of the mass of the initial
+atom is converted into radiations of various kinds than is the case for radium'
+[E15].
+7c. Early Responses
+Maja Einstein's biographical sketch gives a clear picture of her brother's mood
+shortly after the acceptance of his June paper by the Annalen der Physik: 'The
+young scholar imagined that his publication in the renowned and much-read jour-
+150 RELATIVITY, THE SPECIAL THEORY
+nal would draw immediate attention. He expected sharp opposition and the
+severest criticism. But he was very disappointed. His publication was followed by
+an icy silence. The next few issues of the journal did not mention his paper at all.
+The professional circles took an attitude of wait and see. Some time after the
+appearance of the paper, Albert Einstein received a letter from Berlin. It was sent
+by the well-known Professor Planck, who asked for clarification of some points
+which were obscure to him. After the long wait this was the first sign that his
+paper had been at all read. The joy of the young scientist was especially great
+because the recognition of his activities came from one of the greatest physicists of
+that time' [M2]. Maja also mentioned that some time thereafter letters began to
+arrive addressed to 'Professor Einstein at the University of Bern.'
+The rapidity with which special relativity became a topic of discussion and
+research is largely due to Planck's early interest. In his scientific autobiography,
+Planck gave his reasons for being so strongly drawn to Einstein's theory: 'For me
+its appeal lay in the fact that I could strive toward deducing absolute, invariant
+features following from its theorems' [P7a]. The search for the absolute—forever
+Planck's main purpose in science—had found a new focus. 'Like the quantum of
+action in the quantum theory, so the velocity of light is the absolute, central point
+of the theory of relativity.' During the winter semester of 1905-6, Planck pre-
+sented Einstein's theory in the physics colloquium in Berlin. This lecture was
+attended by his assistant von Laue. As a result von Laue became another early
+convert to relativity, published in 1907 the pretty note [LI] on the Fizeau exper-
+iment, did more good work on the special theory, and became the author of the
+first monograph on special relativity [L4]. Planck also discussed some implications
+of the 'Relativtheorie' in a scientific meeting held in September 1906 [P8]. The
+first PhD thesis on relativity was completed under his direction [M3].
+The first paper bearing on relativity but published by someone other than Ein-
+stein was by Planck [P6], as best I know. Among his new results I mention the
+first occasion on which the momentum-velocity relation
+of relativistic point mechanics were written down. Planck derived Eq. 7.23 from
+the action of an electromagnetic field on a charged point particle, rewriting Eqs.
+the trandformation laws
+and the varational principleTHE NEW KINEMATICS 151
+7.15, 7.16 as d(myx')/dt' — K'. The straightforward derivation of Eq. 7.23 via
+the energy-momentum conservation laws of mechanics was not found until 1909
+[L5].
+Among other early papers on relativity, I mention one by Ehrenfest in 1907
+[El7], in which is asked for the first time the important question: How does one
+apply Lorentz transformations to a rigid body?
+Planck was also the first to apply relativity to the quantum theory. He noted
+that the action is an invariant, not only for point mechanics, (where it equals the
+quantity \Ldt in Eq. 7.25), but in general. From this he deduced that his constant
+h is a relativistic invariant. 'It is evident that because of this theorem the signifi-
+cance of the principle of least action is extended in a new direction' [P9]—a con-
+clusion Einstein might have drawn from his Eqs. 7.13, 7.18, and 7.19.
+Not only the theoreticians took early note of the relativity theory. As early as
+1906, there was already interest from experimentalists in the validity of the rela-
+tinn
+*Von Laue had been on an alpine trip before coming to Bern. Einstein delivered himself of the
+opinion, 'I don't understand how one can walk around up there' [S3].between the total energy and the velocity of a beta ray, as will be discussed in
+Section 7e.
+The publication of the 1905 papers on special relativity marked the beginning
+of the end of Einstein's splendid isolation at the patent office. From 1906 on, vis-
+itors would come to Bern to discuss the theory with him. Von Laue was one of
+the first (perhaps the very first) to do so. 'The young man who met me made such
+an unexpected impression on me that I could not believe he could be the father of
+the relativity theory,' von Laue later recalled [S2].* Other young men came as
+well. From Wiirzburg Johann Jakob Laub wrote to Einstein, asking if he could
+work with him for three months [L6]; the ensuing stay of Laub in Bern led to
+Einstein's first papers published jointly with a collaborator [El8, El9]. Rudolf
+Ladenburg, who became a close friend of Einstein in the Princeton years, came
+from Breslau (now Wroclaw). Yet in these early years the relativists were few in
+number. In July 1907 Planck wrote to Einstein, 'As long as the advocates of the
+relativity principle form such a modest-sized crowd, it is doubly important for
+them to agree with one another' [P10].
+Then, in 1908, came the 'space and time' lecture of Herman Minkowski. In
+1902, Minkowski, at one time Einstein's teacher in Zurich, had moved to the
+University of Goettingen. There, on November 5, 1907, he gave a colloquium
+about relativity in which he identified Lorentz transformations with pseudorota-
+tions for which
+152 RELATIVITY, THE SPECIAL THEORY
+where xl} x2, x3 denote the spatial variables. The most important remarks made
+in this colloquium were that the electromagnetic potentials as well as the charge-
+current densities are vectors with respect to the Lorentz group, while the electro-
+magnetic field strengths form a second-rank tensor (or a Traktor, as Minkowski
+then called it). Soon thereafter Minkowski published a detailed paper [M5] in
+which for the first time the Maxwell-Lorentz equations are presented in their
+modern tensor form, the equations of point mechanics are given a similar treat-
+ment, and the inadequacy of the Newtonian gravitation theory from the relativistic
+point of view is discussed. Terms such as spacelike vector, timelike vector, light
+cone, and world line stem from this paper.
+Thus began the enormous formal simplification of special relativity. Initially,
+Einstein was not impressed and regarded the transcriptions of his theory into ten-
+sor form as 'uberfliissige Gelehrsamkeit,' (superfluous learnedness).* However, in
+1912 he adopted tensor methods and in 1916 acknowledged his indebtedness to
+Minkowski for having greatly facilitated the transition from special to general
+relativity [E20].
+Minkowski's semitechnical report on these matters, the 'space and time' lecture
+given in Cologne in 1908, began with these words:** 'The views of space and time
+which I wish to lay before you have sprung from the soil of experimental physics,
+and therein lies their strength. They are radical. Henceforth space by itself, and
+time by itself, are doomed to fade away into mere shadows, and only a kind of
+union of the two will preserve an independent reality.' He ended as follows: 'The
+validity without exception of the world postulate [i.e., the relativity postulates], I
+like to think, is the true nucleus of an electromagnetic image of the world, which,
+discovered by Lorentz, and further revealed by Einstein, now lies open in the full
+light of day' [M6]. It is hardly surprising that these opening and closing state-
+ments caused a tremendous stir among his listeners, though probably few of them
+followed the lucid remarks he made in the body of the speech. Minkowski did not
+live to see his lecture appear in print. In January 1909 he died of appendicitis.
+Hilbert called him 'a gift of heaven' when he spoke in his memory [H2].
+The rapid growth of Einstein's reputation in scientific circles dates from about
+1908. In July 1909 the University of Geneva conferred the title of doctor honoris
+causa 'a Monsieur Einstein, Expert du Bureau Federal de la Propriete intellec-
+tuelle.' I do not know what citation accompanied this degree. However, Charles
+Guye, then professor of experimental physics at Geneva, must have had a hand
+in this. Since Guye's interests centered largely on the velocity dependence of beta-
+ray energies, it is probable that Einstein received this first of many honors because
+of relativity.
+* Einstein told this to V. Bargmann, whom I thank for in turn relating it to me.
+**The text of this colloquium was prepared for publication by Sommerfeld. It appeared in 1915
+[M4j, long after Minkowski's death. This paper is not included in Minkowski collected works (pub-
+lished in 1911) [M5].
+THE NEW KINEMATICS 153
+Early in 1912, Wilhelm Wien, Nobel laureate in physics for 1911, wrote to
+Stockholm to make the following recommendation for the year 1912:* 'I propose
+to award the prize in equal shares to H. A. Lorentz in Leiden and A. Einstein in
+Prague. As my motivation for this proposal, I would like to make the following
+observations. The principle of relativity has eliminated the difficulties which
+existed in electrodynamics and has made it possible to predict for a moving system
+all electromagnetic phenomena which are known for a system at rest.' After enu-
+merating some features of the theory he continued, 'From a purely logical point
+of view, the relativity principle must be considered as one of the most significant
+accomplishments ever achieved in theoretical physics. Regarding the confirmation
+of the theory by experiment, in this respect the situation resembles the experi-
+mental confirmation of the conservation of energy. [Relativity] was discovered in
+an inductive way, after all attempts to detect absolute motion had failed... . While
+Lorentz must be considered as the first to have found the mathematical content of
+the relativity principle, Einstein succeeded in reducing it to a simple principle.
+One should therefore assess the merits of both investigators as being
+comparable....'
+Then and later the special theory would have its occasional detractors. How-
+ever, Wien's excellent account shows that it had taken the real pros a reasonably
+short time to realize that the special theory of relativity constituted a major
+advance.
+7d. Einstein and the Special Theory After 1905
+The fifth section of Einstein's review paper on relativity, completed in 1907, deals
+with gravitation and contains this statement: 'The principle of the constancy of
+the light velocity can be used also here [i.e., in the presence of gravitation] for the
+definition of simultaneity, provided one restricts oneself to very small light paths'
+[E3]. Einstein already knew then that the special theory was only a beginning
+(see Chapter 9). This largely explains why the special theory per se soon faded
+from the center of his interests. Also, he was not one to follow up on his main
+ideas with elaborations of their detailed technical consequences. In addition, from
+1908 until some time in 1911 the quantum theory rather than relativity was
+uppermost in his mind (see Chapter 10).
+Apart from review articles and general lectures, Einstein's work on the conse-
+quences of the special theory was over by 1909. I shall confine myself to giving a
+short chronology of his post-1905 papers on this subject. This work is discussed
+and set in context by Pauli [PI, P2].
+1906. Discussion of center-of-gravity motion in special relativity [E10] (see
+especially [Ml] for a detailed discussion of this subject).
+*See Chapter 30.
+154 RELATIVITY, THE SPECIAL THEORY
+1906. A comment on the possibilities for determining the quantity (1 — v2/c2)
+in beta-ray experiments [E21].
+1907. A remark on the detectability of the transverse Doppler effect [E5].
+1907. Brief remarks on Ehrenfest's query concerning rigid bodies: 'To date both
+the dynamics and the kinematics of the rigid body . .. must be considered
+unknown' [E22].
+1907. Earlier Einstein had derived the expression mc2(y — 1) for the kinetic
+energy. Now he introduces the form ymc2 for the total energy. Furthermore, the
+transformation of energy and momentum in the presence of external forces (i.e.,
+for open systems) is derived.* Further ruminations about the rigid body: 'If rela-
+tivistic electrodynamics is correct, then we are still far from having a dynamics for
+the translation of rigid bodies' [E23]. In this paper Einstein also expresses an
+opinion concerning the bearing of his recent light-quantum hypothesis on the
+validity of the free Maxwell equations. It seemed to him that these equations
+should be applicable as long as one deals with electromagnetic energy amounts or
+energy transfers which are not too small, just as—he notes—the laws of ther-
+modynamics may be applied as long as Brownian-motion-type effects (fluctua-
+tions) are negligible.
+1907. The review paper [E3]. This is the transitional paper from the special to
+the general theory of relativity. Among the points discussed and not mentioned in
+the foregoing are (1) the remark that the total electric charge of a closed system
+is Lorentz invariant, (2) comments on the beta-ray experiments of Kaufmann, a
+topic to be discussed in the next section and, (3) a discussion of relativistic
+thermodynamics. * *
+1908-10. Papers with Laub on the relativistic electrodynamics of ponderable
+media [E18, E19] (see [PI] or [P2], Sections 33, 35).
+A further comment on this subject appeared in 1909 [E25]. In 1910, Einstein
+published a brief note on the nonrelativistic definition of the ponderomotive force
+in a magnetic field [E26].
+This concludes the brief catalog of Einstein's later contributions to special rel-
+ativity. (I have already mentioned that in 1935 [E12] and again in 1946 [E13] he
+gave alternative derivations of E = me2.) In later years he reviewed the special
+theory on several occasions, starting with the first lecture he gave at a physics
+conference [E27], and again in 1910 [E28], 1911 [E29], 1914 [E30], 1915 [E31],
+and 1925 [E32]. Special relativity is, of course, discussed in his book The Mean-
+ing of Relativity [E33]. The first newspaper article he ever wrote deals largely
+with the special theory [E34]; he wrote reviews of books bearing on this subject,
+in praise of writings by Brill [E35], Lorentz [E35], and Pauli [E36].
+•See [PI] or [P2], Section 43.
+**For a discussion of the early contributions to this subject, see [PI] or [P2], Sections 46-49; see
+also [E24]. For a subsequent severe criticism of these papers, see [O2]. Since this subject remains
+controversial to this day (see, e.g., [L7]), it does not lend itself as yet to historic assessment.
+THE NEW KINEMATICS 155
+We have now discussed special relativity from its nineteenth century antece-
+dents to Einstein's motivation, his paper of 1905 and its sequels, and the early
+reactions to the new theory. I shall not discuss the further developments in classical
+special relativity. Its impact on modern physics is assessed in papers by Wolfgang
+Panofsky [Pll] and Edward Purcell [P12].
+Remaining unfinished business, mainly related to the roles of Einstein, Lorentz,
+and Poincare, will be discussed in Chapter 8. By way of transition, let us consider
+the problem of electromagnetic mass.
+7e. Electromagnetic Mass: The First Century*
+Long before it was known that the equivalence of energy and inertial mass is a
+necessary consequence of the relativity postulates and that this equivalence applies
+to all forms of energy, long before it was known that the separate conservation
+laws of energy and of mass merge into one, there was a time when dynamic rather
+than kinematic arguments led to the notion of electromagnetic mass, a form of
+energy arising specifically in the case of a charged particle coupled to its own
+electromagnetic field. The electromagnetic mass concept celebrates its first centen-
+nial as these lines are written. The investigations of the self-energy problem of the
+electron by men like Abraham, Lorentz, and Poincare have long since ceased to
+be relevant. All that has remained from those early times is that we still do not
+understand the problem.
+'A close analogy to this question of electromagnetic mass is furnished by a sim-
+ple hydrodynamic problem,' Lorentz told his listeners at Columbia University
+early in 1906 [L8]. The problem he had in mind was the motion of a solid, per-
+fectly smooth sphere of mass m0 moving uniformly with a velocity ~v in an infinite,
+incompressible, ideal fluid. Motions of this kind had been analyzed as early as
+1842 by Stokes [S4]. Stokes had shown that the kinetic energy E and the momen-
+tum p of the system are given by E = %mv2 and p = mv, where m = m0 + /u.
+The parameter fj,—the induced, or hydrodynamic, mass—depends on the radius
+of the sphere and the density of the fluid. The analogy to which Lorentz referred
+was first noted by J. J. Thomson, who in 1881 had studied the problem 'of a
+charged sphere moving through an unlimited space filled with a medium of spe-
+cific inductive capacity K. . . . The resistance [to the sphere's motion] . . . must
+correspond to the resistance theoretically experienced by a solid in moving through
+a perfect fluid' [T2]. Thomson calculated the kinetic energy of the system for small
+velocities and found it to be of the form E = %mv2, where m = m0 + fj.: 'The
+effect of the electrification is the same as if the mass of the sphere were
+*Some of the material of this section was presented earlier in an article on the history of the theory
+of the electron [PI3],
+156 RELATIVITY, THE SPECIAL THEORY
+increased. ...' Thus he discovered the electromagnetic mass /i, though he did not
+give it that name. The reader will enjoy repeating the calculation he made for the
+H of the earth electrified to the highest potential possible without discharge.
+Continuing his Columbia lecture, Lorentz remarked, 'If, in the case of the ball
+moving in the perfect fluid, we were obliged to confine ourselves to experiments
+in which we measure the external forces applied to the body and the accelerations
+produced by them, we should be able to determine the effective mass [m0 + fi],
+but it would be impossible to find the values of m0 and [p] separately. Now, it is
+very important that in the experimental investigation of the motion of an electron,
+we can go one step farther. This is due to the fact that the electromagnetic mass
+is not a constant but increases with velocity' [L8].
+Not long after Thomson made his calculations, it became clear that the energy
+of the charged sphere has a much more complicated form than %mv2 if effects
+depending on v/c are included (see, e.g., [H3, S5, S6]). The charged hard-sphere
+calculations to which Lorentz referred in his lectures Were those performed in
+Goettingen by Max Abraham, whose results seemed to be confirmed by experi-
+ments performed by his friend Walter Kaufmann, also in Goettingen.*
+There is a tragic touch to the scientific career of both these men. In 1897, Kauf-
+mann had done very good cathode-ray experiments which led him to conclude: 'If
+one makes the plausible assumption that the moving particles are ions, then e/m
+should have a different value for each substance and the deflection [in electric and
+magnetic fields] should depend on the nature of the electrodes or on the nature of
+the gas [in the cathode tube]. Neither is the case. Moreover, a simple calculation
+shows that the explanation of the observed deflections demands that e/m should
+be about 107, while even for hydrogen [e/m] is only about 10"' [K2]. Had Kauf-
+mann added one conjectural sentence to his paper, completed in April 1897, he
+would have been remembered as an independent discoverer of the electron. On
+the 30th of that same month, J. J. Thomson gave a lecture on cathode rays before
+the Royal Institution in which he discussed his own very similar results obtained
+by very similar methods but from which he drew a quite firm conclusion: 'These
+numbers seem to favor the hypothesis that the carriers of the charges are smaller
+than the atoms of hydrogen' [T3]. It seems to me that Kaufmann's paper deserves
+to be remembered even though he lacked Thomson's audacity in making the final
+jump toward the physics of new particles.
+As for Abraham, he was a very gifted theoretical physicist (Einstein seriously
+considered him as his successor when in 1914 he left the ETH for Berlin), but it
+was his fate to be at scientific odds with Einstein, in regard both to the special
+theory and the general theory of relativity—and to lose in both instances. We shall
+encounter him again in Chapter 13.
+I return to the electromagnetic mass problem. Kaufmann was the first to study
+experimentally the energy-velocity relation of electrons. In 1901 he published a
+paper on this subject, entitled 'The Magnetic and Electric Deflectability of Bec-
+*For details about this episode, see [Gl].
+THE NEW KINEMATICS 157
+querel Rays [i.e., /?-rays] and the Apparent Mass of the Electron' [K3]. Stimu-
+lated by these investigations, Abraham soon thereafter produced the complete
+answers for the electromagnetic energy (Ec[m) and the electromagnetic momentum
+(pc\m) °f an electron considered as a hard sphere with charge e and radius a and
+with uniform charge distribution (|3 = v/c, fi = 2e2/3ac2):
+*As usual, we assume the electron to move in the x direction. Equations 7.33 and 7.34 were first
+published in 1911 by von Laue [L10].At the 74th Naturforscherversammlung, held in Karlsbad in September 1902,
+Kaufmann presented his latest experimental results [K4]. Immediately after him,
+Abraham presented his theory [Al]. Kaufmann concluded that 'the dependence
+[of E on v] is exactly represented by Abraham's formula.' Abraham said, 'It now
+becomes necessary to base the dynamics of the electrons from the outset on elec-
+tromagnetic considerations' (in 1903 he published his main detailed article on the
+rigid electron [A2]). One sees what Lorentz meant in his Columbia lectures: if it
+would have been true, if it could have been true, that the E-v relation were
+experimentally exactly as given by Eq. 7.29, then two things would have been
+known: the electron is a little rigid sphere and its mass is purely electromagnetic
+in origin.
+Such was the situation when in 1904 Lorentz proposed a new model: the elec-
+tron at rest is again a little sphere, but it is subject to the FitzGerald-Lorentz
+contraction [L9]. This model yields a velocity dependence different from Eqs. 7.29
+and 7.30:
+where ju0 = 3ju/4, ju, = 5/i/4, and n is as in Eqs. 7.29 and 7.30. Lorentz, aware
+of Kaufmann's results and their agreement with Abraham's theory, remarked that
+his equations ought to agree 'nearly as well ... if there is not to be a most serious
+objection to the theory I have now proposed' and did some data-fitting which led
+him to conclude that there was no cause for concern.
+In order to understand Lorentz's equations (Eqs. 7.31 and 7.32) and Poincare's
+subsequent proposal for a modification of these results, it is helpful to depart
+briefly from the historic course of events and derive Lorentz's results from the
+transformation properties of the electromagnetic energy momentum tensor density
+T,,, [P13]. With the help of that quantity we can write (in the Minkowski
+metric)*
+where '0' refers to the rest frame. Since T^ is traceless and since the rest frame
+is spatially isotropic, these transformation relations at once yield Eqs. 7.31 and
+7.32.
+Dynamic rather than kinematic arguments had led to the concept of electro-
+magnetic mass. Dynamic rather than kinematic arguments led Poincare to modify
+Lorentz's model. In his brief paper published in June 1905, Poincare announced,
+'One obtains ... a possible explanation of the contraction of the electron by assum-
+ing that the deformable and compressible electron is subject to a sort of constant
+external pressure the action of which is proportional to the volume variation'
+[PI4]. In his July 1905 memoir he added, 'This pressure is proportional to the
+fourth power of the experimental mass of the electron' [P15]. In Chapter 6, I
+discussed the kinematic part of these two papers. More important to Poincare was
+the dynamic part, the 'explanation of the contraction of the electron.' It is not for
+nothing that both papers are entitled 'Sur la Dynamique de 1'Electron.'
+In modern language, Poincare's dynamic problem can be put as follows. Can
+one derive the equations for a Lorentz electron and its self-field from a relativis-
+tically invariant action principle and prove that this electron, a sphere at rest,
+becomes an ellipsoid when in uniform motion in the way Lorentz had assumed
+it did? Poincare first showed that this was impossible. But he had a way out. 'If
+one wishes to retain [the Lorentz theory] and avoid intolerable contradictions, one
+must assume a special force which explains both the contraction [in the direction
+of motion] and the constancy of the two [other] axes' [PI5].
+Poincare's lengthy arguments can be reduced to a few lines with the help of
+Ty,. Write Eq. 7.31 in the form158 RELATIVITY, THE SPECIAL THEORY
+where V = 4va^/3y is the (contracted) volume of the electron and P = 3/uc2/
+16ira3 is a scalar pressure. Add a term pPS^, the 'Poincare stress,' to 7^, where
+p = 1 inside the electron and zero outside. This term cancels the — PV term in
+£dm for all velocities, it does not contribute to Pelm, and it serves to obtain the
+desired contraction. Assume further—as Poincare did—that the mass of the elec-
+tron is purely electromagnetic. Then n ~ e2/a and P ~ M/«3 ~ M4, his result
+mentioned earlier. Again in modern language, the added stress makes the finite
+electron into a closed system. Poincare did not realize how highly desirable are the
+relations
+which follow from his model! (See [M7] for a detailed discussion of the way Poin-
+care proceeded.)
+THE NEW KINEMATICS 159
+Next we must return to Kaufmann. Stimulated by the new theoretical devel-
+opments, he refined his experiments and in 1906 announced new results: The
+measurements are incompatible with the Lorentz-Einstein postulate. The Abra-
+ham equation and the Bucherer equation* represent the observations equally well
+...'[K5].
+These conclusions caused a stir among the theoretical experts. Planck discussed
+his own re-analysis of Kaufmann's data at a physics meeting in 1906 [PI6]. He
+could find no flaw, but took a wait-and-see attitude. So did Poincare in 1908
+[PI7]. Lorentz vacillated: The experiments 'are decidedly unfavorable to the idea
+of a contraction, such as I attempted to work out. Yet though it seems very likely
+that we shall have to relinquish it altogether, it is, I think, worthwhile looking
+into it more closely ...' [L12]. Einstein was unmoved: 'Herr Kaufmann has
+determined the relation between [electric and magnetic deflection] of /3-rays with
+admirable care. ... Using an independent method, Herr Planck obtained results
+which fully agree with [the computations of] Kaufmann. ... It is further to be
+noted that the theories of Abraham and Bucherer yield curves which fit the
+observed curve considerably better than the curve obtained from relativity theory.
+However, in my opinion, these theories should be ascribed a rather small proba-
+bility because their basic postulates concerning the mass of the moving electron
+are not made plausible by theoretical systems which encompass wider complexes
+of phenomena' [E3]. Soon after this was written, experimental confirmation for
+E = myc2 was obtained by Bucherer [B7]. Minkowski was delighted. To intro-
+duce a rigid electron into the Maxwell theory, he said, is like going to a concert
+with cotton in one's ears [M8]. The issue remained controversial, however. Wien,
+in his letter to the Nobel committee, commented early in 1912, 'Concerning the
+new experiments on cathode and 0-rays, I would not consider them to have deci-
+sive power of proof. The experiments are very subtle, and one cannot be sure
+whether all sources of error have been excluded.' The final experimental verdict
+in favor of relativity came in the years 1914-16.**
+Special relativity killed the classical dream of using the ener-
+gy-momentum-velocity relations of a particle as a means of probing the dynamic
+origins of its mass. The relations are purely kinematic. The classical picture of a
+particle as a finite little sphere is also gone for good. Quantum field theory has
+taught us that particles nevertheless have structure, arising from quantum fluc-
+tuations. Recently, unified field theories have taught us that the mass of the elec-
+tron is certainly not purely electromagnetic in nature.
+But we still do not know what causes the electron to weigh.
+*Alfred Bucherer [B5] and Langevin [LI 1] had independently invented an extended electron model
+with FitzGerald-Lorentz contraction but with constant volume. This model was analyzed further
+by Poincare [PI5] and by Ehrenfest [E37]. In 1908 Bucherer informed Einstein that his, Bucherer's,
+experiments had led him to abandon his own model in favor of the relativity prediction [B6].
+"See [PI] or [P2], Section 29, for detailed references to the experimental literature up to 1918.
+160 RELATIVITY, THE SPECIAL THEORY
+References
+Al. M. Abraham, Phys. Zeitschr. 4, 57 (1902).
+A2. , AdP 10, 105 (1903).
+Bl. M. Born, Die Relativitatstheorie Einsteins. Springer, Berlin, 1921. Translated as
+Einstein's Theory of Relativity (H. L. Brose, Tran.). Methuen, London, 1924.
+B2. O. M. Bilaniuk, V. K. Deshpande, and E. C. G. Sudarshan, Am. J. Phys. 30, 718,
+(1962).
+B3. F. E. Brasch, Library of Congress Quarterly 2 (2), 39 (1945).
+B4. W. Braunbeck, Z. Phys. 107, 1 (1937).
+B5. A. H. Bucherer, Mathematische Einfiihrung in die Elektronentheorie, pp. 57-8.
+Teubner, Leipzig, 1904.
+B6. , letters to A. Einstein, September 7, 9, and 10, 1908.
+B7. , Phys. Zeitschr. 9, 755 (1908).
+El. A. Einstein, AdP 17, 891 (1905).
+E2. , letter to C. Habicht, spring 1905, undated.
+E3. , Jahrb. Rad. Elektr. 4, 411 (1907).
+E4. , Phys. Zeitschr. 12, 509 (1911).
+E5. , AdP 23, 197 (1907).
+E5a. , Astr. Nachr. 199, 7, 47, (1914).
+E6. , PAW, 1916, p. 423; Naturw. 6, 697 (1918).
+E7. , AdP 17, 132 (1905).
+E8. and V. Bargmann, Ann. Math. 45, 1 (1944).
+E9. , AdP 18, 639 (1905).
+E10. , AdP 20, 627; footnote on p. 633 (1906).
+Ell. ,[E3], p. 442.
+El2. , Bull. Am. Math. Soc. 41, 223 (1935).
+E13. , TechnionJ. 5, 16 (1946).
+El 4. , letter to C. Habicht, fall 1905, undated.
+E15. , [E3], p. 443.
+E16. , Arch. Sci. Phys. Nat. 29, 5, 125 (1910), see esp. p. 144.
+E17. P. Ehrenfest, AdP 23, 204 (1907).
+El 8. A. Einstein and J. J. Laub, AdP 26, 532 (1908); corrections in AdP 27, 232 (1908)
+and 28, 445 (1909).
+E19. , , AdP 26, 541 (1908).
+E20. , Die Grundlage der Allgemeinen Relativitatstheorie, introduction. Barth,
+Leipzig, 1916.
+E21. , AdP 21, 583 (1906).
+E22. , AdP 23, 206 (1907).
+E23. , AdP 23, 371 (1907).
+E24. , Science 80, 358 (1934).
+E25. , AdP 26, 885 (1909).
+E26. , Arch. Sci. Phys. Nat. 30, 323 (1910).
+E27. , Phys. Zeitschr. 10, 817 (1909).
+E28. , Arch. Sci. Phys. Nat. 29, 5, 125 (1910).
+E29. , Viertelj. Schrift Nattirf. Ges. Ziirich 56, 1 (1911).
+E30. , Scientia 15, 337 (1914).
+THE NEW KINEMATICS l6l
+E31. in Kultur der Gegenwart (E. Lecher, Ed.), Vol.1, p. 251. Teubner, Leipzig,
+1915.
+E32. , [E31], 2nd edn., Vol. 1, p. 783.
+E33. , The Meaning of Relativity; 5th edn. Princeton University Press, Princeton,
+N.J, 1956.
+E34. , Die Vossische Zeitung, April 26, 1914.
+E35. , Naturw. 2, 1018 (1914).
+E36. , Naturw. 10, 184 (1922).
+E37. P. Ehrenfest, Phys. Zeitschr. 7, 302 (1906).
+Fl. P. Frank, Sitz. Ber. Akad. Wiss. Wien. Ha, 118, 373 (1909), esp. p. 382.
+F2. G. Feinberg, Phys. Rev. 159, 1089 (1967); D17, 1651 (1978).
+Gl. S. Goldberg, Arch. Hist. Ex. Set. 7,1 (1970).
+HI. F. Hasenohrl, AdP 15, 344 (1904); 16, 589 (1905).
+H2. D. Hilbert in H. Minkowski, Ges. Abh. (see [M5]), Vol. 1. p. xxxi.
+H3. O. Heaviside, Phil. Mag. 27, 324 (1889).
+Kl. H. A. Kramers, Quantum Mechanics (D. ter Haar, Tran.), Sec. 57. Interscience,
+New York, 1957.
+K2. W. Kaufmann, AdP 61, 545 (1897).
+K3. , Goett. Nachr., 1901, p. 143.
+K4. , Phys. Zeitschr. 4, 54 (1902).
+K5. , AdP 19, 487 (1906).
+LI. M. von Laue, AdP 23, 989 (1907).
+L2. H. A. Lorentz, Versuch einer Theorie der Electrischen and Optischen Erscheinun-
+gen in Bewegten Kdrpern. Brill, Leiden, 1895. Reprinted in Collected Papers, Vol.
+5, p. 1. Nyhoff, the Hague, 1937.
+L3. P. Langevin, /. de Phys. 3, 553 (1913).
+L4. M. Laue, Das Relativitdtsprinzip. Vieweg, Braunschweig, 1911.
+L5. G. N. Lewis and R. Tolman, Phil. Mag. 18, 510 (1909).
+L6. J. J. Laub, letter to A. Einstein, February 2, 1908.
+L7. P. T. Landsberg, Phys. Rev. Lett. 45, 149 (1980).
+L8. H. A. Lorentz, The Theory of Electrons, p. 40. Teubner, Leipzig, 1909.
+L9. , Proc. R. Ac. Amsterdam 6, 809 (1904); Collected Papers, Vol. 5, p. 172.
+L10. M. von Laue, AdP 35, 124 (1911).
+Lll. P. Langevin, Rev. Gen. Sci. 16, 257 (1905).
+L12. H. A. Lorentz, [L8], p. 213.
+Ml. C. M011er, The Theory of Relativity, Chap. 2. Oxford University Press, Oxford,
+1952.
+M2. Maja Einstein, Albert Einstein, Beitrag fur sein Lebensbild, Florence, 1924,
+unpublished.
+M3. K. von Mosengeil, AdP 22, 867 (1907). Reprinted in Planck, Abhandlungen, Vol.
+2, p. 138.
+M4. H. Minkowski, AdP 47, 927 (1915).
+M5. , Goett. Nachr., 1908, p. 53. Reprinted in Gesammelte Abhandlungen von
+Herman Minkowski, Vol. 2, p. 352. Teubner, Leipzig, 1911.
+M6. , Phys. Zeitschr. 10, 104 (1909); Ges. Abh., Vol. 2, p. 431.
+M7. A. I. Miller, Arch. Hist. Ex. Sci. 10, 207 (1973).
+M8. H. Minkowski, Phys. Zeitschr. 9, 762 (1908).
+l62 RELATIVITY, THE SPECIAL THEORY
+01. T. Ogawa, Jap. St. Hist. Sci. 18, 73 (1979).
+02. H. Ott, Z. Pftys. 175, 70 (1963).
+PI. W. Pauli, Encyklopddie der Mathematischen Wissenschaften, Vol. 5. Part 2, p.
+539. Teubner, Leipzig, 1921.
+P2. , Theory of Relativity (G. Field, Tran.). Pergamon Press, London, 1958.
+P3. W. K. H. Panofsky and M. Phillips, Classical Electricity and Magnetism, Chap.
+15. Addison-Wesley, Reading, Mass., 1955.
+P4. W. Pauli, Wissenschaftlicher Briejwechsel, Vol. 1, pp. 296-312. Springer, New
+York, 1979.
+P5. See e.g., [P3], Chap. 11.
+P6. M. Planck, Verh. Deutsch. Phys. Ges. 4, 136 (1906); see also PAW, 1907, p. 542;
+AdP26, 1 (1908).
+P7. W. Pauli, [PI] or [P2], Sec. 41.
+P7a. M. Planck, Wissenschaftliche Selbstbiographie. Earth, Leipzig, 1948. Reprinted in
+M. Planck, Physikalische Abhandlungen und Vortrdge, Vol. 3, p. 374. Vieweg,
+Braunschweig, 1958.
+P8. , Phys. Zeitschr. 7, 753 (1906); Abhandlungen, Vol. 2, p. 121.
+P9. , [P6], Sec. 12.
+P10. , letter to A. Einstein, July 6, 1907.
+Pll. W. K. H. Panofsky in Proc. Einstein Centennial Symposium at Princeton, 1979,
+p. 94. Addison-Wesley, Reading, Mass., 1980.
+P12. E. M. Purcell, [Pll], p. 106.
+PI 3. A. Pais in Aspects of Quantum Theory (A. Salam and E. P. Wigner, Eds.), p. 79.
+Cambridge University Press, Cambridge, 1972.
+P14. H. Poincare, C. R. Ac. Sci. Paris 140, 1504 (1905); Oeuvres de Henri Poincare,
+Vol. 9, p. 489. Gauihier-Villars, Paris, 1954.
+PI 5. , Rend. Circ. Mat. Palermo 21, 129 (1906); Oeuvres, Vol. 9, p. 494; see esp.
+Sec. 8.
+P16. M. Planck, Phys. Zeitschr. 7, 753 (1906); Abhandlungen, Vol. 2, p. 121.
+P17. H. Poincare, Rev. Gen. Sci. 19, 386, 1908; Oeuvres, Vol. 9, p. 551.
+Rl. H. P. Robertson, Rev. Mod. Phys. 21, 378 (1949).
+R2. E. Rutherford, J. Chadwick, and C. D. Ellis, Radiations From Radioactive Sub-
+stances, p. 531. Cambridge University Press, Cambridge, 1930.
+51. A. Sommerfeld, Ed., The Principle of Relativity, p. 37. Dover, New York.
+52. Se, p. 130.
+53. Se, p. 131.
+54. G. G. Stokes, Mathematical and Physical Papers, Vol. 1, p. 17. Johnson, New
+York, 1966.
+55. G. Searle, Phil. Trans. Roy. Soc. 187, 675 (1896).
+56. A. Schuster, Phil. Mag. 43, 1 (1897).
+Tl. L. H. Thomas, Nature 117, 514 (1926); Phil. Mag. 3, 1 (1927).
+T2. J. J. Thomson, Phil. Mag. 11, 229 (1881).
+T3. in The Royal Institute Library of Science, Physical Sciences, Vol. 5, p. 36.
+Elsevier, New York, 1970.
+Ul. G. E. Uhlenbeck and S. Goudsmit, Naturw. 13, 953 (1925).
+U2. , Phys. Today 29 (6), 43 (1976).

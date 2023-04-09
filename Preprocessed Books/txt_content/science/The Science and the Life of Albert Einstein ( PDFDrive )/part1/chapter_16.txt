@@ -1,0 +1,1185 @@
+i6
+'The Suddenly Famous
+Doctor Einstein'
+16a, Illness; Remarriage; Death of Mother
+Part IV of this book began with an account of Einstein's arrival in Berlin, his
+separation from Mileva, his reactions to the First World War, and his earliest
+activities in the political sphere. This was followed by a description of the final
+phases in the creation of general relativity. In the previous chapter, Einstein's role
+in the further development of this theory and its impact on later generations of
+physicists were discussed. In this chapter, I turn to the impact of general relativity
+on the world at large, an impact that led to the abrupt emergence of Einstein as
+a charismatic figure and a focus of awe, reverence, and hatred. I also continue the
+story, begun in Section 14a, of Einstein's years in Berlin. To begin with, I retur
+to the days just after November 1915, when Einstein completed his work on the
+foundations of general relativity.
+As was mentioned before, in December 1915 Einstein wrote to his friend Besso
+that he was 'zufrieden aber ziemlich kaputt,' satisfied but rather worn out [El].
+He did not take a rest, however. In 1916 he wrote ten scientific papers, includin
+his first major survey of general relativity, his theory of spontaneous and induced
+emission, his first paper on gravitational waves, articles on the energy-momentum
+conservation laws and on the Schwarzschild solution, and a new proposal for mea-
+suring the Einstein-de Haas effect. He also completed his first semipopular book
+on relativity. Too much exertion combined with a lack of proper care must have
+been the chief cause of a period of illness that began sometime in 1917 and lasted
+several years.
+I do not know precisely when this period began, but in February 1917 Einstein
+wrote to Ehrenfest that he would not be able to visit Holland because of a liver
+ailment that had forced him to observe a severe diet and to lead a very quiet life
+[E2]. That quiet life did not prevent him from writing the founding paper on
+general relativistic cosmology in that same month. Lorentz expressed regret that
+Einstein could not come; however, he wrote, 'After the strenuous work of recent
+years, you deserve a rest' [LI]. Einstein's reply shows that his indisposition was
+not a trivial matter. He mentioned that he could get proper nourishment because
+of the connections that his family in Berlin maintained with relatives in southern
+299
+300 THE LATER JOURNEY
+Germany and added, 'Without this help it would hardly be possible for me to stay
+here; nor do I know if things can continue the way they are' [E3]. As a Swiss
+citizen, he was entitled to and did receive food parcels from Switzerland [E4], but
+that was evidently not enough to compensate for the food shortages in Berlin
+caused by the war. He did not follow the advice of his doctor, who had urged him
+to recuperate in Switzerland [E5].
+At that stage Elsa Einstein Lowenthal took matters in hand. Elsa, born in 1876
+in Hechingen in Hohenzollern, was both a first and a second cousin of Albert's.
+Rudolf, her father, was a first cousin of Hermann, Albert's father. Fanny, her
+mother, was a sister of Pauline, Albert's mother. Elsa and Albert had known each
+other since childhood, when Elsa would visit the relatives in Munich and Albert
+would come to Hechingen. They had grown fond of each other. In her early twen-
+ties, Elsa married a merchant named Lowenthal, by whom she had two daughters,
+Use (b. 1897) and Margot (b. 1899). This brief marriage ended in divorce. When
+Einstein arrived in Berlin, Elsa and her daughters were living in an upper-floor
+apartment on Haberlandstrasse No. 5. Her parents lived on lower floors in the
+same building. Elsa's presence in Berlin had been one of the factors drawing Ein-
+stein to that city.
+It was principally Elsa who took care of her cousin during his illness. In the
+summer of 1917, Einstein moved from the Wittelsbacherstrasse to an apartment
+next to Elsa's. In September he invited Besso to visit him in his spacious and
+comfortable new quarters [E6]. In December, he wrote to Zangger that he felt
+much better. 'I have gained four pounds since last summer, thanks to Elsa's good
+care. She herself cooks everything for me, since this has turned out to be necessary'
+[E7]. However, he still had to maintain a strict diet and was never sure that severe
+pains might not return [E8].
+Toward the end of the year, his health worsened. It turned out that he was
+suffering from a stomach ulcer [E9, E10]. For the next several months, he had to
+stay in bed [E10]. His feelings were at a low ebb: 'The spirit turns lame, the
+strength diminishes' [Ell]. While bedridden, he derived the quadrupole formula
+for gravitational radiation. In April 1918 he was permitted to go out, but still had
+to be careful. 'Recently I had a nasty attack, which was obviously caused only
+because I played the violin for an hour' [E10]. In May he was in bed again, this
+time with jaundice [El2], but completed a fundamental paper on the pseudotensor
+of energy-momentum. His dream (in August [E13]) that he had cut his throat
+with a shaving knife may or may not have been a reaction to his state of health.
+In November he published an article on the twin paradox. In December he wrote
+to Ehrenfest that he would never quite regain his full health [El4].
+By that time, Albert and Elsa had decided to get married, and therefore Einstein
+had to institute procedures to obtain a divorce from Mileva [E15]. The divorce
+decree was issued on February 14, 1919. It stipulated that Mileva would receive,
+in due course, Einstein's Nobel prize money.*
+*See further Chapter 30.
+'THE SUDDENLY FAMOUS DOCTOR EINSTEIN' 301
+Mileva remained in Zurich for the rest of her life. Initially she took on her own
+family name, Marity, but by decree of the cantonal government of Zurich dated
+December 24, 1924, she was given permission to revert to the name Einstein. On
+occasional visits to his children, Einstein would stay in her home. She was a dif-
+ficult woman, distrustful of other people and given to spells of melancholy. (Her
+sister Zorka suffered from severe mental illness.) She died in 1948. Some years
+thereafter Einstein wrote of her, 'She never reconciled herself to the separation
+and the divorce, and a disposition developed reminiscent of the classical example
+of Medea. This darkened the relations to my two boys, to whom I was attached
+with tenderness. This tragic aspect of my life continued undiminished until my
+advanced age' [El6].
+Albert and Elsa were married on June 2, 1919. He was forty, she forty-three.
+They made their home in Elsa's apartment, to which were added two rooms on
+the floor above, which served as Einstein's quarters for study and repose. On
+occasion, his stomach pain would still flare up [E17], but in 1920 he wrote to
+Besso that he was in good health and good spirits [El8]. Perhaps the most remark-
+able characteristic of this period of illness is the absence of any lull in Einstein's
+scientific activity.
+Elsa, gentle, warm, motherly, and prototypically bourgeoise, loved to take care
+of her Albertle. She gloried in his fame. Charlie Chaplin, who first met her in
+1931, described her as follows: 'She was a square-framed woman with abundant
+vitality; she frankly enjoyed being the wife of the great man and made no attempt
+to hide the fact; her enthusiasm was endearing' [Cl]. The affectionate relationship
+between her husband and her daughters added to her happiness. Albert, the gypsy,
+had found a home, and in some ways that did him much good. He very much
+liked being taken care of and also thoroughly enjoyed receiving people at his apart-
+ment—scientists, artists, diplomats, other personal friends. In other ways, how-
+ever, this life was too much for him. A friend and visitor gave this picture: 'He,
+who had always had something of the bohemian in him, began to lead a middle-
+class life ... in a household such as was typical of a well-to-do Berlin family . . .
+in the midst of beautiful furniture, carpets, and pictures. . . . When one entered
+. .. one found Einstein still remained a "foreigner" in such a surrounding—a
+bohemian guest in a middle-class home' [Fl]. Elsa gave a glimpse of their life to
+another visitor: 'As a little girl, I fell in love with Albert because he played Mozart
+so beautifully on the violin.. . . He also plays the piano. Music helps him when
+he is thinking about his theories. He goes to his study, comes back, strikes a few
+chords on the piano, jots something down, returns to his study. On such days,
+Margot and I make ourselves scarce. Unseen, we put out something for him to
+eat and lay out his coat. [Sometimes] he goes out without coat and hat, even when
+the weather is bad. Then he comes back and stands there on the stairs' [SI]. One
+does not have a sense of much intimacy between the two. The bedroom next to
+Elsa's was occupied by her daughters; Albert's was down the hall [HI]. Nor do
+they appear to have been a couple much given to joint planning and deliberation.
+'Albert's will is unfathomable,' Elsa once wrote to Ehrenfest [E19]. In marked
+302 THE LATER JOURNEY
+contrast to her husband, she was conscious of social standing and others' opin-
+ions.*
+On various occasions, Einstein would utter asides which expressed his reser-
+vations on the bliss attendant on the holy state of matrimony. For example, he
+was once asked by someone who observed him incessantly cleaning his pipe
+whether he smoked for the pleasure of smoking or in order to engage in unclogging
+and refilling his pipe. He replied, 'My aim lies in smoking, but as a result things
+tend to get clogged up, I'm afraid. Life, too, is like smoking, especially marriage'
+[II].
+Shortly after Elsa died, in 1936, Einstein wrote to Born, 'I have acclimated
+extremely well here, live like a bear in its cave, and feel more at home than I ever
+did in my eventful life. This bearlike quality has increased because of the death
+of my comrade [Kameradin], who was more attached to people [than I]' [E20].
+It was not the only time that Einstein wrote about his family with more frankness
+than grace [E21].
+In March 1955, shortly after the death of his lifelong friend Michele Besso,
+Einstein wrote to the Besso family, 'What I most admired in him as a human
+being is the fact that he managed to live for many years not only in peace but also
+in lasting harmony with a woman—an undertaking in which I twice failed rather
+disgracefully' [E22].
+Half a year after Albert and Elsa were married, his mother came to Berlin to
+die in her son's home.
+Pauline's life had not been easy. After her husband's death in 1902 left her with
+limited means and no income, she first went to stay with her sister Fanny, in
+Hechingen. Thereafter she lived for a long period in Heilbron in the home of a
+widowed banker by the name of Oppenheimer, supervising the running of the
+household and the education of several young children who adored her. Later she
+managed for a time the household of her widowed brother Jakob Koch, then
+moved to Lucerne to stay with her daughter, Maja, and the latter's husband, Paul
+Winteler, at their home at Brambergstrasse 16a. It was to that address that Ein-
+stein sent a newspaper clipping 'for the further nourishment of Mama's anyhow
+already considerable mother's pride' [E23].
+While staying with her daughter, Pauline became gravely ill with abdominal
+cancer and had to be hospitalized at the Sanatorium Rosenau. Shortly thereafter,
+she expressed the desire to be with her son. In December 1919, Elsa wrote to
+Ehrenfest that the mother, now deathly ill, would be transported to Berlin [E24].
+Around the beginning of 1920, Pauline arrived, accompanied by Maja, a doctor,
+and a nurse [E25]. She was bedded down in Einstein's study. Morphine treat-
+ments affected her mind, but 'she clings to life and still looks good' [E25]. She
+*Frank remarks that she was not popular in Berlin circles [Fl].
+'THE SUDDENLY FAMOUS DOCTOR EINSTEIN.' 303
+died in February and was buried in the Schoneberg Cemetery in Berlin. Soon
+thereafter, Einstein wrote to Zangger, 'My mother has died.. .. We are all com-
+pletely exhausted. .. . One feels in one's bones the significance of blood ties' [E26].
+16b. Einstein Canonized
+In the early fall of 1919, when Pauline Einstein was in the sanatorium, she
+received a postcard from her son which began, 'Dear Mother, joyous news today.
+H. A. Lorentz telegraphed that the English expeditions have actually demon-
+strated the deflection of light from the sun' [E27]. The telegram that had
+announced the news to Einstein a few days earlier read, 'Eddington found star
+displacement at the sun's edge preliminary between nine-tenth second and double
+that. Many greetings. Lorentz' [L2]. It was an informal communication. Nothing
+was definitive. Yet Einstein sent almost at once a very brief note to Naturwissen-
+schaften for the sole purpose of reporting the telegram he had received [E28]. He
+was excited.
+Let us briefly recapitulate Einstein's progress in understanding the bending of
+light. 1907. The clerk at the patent office in Bern discovers the equivalence prin-
+ciple, realizes that this principle by itself implies some bending of light, but
+believes that the effect is too small to ever be observed. 1911. The professor at
+Prague finds that the effect can be detected for starlight grazing the sun during
+a total eclipse and finds that the amount of bending in that case is 0''87. He does
+not yet know that space is curved and that, therefore, his answer is incorrect. He
+is still too close to Newton, who believed that space is flat and who could have
+himself computed the 0*87 (now called the Newton value) from his law of grav-
+itation and his corpuscular theory of light. 1912. The professor at Zurich discovers
+that space is curved. Several years pass before he understands that the curvature
+of space modifies the bending of light. 1915. The member of the Prussian Acad-
+emy discovers that general relativity implies a bending of light by the sun equal
+to 1 "74, the Einstein value, twice the Newton value. This factor of 2 sets the stag
+for a confrontation between Newton and Einstein.
+In 1914, before Einstein had the right answer, he had written to Besso with
+typical confidence. 'I do not doubt any more the correctness of the whole system,
+whether the observation of the solar eclipse succeeds or not' [E29]. Several quirks
+of history saved him from the embarrassment of banking on the wrong result. An
+Argentinian eclipse expedition which had gone to Brazil in 1912 and which had
+the deflection of light on its experimental program was rained out. In the summer
+of 1914, a German expedition led by Erwin Freundlich and financed by Gustav
+Krupp, in a less familiar role of benefactor of humanity, headed for the Crimea
+to observe the eclipse of August 21. (Russian soldiers and peasants were told by
+their government not to fear evil omens: the forthcoming eclipse was a natural
+phenomenon [Nl].) When the war broke out, the party was warned in time to
+return and some did so. Those who hesitated were arrested, eventually returned
+304 THE LATER JOURNEY
+home safely but of course without results [N2]. Frustration continued also after
+November 18, 1915, the day on which Einstein announced the right bending of
+1''74 [E30]. Ten days later, commenting on a new idea by Freundlich for mea-
+suring light bending, Einstein wrote to Sommerfeld, 'Only the intrigues of mis-
+erable people prevent the execution of this last, new, important test of the theory,'
+and, most uncharacteristically, signed his letter 'Your infuriated Einstein,' [E31].
+An opportunity to observe an eclipse in Venezuela in 1916 had to be passed up
+because of the war. Early attempts to seek deflection in photographs taken during
+past eclipses led nowhere. An American effort to measure the effect during the
+eclipse of June 1918 never gave conclusive results.* It was not until May 1919
+that two British expeditions obtained the first useful photographs and not until
+November 1919 that their results were formally announced.
+English interest in the bending of light developed soon after copies of Einstein's
+general relativity papers were sent from Holland by de Sitter to Arthur Stanley
+Eddington at Cambridge (presumably these were the first papers on the theory to
+reach England). In addition, de Sitter's beautiful essay on the subject, published
+in June 1916 in the Observatory [S2], as well as his three important papers in the
+Monthly Notices [S3] further helped to spread the word. So did a subsequent
+report by Eddington [E33], who in a communication to the Royal Astronomical
+Society in February 1917 stressed the importance of the deflection of light [E34].
+In March 1917 the Astronomer Royal, Sir Frank Watson Dyson, drew attention
+to the excellence of the star configuration on May 29, 1919, (another eclipse date)
+for measuring the alleged deflection, adding that 'Mr Hinks has kindly under-
+taken to obtain for the Society information of the stations which may be occupied'
+[Dl]. Two expeditions were mounted, one to Sobral in Brazil, led by Andrew
+Crommelin from the Greenwich Observatory, and one to Principe Island off the
+coast of Spanish Guinea, led by Eddington. Before departing, Eddington wrote,
+'The present eclipse expeditions may for the first time demonstrate the weight of
+light [i.e., the Newton value]; or they may confirm Einstein's weird theory of non-
+Euclidean space; or they may lead to a result of yet more far-reaching conse-
+quences—no deflection' [E35]. Under the heading 'Stop Press News,' the June
+issue of the Observatory contains the text of two telegrams, one from Sobral:
+'Eclipse splendid. Crommelin,' and one from Principe: 'Through cloud. Hopeful.
+Eddington' [01]. The expeditions returned. Data analysis began.** According to
+a preliminary report by Eddington to the meeting of the British Association held
+in Bournemouth on September 9-13, the bending of light lay between 0*87 and
+double that value. Word reached Lorentz.f Lorentz cabled Einstein, whose excite-
+*For many details about all these early efforts, see especially [E32].
+**I shall not discuss any details of the actual observations or of the initial analysis of the data and
+their re-analysis in later years. For these subjects, I refer to several excellent articles [Bl, E32, Ml].
+•(•The news was brought to Leiden by van der Pol, who had attended the Bournemouth meeting [L3].
+'THE SUDDENLY FAMOUS DOCTOR EINSTEIN' 305
+ment on receiving this news after seven years of waiting will now be clearer. Then
+came November 6, 1919, the day on which Einstein was canonized.f
+Ever since 1905 Einstein had been beatus, having performed two first-class mir-
+acles. Now, on November 6, the setting, a joint meeting of the Royal Society and
+the Royal Astronomical Society, resembled a Congregation of Rites4 Dyson acted
+as postulator, ably assisted by Crommelin and Eddington as advocate-procurators.
+Dyson, speaking first, concluded his remarks with the statement, 'After a careful
+study of the plates I am prepared to say that they confirm Einstein's prediction.
+A very definite result has been obtained, that light is deflected in accordance with
+Einstein's law of gravitation.' Crommelin added further details. Eddington spoke
+next, stating that the Principe results supported the figures obtained at Sobral,
+then reciting the two requisite authentic miracles subsequent to Einstein's eleva-
+tion to beatus: the perihelion of Mercury and the bending of light, 1"98 + O."30
+and 1".61 + 0".30 as observed in Sobral and Principe, respectively. Ludwick
+Silberstein,* the advocatus diaboli, presented the animadversiones: 'It is unscien-
+tific to assert for the moment that the deflection, the reality of which I admit, is
+due to gravitation.' His main objection was the absence of evidence for the red
+shift: 'If the shift remains unproved as at present, the whole theory collapses.'
+Pointing to the portrait of Newton which hung in the meeting hall, Silberstein
+admonished the congregation: 'We owe it to that great man to proceed very care-
+fully in modifying or retouching his Law of Gravitation.'
+Joseph John Thomson, O.M., P.R.S., in the chair, having been petitioned
+instanter, instantius, instantissime, pronounced the canonization: 'This is the most
+important result obtained in connection with the theory of gravitation since New-
+ton's day, and it is fitting that it should be announced at a meeting of the Society
+so closely connected with him.. . . The result [is] one of the highest achievements
+of human thought.' A few weeks later he added, 'The deflection of light by matter,
+suggested by Newton in the first of his Queries, would itself be a result of first-
+rate scientific importance; it is of still greater importance when its magnitude sup-
+ports the law of gravity put forward by Einstein' [Tl].
+Even before November 6, Einstein and others already knew that things looked
+good.
+11 find the parallels with the rituals of beatification and canonization compelling, even though they
+are here applied to a living person. Note that a beatus may be honored with public cult by a specified
+diocese or institution (here, the physicists). A canonized person is honored by unrestricted public
+cult. For these and other terms used, see [N3].
+^The details of the proceedings quoted here are found in an article in the Observatory [O2].
+*Silberstein, a native of Poland who moved to England and later settled in the United States, was
+the author of three books on relativity. On several occasions, he was in dogged but intelligent oppo-
+sition to relativity theory.
+306 THE LATER JOURNEY
+On October 22, Carl Stumpf, a psychologist and fellow member of the Prussian
+Academy, wrote to Einstein, 'I feel compelled to send you most cordial congratu-
+lations on the occasion of the grandiose new success of your gravitation theory.
+With all our hearts, we share the elation which must fill you and are proud of the
+fact that, after the military-political collapse, German science has been able to
+score such a victory . ..' [S4].* On November 3 Einstein replied, 'On my return
+from Holland I find your congratulations.... I recently learned in Leiden that
+the confirmation found by Eddington is also a complete one quantitatively' [E36].
+A few days after the joint meeting of November 6, Lorentz sent another telegram
+to Einstein, confirming the news [L4]. On November 7, 1919, the Einstein legend
+began.
+16c. The Birth of the Legend
+'Armistice and treaty terms/Germans summoned to Paris/Devastated France/
+Reconstruction progress/War crimes against Serbia.' These are among the head-
+lines on page 11 of the London Times of November 7, 1919. Turning to page 12,
+one finds that column 1 is headed by 'The glorious dead/King's call to his people/
+Armistice day observance/Two minutes pause from work' and column 6 by 'Rev-
+olution in science/New theory of the universe/Newtonian ideas overthrown.'
+Halfway down the column, there is the laconic subheading 'Space warped.' In this
+London Times issue, we find the first report to a world worn by war of the hap-
+penings at the meetings of the joint societies the day before. The next day, the
+same paper published a further article on the same subject headlined 'The revo-
+lution in science/Einstein v. Newton/Views of eminent physicists,' in which we
+read, 'The subject was a lively topic of conversation in the House of Commons
+yesterday, and Sir Joseph Larmor, F.R.S., M.P. for Cambridge University, ...
+said he had been besieged by inquiries as to whether Newton had been cast down
+and Cambridge "done in."' (Hundreds of people were unable to get near the room
+when Eddington lectured in Cambridge on the new results [E37].) The news was
+picked up immediately by the Dutch press [N3a, Al]. Daily papers invited emi-
+nent physicists to comment. In his lucid way, Lorentz explained general relativity
+to the readers of the Niewe Rotterdamsche Courant of November 19, remarking
+that 'I cannot refrain from expressing my surprise that according to the report in
+the [London] Times there should be so much complaint about the difficulty of
+understanding the new theory. It is evident that Einstein's little book "About the
+Special and General Theory of Relativity in Plain Terms" did not find its way
+into England during wartime.'** On November 23 an article by Max Born enti-
+*I thank A. Hermann for informing me that in October the Berlin papers were already carrying
+early reports. An article by Alexander Moszkowski entitled 'Die Sonne bracht' es an den Tag' in
+the Berliner Tageblatt of October 8, 1919, must presumably have been based on information from
+Einstein himself.
+**This article appeared later in translation in The New York Times [N4].
+REVOLUTION
+SCIENCE.IN
+NEW THEORY OF THE
+UNIVERSE.
+NEWTONIAN IDEAS
+OVERTHROWN.
+Yesterday afternoon in the rooms of the
+Royal Society, at a joint session of the Royal
+and Astronomical Societies, the results ob-
+tained by Britisli observers of the total solar
+eclipse of May 29 were discussed.
+The greatest possible interest had been
+aroused in scientific circles by the hope that
+rival theories of a fundamental physical
+problem would bo put to the test, and there was
+a very large attendance of astronomers and
+physicists. Tt was generally accepted that the
+observations were derisive in the verifying of
+the prediction of the famous physicist, Einstein,
+stated by the President of the Royal Society
+as being tho most remarkable scientific event
+siiico the discovery of the predicted existence
+of the planet Neptune. But there was differ-
+ence of opinion as to whether science had to
+faco merely a new and unexplained fact, or to
+reckon with a theory that would completely
+revolutionize Iho accepted fundamentals ofphysics.
+Sin FRANK DYSON, (he Astronomer Royal, described
+I IIP work of the expeditions Kent respectively to
+Nobral in North Brazil and the island of Principe,off the West Coast of Africa. At each of these
+place*, if the weather were propitious on tho day of
+the eclipse, it, would bo possible, to-take, during
+totality a set of photographs of tho obscured sun and
+ol a, number of bright stars which happened to be inits immediate vicinity. The desired object was toascertain whether tho light from these stars, as it,
+passed the sun. came us dirc.ctly towards us as iC
+the sun were not there, or if there was a deflectiondue to il,s presence, and if the latter proved to be
+the case, what, the amount, of the deflection was. If
+deflection did occur, the stars would appearon the photographic plates at a measurable
+distance from their theoretical positions. Hoexplained in detail the apparatus that had beenemployed, the corrections that had to be made fur
+various disturbing factors, and the methods bv
+which comparison between the theoretical and tho
+observed positions had been made. He convinced the
+meeting that (hi- nwults were definite and conclusive,llcrlection did take place, and the measurements
+showed that the extent of the deflection was in clo>oaccord with the theoretical degree predicted by
+Kinstein, HS opposed to half that degree, the amoun
+that, would follow from the principles of ^Scwtou.
+It is interesting to recall that Sir Oliver T/odgc,speaking at the Itoyal Institution last, February,
+had also ventured on a prediction. He doubted it
+deflection would be observed, hut was confident, that
+if it did fake place, it. would follow the law of Ncwtou
+aud not, that of Kinstein.
+l)ii. ('KoMJiia.iN and PitoKtssuii KDUJNGTON, two
+of the actual observers, followed the Astrouomcr-Itoyal, and gave interesting accounts of their work,
+in every way confirming the general conclusions thathad been enunciated.' MOMENTOUS PRONOUNCEMENT."
+So far the matter was clear, but when the
+discussion began, it was plain that the scientific;
+interest centred more in the theoretical bearings
+of the results than in the results themselves.
+Kven the President of tho Royal Society, in
+stating that they had just listened to " one of
+the most momentous, if not the most moment-
+ous, pronouncements of human thought," had
+to confess that no one had yet succeeded in
+stating in clear language what the theory of
+Einstein really was. It, was accepted, how
+ever, that Einstein, on tho bawls of hU theory,
+had made three predictions. The first, as to the
+motion of the planet Mercury, had been verified.
+The second, as to the existence and the degree
+of deflection of light as it passed the sphere of
+influence of tho sun. had now been verified.
+As to the third, which depended on spectro-
+scopic observations there was still uncertainty.
+But he was. confident that the Einstein theory
+must now be reckoned with, and that our con-
+ceptions of the fabric of the universe must be
+fundamentally altered
+At this stage Sir Oliver Lodge, whose con-
+tribution to the discussion had been eagerly
+expected, left the meeting.
+Subsequent speakers joined in congratulating
+tho observers, and agreed in accepting their
+results. More than one. however, including
+Professor Ncwall, of Cambridge, hesitated as
+to the full extent of the inferences that had been
+drawn and suggested that the phenomena
+might bo due to an unknown solar atmosphere
+further in its extent than hud been supposed
+and with unknown properties. No speaker
+succeeded in giving a clear non-mathematical
+statement of tho theoretical question.
+SPACE ' WARPED."
+Put in the most, general way it may bo
+described as follows : the Newtonian principles
+ansuiiie that space is invariable, that, for
+instance, the three angles of a triangle ahvays
+equal, and must equal, two right angles. But
+these principles really rest on the observa-
+tion that the angle's of a triangle do equal two
+right miglcs, and tliHt a circle is really circular.
+But there are certain physical facts that sootti
+tn throw doubt otv the universality
+of tlie.se observations, and suggest that space
+may acquire a twist or warp in certain circum-
+stances, as, for instance, under the influence of
+gravitation, a dislocation in itself slight and
+applying to the instruments of measurement
+as well ns to the things measured. The Ein-
+stein doctrine is that the qualities of space,
+hitherto believed absolute, are relative to their
+circumstances. He drew the inference from
+his theory that in certain cases actual raeasum-
+Tnent of light would show the effects of tho
+warping in a degree that could be predicted
+and calculated. His predictions in two of three
+cases have now been verified, but the question
+remains open as to whether the verifications
+prove the theory from which tho predictions
+wore deduced.
+308 THE LATER JOURNEY
+tied 'Raum, Zeit und Schwerkraft' appeared in the Frankfurter Allgemeine Zei-
+tung. A column by Freundlich in Die Vossische Zeitung (Berlin) of November 30
+begins as follows: 'In Germany a scientific event of extraordinary significance has
+not yet found the reaction which its importance deserves.' However, the weekly
+Berliner Illustrierte Zeitung of December 14 carried a picture of Einstein on its
+cover with the caption 'A new great in world history: Albert Einstein, whose
+researches, signifying a complete revolution in our concepts of nature, are on a
+par with the insights of a Copernicus, a Kepler, and a Newton.' As far as I know,
+the first news in the Swiss papers is found in the Neue Zuricher Zeitung of
+December 10, where it is reported that the astronomer Henri Deslandres gave an
+account of the May 29 observations before the December 8 session of the French
+Academy of Sciences in which he summarized Einstein's theory by saying that
+energy attracts energy.
+Einstein himself accepted 'with joy and gratefulness' the invitation to write a
+guest article in the London Times of November 28, for this gave him an oppor-
+tunity for communication 'after the lamentable breach in the former international
+relations existing among men of science. ... It was in accordance with the high
+and proud tradition of English science that English scientific men should have
+given their time and labour ... to test a theory that had been completed and pub-
+lished in the country of their enemies in the midst of war.' Referring to an earlier
+description of him in the London Times, he concluded his article as follows: 'By
+an application of the theory of relativity to the tastes of readers, today in Germany
+I am called a German man of science and in England I am represented as a Swiss
+Jew. If I come to be regarded as a bete noire, the descriptions will be reversed and
+I shall become a Swiss Jew for the Germans and a German man of science for
+the English!' The same Times issue carried an editorial reply, 'Dr Einstein pays
+a well-intended if somewhat superfluous compliment to the impartiality of
+English science,' to Einstein's first remark, followed by the comments, 'We con-
+cede him his little jest. But we note that, in accordance with the general tenor of
+his theory, Dr Einstein does not supply any absolute description of himself" in
+reply to his second remark. The best description I know of Einstein in 1919 is the
+photograph on the cover of the Berliner Illustrirte, a picture of an intelligent,
+sensitive, and sensuous man who is deeply weary—from the strains of intense
+thinking during the past years, from illnesses from which he has barely recovered,
+from the pain of watching his dying mother, and, I would think, from the com-
+motion of which he was the center (See Plate II).
+November 1919 was not the first time Einstein and relativity appeared in the
+news. Frank recalls having seen in 1912 a Viennese newspaper with the headlines
+'The minute in danger, a sensation of mathematical science' [F2], obviously a
+reference to the time dilation of special relativity. In 1914 Einstein himself had
+written a newspaper article on relativity for Die Vossische Zeitung [E38]. Thus
+he was already somewhat of a public celebrity, but only locally in German-speak-
+ing countries. It was only in November 1919 that he became a world figure. For
+'THE SUDDENLY FAMOUS DOCTOR EINSTEIN' 309
+example, The New York Times Index contains no mention of him until November
+9, 1919. From that day until his death, not one single year passed without his
+name appearing in that paper, often in relation to science, more often in relation
+to other issues. Thus the birth of the Einstein legend can be pinpointed at Novem-
+ber 7, 1919, when the London Times broke the news.
+The article in The New York Times (hereafter called the Times) of November
+9 was a sensible report which contained only one embellishment. J. J. Thomson
+was alleged to have said, 'This is one of the greatest—perhaps the greatest—of
+achievements in the history of human thought' The words I italicized were not
+spoken by Thomson, but they sell better (and may even be true). The Times of
+November 9 contains a lead article on 'World outbreak plotted by Reds for
+November 7/Lenin's emissaries sought to start rising all over Europe' and a col-
+umn on Einstein under the sixfold headline 'Lights all askew in the heavens/Men
+of science more or less agog over results of eclipse observation/Einstein theory
+triumphs/Stars not where they seem or were calculated to be, but nobody need
+worry/A book for 12 wise men/No more in all the world could comprehend it,
+said Einstein when his daring publishers accepted it.' The article reported that
+'one of the speakers at the Royal Society's meeting suggested that Euclid was
+knocked out' (not so, but, again, it sells) and concluded as follows: 'When he [Ein-
+stein] offered his last important work to the publishers, he warned them that there
+were not more than twelve persons in the whole world who would understand it,
+but the publishers took the risk.' Perhaps this story was invented by a reporter.
+I think ii. more probable, however, that this often-quoted statement indeed origi-
+nated with Einstein himself and was made sometime in 1916, when he published
+a pamphlet (with Earth in Leipzig) and a 'popular' book on relativity (with
+Vieweg in Braunschweig). At any rate, when in December 1919 a Times corre-
+spondent interviewed him at his home and asked for an account of his work that
+would be accessible to more than twelve people, 'the doctor laughed good-
+naturedly but still insisted on the difficulty of making himself understood by lay-
+men' [N5].
+Editorials in the Times now begin to stress that quality of distance between the
+common man and the hero which is indispensable for the creation and perpetua-
+tion of his mythical role. November 11: 'This is news distinctly shocking and
+apprehensions for the safety of confidence even in the multiplication table will
+arise. ... It would take the presidents of two Royal Societies to give plausibility
+or even thinkability to the declaration that as light has weight space has limits. It
+just doesn't, by definition, and that's the end of that—for commonfolk, however it
+may be for higher mathematicians.' November 16: 'These gentlemen may be great
+astronomers but they are sad logicians. Critical laymen have already objected that
+scientists who proclaim that space comes to an end somewhere are under obliga-
+tion to tell us what lies beyond it.' November 18: the Times urges its readers not
+to be offended by the fact that only twelve people can understand the theory of
+'the suddenly famous Dr Einstein.' November 25: a news column with the head-
+31O THE LATER JOURNEY
+lines: 'A new physics based on Einstein/Sir Oliver Lodge says it will prevail, and
+mathematicians will have a terrible time.' November 26: An editorial entitled 'Bad
+times for the learned.' November 29: A news item headlined 'Can't understand
+Einstein' reports that 'the London Times .. . confesses that it cannot follow the
+details. .. .' December 7: An editorial, 'Assaulting the absolute,' states that 'the
+raising of blasphemous voices against time and space threw some [astronomers]
+into a state of terror where they seemed to feel, for some days at least, that the
+foundations of all human thought had been undermined.' One cannot fail to notice
+that some of these statements were made with tongue in cheek. Yet they convey a
+sense of mystery accompanying the replacement of old wisdom by new order.
+Transitions such as these can induce fear. When interviewed by the Times on
+relativity theory, Charles Poor, professor of celestial mechanics at Columbia Uni-
+versity, said, 'For some years past, the entire world has been in a state of unrest,
+mental as well as physical. It may well be that the physical aspects of the unrest,
+the war, the strikes, the Bolshevist uprisings, are in reality the visible objects of
+some underlying deep mental disturbance, worldwide in character. ... This same
+spirit of unrest has invaded science . . . ' [N6].
+It would be a misunderstanding of the Einstein phenomenon to attribute these
+various reactions to a brief and intense shock of the new. The insistence on mys-
+tery never waned. One reads in the Times ten years later, 'It is a rare exposition
+of Relativity that does not find it necessary to warn the reader that here and here
+and here he had better not try to understand' [N7].
+The worldwide character of the legend is well illustrated by reports to the For-
+eign Office from German diplomats stationed in countries visited by Einstein [Kl].
+Oslo, June 1920: '[Einstein's] lectures were uncommonly well received by the
+public and the press.' Copenhagen, June 1920: 'In recent days, papers of all opin-
+ions have emphasized in long articles and interviews the significance of Professor
+Einstein, "the most famous physicist of the present." ' Paris, April 1922: ' ... a
+sensation which the intellectual snobism of the capital did not want to pass up.'
+Tokyo, January 1923: 'When Einstein arrived at the station there were such large
+crowds that the police was unable to cope with the perilous crush ... at the chry-
+santhemum festival it was neither the empress nor the prince regent nor the
+imperial princes who held reception; everything turned around Einstein.' Madrid,
+March 1923: 'Great enthusiasm everywhere .. . every day the papers devoted col-
+umns to his comings and goings. . ..' Rio de Janeiro, May 1925: ' ... numerous
+detailed articles in the Brazilian press. ... ' Montevideo, June 1925: 'He was the
+talk of the town and a news topic a whole week long.. . .' On April 25, 1921,
+Einstein was received by President Harding on the occasion of his first visit to the
+United States. An eyewitness described the mood of the public when Einstein gave
+a lecture in a large concert hall in Vienna that same year. People were 'in a
+curious state of excitement in which it no longer matters what one understands
+but only that one is in the immediate neighborhood of a place where miracles
+happen' [F3].
+THE SUDDENLY FAMOUS DOCTOR EINSTEIN 311
+So it was, and so it remained everywhere and at all times during Einstein's life.
+The quality of his science had long since sufficed to command the admiration of
+his peers. Now his name also became a byword to the general public because of
+the pictures, verbal and visual, created by that new power of the twentieth century,
+the media. Some of these images were cheap, some brilliant (as in the blending of
+kings and apostles into twelve wise men). Einstein's science and the salesmanship
+of the press were necessary but not sufficient conditions for the creation of the
+legend, however. Compare, for example, the case of Einstein with the one and
+only earlier instance in which a major discovery in physics had created a world-
+wide sensation under the influence of newspapers. That was the case of Roentgen
+and the X-rays he discovered in 1895. It was the discovery, not the man, that was
+at the center of attention. Its value was lasting and it has never been forgotten by
+the general public, but its newsworthiness went from a peak into a gentle steady
+decline.
+The essence of Einstein's unique position goes deeper and has everything to do,
+it seems to me, with the stars and with language. A new man appears abruptly,
+the 'suddenly famous Doctor Einstein.' He carries the message of a new order in
+the universe. He is a new Moses come down from the mountain to bring the law
+and a new Joshua controlling the motion of heavenly bodies. He speaks in strange
+tongues but wise men aver that the stars testify to his veracity. Through the ages,
+child and adult alike had looked with wonder at stars and light. Speak of such
+new things as X-rays or atoms and man may be awed. But stars had forever been
+in his dreams and his myths. Their recurrence manifested an order beyond human
+control. Irregularities in the skies—comets, eclipses—were omens, mainly of evil.
+Behold, a new man appears. His mathematical language is sacred yet amenable
+to transcription into the profane: the fourth dimension, stars are not where they
+seemed to be but nobody need worry, light has weight, space is warped. He fulfills
+two profound needs in man, the need to know and the need not to know but to
+believe. The drama of his emergence is enhanced (though this to me seems sec-
+ondary) by the coincidence—itself caused largely by the vagaries of war—between
+the meeting of the joint societies and the first annual remembrance of horrid events
+of the recent past which had caused millions to die, empires to fall, the future to
+be uncertain. The new man who appears at that time represents order and power.
+He becomes the ddos avrjp, the divine man, of the twentieth century.
+In the late years, when I knew him, fame and publicity were a source of amuse-
+ment and sometimes of irritation to Einstein, whose tribe revered no saints. Pho-
+tographs and film clips indicate that in his younger years he had the ability to
+enjoy his encounters with the press and the admiration of the people. As I try to
+find the best way to characterize Einstein's deeper response to adulation, I am
+reminded of words spoken by Lord Haldane when he introduced Einstein to an
+audience at King's College in London on June 13, 1921. On that first visit to
+312 THE LATER JOURNEY
+England Einstein stayed in the home of Haldane, whose daughter fainted from
+excitement the first time the distinguished visitor entered the house. In his intro-
+duction, Haldane mentioned that he had been 'touched to observe that Einstein
+had left his house [that morning] to gaze on the tomb of Newton at Westminster
+Abbey.' Then he went on to describe Einstein in these words:
+A man distinguished by his desire, if possible, to efface himself and yet impelled
+by the unmistakable power of genius which would not allow the individual of
+whom it had taken possession to rest for one moment. [L5]
+16d. Einstein and Germany
+In April 1914, Einstein set out from Zurich to settle in the capital of the German
+Empire, a country still at peace. In December 1932, he left Germany for good. In
+the interim, he lived through a world war. The Empire disintegrated. His own
+worldwide renown began in 1919, the time of the uncertain rise of the Weimar
+republic. At the time he left Germany, the republic, too, was doomed.
+Fame attracts envy and hatred. Einstein's was no exception. In this instance,
+these hostile responses were particularly intensified because of his exposed position
+in a turbulent environment. During the 1920s, he was a highly visible personality,
+not for one but for a multitude of reasons. He was the divine man. He was a
+scientific administrator and an important spokesman for the German establish-
+ment. He traveled extensively—through Europe, to Japan, to Palestine, through
+the Americas. And he was a figure who spoke out on nonestablishment issues,
+such as pacifism and the fate of the Jews.
+In the first instance, Einstein's role within the establishment was dictated by
+his obligations, many of them administrative, to science. He fulfilled all these
+duties conscientiously, some of them with pleasure. As a member of the renowned
+Preussische Akademie der Wissenschaften, he published frequently in its Pro-
+ceedings, faithfully attended the meetings of its physics section as well as the plen-
+ary sessions, often served on its committees, and refereed dubious communications
+submitted to its Proceedings [K2]. On May 5, 1916, he succeeded Planck as pres-
+ident of the Deutsche Physikalische Gesellschaft. Between then and May 31,
+1918, when Sommerfeld took over, he chaired eighteen meetings of this society
+and addressed it on numerous occasions. On December 30, 1916, he was
+appointed by imperial decree to the Kuratorium of the Physikalisch Technische
+Reichsanstalt, a federal institution, and participated in the board's deliberations
+on the choice of experimental programs [K3]. He held this position until he left
+Germany. In 1917 he began his duties as director of the Kaiser Wilhelm Institut
+fur Physik, largely an administrative position, the initial task of the institute being
+to administer grants for physics research at various universities.* (It became a
+*In the early years, only the astronomer Freundlich held an appointment as scientific staff member
+of the institute. Freundlich caused Einstein and others a certain amount of trouble [K4].
+'THE SUDDENLY FAMOUS DOCTOR EINSTEIN' 313
+research institute only after Einstein left Germany.) In 1922 the Akademie
+appointed him to the board of directors of the astrophysical laboratory in Potsdam
+[K4j. In that year he was also nominated president of the Einstein Stiftung, a
+foundation for the promotion of work on experimental tests of general relativity.
+This Stiftung was eventually housed in a somewhat bizarre-looking new building,
+the Einstein Turm, situated on the grounds of the astrophysical laboratory in
+Potsdam. Its main piece of equipment, the Einstein Teleskop, was designed espe-
+cially for solar physics experiments. Einstein had no formal duties at the Univer-
+sity of Berlin. Nevertheless, he would occasionally teach and conduct seminars.
+He also felt a moral obligation to Zurich, an obligation he fulfilled by giving a
+series of lectures at its university from January to June 1919.
+Einstein held one additional professorial position, this one in Holland. By royal
+decree of June 24, 1920, a special chair in Leiden was created for him, enabling
+him to come to that university for short periods of his choosing. On October 27,
+1920, Einstein began his new position with an inaugural address on aether and
+relativity theory.* He came back to Leiden in November 1921, May 1922, Octo-
+ber 1924, February 1925, and April 1930, and lectured on several of these occa-
+sions. He was comfortable there, walking around in his socks and sweater [Ul].
+The initial term of appointment was for three years, but kept being extended until
+it was formally terminated on September 23, 1952 [B2].
+Einstein's physics of the 1920s was not only an exercise in administration and
+the holding of professorships, however. It was also play. With Miihsam he mea-
+sured the diameter of capillaries; with Goldschmidt he invented a hearing aid; and
+with Szilard several refrigerating devices.** (for more on these topics, see Chapter
+29). But above everything else his prime interest remained with the questions of
+principle in physics. I shall return to this subject in the next section. First some
+remarks on Einstein's other activities during the Berlin period.
+In the early days of the First World War, Einstein had for the first time pub-
+licly advocated the cause of pacifism. He continued to do so from then on. Reaction
+to this stand was hostile. During the war, the chief of staff of the military district
+Berlin wrote to the president of police of the city of Berlin, pointing out the dan-
+gers of permitting pacifists to go abroad. The list of known pacifists appended to
+the letter included Einstein's name [K5]. After the war, Einstein the outspoken
+supranationalist became a figure detested by the growing number of German
+chauvinists.
+Einstein regarded his pacifism as an instinctive feeling rather than the result of
+"The printed version of this lecture [E39] gives an incorrect date for its delivery. By aether Einstein
+meant the gravitational field (one may wonder if this new name was felicitously chosen). 'The aether
+of the general theory of relativity is a medium without mechanical and kinematic properties, but
+which codetermines mechanical and electromagnetic events.'
+**Jointly with a Dutch firm, the N.V. Nederlandsche Technische Handelsmaatschappy 'Giro,' Ein-
+stein also held a patent for a gyrocompass (Deutsches Reichs Patent 394677) [M2]. He did the work
+on this device in the mid-1920s.
+314 THE LATER JOURNEY
+an intellectual theory [N8]. In the early years, one of his main ideals was the
+establishment of a United States of Europe. For that reason, he had become an
+active member of the Bund Neues Vaterland (later renamed the German League
+for Human Rights), an organization that had advocated European union since its
+founding in 1914; in 1928 he joined its board of directors. In 1923 he helped found
+the Freunde des Neuen Russland [K6]. Though mainly interested in cultural
+exchanges, this group did not fail to interest the police [K7]. In the late 1920s, his
+pacifism became more drastic as he began expressing himself in favor of the prin-
+ciple of unconditionally refusing to bear arms. Among the numerous manifestos
+he signed were several that demanded universal and total disarmament. In a mes-
+sage to a meeting of War Resisters' International in 1931, he expressed the opin-
+ion that the people should take the issue of disarmament out of the hands of pol-
+iticians and diplomats [N9].
+Writing to Hadamard, Einstein remarked that he would not dare to preach his
+creed of war resistance to a native African tribe, 'for the patient would have died
+long before the cure could have been of any help to him' [E40]. It took him rather
+a long time to diagnose the seriousness of Europe's ailments. (In this regard, he
+was no rare exception.) It is true that in 1932 he signed an appeal to the Socialist
+and Communist parties in Germany, urging them to join forces in order to stave
+off Germany's 'terrible danger of becoming Fascist' [K8], but as late as May 1933,
+three months after Hitler came to power, Einstein still held to an unqualified
+antimilitarist position. Thereafter he changed his mind, as will be described in
+Section 25b.
+Einstein's active interest in the fate of the Jews also began in the Berlin period.
+To him this concern was never at variance with his supranational ideals. In
+October 1919 he wrote to the physicist Paul Epstein, 'One can be internationally
+minded without lacking concern for the members of the tribe' [E41]. In December
+he wrote to Ehrenfest, 'Anti-Semitism is strong here and political reaction is vio-
+lent' [E42]. He was particularly incensed about the German reaction to Jews who
+had recently escaped worse fates in Poland and Russia.* 'Incitement against these
+unfortunate fugitives . . . has become an effective political weapon, employed with
+success by every demagogue' [E42a]. Einstein knew of their plight especially well,
+since a number of these refugees literally came knocking at his door for help. To
+him supranationalism could wait so far as the hunted Jew was concerned. It was
+another case where the patient would have been dead (and often was) before the
+cure.
+There was another irritant. 'I have always been annoyed by the undignified
+assimilationist cravings and strivings which I have observed in so many of my
+[Jewish] friends. . .. These and similar happenings have awakened in me the
+Jewish national sentiment' [E43]. I am sure that Einstein's strongest source of
+"Their influx was particularly noticeable in Berlin. In 1900, 11 000 out of the 92 000 Berlin Jews
+were 'Ostjuden.' In 1925 these numbers were 43 000 out of 172 000 [Gl].
+THE SUDDENLY FAMOUS DOCTOR EINSTEIN 315
+identity, after science, was to be a Jew, increasingly so as the years went by. That
+allegiance carried no religious connotation. In 1924 he did become a dues-paying
+member of a Jewish congregation in Berlin, but only as an act of solidarity. Zion-
+ism to him was above all else a form of striving for the dignity of the individual.
+He never joined the Zionist organization.
+There was one person who more than anyone else contributed to Einstein's
+awakening: Kurt Blumenfeld, from 1910 to 1914 secretary general of the Exec-
+utive of World Zionist Organizations, which then had its seat in Berlin, and from
+1924 to 1933 president of the Union of German Zionists. Ben Gurion called him
+the greatest moral revolutionary in the Zionist movement. He belonged to the
+seventh generation of emancipated German Jewry. In a beautiful essay, Blumen-
+feld has written of his discussions with Einstein in 1919, of his efforts 'to try to
+get out of a man what is hidden in him, and never to try to instill in a man what
+is not in his nature' [B3]. It was Blumenfeld whom Einstein often entrusted in
+later years with the preparation of statements in his name on Zionist issues. It
+was also Blumenfeld who was able to convince Einstein that he ought to join
+Weizmann on a visit to the United States (April 2-May 30, 1921) in order to
+raise funds for the planned Hebrew University. Blumenfeld understood the man
+he was dealing with. After having convinced Einstein, he wrote to Weizmann, 'As
+you know, Einstein is no Zionist, and I beg you not to make any attempt to prevail
+on him to join our organization.... I heard . .. that you expect Einstein to give
+speeches. Please be quite careful with that. Einstein ... often says things out of
+naivete which are unwelcome to us' [B4].* As to his relations with Weizmann,
+Einstein once said to me, 'Meine Beziehungen zu dem Weizmann waren, wie der
+Freud sagt, ambivalent.'**
+The extraordinary complexity of Einstein's life in the 1920s begins to unfold,
+the changes in midlife are becoming clear. Man of research, scientific administra-
+tor, guest professor, active pacifist, spokesman for a moral Zionism, fund-raiser
+in America. Claimed by the German establishment as one of their most prominent
+members, though nominally he is Swiss.f Suspected by the establishment because
+of his pacifism. Target for anti-Semitism from the right. Irritant to the German
+assimilationist Jews because he'would not keep quiet about Jewish self-expres-
+sion. It is not very surprising that under these circumstances Einstein occasionally
+experienced difficulty in maintaining perspective, as two examples may illustrate.
+One of these concerns the 1920 disturbances, the other the League of Nations.
+On February 12, 1920, disturbances broke out in the course of a lecture given
+by Einstein at the University of Berlin. The official reason given afterward was
+that there were too few seats to accommodate everyone. In a statement to the press,
+Einstein noted that there was a certain hostility directed against him which was
+*Part of this letter (dated incorrectly) is reproduced in [B3J. The full text is in [B5J.
+**As F. would say, my relations to W. were ambivalent.
+f See especially the events surrounding the awarding of the Nobel prize to Einstein, Chapter 30.
+316 THE LATER JOURNEY
+not explicitly anti-Semitic, although it could be interpreted as such [K9]. On
+August 24, 1920, a newly founded organization, the Arbeitsgemeinschaft
+deutscher Naturforscher, organized a meeting in Berlin's largest concert hall for
+the purpose of criticizing the content of relativity theory and the alleged tasteless
+propaganda made for it by its author.* Einstein attended. Three days later he
+replied in the Berliner Tageblatt [E44], noting that reactions might have been
+otherwise had he been 'a German national with or without swastika instead of a
+Jew with liberal international convictions,' quoting authorities such as Lorentz,
+Planck, and Eddington in support of his work, and grossly insulting Lenard on
+the front page. One may sympathize. By then, Lenard was already on his way to
+becoming the most despicable of all German scientists of any stature. Nevertheless,
+Einstein's article is a distinctly weak piece of writing, out of style with anything
+else he ever allowed to be printed under his name. On September 6 the German
+minister of culture wrote to him, expressing his profound regrets about the events
+of August 24 [K10]. On September 9 Einstein wrote to Born, 'Don't be too hard
+on me. Everyone has to sacrifice at the altar of stupidity from time to time .. . and
+this I have done with my article' [E45].
+From September 19 to 25, the Gesellschaft der deutschen Naturforscher und
+Arzte met in Bad Nauheim. Einstein and Lenard were present. The official record
+of the meeting shows only that they engaged in useless but civilized debate on
+relativity [E46]. However, Born recalls that Lenard attacked Einstein in malicious
+and patently anti-Semitic ways [B6], while Einstein promised Born soon after-
+ward not again to become as worked up as he had been in Nauheim [E46a]. The
+building in which the meeting was held was guarded by armed police [F4], but
+there were no incidents.
+It would, of course, have been easy for Einstein to leave Germany and find an
+excellent position elsewhere. He chose not to do so because 'Berlin is the place to
+which I am most closely tied by human and scientific connections' [E46b].
+Invited by the College de France, Einstein went to Paris in March 1922 to
+discuss his work with physicists, mathematicians, and philosophers. Relations
+between France and Germany were still severely strained, and the trip was
+sharply criticized by nationalists in both countries. In order to avoid demonstra-
+tions, Einstein left the train to Paris at a suburban station [L6]. Shortly after this
+visit, he accepted an invitation to become a member of the Committee on Intellec-
+tual Cooperation of the League of Nations. Germany did not enter the League
+until 1926, and so Einstein was once again in an exposed position. On June 24
+Walter Rathenau, who had been foreign minister of Germany for only a few
+months, a Jew and an acquaintance of Einstein's, was assassinated. On July 4
+Einstein wrote to Marie Curie that he must resign from the committee, since the
+murder of Rathenau had made it clear to him that strong anti-Semitism did not
+make him an appropriate member [E47]. A week later he wrote to her of his
+intention to give up his Akademie position and to settle somewhere as a private
+This organization later published a book entitled 700 Autoren Gegen Einstein [12].
+'THE SUDDENLY FAMOUS DOCTOR EINSTEIN' 317
+individual [E48]. Later that same month he cited 'my activity in Jewish causes
+and, more generally, my Jewish nationality' as reasons for his resignation [E49].
+He was persuaded to stay on, however. In March 1923, shortly after French and
+Belgian troops occupied the Ruhrgebiet, he resigned again, declaring that the
+League had neither the strength nor the good will for the fulfillment of its great
+task [E50]. In 1924 he rejoined, since he now felt that 'he had been guided by a
+passing mood of discouragement rather than by clear thinking' [E51].*
+Evidently Einstein's life and moods were strongly affected by the strife and
+violence in Germany in the early 1920s. On October 8, 1922, he left with his wife
+for a five-month trip abroad. 'After the Rathenau murder, I very much welcomed
+the opportunity of a long absence from Germany, which took me away from tem-
+porarily increased danger' [Kll]. After short visits to Colombo, Singapore, Hong
+Kong, and Shanghai, they arrived in Japan for a five-week stay. En route, Ein-
+stein received word that he had been awarded the Nobel prize.** On the way
+back, they spent twelve days in Palestine, then visited Spain, and finally returned
+to Berlin in February 1923. Another trip in May/June 1925 took them to Argen-
+tina, Brazil, and Uruguay. Wherever they came, from Singapore to Montevideo,
+they were especially feted by local Jewish communities.
+It was, one may say, a full life. There came a time when Einstein had to pay.
+Early in 1928, while in Zuoz in Switzerland, he suffered a temporary physical
+collapse brought on by overexertion. An enlargement of the heart was diagnosed.
+As soon as practicable, he was brought back to Berlin, where he had to stay in bed
+for four months. He fully recuperated but remained weak for almost a year.
+'Sometimes ... he seemed to enjoy the atmosphere of the sickroom, since it per-
+mitted him to work undisturbed' [Rl].
+During that period of illness—on Friday, April 13, 1928, to be precise—Helen
+Dukas began working for Einstein. She was to be his able and trusted secretary
+for the rest of his life and became a member of the family.
+In the summer of 1929, Einstein bought a plot of land in the small village of
+Gaputh, near Berlin, a few minutes' walk from the broad stream of the Havel.
+On this site a small house was built for the family. It was shortly after his fiftieth
+birthday,| an<l several friends joined to celebrate this event by giving him a sail-
+boat. Sailing on the Havel became one of his fondest pleasures.
+Not long after his recovery, Einstein was on the road again. He was at Cal
+Tech from December 1930 till March 1931, and again from December 1931 till
+March 19324 Those were the years when things began to look bad in Germany.
+*In 1927, Einstein, Curie, and Lorentz prepared a report for the committee, dealing with an inter-
+national bureau of meteorology [E52]. Einstein's final resignation from the committee came in April
+1932 [D2].
+"See Chapter 30.
+fThe city of Berlin intended to present him with a summer house, but after many altercations, not
+all of them funny, this plan fell through [Rl].
+:f This was principally the doing of Millikan, who since 1924 had been urging Einstein to spend part
+of his time in Pasadena [M3].
+3l8 THE LATER JOURNEY
+In December 1932 the Einsteins left once again for California. As they closed
+their house in Caputh, Einstein turned to Elsa and said, 'Dreh dich um. Du
+siehst's nie wieder,' Turn around. You will never see it again. And so it was.
+What happened thereafter will be described in Section 25b.
+I conclude the story of the Berlin days with an anecdote told by Harry, Count
+Kessler, the chronicler of life in Berlin in the Weimar years. Some time in 1930
+the sculptor Maillol came to Berlin. Einstein was one of the guests invited for a
+lunch in his honor. When Einstein came in Maillol observed, 'Une belle tele; c'est
+un poete?' And, said Kessler, 'I had to explain to him who Einstein was; he had
+evidently never heard of him' [K12].
+16e. The Later Writings
+1. The Man of Culture. All the papers Einstein published before finishing his
+work on the formulation of general relativity deal either directly with research or
+with reviews of research, with minor exceptions: a note in honor of Planck written
+in 1913 [E53] and reviews of booklets on relativity by Brill and by Lorentz
+[E53a]. Thereafter, the writings change, very slowly at first. From 1916 to 1920
+we find the early eulogies—to Mach, Schwarzschild, Smoluchowski, Leo Arons—
+and a few more reviews of others' work—of Lorentz's Paris lectures [E54], of
+Helmholtz's lectures on Goethe [E55], of Weyl's book on relativity [E56]. After
+1920 there is a far more noticeable change as he starts writing on public affairs,
+political issues, education. The more important of these contributions have been
+reprinted in various collections of Einstein essays. I shall not discuss them here.
+After 1920 Einstein wrote fairly often on scientific personalities. He was, of
+course, an obvious candidate for contributions commemorating Kepler [E57],
+Newton [E57a], and Maxwell [E58]. In these essays he emphasized points of
+general principle. On other occasions he clearly enjoyed writing about technical
+issues, whether of a theoretical or an experimental nature, as, for example, his
+pieces on Kelvin [E59] and Warburg [E60]. He spoke at Lorentz's grave and
+commemorated him on other occasions as well [E61]. He wrote tributes [E62] to
+Ehrenfest, Marie Curie, Nernst, Langevin, and Planck; also to Julius [E63],
+Edison [E64], Michelson [E65], and Noether [E66]. He wrote in praise of Arago
+[E67] and Newcomb [E68] and of his friend Berliner [E69]. As I have mentioned
+before, these portraits show Einstein's keen perception of people and thereby con-
+tribute to a composite portrait of Einstein himself. In addition, they make clear
+that his interest in physics ranged far beyond his own immediate research.
+Einstein had a lifelong interest in philosophy. As a schoolboy, he had read Kant.
+With his friends in Bern he had studied Spinoza's ethics, Hume's treatise of
+human nature, Mill's system of logic, Avenarius's critique of pure experience, and
+other philosophical works. As I already remarked in Chapter 1, calling Einstein
+a philosopher sheds as much light on him as calling him a musician. 'Is not all of
+philosophy as if written in honey? It looks wonderful when one contemplates it,
+but when one looks again it is all gone. Only mush remains,' he once said [R2].
+THE SUDDENLY FAMOUS DOCTOR EINSTEIN' 319
+Even though Einstein's interest in and impact on philosophy were strong, he
+himself never wrote articles that may be called philosophical in a technical sense.
+After 1920 he wrote occasional reviews of or introductions for philosophical
+works, however. His reviews of books on epistemology by Weinberg [E70] and
+Winternitz [E71] show his familiarity with Kant. So does the record of his dis-
+cussions with French philosophers in 1922. When one of these referred to a pos-
+sible connection between Einstein's ideas and those of Kant, Einstein replied:
+In regard to Kant's philosophy, I believe that every philosopher has his own
+Kant. . . . Arbitrary concepts are necessary in order to construct science; as to
+whether these concepts are given a priori or are arbitrary conventions, I can
+say nothing. [E72]
+From Einstein's introduction to a new translation of Galileo's Dialogue [E73], we
+see that he had read Plato. He wrote an introduction to a new German translation
+of Lucretius's De Rerum Natura [E74]. He was familiar with Bertrand Russell's
+theory of knowledge [E75]. His philosophical interests are also manifest in his
+review of Emile Meyerson's La Deduction Relativiste [E76] and his introductions
+to books by Planck [E77] and Frank [E78]. Among the oriental philosophers, he
+appreciated Confucius. Once, in Princeton, he fell asleep during a lecture on Zen
+Buddhism. Perhaps he was tired that evening.
+Einstein continued to consider philosophy ennobling in his later years. In 1944
+he wrote to Benedetto Croce, 'I would not think that philosophy and reason itself
+will be man's guide in the foreseeable future; however, they will remain the most
+beautiful sanctuary they have always been for the select' [E79].
+Among the many contributions that show Einstein as a man of culture, I select
+two for brief additional comments.
+The first is his appreciation of Maxwell [E58], one of his precursors. In Ein-
+stein's opinion, Maxwe'i was a revolutionary figure. The purely mechanical
+world picture was upset by 'the great revolution forever linked with the names
+Faraday, Maxwell, and Hertz. The lion's share in this revolution was Max-
+well's. . . . Since Maxwell's time, physical reality has been thought of as repre-
+sented by continuous fields. . . . This change in the conception of reality is the most
+profound and the most fruitful that physics has experienced since the time of New-
+ton.' Elsewhere Einstein wrote of Maxwell, 'Imagine his feelings when the dif-
+ferential equations he had formulated proved to him that electromagnetic fields
+spread in the form of polarized waves and with the speed of light!' [E80].
+The second comment deals with the views on religion [E81]. 'A religious person
+is devout in the sense that he has no doubt of the significance of those superper-
+sonal objects and goals which neither require nor are capable of rational founda-
+tion.' Thus, according to Einstein, 'a legitimate conflict between science and reli-
+gion cannot exist. . .. Science without religion is lame, religion without science is
+blind.' By his own definition, Einstein himself was, of course, a deeply religious
+man.
+2. The Man of Science. With the formulation of the field equations of grav-
+32O THE LATER JOURNEY
+itation in November 1915, classical physics (that is, nonquantum physics) reached
+its perfection and Einstein's scientific career its high point. His oeuvre does not
+show anything like an abrupt decline thereafter. Despite much illness, his years
+from 1916 to 1920 were productive and fruitful, both in relativity and in quantum
+theory. A gentle decline begins after 1920. There is a resurgence toward the end
+of 1924 (the quantum theory of the monatomic gas). After that, the creative period
+ceases abruptly, though scientific efforts continue unremittingly for another thirty
+years.
+Who can gauge the extent to which the restlessness of Einstein's life in the
+1920s was the cause or the effect of a lessening of creative powers? Many influ-
+ences were obviously beyond his volition: age, illness, many of his administrative
+obligations, wordly fame, the violence of the early Weimar period. At the same
+time, I perceive in his writings after 1916 a natural diminution of creative tension.
+His activities in public affairs were no doubt the result of a combination of strong
+inner urges and of those demands on him which are part of the burdens of fame.
+It is less clear to me to what extent he would have responded to these pressures
+if physics had been as all-consuming to him as it was in earlier days. It is my
+impression that, after 1916, Einstein finally had some energy to spare for the
+world in which he lived. Kessler's chronicles [K12] and Kayser's biography [Rl]
+indicate that participation in Berlin's social life gave him pleasure. So did conver-
+sations with statesmen like Rathenau, Stresemann, and Briand, and later Church-
+ill and Roosevelt. Letters (not in the Princeton Archives) written by Einstein in
+the early 1920s, showing that for several years he had a strong attachment to a
+younger woman, express emotions for which, perhaps, he had no energy to spare
+in his marriages. This interlude ended late in 1924, when he wrote to her that he
+had to seek in the stars what was denied him on earth. That line was written only
+months before the discovery of quantum mechanics, the time at which a younger
+generation of physicists took over the lead while Einstein went his own way.
+I return to Einstein's physics. Two major items remain to be discussed, unified
+field theory and quantum theory. I deal with Einstein's work on unified field
+theory first, since it is a direct outgrowth of general relativity, the last scientific
+topic treated before the present long digression on the suddenly famous Doctor
+Einstein. Then I turn to Einstein and the quantum theory, begining once again
+with events in the year 1905 and continuing from there until his final days.
+A line from a letter in 1928 from Einstein to Ehrenfest may serve as an epi-
+graph to the later writings:
+I believe less than ever in the essentially statistical nature of events and have
+decided to use the little energy still given to me in ways that are independent of
+the current bustle. [E82]
+References
+Al. Algemeen Handelsblad, November 10, 1919.
+Bl. B. Bertotti, D. Brill, and R. Krotkov in Gravitation (L. Witten, Ed.), p. 1. Wiley,
+New York, 1962.
+'THE SUDDENLY FAMOUS DOCTOR EINSTEIN 321
+B2. A. M. Bienfait-Visser, letter to A. Pais, February 12, 1980.
+B3. K. Blumenfeld in Helle Zeit, dunkle Zeit, p. 74. Europa Verlag, Zurich, 1956.
+B4. , letter to C. Weizmann, March 15, 1921; ETH Bibl. Zurich Hs. 304,
+201-4.
+B5. , Im Kampfum den Zionismus, p. 66. Deutsches Verlag Anst, Stuttgart,
+1968.
+B6. M. Born in Einstein-Born Briefwechsel, p. 60. Nympenburger, Munich, 1969.
+Cl. C. Chaplin, My Autobiography, p. 346, The Bodley Head, London, 1964.
+Dl. F. W. Dyson, M. N. Roy. Astr. Soc. 77, 445 (1917).
+D2. A. Dufour, letter to A. Einstein, April 23, 1932.
+El. A. Einstein, letter to M. Besso, December 10, 1915; EB, p. 59.
+E2. —, letter to P. Ehrenfest, February 14, 1917.
+E3. , letter to H. A. Lorentz, April 23, 1917.
+E4. , letter to H. Zangger, March 10, 1917.
+E5. , letter to M. Besso, May 13, 1917; EB, p. 114.
+E6. , letter to M. Besso, September 3, 1917; EB, p. 121.
+E7. , letter to H. Zangger, December 6, 1917.
+E8. —, letter to P. Ehrenfest, November 12, 1917.
+E9. , letter to M. Besso, January 5, 1918; EB, p. 124.
+E10. , letter to D. Hilbert, undated, April 1918.
+Ell. , letter to H. Zangger, undated, early 1918.
+E12. , letter to P. Ehrenfest, May 8, 1918.
+E13. , letter to M. Besso, August 20, 1918; EB, p. 132.
+E14. , letter to P. Ehrenfest, December 6, 1918.
+E15. , letter to M. Besso, December 4, 1918; EB, p. 145.
+El6. , letter to C. Seelig, May 5, 1952.
+E17. , letter to P. Ehrenfest, September 12, 1919.
+E18. , letter to M. Besso, July 26, 1920; EB, p. 151.
+El9. E. Einstein, letter to P. Ehrenfest, April 5, 1932.
+E20. A. Einstein, letter to M. Born undated, probably 1937; Einstein-Born Briefwech-
+sel, p. 177. Nymphenburger, Munich, 1969.
+E21. , Lettres a Maurice Solovine, p. 134. Gauthier-Villars, Paris, 1956.
+E22. , letter to V. Besso, March 21, 1955; EB, p. 537.
+E23. , letter to P. Winteler and family, undated, May 1919.
+E24. E. Einstein, letter to P. Ehrenfest, December 10, 1919.
+E25. A. Einstein, letter to H. Zangger, undated, January 1920.
+E26. , letter to H. Zangger, undated, March 1920.
+E27. , postcard to P. Einstein, September 27, 1919.
+E28. , Naturw. 7, 776 (1919).
+E29. , letter to M. Besso, undated, March 1914; EB. p. 52.
+E30. , PAW, 1915, p. 831.
+E31. , letter to A. Sommerfeld, November 28, 1915.
+E32. J. Barman and C. Glymour, Hist. St. Phys. Set. 11, 49 (1980).
+E33. A. S. Eddington, Report on the Relativity Theory of Gravitation. Fleetway Press,
+London, 1918.
+E34. , M. N. Roy. Astr. Soc. 77, 377 (1917).
+E35. , Observatory 42, 119 (1919).
+E36. A. Einstein, letter to C. Stumpf, November 3, 1919.
+322 THE LATER JOURNEY
+E37. A. S. Eddington, letter to A. Einstein, December 1, 1919.
+E38. A. Einstein, Die Vossische Zeitung, April 26, 1914.
+E39. , Aether und Relativitdtstheorie. Springer, Berlin, 1920.
+E40. , letter to J. Hadamard, Sept. 24, 1929.
+E41. , letter to P. Epstein, October 5, 1919.
+E42. , letter to P. Ehrenfest, December 4, 1919.
+E42a. , About Zionism (L. Simon, Tran.), p. 40. Macmillan, New York, 1931.
+E43. ,[E42a], pp. 41,43.
+E44. , Berliner Tageblatt, August 27, 1920.
+E45. , letter to M. Born, September 9, 1920.
+E46. and P. Lenard, Phys. Zeitschr. 21, 666 (1921).
+E46a. , letter to M. Born, undated, autumn 1920.
+E46b. —, letter to K. Haenisch, September 8, 1920; [Kl], Vol. 1, p. 204.
+E47. , letter to M. Curie, July 4, 1921.
+E48. , letter to M. Curie, July 11, 1921.
+E49. —, letter to G. Murray, July 25, 1922.
+E50. , letter to the Committee on Intellectual Cooperation, March 21,1923; New
+York Times, June 28, 1923.
+E51. —, letter to G. Murray, May 30, 1924.
+E52. —-, M. Curie, and H. A. Lorentz, Science 65, 415 (1927).
+£53. , Naturw. 1, 1077 (1913).
+E53a. , Naturw. 2, 1018 (1914).
+E54. , Naturw. 4, 480(1916).
+£55. , Naturw. 5, 675 (1917).
+E56. , Nature. 6, 373 (1918).
+E57. , Frankfurter Zeitung, November 9, 1930.
+E57a. , see Refs. [E8]-[E11] in Chap. 1.
+E58. ——, in James Clerk Maxwell, p. 66. Cambridge University Press, Cambridge,
+1931.
+E59. , Naturw. 12, 601 (1924).
+E60. , Naturw. 10, 823 (1922).
+E61. , Mein Weltbild, pp. 32, 35, 39. Europa, Zurich, 1953.
+E62. , Out of My Later Years, Philosophical Library, New York, 1950.
+R63- , Astrophys. J. 63, 196 (1926).
+E64. , Science, 74, 404(1931).
+E65. , Z. Angew. Chemie 44, 658 (1931).
+E66. , New York Times, May 4, 1935.
+E67. , Naturw. 17, 363 (1929).
+E68. , Science 69, 249 (1929).
+E69. , Naturw. 20, 913 (1932).
+E70. , Naturw. 18, 536 (1930).
+E71. , Deutsche Literaturzeitung, Heft 1, p. 20, 1924.
+E72. , Bull. Soc. Fran. Philosophie 22, 91 (1922).
+E73. , foreword to Galileo's Dialogue (S. Drake, Tran.). University of California
+Press, Berkeley, 1967.
+E74. , introduction to Lukrez, Von der Natur (H. Diels, Tran.). Weidmann, Ber-
+lin, 1924.
+'THE SUDDENLY FAMOUS DOCTOR EINSTEIN' 323
+E75. , in The Philosophy of Bertrand Russell (P. A. Schilpp, Ed.), p. 277. Tudor,
+New York, 1944.
+E76. , Rev. Phil. France 105, 161 (1928).
+E77. , prologue to M. Planck, Where Is Science Going? Norton, New York, 1932.
+E78. , foreword to P. Frank, Relativity, a Richer Truth. Beacon Press, Boston,
+1950.
+E79. , letter to B. Croce, June 7, 1944.
+E80. , Science 91, 487 (1940).
+E81. , Nature 146, 605 (1941).
+E82. , letter to P. Ehrenfest, August 23, 1928.
+Fl. P. Frank, Einstein, His Life and Times, p. 124. Knopf, New York, 1953.
+F2. —.—, Einstein, Sein Leben und Seine Zeit, p. 106. Vieweg, Braunschweig, 1979.
+F3. , [F2], p. 290.
+F4. , [F2], p. 275.
+Gl. P. Gay, Freud, Jews and Other Germans, p. 172. Oxford University Press, New
+York, 1978.
+HI. F. Herneck, Einstein Privat, p. 29. Der Morgen, Berlin, 1978.
+11. J. Ishiwara, Einstein ko en roku, p. 193. Tokyo-Tosho, Tokyo, 1978.
+12. H. Israel, E. Ruckhaber, and R. Weinmann (Eds.), 100 Autoren Gegen Einstein.
+Voigtlander, Leipzig, 1931.
+Kl. C. Kirsten and H. J. Treder, Einstein in Berlin, Vol. 1, documents 148-60.
+Akadamie Verlag, Berlin, 1979.
+K2. , [Kl], Vol. 1, documents 59-68.
+K3. , [Kl], Vol. 1, documents 81-7.
+K4. ^, [Kl], Vol. 1, pp. 22, 54, 58.
+K5. ,[Kl],Vol. l,p. 198.
+K6. ,[Kl],Vol. l,p. 215.
+K7. —, [Kl], Vol. l,p. 219.
+K8. —, [Kl], Vol. l,p. 223.
+K9. , [Kl], Vol. 1, p. 202.
+K10. ,[Kl],Vol. l,p. 210.
+Kll. , [Kl], Vol. l,p. 231.
+K12. H. Kessler, In the Twenties, p. 396. Holt, Rinehart and Winston, New York,
+1976.
+LI. H. A. Lorentz, letter to A. Einstein, March 22, 1917.
+L2. , telegram to A. Einstein, September 27, 1919.
+L3. —, letter to P. Ehrenfest, September 22, 1919.
+L4. —, telegram to A. Einstein, November 10, 1919.
+L5. London Times, June 14, 1921.
+L6. J. Langevin, Cahiers Fundamenta Scientiae, No. 93, 1979.
+Ml. D. F. Moyer in On the Path of Albert Einstein, p. 55. Plenum Press, New York,
+1979.
+M2. K. von Mayrhauser, letter to A. Einstein, October 11, 1926.
+M3. R. Millikan, letter to A. Einstein, October 2, 1924.
+Nl. New York Times, August 16, 1914.
+N2. Nature 94, 66 (1914).
+N3. New Catholic Encyclopedia, McGraw-Hill, New York, 1967.
+324 THE LATER JOURNEY
+N3a. Nieuwe Rotterdamsche Courant, November 9 and 11, 1919.
+N4. New York Times, December 21, 1919.
+N5. New York Times, December 3, 1919.
+N6. New York Times, November 16, 1919.
+N7. New York Times, January 28, 1928.
+N8. O. Nathan and M. Norden, Einstein on Peace, p. 98. Schocken, New York, 1968.
+N9. , [N8], p. 141.
+01. Observatory, 42, 256 (1919).
+02. Observatory, 42, 389 (1919); see also, Proc. Roy. Soc 96A, i (1919).
+Rl. A. Reiser, Albert Einstein. Boni, New York, 1930.
+R2. I. Rosenthal-Schneider, Reality and Scientific Truth, p. 62. Wayne State Univer-
+sity Press, Detroit, 1980.
+51. N. Saz, Forschungen d. Pad. Hochsch. 'Karl Liebknecht,' Naturw. Reihe B, No.
+14, p. 59.
+52. W. de Sitter, Observatory 39, 412 (1916).
+53. , M. N. Roy. Astr. Soc. 76, 699 (1916); 77, 155, 481 (1917); 78, 3, 341
+(1917).
+54. C. Stumpf, letter to A. Einstein, October 22, 1919.
+Tl. J. J. Thomson, Proc. Roy Soc. 96 A, 311 (1919).
+T2. M. Talmey, The Relativity Theory Simplified, p. 164. Falcon Press, New York,
+1932.
+Ul. G. E. Uhlenbeck in Some Strangeness in the Proportion (H. Woolf, Ed.), p. 524.
+Addison-Wesley, Reading, Mass., 1980.

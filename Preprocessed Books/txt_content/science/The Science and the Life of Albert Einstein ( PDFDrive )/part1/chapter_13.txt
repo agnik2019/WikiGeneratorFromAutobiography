@@ -1,0 +1,387 @@
+!3
+Field Theories of Gravitation:
+the First Fifty Years
+13a. Einstein in Vienna
+It did not take Einstein long to realize that the collaboration with Grossmann [El ]
+had led to some conclusions that defeated the very task he had set himself. Let us
+briefly recapitulate the developments in his thinking about gravitation up to the
+spring of 1913. Late in 1907 he discovered the singular position of gravitation in
+the theory of relativity. He realized that the question was not how to incorporate
+gravitation into the special theory but rather how to use gravitation as a means of
+breaking away from the privileged position of covariance for uniform relative
+motion to covariance for general motion. In his Prague days, the analysis of the
+motion of light in an inhomogeneous gravitational field taught him that the light
+velocity depends on the gravitational potential and that therefore the framework
+of the special theory of relativity was too narrow [E2]. Toward the end of his stay
+in Prague, the technical concept of general covariance took shape in his mind and
+the fundamental role of the metric tensor as the carrier of gravitation became clear.
+The first steps toward the tensor theory of gravitation, taken with Grossmann, led
+him to conclude that the gravitational field equations can be covariant only with
+respect to linear transformations.
+By August 1913, it had become clear to him that this last result spelled disaster.
+He expressed this in a letter to Lorentz: .. .'My faith in the reliability of the
+theory still fluctuates. .. . The gravitational equations unfortunately do not have
+the property of general covariance. Only their covariance for linear transforma-
+tions is assured. However, the whole faith in the theory rests on the conviction
+that acceleration of the reference system is equivalent to a gravitational field.
+Thus, if not all systems of equations of the theory . .. admit transformations other
+than linear ones, then the theory contradicts its own starting point [and] all is up
+in the air' (sie steht dann in der Luft) [E3].
+Thoughts such as these must have been on Einstein's mind when he traveled
+to Vienna, where on September 23 he had to present a paper before the Natur-
+forscherversammlung.* He was going to report not only on his own work but also
+*At that meeting, Einstein met and complimented Friedrich Kottler, who had been the first to write
+the Maxwell equations in generally covariant form, though not in connection with a theory of grav-
+itation [Kl]. Kottler's later involvement with general relativity was less successful [E3a].
+228
+FIELD THEORIES OF GRAVITATION: THE FIRST FIFTY YEARS 229
+on the gravitation theory which the Finnish physicist Gunnar Nordstrom had
+been developing since 1912. Furthermore, he was going to comment on yet another
+recent gravitation theory, this one by Abraham (whom we encountered earlier in
+the discussion of special relativity). He would also be confronted, he knew, with
+still a further theory of gravity of recent vintage, one by Gustav Mie.* In one way
+or another, this outpouring of gravitation theories in the years 1912 and 1913 was
+a consequence of Einstein's Prague papers. Abraham had proposed to extend Ein-
+stein's theory of variable light velocity in a static gravitational field to the nonstatic
+case. Nordstrom had raised another question: could not the equivalence principle
+be incorporated in a relativistic theory with constant light velocity? Mie's theory
+was yet another variant in which c is constant. These activities during 1911-13
+do not by any means mark the beginnings of the search for a field theory of grav-
+itation, however. As a preface to the discussion of the confused situation at the
+Vienna congress of 1913 let us briefly go back half a century.
+The search began with Maxwell's remarks on a vector theory of gravitation.
+These are found tucked away in his great memoir, A Dynamical Theory of the
+Electromagnetic Field, completed in 1864, the purpose of which is 'to explain the
+[electromagnetic] action between distant bodies without assuming the existence of
+forces capable of acting directly at sensible distances. The theory I propose may
+therefore be called a theory of the Electromagnetic Field . ..' [Ml]. After devoting
+some forty printed pages to this problem, Maxwell abruptly and briefly turns to
+gravitation: 'After tracing to the action of the surrounding medium both the mag-
+netic and the electric attractions and repulsions, and finding them to depend on
+the inverse square of the distance, we are naturally led to inquire whether the
+attraction of gravitation, which follows the same law of the distance, is not also
+traceable to the action of a surrounding medium.' But how can one explain, Max-
+well asks, that the gravitational force is attractive whereas the force between elec-
+tric charges of the same sign is repulsive? He notes that this requires an ad hoc
+change of sign when going from the electromagnetic to the gravitational pon-
+deromotive force (recall: this is a vector theory). Therefore the gravitational energy
+also needs an additional minus sign. This leads to paradoxes: 'the presence of
+dense bodies influences the medium so as to diminish this energy [of the medium]
+wherever there is a resultant attraction. As I am unable to understand in what
+way a medium can possess such properties, I cannot go any further in this direc-
+tion in searching for the cause of gravitation.'
+Maxwell's wise words were not generally heeded, not even by physicists of great
+stature. Oliver Heaviside discussed the gravitational-electromagnetic analogy
+without mentioning the negative energy difficulty [HI]. So, remarkably, did
+Lorentz, in one of his rare speculative papers [LI], written in 1900. He proposed
+that the repulsive forces between two particles with respective charges ( + e, + e)
+equal those for (— e, —e) but are slightly weaker (in absolute magnitude) than
+the attractive force for the case (+ e, — e). Then if one has, for example, two
+'References to other work on gravitation from that period are found in a review by Abraham [Al]
+230 RELATIVITY, THE GENERAL THEORY
+neutral particles at rest, each composed of a pair of subunits (+e, — e), there is
+a residual Newtonian attraction between them. The formalism of his theory con-
+sists of a doubled set of Maxwell equations and ponderomotive forces (the latter
+with coefficients adjusted to give the desired behavior for the various charge com-
+binations). Nowhere in this strange paper is it noted that there exists a doubling
+of conservation laws, one for charge and one for gravitational rest mass. Lorentz
+calculated velocity-dependent corrections to Newton's law and went as far as eval-
+uating their influence (too small) on the perihelion of Mercury. A few others also
+examined the consequences of this theory [Gl, Wl]. In 1908 Poincare mentioned
+Lorentz's gravitation theory as an example of a field theory that is compatible
+with the requirements of special relativity [PI].*
+As late as 1912, it was still necessary to show that all these vector theories made
+no sense because of Maxwell's negative energy difficulty. At that time Abraham
+pointed out that the equilibrium of a gravitational oscillator is unstable [A2]: the
+amplitude of the slightest oscillation increases with emission of gravitational field
+energy; there is radiation enhancement rather than radiation damping. Thus the
+vector theories were buried at just about the time attention shifted to scalar
+theories.
+This brief period began with Einstein's paper of June 1911, in which he
+showed that the velocity of light cannot generally be treated as a universal constant
+in a static gravitational field [E4]. Half a year later, Abraham made the first
+attempt to extend this conclusion to nonstatic fields [A3]. He tried the impossible:
+to incorporate this idea of a nonconstant light velocity into the special theory of
+relativity. He generalized the Newtonian equation for a point particle, K —
+— V<p = a, where K is the gravitational force acting on a unit of mass, <p the
+potential, and a the acceleration, to
+where «,, is the four-velocity and the dot denotes differentiation with respect to
+the proper time r. The function <t> is supposed to satisfy an equation of the type
+where <t> and p are scalar fields. The four-velocity uf satisfies
+From Eqs. 13.1 and 13.3,
+* Poincare had already emphasized the need for a relativistic theory of gravitation in his memoir of
+1905 [ P2], in which he discussed some general kinematic aspects of the problem without commitment
+to a specific model. See also Minkowski [M2].
+FIELD THEORIES OF GRAVITATION: THE FIRST FIFTY YEARS 231
+since c is not a constant. Hence
+or, approximately,
+which is Einstein's equation of 1911 (see Eq. 11.6). No use is made of Eq. 13.2
+in this derivation. The latter equation looks invariant with respect to special rel-
+ativity, but of course it is not, since c is variable. Abraham commented on this in
+his next communication: 'The variability of c implies that the Lorentz group holds
+only in the infinitesimally small' [A4], a statement that was almost at once dis-
+proved by Einstein [E5].
+A debate began in the Annalen der Physik which, from Abraham's side, lacked
+style and substance. In a first comment [A5], Abraham noted that relativity was
+threatening the healthy development of physics since 'it was clear to the sober
+observer that this theory could never lead to a complete world picture if it were
+not possible ... to incorporate gravity.' He added that Einstein had given 'the
+death blow to relativity' by discarding the unconditional validity of Lorentz invar-
+iance.* 'Someone who, like this author [A.], has had to warn repeatedly against
+the siren song of this theory will greet with satisfaction [the fact] that its originator
+has now convinced himself of its untenability.' Abraham acknowledged the cor-
+rectness of Einstein's technical objections to his work. In a later paper [A6], he
+unveiled his 'second theory': 'I would prefer to develop the new theory of gravi-
+tation without entering into [a discussion of] the space-time problem.' Abraham
+now gives up Lorentz invariance altogether and introduces an absolute reference
+system (see also [Al], p. 488).
+Einstein shot right back, though in measured language: '[Special] relativity has
+a wide range of applicability [and is] an important advance; I do not believe it has
+impeded the progress of physics.... There is not the slightest ground to doubt the
+general validity of the relativity principle [for uniform motion]' [E6]. He
+expressed his own views about the difficult and as yet unsolved problem of gravity
+by making a comparison: 'In my opinion, the situation [regarding gravity] does
+not indicate the failure of the [special] relativity principle, just as the discovery
+and correct interpretation of Brownian motion did not lead one to consider ther-
+modynamics and hydrodynamics as heresies.' He added that he himself did not
+yet understand how the equivalence principle was to be implemented in general.
+Abraham did not give up and published a rebuttal [A7]. It adds nothing sub-
+stantially new and is vicious: '[Einstein] craves credit for the future theory of rel-
+ativity.' In reply, Einstein published a five-line statement in which he declared
+*Note that these comments preceded the publication of the Einstein-Grossman paper [El].
+232 RELATIVITY, THE GENERAL THEORY
+that the public debate was closed as far as he was concerned [E7]. To a friend he
+described Abraham's theory as 'a stately horse which lacks three legs' [E8].
+I would have disregarded the Abraham-Einstein polemic were it not for the
+fact that Abraham was a very good physicist. Einstein considered him to have the
+best understanding of gravitation among his colleagues [E9]. Abraham's 1914
+review of gravitation theories is excellent [Al]. When in 1913 Einstein decided to
+leave Zurich for Berlin, he suggested to Zangger that Abraham be considered as
+his successor [E10].* But, he added, 'I believe that they will proceed without me
+because I have espoused the cause of the feared Abraham.'
+Abraham had a great and unfortunate talent for creating difficulties for himself,
+especially because of his biting sarcasm. Between himself and his visions stood
+forever the figure of his demon: Einstein. He understood relativity but could not
+find peace with it. He cannot be called a major scientist but should be remembered
+nevertheless as a figure representing the tragic element which accompanies sci-
+entific transition. He died in 1923 of a brain tumor. Born and von Laue jointly
+wrote his obituary: 'He was an honorable opponent who fought with honest weap-
+ons and who did not cover up a defeat by lamentation and nonfactual arguments.
+The abstractions of Einstein were deeply repugnant to him; he loved his absolute
+aether, his field equations, his rigid electron, as a youth does his first flame, whose
+memories cannot be erased by later experiences. But he remained clearheaded
+... his objections rested on basic convictions regarding physics .. . and not on lack
+of knowledge' [Bl].
+To return to the developments prior to the publication of the Ein-
+stein-Grossmann paper, late in 1912 Nordstrom in Helsingfors (Helsinki) came
+forth with an ingenious idea [Nl]. Since both Einstein and Abraham experienced
+so much trouble from the ^-dependence of c, why not try to find a theory of
+gravitation in which c is independent of $ and remains a universal constant in the
+familiar way? As I have noted repeatedly, Einstein correctly saw from the begin-
+ning that the incorporation of gravity meant the end of the unconditional validity
+of special relativity. All the same, Nordstrom's question was an eminently sensible
+one for its time. It is peculiar that this line of thought had remained unexplored
+(or at least had not been discussed in the scientific literature) until October 1912.
+As we saw from Abraham's mishandling of Eqs. 13.1-13.4, the problem is not
+quite trivial. Nordstrom's idea was to let not c but, instead, mass depend on <1>.
+For general mass m, he rewrote Eq. 13.1 (which referred to unit mass) as follows:
+The novelty of his theory lies in the m term. From Eq. 13.7 and the obviously
+unchanged Eq. 13.3, one finds
+*On May 17, 1912, Einstein wrote to Wien that Abraham had become a 'convert' to his theory.
+FIELD THEORIES OF GRAVITATION: THE FIRST FIFTY YEARS 233
+whence
+Note further that Eqs. 13.7 and 13.8 yield
+in which m has disappeared. Equations 13.10 and 13.2 form the basis of Nord-
+stroms first theory, in which he identified p with the 'rest mass density' [N2].
+I shall leave aside further details of this theory, which left much to be desired, and
+turn at once to his 'second theory', which he proposed in 1913 [N3]. Though it
+was not to survive, it deserves to be remembered as the first logically consistent
+relativistic field theory of gravitation ever formulated.
+The main idea (which Nordstrom owed to von Laue and Einstein) is that the
+only possible source for his scalar gravitational field is
+the trace of the energy momentum tensor T1" (rim is, as usual, the Minkowski
+metric). All the physical conclusions of the theory are due to Nordstrom himself.
+I shall not follow his derivations, however, but instead describe the simple trick,
+reported by Einstein at the Vienna meeting [Ell], which leads rapidly to the
+desired result.
+In Eq. 13.10, put $ = c2 In $. Then
+This equation can be derived from the variational principle
+Once one has a variational principle, one can derive the equation for the energy
+momentum tensor of a particle with rest mass m and rest volume V (p = m/V),
+where the particle is treated as a continuum distributed over the rest volume V:
+and for its divergence
+234 RELATIVITY, THE GENERAL THEORY
+in which all reference to a particle with mass m has disappeared. Einstein pro-
+posed to consider Eq. 13.16 to hold whatever material (and electromagnetic) sys-
+tem generates T*". Put
+This is Nordstrom's 'second' field equation. It follows from Eqs. 13.16 and 13.17
+that
+where
+is the energy momentum tensor of the gravitational field. Thus the theory is
+Lorentz invariant and also satisfies the conservation laws.
+Now to the equivalence principle. Consider a totally static closed system. This
+obeys (integrated over the system) jrj<£e = 0 (i = 1, 2, 3). Hence, JTtfjt = —
+E/c2, where E is its total energy. The same relation is also true for a system in
+statistical equilibrium provided E is considered as the time average, over the sys-
+tem.* Go to the static weak-field limit, i^/c2 = 1 + 4>/c2, where $ is the New-
+tonian potential. Then Eq. 13.17 becomes
+and we have the desired result that the gravitational mass is proportional to the
+total energy of the system.** As Einstein put it later, in this theory the equivalence
+principle is a statistical law [E12].
+About one quarter of Einstein's Vienna report, 'On the Current Status of the
+Gravitation Problem,' is devoted to Nordstrom's work.f He commented only
+briefly on Abraham's contributions, noting that he considered it a requirement of
+any future theory that special relativity be incorporated and that Abraham had
+not done so. When in the subsequent discussion Mie remarked that Nordstrom's
+theory was an outgrowth of Abraham's work, Einstein replied: psychologically
+yes, logically no. The incorporation of the equivalence principle was another desi-
+*See [L2]. The average is to be taken over a time that evens out pressure fluctuations.
+**This is the weak equivalence principle in the sense of Dicke, who further showed that the Nord-
+strom theory does not satisfy the strong equivalence principle, according to which in a nonrotating
+free-falling laboratory the laws of physics are those of gravity-free space, assumed to be everywhere
+the same [Dl].
+-(-Einstein also used this occasion to withdraw an objection to the scalar theory which he had raised
+in his paper with Grossmann [El]. For other comments on scalar gravitation, see [W2].
+FIELD THEORIES OF GRAVITATION: THE FIRST FIFTY YEARS 235
+deratum stressed by Einstein. 'In the context [of a theory of gravitation], the Eot-
+vos experiment plays a role similar to that of the Michelson experiment for uni-
+form motion.' When Mie asked afterward why Einstein had not mentioned his,
+Mie's, work, Einstein replied that he would discuss only theories which, unlike
+Mie's, satisfy the equivalence principle.* The bulk of Einstein's report was of
+course devoted to his recent work with Grossmann. It added little to what has
+already been described here. At Vienna, Mie was Einstein's principal antagonist.
+Shortly after this meeting, Mie wrote a further critique on Einstein's theory [M4],
+to which Einstein replied by giving arguments that were in part incorrect: once
+again he stressed the inevitability of the invariance of the gravitational equations
+for linear transformations only [El 3].
+In summary, prior to 1912 no attempt to construct a field theory of gravitation
+had led anywhere. Toward the end of 1913 the situation was thoroughly con-
+fused. Nordstrom's was the only consistent theory of gravitation. Most physicists
+were ready to accept special relativity. A few were willing to concede the funda-
+mental role of the equivalence principle, but others thought that an exaggeration.
+There is no evidence that anyone shared Einstein's views concerning the limita-
+tions imposed by gravitation on special relativity, nor that anyone was ready to
+follow his program for a tensor theory of gravitation. Only Lorentz had given him
+some encouragement. 'I am happy that you receive our investigation [E.-
+Grossmann] with favor,' Einstein wrote in the same letter in which he had
+expressed his own doubts about the status of his theory [E3].
+Despite these reservations, Einstein was in a combative mood. Commenting on
+the criticisms by Abraham and Mie, he wrote, 'I enjoy it that this affair is at least
+taken up with the requisite animation. I enjoy the controversies. Figaro mood:
+"Will der Herr Graf ein Tanzlein wagen? Er soil's nur sagen! Ich spiel ihm auf"
+[E14].** He felt sure that the four-dimensional pseudo-Euclidean description
+needed revision. 'I enjoy it that colleagues occupy themselves at all with the theory,
+although for the time being with the purpose of killing it. ... On the face of it,
+Nordstrom's theory ... is much more plausible. But it, too, is built on the a priori
+Euclidean four-dimensional space, the belief in which amounts, I feel, to some-
+thing like a superstition' [E15]. In March 1914, he expressed himself as follows
+about his own efforts. 'Nature shows us only the tail of the lion. But I do not
+doubt that the lion belongs to it even though he cannot at once reveal himself
+because of his enormous size' [E16].f
+*In Mie's theory [M3], the ratio of gravitational and inertial mass depends on physical parameters
+such as velocity and temperature. Also, there is neither a red shift nor a bending of light. I do not
+discuss this complicated theory here (it contains two scalar fields) because it does not contain con-
+ceptually interesting points of view.
+"Would the Count like to dare a little dance? Let him but say so! I'll play him a tune.
+fSee Chapter 14 for comments by Einstein in 1914 on the Nordstrom theory and [E17] for his
+reminiscences on scalar theories.
+236 RELATIVITY, THE GENERAL THEORY
+The portrait of Einstein the scientist in 1913 is altogether remarkable. He has
+no compelling results to show for his efforts. He sees the limitations of what he
+has done so far. He is supremely confident of his vision. And he stands all alone.
+It seems to me that Einstein's intellectual strength, courage, and tenacity to con-
+tinue under such circumstances and then to be supremely vindicated a few years
+later do much to explain how during his later years he would fearlessly occupy
+once again a similar position, in his solitary quest for an interpretation of quantum
+mechanics which was totally at variance with commonly held views.
+13b. The Einstein-Fokker Paper
+Adriaan Daniel Fokker received his PhD degree late in 1913 under Lorentz. His
+thesis dealt with Brownian motions of electrons in a radiation field [Fl] and con-
+tains an equation which later became known as the Fokker-Planck equation.
+After this work was completed, Lorentz sent Fokker to Zurich to work with Ein-
+stein. The resulting collaboration lasted one semester only. It led to one brief paper
+which is of considerable interest for the history of general relativity because it
+contains Einstein's first treatment of a gravitation theory in which general covar-
+iance is strictly obeyed [El8].
+The authors first rewrite Eq. 13.13:
+from which they conclude that the Nordstrom theory is a special case of the Ein-
+stein-Grossmann theory, characterized by the additional requirement that the
+velocity of light be constant. Yet the theory is, of course, more general than special
+relativity. In particular, it follows from Eq. 13.21 that neither the real rate dt of
+a transportable clock nor the real length dl of a transportable rod have the special
+relativistic values dt0 and dl0, respectively. Rather (as Nordstrom already knew)
+dt0 = dt/4/, dl0 = dl/\{/, compatible with the i/'-independence of the light velocity.
+This paper is particularly notable for its new derivation of the field equation
+(Eq. 13.17). 'From the investigation by mathematicians of differential tensors,'
+this field equation must be of the form (they state)
+where
+is the curvature scalar derived from the Ricci tensor R^ (Eq. 12.20) in which the
+g^ are, of course, given (in the present instance) by Eq. 13.21. Einstein and Fok-
+ker go on to prove that Eq. 13.22 (with the constant adjusted) is equivalent to
+Eq. 13.17!
+The paper concludes with the following remark: 'It is plausible that the role
+which the Riemann-Christoffel tensor plays in the present investigation would
+FIELD THEORIES OF GRAVITATION: THE FIRST FIFTY YEARS 237
+also open a way for a derivation of the Einstein-Grossmann gravitation equations
+in a way independent of physical assumptions. The proof of the existence or non-
+existence of such a connection would be an important theoretical advance.' A final
+footnote states that one of the reasons given by Einstein and Grossmann [El] for
+the nonexistence of such a connection was incorrect, namely, the allegedly wrong
+weak-field properties of the Ricci tensor (Chapter 12).
+Thus, early in 1914, just fifty years after Maxwell's first attempt at a gravita-
+tion field theory, Einstein was not yet quite there but he was closing in, as the
+final remark of the Einstein-Fokker paper clearly indicates. That it took him
+almost another two years before he had the final answer was due in part to
+important changes which were about to take place in his personal life, as we shall
+see next.
+References
+Al. M. Abraham, Jahrb. Rod. Elekt. 11, 470 (1914).
+A2. , Arch. Math. Phys. 20, 193 (1912).
+A3. , Phys. Zeitschr. 13, 1, 4 (1912).
+A4. , Phys. Zeitschr. 13, 310 (1912).
+A5. —, AdP 38, 1056 (1912).
+A6. —, Phys. Zeitschr. 13, 793 (1913).
+A7. , AdP 39, 444 (1912).
+Bl. M. Born and M. von Laue, Phys. Zeitschr. 24, 49 (1923).
+Dl. R. H. Dicke, Ann. Phys. 31, 235 (1965).
+El. A. Einstein and M. Grossmann, Z. Math. Physik. 62, 225 (1913).
+E2. , AdP3», 355, 443 (1912).
+E3. , letter to H. A. Lorentz, August 14, 1913.
+E3a. , AdP 51, 639, (1916).
+E4. ,AdP 35, 898(1911).
+E5. , AdPW, 355 (1912), Sec. 4.
+E6. , AdP 38, 1059(1912).
+E7. ,AdP 39, 704(1912).
+E8. , letter to L. Hopf, August 16, 1912.
+E9. —, letter to M. Besso, late 1913; EB, p. 50.
+E10. , two letters to H. Zangger; one, undated, from late 1913 or early 1914 and the
+other dated July 7, 1915.
+Ell. —, Phys. Zeitschr. 14, 1249 (1913); 15, 108 (1914).
+E12. , Scientia 15, 337 (1914).
+E13. , Phys. Zeitschr. 15, 176 (1914).
+E14. , letter to H. Zangger, undated, late 1913 or early 1914.
+E15. , letter to E. Freundlich, undated, early 1914.
+E16. , letter to H. Zangger, March 10, 1914.
+E17. in Albert Einstein, Philosopher-Scientist (P. Schilpp, Ed.), pp. 63-5. Tudor,
+New York, 1949.
+E18. and A. D. Fokker, AdP 44, 321 (1914).
+Fl. A. D. Fokker, Phys. Zeitschr. 15, 96 (1914).
+238 RELATIVITY, THE GENERAL THEORY
+Gl. R. Cans, Phys. Zeitschr 6, 803 (1905).
+HI. O. Heaviside, Electromagnetic Theory (3rd edn.), Vol. 1, p. 455. Chelsea, New
+York, 1971.
+Kl. F. Kottler, Wiener Ber. 121, 1659 (1912).
+LI. H. A. Lorentz, Collected Works, Vol. 5, p. 198. Nyhoff, The Hague, 1934.
+L2. M. von Laue, Das Relativitdtsprinzip, (2nd edn.), p. 208. Vieweg, Braunschweig,
+1913.
+Ml. J. C. Maxwell, Collected Papers, Vol. 1, p. 570. Dover, New York, 1952.
+M2. H. Minkowski, Goett. Nachr., 1908, p. 53, Anhang.
+M3. G. Mie, AdP 40, 1 (1913), Sec. 5.
+M4. , Phys. Zeitschr. 15, 115, 169 (1914).
+Nl. G. Nordstrom, Phys. Zeitschr. 13, 1126 (1912).
+N2. , AdP 40, 856(1913).
+N3. , AdP 42, 533 (1913).
+PI. H. Poincare, Oeuvres, Vol. 9, p. 551. Gauthier-Villars, Paris, 1954.
+P2. , [PI], p. 494, Sec. 9.
+Wl. F. Wacker, Phys. Zeitschr. 7, 300 (1906).
+W2. M. Wellner and G. Sandri, Am. J. Phys. 28, 36 (1963).

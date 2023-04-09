@@ -1,0 +1,1138 @@
+5
+The Reality of Molecules
+5a. About the Nineteenth Century, Briefly
+7. Chemistry. In 1771 work was completed on the first edition of the Encyclo-
+pedia Britannica, 'a Dictionary of Arts and Sciences compiled upon a new plan
+... by a Society of Gentlemen in Scotland.' The entry atom, written by William
+Smellie, a man renowned for his devotion to scholarship and whisky [Kl], reads
+as follows. ''Atom. In philosophy, a particle of matter, so minute as to admit no
+division. Atoms are the minima naturae [smallest bodies] and are conceived as the
+first principles or component parts of all physical magnitude.' Democritus might
+have disagreed, since his atoms were not necessarily minute. Epicurus might have
+objected that the atom has structure—though it cannot be divided into smaller
+parts by physical means. Both men might have found the definition incomplete
+since it did not mention that atoms—as they believed—exist in an infinite variety
+of sizes and shapes, any one variety being forever incapable of transforming itself
+into any other. They might have wondered why no reference was made to the
+irparrr] vXri, the prime matter of which all atoms are made. It is likely, however,
+that an imaginary dialogue between the Greek and the late eighteenth century
+philosophers might rapidly have led to a common understanding that in the two
+thousand years which separated them very little had changed regarding the under-
+standing of the basic structure of matter.
+The period of rapid change began in 1808, when John Dalton commenced the
+publication of his New System of Chemical Philosophy [Dl]. This event marks
+the birth of modern chemistry, according to which all modes of matter are
+reducible to a finite number of atomic species (eighteen elements were known at
+that time). Dalton's early assessment (in 1810) of the youngest of the sciences
+sounds very modern: 'I should apprehend there are a considerable number of what
+may be properly called elementary principles, which can never be metamor-
+phosed, one into another, by any power we can control. We ought, however, to
+avail ourselves of every means to reduce the number of bodies or principles of this
+appearance as much as possible; and after all we may not know what elements
+are absolutely indecomposable, and what are refractory, because we do not know
+the proper means for their reduction. We have already observed that all atoms of
+the same kind, whether simple or compound, must necessarily be conceived to be
+79
+80 STATISTICAL PHYSICS
+alike in shape, weight, and every other particular' [Bl]. Note that Dalton's com-
+pound atom is what we call a molecule. Great confusion reigned through most of
+the nineteenth century regarding such terminology, one man's molecule being
+another man's atom. The need for a common language developed, but slowly.
+Fifty years later, at the first international scientific conference ever held, the 1860
+Karlsruhe congress of chemists,* the steering committee still considered it neces-
+sary to put at the top of the agenda of points to be discussed the question, 'Shall
+a difference be made between the expressions molecule and atom, such that a
+molecule be named the smallest particle of bodies which can enter into chemical
+reactions and which may be compared to each other in regard to physical prop-
+erties—atoms being the smallest particles of those bodies which are contained in
+molecules?,' [Ml]. More interesting than the question itself is the fact that, even
+in 1860, no consensus was reached.
+Especially illuminating for an understanding of science in the nineteenth cen-
+tury are the topics discussed by young August Kekule von Stradonitz (who by
+then had already discovered that carbon atoms are tetravalent) in the course of his
+opening address to the Karlsruhe conference. '[He] spoke on the difference
+between the physical molecule and the chemical molecule, and the distinction
+between these and the atom. The physical molecule, refers, he said, to the particle
+of gas, liquid, or solid in question. The chemical molecule is the smallest particle
+of a body which enters or leaves a chemical reaction. These are not indivisible.
+Atoms are particles not further divisible' [Ml]. Both physics and chemistry could
+have profited if more attention had been paid to the comment by Stanislao Can-
+nizzaro, in the discussion following Kekule's paper, that the distinction between
+physical and chemical molecules has no experimental basis and is therefore unnec-
+essary. Indeed, perhaps the most remarkable fact about the nineteenth century
+debates on atoms and molecules is the large extent to which chemists and physicists
+spoke at cross purposes when they did not actually ignore each other. This is not
+to say that there existed one common view among chemists, another among phys-
+icists. Rather, in either camp there were many and often strongly diverging opin-
+ions which need not be spelled out in detail here. It should suffice to give a few
+illustrative examples and to note in particular the central themes. The principal
+point of debate among chemists was whether atoms were real objects or only mne-
+monic devices for coding chemical regularities and laws. The main issues for the
+physicists centered around the kinetic theory of gases; in particular, around the
+meaning of the second law of thermodynamics.
+An early illustration of the dichotomies between the chemists and the physicists
+is provided by Dalton's opinion about the work of Joseph Louis Gay-Lussac.
+Dalton's chemistry was based on his law of multiple proportions: if there exists
+"The meeting was held September 3-5, 1860. There were 127 chemists in attendance. Participants
+came from Austria, Belgium, France, Germany, Great Britain, Italy, Mexico, Poland, Russia, Spain,
+Sweden, and Switzerland.
+THE REALITY OF MOLECULES 8l
+more than one compound of two elements, then the ratios of the amounts of weight
+of one element which bind with the same amounts of the other are simple integers.
+As said, the publication of Dalton's major opus began in 1808. In 1809, Gay-
+Lussac published his law of combining volumes: the proportions by volume in
+which gases combine are simple integers. Gay-Lussac mentioned that his results
+were in harmony with Dalton's atomic theory [Gl]. Dalton, on the other hand,
+did not believe Gay-Lussac: 'His notion of measures is analogous to mine of atoms;
+and if it could be proved that all elastic fluids have the same number of atoms in
+the same volume, of numbers that are as 1, 2, 3, 4, etc., the two hypotheses would
+be the same, except that mine is universal and his applies only to elastic fluids.
+Gay-Lussac could not but see that a similar hypothesis had been entertained by
+me and abandoned as untenable' [D2]. (Elastic fluids are now better known as
+gases.) Also, Dalton did not accept the hypothesis put forward in 1811 by Amedeo
+Avogadro, that for fixed temperature and pressure equal volumes of gases contain
+equal numbers of molecules [Al].* Nor was Dalton's position one held only by a
+single person for a brief time. By all accounts the high point of the Karlsruhe
+congress was the address by Cannizzaro, in which it was still necessary for the
+speaker to emphasize the importance of Avogadro's principle for chemical consid-
+erations.** That conference did not at once succeed in bringing chemists closer
+together. 'It is possible that the older men were offended by the impetuous behav-
+ior and imposing manner of the younger scientists' [M2]. However, it was recalled
+by Dmitri Ivanovich Mendeleev thirty years later that 'the law of Avogadro
+received by means of the congress a wider development, and soon afterwards con-
+quered all minds' [M3].
+The law of Avogadro is the oldest of those physical-chemical laws that rest on
+the explicit assumption that molecules are real things. The tardiness with which
+this law came to be accepted by the chemists clearly indicates their widespread
+resistance to the idea of molecular reality. For details of the atomic debate among
+chemists, I refer the reader to recent excellent monographs [Bl, Nl]. Here I men-
+tion only some revealing remarks by Alexander Williamson, himself a convinced
+atomist. In his presidential address of 1869 to the London Chemical Society, he
+said, 'It sometimes happens that chemists of high authority refer publicly to the
+atomic theory as something they would be glad to dispense with, and which they
+are ashamed of using. They seem to look upon it as something distinct from the
+general facts of chemistry, and something which the science would gain by throw-
+ing off entirely. .. . On the one hand, all chemists use the atomic theory, and .. .
+on the other hand, a considerable number view it with mistrust, some with positive
+dislike. If the theory really is as uncertain and unnecessary as they imagine it to
+*The reason for Dalton's opposition was that he did not realize (as Avogadro did) that the smallest
+particles of a gaseous element are not necessarily atoms but may be molecules.
+**The views of this remarkable man are most easily accessible in the English translation, published
+in 1961, of an article he wrote in 1858 [Cl].
+82 STATISTICAL PHYSICS
+be, let its defects be laid bare and examined. Let them be remedied if possible, or
+let the theory be rejected, and some other theory be used in its stead, if its defects
+are really as irremediable and as grave as is implied by the sneers of its detractors'
+[Wl].
+As a final comment on chemistry in the nineteenth century, mention should be
+made of another regularity bearing on the atomicity of matter and discovered in
+that period. In an anonymous paper written in 1815, William Prout, a practising
+physician in London with a great interest in chemistry, claimed to have shown
+that the specific gravities of atomic species can be expressed as integral multiples
+of a fundamental unit [PI]. In an addendum written the next year, and also pub-
+lished anonymously [P2], he noted that this fundamental unit may be identified
+with the specific gravity of hydrogen: 'We may almost consider the TT/OWTTJ uXi; of
+the ancients to be realized in hydrogen.' Yet Prout did not consider his hypothesis
+as a hint for the reality of atoms: 'The light in which I have always been accus-
+tomed to consider it [the atomic theory] has been very analogous to that in which
+I believe most botanists now consider the Linnean system; namely, as a conven-
+tional artifice, exceedingly convenient for many purposes but which does not rep-
+resent nature' [B2].
+2. Kinetic Theory. The insight that gases are composed of discrete particles
+dates back at least to the eighteenth century. Daniel Bernoulli may have been the
+first to state that gas pressure is caused by the collisions of particles with the walls
+within which they are contained [B3]. The nineteenth century masters of kinetic
+theory were atornists—by definition, one might say. In Clausius's paper of 1857,
+'On the Kind of Motion We Call Heat' [C2], the distinction between solids, liq-
+uids, and gases is related to different types of molecular motion. In 1873, Maxwell
+said, 'Though in the course of ages catastrophes have occurred and may yet occur
+in the heavens, though ancient systems may be dissolved and new systems evolved
+out of their ruins, the molecules [i.e., atoms!] out of which these systems [the earth
+and the whole solar system] are built—the foundation stones of the material uni-
+verse—remain unbroken and unworn. They continue this day as they were cre-
+ated—perfect in number and measure and weight ...' [M4].*
+Boltzmann was less emphatic and in fact reticent at times, but he could hardly
+have developed his theory of the second law had he not believed in the particulate
+structure of matter. His assertion that entropy increases almost always, rather
+than always, was indeed very hard to swallow for those who did not believe in
+molecular reality. Planck, then an outspoken skeptic, saw this clearly when in
+1883 he wrote, 'The consistent implementation of the second law [i.e., to Planck,
+increase of entropy as an absolute law] ... is incompatible with the assumption
+of finite atoms. One may anticipate that in the course of the further development
+of the theory a battle between these two hypotheses will develop which will cost
+*Faraday had reservations. In 1844 he wrote, 'The atomic doctrine ... is at best an assumption of
+the truth of which we can assert nothing, whatever we may say or think of its probability' [W2].
+THE REALITY OF MOLECULES 83
+one of them its life' [P3]. This is the battle which Ostwald joined in 1895 when
+he addressed a meeting of the Deutsche Gesellschaft fur Naturforscher und Arzte:
+'The proposition that all natural phenomena can ultimately be reduced to
+mechanical ones cannot even be taken as a useful working hypothesis: it is simply
+a mistake. This mistake is most clearly revealed by the following fact. All the
+equations of mechanics have the property that they admit of sign inversion in the
+temporal quantities. That is to say, theoretically perfectly mechanical processes
+can develop equally well forward and backward [in time]. Thus, in a purely
+mechanical world there could not be a before and an after as we have in our world:
+the tree could become a shoot and a seed again, the butterfly turn back into a
+caterpillar, and the old man into a child. No explanation is given by the mechan-
+istic doctrine for the fact that this does not happen, nor can it be given because of
+the fundamental property of the mechanical equations. The actual irreversibility
+of natural phenomena thus proves the existence of processes that cannot be
+described by mechanical equations; and with this the verdict on scientific materi-
+alism is settled' [Ol]. It was in essence a replay of the argument given by Lo-
+schmidt twenty years earlier.
+Such were the utterances with which Boltzmann, also present at that meeting,
+had to cope. We are fortunate to have an eye-witness report of the ensuing dis-
+cussion from a young physicist who attended the conference, Arnold Sommerfeld.
+'The paper on "Energetik" was given by Helm* from Dresden; behind him stood
+Wilhelm Ostwald, behind both the philosophy of Ernst Mach, who was not pres-
+ent. The opponent was Boltzmann, seconded by Felix Klein. Both externally and
+internally, the battle between Boltzmann and Ostwald resembled the battle of the
+bull with the supple fighter. However, this time the bull was victorious over the
+torero in spite of the latter's artful combat. The arguments of Boltzmann carried
+the day. We, the young mathematicians of that time, were all on the side of Boltz-
+mann; it was entirely obvious to us that one could not possibly deduce the equa-
+tions of motion for even a single mass point—let alone for a system with many
+degrees of freedom—from the single energy equation ...' [SI]. As regards the
+position of Ernst Mach, it was anti-atomistic but of a far more sober variety than
+Ostwald's: 'It would not become physical science [said Mach] to see in its self-
+created, changeable, economical tools, molecules and atoms, realities behind phe-
+nomena ... the atom must remain a tool . . . like the function of mathematics'
+[M5].
+Long before these learned fin de siecle discourses took place, in fact long before
+the laws of thermodynamics were formulated, theoretical attempts had begun to
+estimate the dimensions of molecules. As early as 1816 Thomas Young noted that
+'the diameter or distance of the particles of water is between the two thousand and
+"The physicist Georg Helm was an ardent supporter of Ostwald's 'Energetik,' according to which
+molecules and atoms are but mathematical fictions and energy, in its many forms, the prime physical
+reality.
+84 STATISTICAL PHYSICS
+the ten thousand millionth of an inch' [Yl].* In 1866 Loschmidt calculated the
+diameter of an air molecule and concluded that 'in the domain of atoms and mol-
+ecules the appropriate measure of length is the millionth of the millimeter' [LI].
+Four years later Kelvin, who regarded it 'as an established fact of science that a
+gas consists of moving molecules,' found that 'the diameter of the gaseous molecule
+cannot be less than 2.10~9 of a centimeter' [Tl]. In 1873 Maxwell stated that the
+diameter of a hydrogen molecule is about 6.10~8 cm [M6]. In that same year
+Johannes Diderik van der Waals reported similar results in his doctoral thesis
+[W3]. By 1890 the spread in these values, and those obtained by others [B4], had
+narrowed considerably. A review of the results up to the late 1880s placed the
+radii of hydrogen and air molecules between 1 and 2.10~8 cm [R2], a remarkably
+sensible range. Some of the physicists just mentioned used methods that enabled
+them to also determine Avogadro's number N, the number of molecules per mole.
+For example, Loschmidt's calculations of 1866 imply that N « 0.5 X 1023 [LI],
+and Maxwell found N « 4 X 1023 [M6]. The present best value [D3] is
+* Young arrived at this estimate by a rather obscure argument relating the surface tension to the
+range of the molecular forces and then equating this range with the molecular diameter. Rayleigh,
+along with many others, had trouble understanding Young's reasoning [Rl].
+**This relation was derived by Clausius and Maxwell. The constant is equal to I/y2 if one uses
+the Maxwell velocity distribution of identical molecules. Loschmidt used Clausius's value of %, which
+follows if all the gas molecules are assumed to have the same speed. References to refinements of
+Loschmidt's calculations are found in [T2].Toward the end of the nineteenth century, the spread in the various determina-
+tions of N was roughly 1022 to 1024, an admirable achievement in view of the
+crudeness—stressed by all who worked on the subject—of the models and meth-
+ods used.
+This is not the place to deal with the sometimes obscure and often wonderful
+physics contained in these papers, in which the authors strike out into unexplored
+territory. However, an exception should be made for the work of Loschmidt [LI]
+since it contains a characteristic element which—as we shall soon see—recurs in
+the Einstein papers of 1905 on molecular radii and Avogadro's number: the use
+of two simultaneous equations in which two unknowns, N, and the molecular
+diameter d, are expressed in terms of physically known quantities.
+The first of the equations used by Loschmidt is the relation between d, the mean
+free path X, and the number n of molecules per unit volume of a hard-sphere gas:
+Xnird2 = a calculable constant.** The second relation concerns the quantity
+nird^/6, the fraction of the unit volume occupied by the molecules. Assume that
+in the liquid phase these particles are closely packed. Then nird*/6 = p^/l. 17
+Aiquid; where the p's are the densities in the respective phases and the geometric
+factor 1.17 is Loschmidt's estimate for the ratio of the volume occupied by the
+molecules in the liquid phase and their proper volume. Thus we have two equa-
+THE REALITY OF MOLECULES 85
+tions for n (hence for N) and d. (Loschmidt applied his reasoning to air, for which
+A was known experimentally. However, in order to estimate the densities of liquid
+oxygen and nitrogen, he had to use indirect theoretical estimates.)
+It is not surprising that, on the whole, molecular reality met with less early
+resistance in physics than it did in chemistry. As is exemplified by Loschmidt's
+1866 calculation, physicists could already do things with molecules at a time when
+chemists could, for most purposes, take them to be real or leave them as coding
+devices. However, it became increasingly difficult in chemical circles to deny the
+reality of molecules after 1874, the year in which Jacobus Henricus van 't Hoff
+and Joseph Achille Le Bel independently explained the isomerism of certain
+organic substances in terms of stereochemical properties of carbon compounds.
+Even then skeptics did not yield at once (van 't Hoff himself was initially quite
+cautious on the issue, [N2]). But by the 1880s, the power of a truly molecular
+picture was widely recognized.
+In order to complete this survey of topics bearing on molecular reality prior to
+the time Einstein got involved, it is necessary to add two further remarks.
+3. The End of Indivisibility. Until the very last years of the nineteenth cen-
+tury, most if not all physicists who believed in the reality of atoms shared Max-
+well's view that these particles remain unbroken and unworn. 'They are . .. the
+only material things which still remain in the precise condition in which they first
+began to exist,' he wrote in his book Theory of Heat [M7], which contains the
+finest expression of his atomic credo.* It is true that many of these same physicists
+(Maxwell among them) were convinced that something had to rattle inside the
+atom in order to explain atomic spectra. Therefore, while there was a need for a
+picture of the atom as a body with structure, this did not mean (so it seemed) that
+one could take the atom apart. However, in 1899, two years after his discovery of
+the electron, Joseph John Thomson announced that the atom had been split:
+'Electrification [that is, ionization] essentially involves the splitting of the atom, a
+part of the mass of the atom getting free and becoming detached from the original
+atom' [T3]. By that time it was becoming increasingly clear that radioactive phe-
+nomena (first discovered in 1896) also had to be explained in terms of a divisible
+atom. 'Atoms [of radioactive elements], indivisible from the chemical point of view,
+are here divisible,' Marie Curie wrote in 1900 [C3]. She added that the expla-
+nation of radioactivity in terms of the expulsion of subatomic particles 'seriously
+undermines the principles of chemistry.' In 1902 Ernest Rutherford and Frederick
+Soddy proposed their transformation theory, according to which radioactive bodies
+contain unstable atoms, a fixed fraction of which decay per unit time. Forty years
+later, a witness to this event characterized the mood of those early times: 'It must
+be difficult if not impossible for the young physicist or chemist to realize how
+*To Maxwell, electrolytic dissociation was not at variance with the indivisibility of atoms—but that
+is another story.
+86 STATISTICAL PHYSICS
+extremely bold [the transformation theory] was and how unacceptable to the
+atomists of the time' [R3].
+Thus, at the turn of the century, the classical atomists, those who believed both
+in atoms and in their indivisibility, were under fire from two sides. There was a
+rapidly dwindling minority of conservatives, led by the influential Ostwald and
+Mach, who did not believe in atoms at all. At the same time a new breed arose,
+people such as J. J. Thomson, the Curies, and Rutherford, all convinced of the
+reality of atoms and all—though not always without trepidation, as in the case of
+Marie Curie—aware of the fact that chemistry was not the last chapter in particle
+physics. For them, the ancient speculations about atoms had become reality and
+the old dream of transmutation had become inevitable.
+4. The End of Invisibility. If there was one issue on which there was agree-
+ment between physicists and chemists, atomists or not, it was that atoms, if they
+exist at all, are too small to be seen. Perhaps no one expressed this view more
+eloquently than van der Waals in the closing lines of his 1873 doctoral thesis,
+where he expressed the hope that his work might contribute to bringing closer the
+time when 'the motion of the planets and the music of the spheres will be forgotten
+for a while in admiration of the delicate and artful web formed by the orbits of
+those invisible atoms' [W3].
+Direct images of atoms were at last produced in the 1950s with the field ion
+microscope [M8]. In a broad sense of the word, particles smaller than atoms were
+'seen' much earlier, of course. At the turn of the century, alpha particles were
+perceived as scintillations on zinc sulfide screens, electrons as tracks in a cloud
+chamber. In an 1828 paper entitled, in part, 'A Brief Account of Microscopical
+Observations Made in the Months of June, July and August, 1827, on the Par-
+ticles Contained in the Pollen of Plants' [B5], the botanist Robert Brown reported
+seeing the random motion of various kinds of particles sufficiently fine to be sus-
+pended in water. He examined fragments of pollen particles, 'dust or soot depos-
+ited on all bodies in such quantity, especially in London,' particles from pulverized
+rock, including a fragment from the Sphinx, and others. Today, we say that
+Brown saw the action of the water molecules pushing against the suspended
+objects. But that way of phrasing what we see in Brownian motion is as dependent
+on theoretical analysis as is the statement that a certain cloud chamber track can
+be identified as an electron.
+In the case of Brownian motion, this analysis was given by Einstein, who
+thereby became the first to make molecules visible. As a last preparatory step
+toward Einstein's analysis, I must touch briefly on what was known about dilute
+solutions in the late nineteenth century.
+5b. The Pots of Pfeffer and the Laws of van 't Hoff
+In the mid-1880s, van 't Hoff, then professor of chemistry, mineralogy, and geol-
+ogy at the University of Amsterdam, discovered in the course of his studies of
+THE REALITY OF MOLECULES 87
+chemical equilibrium in solutions 'that there is a fundamental analogy, nay almost
+an identity, with gases, more especially in their physical aspect, if only in solutions
+we consider the so-called osmotic pressure.. . . We are not here dealing with a
+fanciful analogy, but with one which is fundamental' [HI]. The experimental
+basis for these discoveries was provided by the measurements on osmosis through
+rigid membranes performed a decade earlier by Wilhelm Pfeffer, then an extraor-
+dinarius in Bonn [P4].
+Let us first recall what van 't Hoff meant by the osmotic pressure. Consider a
+vessel filled with fluid, the solvent. A subvolume V of the fluid is enclosed by a
+membrane that is fully permeable with respect to the solvent. Another species of
+molecules, the solute, is inserted in V. If the membrane is fully impermeable to
+the solute, solvent will stream into V until equilibrium is reached. In equilibrium,
+the pressure on the membrane is an osmotic pressure. If the membrane has some
+degree of elasticity, then this pressure will cause the membrane to dilate. For the
+special case where the membrane is rigid and unyielding, the pressure exerted on
+it is the osmotic pressure to which van 't Hoff referred and which we shall always
+have in mind in what follows. (This pressure can be sizable; for example, a 1%
+sugar solution exerts a pressure of % atm.)
+It is one of the great merits of Pfeffer, renowned also for his work in botany
+and plant physiology, that he was the first to prepare such rigid membranes. He
+did this by placing unglazed, porous, porcelain pots filled with an aqueous solution
+of K3Fe(CN)6 in a bath filled with copper sulfate. The resulting precipitate of
+Gu2Fe(CN)6 in the pores of the porcelain pots constituted the rigid membrane.
+Pfeffer performed elaborate measurements with his new tool. His results led him
+to suspect that 'evidently there had to exist some connection between osmotic [pres-
+sure] on the one hand and the size and number of molecules on the other' [C4].
+The connection conjectured by Pfeffer was found by Einstein and reported in his
+doctoral thesis, with the help of the laws found by van 't Hoff. In turn, van 't
+Hoff's purely phenomenological discovery was based exclusively on the analysis
+of data obtained by Pfeffer.
+Van 't Hoff's laws apply to ideal solutions, 'solutions which are diluted to such
+an extent that they are comparable to ideal gases' [HI].* For such ideal solutions,
+his laws can be phrased as follows (it is assumed that no electrolytic dissociation
+takes place):
+1. In equilibrium, one has
+independent of the nature of the solvent. In this analog of the Boyle-Gay-Lus-
+sac law, p is the osmotic pressure, V the volume enclosed by the rigid mem-
+brane, T the temperature, and R' a constant.
+"Van 't Hoff noted that a negligible heat of dilution is a practical criterion for solutions to be ideal.
+88 STATISTICAL PHYSICS
+2. The extension of Avogadro's law: equal volumes of solutions at the same p and
+T contain the same number of solute molecules. This number is equal to the
+number of gas molecules at the same (gas) pressure p and the same T. Hence,
+for one gram-mole
+where R is the gas constant. Thus, after van 't Hoff, the liquid phase offered
+a new way of measuring the gas constant and, consequently, new possibilities
+for the determination of Avogadro's number.
+'The fact that the dissolved molecules of a diluted solution exert on a semi-
+permeable membrane—in spite of the presence of the solvent—exactly the same
+pressure as if they alone were present, and that in the ideal gas state—this fact is
+so startling that attempts have repeatedly been made to find a kinetic interpreta-
+tion that was as lucid as possible', Ehrenfest wrote in 1915 [El]. Einstein briefly
+discussed the statistical derivation of van 't HofFs laws in 1905 [E2]; more impor-
+tant, however, are the applications he made of these laws.
+In 1901, van 't Hoff became the first to receive the Nobel prize for chemistry.
+The presentation speech delivered on that occasion illustrates vividly that, at the
+beginning of the twentieth century, molecular reality had become widely accepted
+among chemists as well as physicists: 'He proved that gas pressure and osmotic
+pressure are identical, and thereby that the molecules themselves in the gaseous
+phase and in solutions are also identical. As a result of this, the concept of the
+molecule in chemistry was found to be definite and universally valid to a degree
+hitherto undreamed of [N3].
+5c. The Doctoral Thesis
+In his PhD thesis, Einstein described a new theoretical method for determining
+molecular radii and Avogadro's number. From a comparison of his final equations
+with data on sugar solutions in water, he found that
+The printed version of his thesis [E3] carries the dedication 'to my friend Marcel
+Grossman' and gives April 30, 1905, as the completion date. Einstein did not sub-
+mit his dissertation to the dean of the philosophical faculty, Section II, at the
+University of Zurich until July 20 [E4]. This delay may have had its technical
+reasons. More important, probably, was the fact that, between April and July,
+Einstein was rather busy with other things: during those months he completed his
+first papers on Brownian motion and on the special theory of relativity. The thesis
+was rapidly accepted. On July 24* the dean forwarded to the faculty for their
+'Einstein later recalled that, after having been told that the manuscript was too short, he added one
+sentence, whereupon it was accepted [S2]. I have found no trace of such a communication, nor is it
+clear to me when this exchange could have taken place.
+THE REALITY OF MOLECULES 89
+approval the favorable reports by Kleiner and by Burkhardt, who had been asked
+by Kleiner to check the most important parts of the calculations. The faculty
+approved (Burkhardt had failed to note a rather important mistake in Einstein's
+calculations—but that comes later). Einstein was now Herr Doktor.
+It is not sufficiently realized that Einstein's thesis is one of his most fundamental
+papers. Histories and biographies invariably refer to 1905 as the miraculous year
+because of his articles on relativity, the light-quantum, and Brownian motion. In
+my opinion, the thesis is on a par with the Brownian motion article. In fact, in
+some—not all—respects, his results on Brownian motion are by-products of his
+thesis work. This goes a long way toward explaining why the paper on Brownian
+motion was received by the Annalen der Physik on May 11, 1905, only eleven
+days after the thesis had been completed.
+Three weeks after the thesis was accepted, this same journal received a copy
+(without dedication) for publication. It was published [E5] only after Einstein
+supplied a brief addendum in January 1906 (I shall refer to this paper as the
+1906 paper). As a result of these various delays, the thesis appeared as a paper in
+the Annalen der Physik only after the Brownian motion article had come out in
+the same journal. This may have helped create the impression in some quarters
+(see, for example, [L2]) that the relation between diffusion and viscosity—a very
+important equation due to Einstein and Sutherland—was first obtained in Ein-
+stein's paper on Brownian motion. Actually, it first appeared in his thesis.
+In the appendix to the 1906 paper, Einstein gave a new and (as turned out
+later) improved value for TV:
+Quite apart from the fundamental nature of some results obtained in the thesis,
+there is another reason why this paper is of uncommon interest: it has had more
+widespread practical applications than any other paper Einstein ever wrote.
+The patterns of scientific reference as traced through the study of citations are,
+as with Montaigne's description of the human mind, ondoyant et divers.
+The history of Einstein's influence on later works, as expressed by the frequency
+of citations of his papers, offers several striking examples. Of the eleven scientific
+articles published by any author before 1912 and cited most frequently between
+1961 and 1975, four are by Einstein. Among these four, the thesis (or, rather, the
+1906 paper) ranks first; then follows a sequel to it (to which I return later in this
+section), written in 1911. The Brownian motion paper ranks third, the paper on
+critical opalescence fourth. At the top of the list of Einstein's scientific articles cited
+most heavily during the years 1970 to 1974 is the 1906 paper. It was quoted four
+times as often as Einstein's first survey article of 1916 on general relativity and
+eight times as often as his 1905 paper on the light-quantum [C5].The large difference between this value and his value of eight months earlier was
+entirely due to the availability of better data on sugar solutions.
+90 STATISTICAL PHYSICS
+Of course, relative citation frequencies are no measure of relative importance.
+Who has not aspired to write a paper so fundamental that very soon it is known
+to everyone and cited by no one? It is nevertheless obvious that there must be valid
+reasons for the popularity of Einstein's thesis. These are indeed not hard to find:
+the thesis, dealing with bulk rheological properties of particle suspensions, con-
+tains results which have an extraordinarily wide range of applications. They are
+relevant to the construction industry (the motion of sand particles in cement mixes
+[R4]), to the dairy industry (the motion of casein micelles in cow's milk [D4]),
+and to ecology (the motion of aerosol particles in clouds [Y2]), to mention but a
+few scattered examples. Einstein might have enjoyed hearing this, since he was
+quite fond of applying physics to practical situations.
+Let us consider Einstein's Doktorarbeit in some detail. His first step is hydro-
+dynamic. Consider the stationary flow of an incompressible, homogeneous fluid.
+If effects of acceleration are neglected, then the motion of the fluid is described by
+the Navier-Stokes equations:
+where v is the velocity, p the hydrostatic pressure, and 77 the viscosity. Next, insert
+a large number of identical, rigid, spherical particles in the fluid. The radius of
+the solute particles is taken to be large compared with the radius of the solvent
+molecules so that the solvent can still be treated as a continuum. The solution is
+supposed to be dilute; the total volume of the particles is much smaller than the
+volume of the liquid. Assume further that (1) the overall motion of the system is
+still Navier-Stokes, (2) the inertia of the solute particles in translation and their
+rotational motion can be neglected, (3) there are no external forces, (4) the motion
+of any one of the little spheres is not affected by the presence of any other little
+sphere, (5) the particles move under the influence of hydrodynamic stresses at
+their surface only, and (6) the boundary condition of the flow velocity v is taken
+to be v = 0 on the surface of the spheres. Then, Einstein showed, the flow can
+still be described by Eq. 5.6 provided rj is replaced by a new 'effective viscosity'
+77*, given by
+where <p is the fraction of the unit volume occupied by the (uniformly distributed)
+spheres. Let the hard spheres represent molecules (which do not dissociate). Then
+where ./V is Avogadro's number, a the molecular radius, m the molecular weight
+of the solute, and p the amount of mass of the solute per unit volume. Einstein
+had available to him values for rf/rj for dilute solutions of sugar in water, and <p
+THE REALITY OF MOLECULES 91
+and m were also known. Thus Eqs. 5.7 and 5.8 represent one relation between
+the two unknowns N and a.
+The next thing that Einstein of course did (in the spirit of Loschmidt*) was
+find a second connection between N and a. To this end, he used a reasoning which
+is partly thermodynamic, partly dynamic. This argument is sketched in his thesis
+and repeated in mbre detail in his first paper on Brownian motion [E2]. It is
+extremely ingenious.
+Consider first an ideal gas and a time-independent force K acting on its mole-
+cules in the negative x direction. The force exerted per unit volume equals KpN/
+m. In thermal equilibrium, the balance between this force and the gas pressure p
+is given by
+where R is the gas constant. Now, Einstein reasoned, according to van 't Hoff's
+law, Eq. 5.9 should also hold for dilute solutions as long as the time-independent
+force K acts only on the solute molecules.
+Let K impart a velocity v (relative to the solvent) to the molecules of the solute.
+If the mean free path of the solvent molecules is much less than the diameter of
+the solute molecules, then (also in view of the boundary condition v = 0 on the
+surface of the solute particles) we have the well-known Stokes relation
+Then, from the thermal equilibrium condition (Eq. 5.9) and the dynamic equilib-
+rium condition (Eq. 5.11)
+*See Section 5a. The only nineteenth century method for finding N and a that Einstein discussed
+in his 1915 review article on kinetic theory [E6] was the one by Loschmidt.Observe that the force K has canceled out in Eq. 5.12. The trick was therefore to
+use K only as an intermediary quantity to relate the diffusion coefficient to theso that, under the influence of K, KpN/6irrjam solute molecules pass in the neg-
+ative x direction per unit area per second. The resulting concentration gradient
+leads to a diffusion in the x direction of DN/m. (dp/dx) particles/cm2/sec, where,
+by definition, D is the diffusion coefficient. Dynamic equilibrium demands that
+the magnitude of the diffusion current equal the magnitude of the current induced
+by K:
+92 STATISTICAL PHYSICS
+viscosity in the Stokes regime. Equation 5.12 is the second relation for the two
+unknowns N and a.
+By a quite remarkable coincidence, Eq. 5.12 was discovered in Australia at
+practically the same time Einstein did his thesis work. In March 1905 William
+Sutherland submitted a paper that contained the identical result, arrived at by the
+method just described [S2a]. Thus, Eq. 5.12 should properly be called the Suth-
+erland-Einstein relation.
+Note that the derivation of Eq. 5.12 is essentially independent of any details
+regarding the motion of the solute particles. Therein lies the strength of the argu-
+ment that, as a theme with variations, recurs a number of times in Einstein's later
+work: a 'systematic force,' a drag force of the Stokesian type (that is, proportional
+to the velocity) balances with a random, or fluctuating, force. In the present case,
+as well as for Brownian motion, the fluctuating force is the one generated by the
+thermal molecular motions in the environment, the fluctuations leading to a net
+diffusion. Later, in 1909 and again in 1917, Einstein was to use the balance
+between a Stokesian force and a fluctuating force generated by electromagnetic
+radiation.
+As to the contents of Einstein's thesis, all was quiet for the five years following
+its publication. Then a Mr. Bacelin, a pupil of Jean Baptiste Perrin's, informed
+Einstein of measurements which gave a value for 77* that was too high to be com-
+patible with Eq. 5.7. As we shall see in the next section, by this time Perrin had
+a very good idea how big TV had to be. Therefore, 77* could now be computed
+(knowing a from other sources) and the result could be compared with experi-
+ment! Upon hearing this news, Einstein set one of his own pupils to work, who
+discovered that there was an elementary but nontrivial mistake in the derivation
+of Eq. 5.7. The correct result is [E7]
+With the same data that Einstein had used earlier to obtain Eq. 5.5, the new value
+for TV is
+a far better result, on which I shall comment further in the next section.
+In conclusion, it is now known that Einstein's Eq. 5.13 is valid only for values
+of ip < 0.02.* Theoretical studies of corrections 0(<p2) to the rhs of Eq. 5.13 were
+made as late as 1977. Effects that give rise to <p2 terms are two-particle correlations
+[B6] and also a phenomenon not yet discussed in the thesis: the Brownian motion
+of the solute particles [B7],
+*See the reviews by Rutgers, which contain detailed comparisons of theory with experiment, as well
+as a long list of proposals to modify Eq. 5.13 [R5].
+THE REALITY OF MOLECULES 93
+5d. Eleven Days Later: Brownian Motion*
+1. Another Bit of Nineteenth Century History. During the nineteenth century,
+it had become clear from experiments performed in various laboratories that
+Brownian motions increase with decreasing size and density of the suspended par-
+ticles (10~3 mm is a typical particle radius above which these motions are hardly
+observable) and with decreasing viscosity and increasing temperature of the host
+liquid. Another important outcome of this early research was that it narrowed
+down the number of possible explanations of this phenomenon, beginning with
+Brown's own conclusion that it had nothing to do with small things that are alive.
+Further investigations eliminated such causes as temperature gradients, mechan-
+ical disturbances, capillary actions, irradiation of the liquid (as long as the result-
+ing temperature increase can be neglected), and the presence of convection currents
+within the liquid. As can be expected, not all of these conclusions were at once
+generally accepted without controversy.
+In the 1860s, the view emerged that the cause of the phenomenon was to be
+found in the internal motions of the fluid. From then on, it did not take long before
+the more specific suggestion was made that the zigzag motions of the suspended
+particles were due to collisions with the molecules of the fluid. At least three phys-
+icists proposed this independently: Giovanni Cantoni from Pavia and the two Bel-
+gian Jesuits Joseph Delsaulx and Ignace Carbonelle. Of course, this was a matter
+of speculation rather than proof. 'Io penso che il moto di danza delle particelle
+solide .. . possa attribuirsi alle different! velocita che esser devono .. . sia in coteste
+particelli solide, sia nelle molecole del liquido che le urtano da ogni banda,' wrote
+Cantoni [C6].** '[Les] mouvements browniens . .. seraient, dans ma maniere de
+considerer le phenomene, le resultat des mouvements moleculaires calorifiques du
+liquide ambiant,' wrote Delsaulx [D5].f
+However, these proposals soon met with strong opposition, led by the Swiss
+botanist Carl von Naegeli and by William Ramsey. Their counterargument was
+based on the incorrect assumption that every single zig or zag in the path of a
+suspended particle should be due to a single collision with an individual molecule.
+Even though experiments were not very quantitative at that time, it was not dif-
+ficult to realize that this assumption led to absurdities. Nevertheless, the expla-
+* Einstein's papers on Brownian motion as well as the 1906 paper have been collected in a handy
+little book by Fiirth [Fl, F2]. A useful though not complete set of references to nineteenth century
+experimental work and theoretical speculation can be found in a paper by Smoluchowski [S3]; see
+also [B8] and [N4].
+**I believe that the dancing motion of the solid particles .. . can be attributed to the different veloc-
+ities which ought to be ascribed . .. either to the said solid particles, or to the molecules of the liquid
+which hit [these solid particles] from all directions.
+fin my way of considering the phenomenon, the Brownian motions should be the consequence of
+the molecular heat motions of the ambient liquid.
+94 STATISTICAL PHYSICS
+nation in terms of molecular collisions was not entirely abandoned. Take, for
+example, the case of Louis Georges Gouy, who did some of the best nineteenth
+century experiments on Brownian motion. He agreed with the remark by Naegeli
+and Ramsey, but conjectured that the molecules in liquids travel in organized
+bunches so that an individual kick imparted to a suspended particle would be due
+to the simultaneous action of a large number of molecules.
+Gouy was also the first to note that it was not easy to comprehend Brownian
+motion from a thermodynamic point of view. It seemed possible to him—at least
+in principle—that one could construct a perpetuum mobile of the second kind
+driven by those ceaseless movements (It should be mentioned that the explicit dis-
+proof of this statement is delicate. The best paper on this question is by Leo Szi-
+lard [S4].). This led Gouy to express the belief that Carnot's principle (the second
+law of thermodynamics) might not apply to domains with linear dimensions of the
+order of one micrometer [G2].
+Poincare—often called on at the turn of the century to pronounce on the status
+of physics—brought these ideas to the attention of large audiences. In his opening
+address to the 1900 International Congress of Physics in Paris, he remarked, after
+referring to Gouy's ideas on Brownian motion, 'One would believe seeing Max-
+well's demon at work' [P5]. In a lecture entitled 'The Crises of Mathematical
+Physics,' given before the Congress of Arts and Science in St. Louis in 1904, he
+put Carnot's principle at the head of his list of endangered general laws: '[Brown]
+first thought that [Brownian motion] was a vital phenomenon, but soon he saw
+that inanimate bodies dance with no less ardor than the others; then he turned the
+matter over to the physicists.. .. We see under our eyes now motion transformed
+into heat by friction, now heat changed inversely into motion. This is the contrary
+of Carnot's principle' [P6].
+2. The Overdetermination of N. In 1905, Einstein was blissfully unaware of
+the detailed history of Brownian motion. At that time, he knew neither Poincare's
+work on relativity nor the latter's dicta 'On the Motion Required by the Molec-
+ular Kinetic Theory of Heat of Particles Suspended in Fluids at Rest,' as Einstein
+entitled his first paper on Brownian motion [E2]. In referring to fluids at rest, he
+clearly had in mind the fluids in motion dealt with in his previous paper, finished
+eleven days earlier. The absence of the term Brownian motion in this title is
+explained in the second sentence of the paper: 'It is possible that the motions dis-
+cussed here are identical with the so-called Brownian molecular motion; the ref-
+erences accessible to me on the latter subject are so imprecise, however, that I
+could not form an opinion about this.'
+This paper, received by the Annalen der Physik on May 11, 1905, marks the
+third occasion in less than two months on which Einstein makes a fundamental
+discovery bearing on the determination of Avogadro's number. The three methods
+are quite distinct. The first one (submitted to the Annalen on March 18, 1905),
+in which use is made of the long-wavelength limit of the blackbody radiation law,
+THE REALITY OF MOLECULES 95
+gave him N = 6.17 X 1023 (!).* The second one makes use of the incompressible
+flow of solutions and gave him TV = 2.1 X 1023, as we saw in the previous section.
+The third one, on Brownian motion, gave him a formula but not yet a number.
+'May some researcher soon succeed in deciding the question raised here, which is
+important for the theory of heat,' he wrote at the end of this paper.** Even though
+he did not know the literature, he was right in surmising that the appropriate data
+were not yet available. It would soon be otherwise. Incidentally, neither in his
+thesis nor in his Brownian motion paper does Einstein mention that in 1905 he
+had made not just one but several proposals for determining N. If sparseness of
+references to the work of others is typical of his writings, so it is with references
+to his own work. He never was a man to waste much time on footnotes.
+Einstein was still not done with the invention of new ways for obtaining Avo-
+gadro's number. Later in the year, in December, he finished his second paper on
+Brownian motion, which contains two further methods for finding N [E8]. In
+1907 he noted that measurements of voltage fluctuations give another means for
+determining TV [E9]. In 1910 he gave yet another method, critical opalescence
+[E10]. He must have realized that the ubiquity of TV would once and for all settle
+the problem of molecular reality, as indeed it did.
+It was indicated earlier that, as the nineteenth century drew to an end, the
+acceptance of the reality of atoms and molecules was widespread, though there
+were still some pockets of resistance. Nevertheless, it is correct to say that the
+debate on molecular reality came to a close only as a result of developments in the
+first decade of the twentieth century. This was not just because of Einstein's first
+paper on Brownian motion or of any single good determination of N. Rather, the
+issue was settled once and for all because of the extraordinary agreement in the
+values of N obtained by many different methods. Matters were clinched not by a
+determination but by an overdetermination of TV. From subjects as diverse as
+radioactivity, Brownian motion, and the blue in the sky, it was possible to state,
+by 1909, that a dozen independent ways of measuring TV yielded results all of
+which lay between 6 and 9 X 1023. In concluding his 1909 memoir on the subject,
+Perrin [P7, P8] had every reason to state, 'I think it is impossible that a mind free
+from all preconception can reflect upon the extreme diversity of the phenomena
+which thus converge to the same result without experiencing a strong impression,
+and I think that it will henceforth be difficult to defend by rational arguments a
+hostile attitude to molecular hypotheses' [P8].f
+3. Einstein's First Paper on Brownian Motion. Enlarging on an earlier com-
+ment, I shall explain next in what sense this first paper on Brownian motion is
+* See Section 19b.
+**I heed Einstein's remark [E2] that his molecular-kinetic derivation of van 't Hoff's law, also
+contained in this article, is not essential to an understanding of the rest of his arguments.
+fFor the status of our knowledge about N in 1980, see [D3].
+where n(x, t) is the number of particles per unit volume around x at time t.
+The essence of Einstein's attack on Brownian motion is his observation that, as
+far as these three facts are concerned, what is good for solutions is good for
+suspensions:
+1. Van 't Hoff's laws should hold not only for dilute solutions but also for dilute
+suspensions: 'One does not see why for a number of suspended bodies the same
+osmotic pressure should not hold as for the same number of dissolved mole-
+cules' [E2].
+2. Without making an explicit point of it, Einstein assumes that Stokes's law
+holds. Recall that this implies that the liquid is treated as a continuous medium.
+(It also implies that the suspended particles all have the same radius.)
+3. Brownian motion is described as a diffusion process subject to Eq. 5.15. (For
+simplicity, Einstein treats the motion as a one-dimensional problem.)
+Now then, consider the fundamental solution of Eq. 5.15 corresponding to a
+situation in which at time t = 0 all particles are at the origin:96 STATISTICAL PHYSICS
+a scholium to the doctoral thesis. To this end, I return to the relation between the
+diffusion coefficient D and the viscosity 17 discussed previously
+where a is the radius of the hard-sphere molecules dissolved in the liquid. Recall
+the following main points that went into the derivation of Eq. 5.12:
+1. The applicability of van 't Kofi's laws (Eqs. 5.2 and 5.3)
+2. The validity of Stokes's law (Eq. 5.10)
+3. The mechanism of diffusion in the x direction, described by the equation (not
+explicitly used in the foregoing)
+where n = \n(x)dx. Then, the mean square displacement (x2) from the origin
+is given by
+THE REALITY OF MOLECULES 97
+In this, Einstein's fundamental equation for Brownian motion, (x2), t, a, 77 are
+measurable; therefore TV can be determined. As mentioned earlier, one never
+ceases to experience surprise at this result, which seems, as it were, to come out
+of nowhere: prepare a set of small spheres which are nevertheless huge compared
+with simple molecules, use a stopwatch and a microscope, and find Avogadro's
+number.
+As Einstein emphasized, it is not necessary to assume that all particles are at
+the origin at t = 0. That is to say, since the particles are assumed to move inde-
+pendently, one can consider n(x,t)dx to mean the number of particles displaced
+by an amount between x and x + dx in t seconds. He gave an example: for water
+at 17°C, a « 0.001 mm, N « 6 X 1023, one has (x2)1/2 « 6 urn if t = 1
+minute.
+Equation 5.18 is the first instance of a fluctuation-dissipation relation: a mean
+square fluctuation is connected with a dissipative mechanism phenomenologically
+described by the viscosity parameter.
+Einstein's paper immediately drew widespread attention. In September 1906
+he received a letter from Wilhelm Conrad Roentgen asking him for a reprint of
+the papers on relativity. In the same letter Roentgen also expressed great interest
+in Einstein's work on Brownian motion, asked him for his opinion on Gouy's
+ideas and added, 'It is probably difficult to establish harmony between [Brownian
+motion] and the second law of thermodynamics' [R6]. It is hard to imagine that
+Einstein would not have replied to such a distinguished colleague. Unfortunately,
+Einstein's answer (if there was one) has not been located.
+4. Diffusion as a Markovian Process. All the main physics of the first Einstein
+paper on Brownian motion is contained in Eq. 5.18. However, this same paper
+contains another novelty, again simple, again profound, having to do with the
+interpretation of Eq. 5.15. This equation dates from the nineteenth century and
+was derived and applied in the context of continuum theories. In 1905 Einstein,
+motivated by his reflections on Brownian motion, gave a new derivation of the
+diffusion equation.
+As was already done in the derivation of Eq. 5.12, assume (Einstein said) that
+the suspended particles move independently of each other. Assume further that we
+can define a time interval T that is small compared with the time interval of obser-
+vation (t in Eq. 5.18) while at the same time T is so large that the motion of a
+particle during one interval r does not depend on its history prior to the com-
+mencement of that interval. Let $(A)<iA be the probability that a particle is dis-
+placed, in an interval r, by an amount between A and A + c/A. The probability
+0 is normalized and symmetric:
+STATISTICAL PHYSICS
+Since the particles move independently, we can relate n(x,t + r)dx to the distri-
+bution at time t by
+Develop the Ihs to first order in T, the rhs to second order in A, and use Eq. 5.19.
+Then we recover Eq. 5.15, where D is now defined as the second moment of the
+probability distribution 0:
+All information on the dynamics of collision is contained in the explicit form of
+$(A). The great virtue of Eq. 5.18 is therefore that it is independent of all details
+of the collision phenomena except for the very general conditions that went into
+the derivation of Eq. 5.21.
+Today we would say that, in 1905, Einstein treated diffusion as a Markovian
+process (so named after Andrei Andreievich Markov, who introduced the so-called
+Markov chains in 1906), thereby establishing a link between the random walk of
+a single particle and the diffusion of many particles.
+5. The Later Papers. I give next a brief review of the main points contained
+in Einstein's later papers on Brownian motion.
+1) December 1905 [E8]. Having been informed by colleagues that the consid-
+erations of the preceding paper indeed fit, as to order of magnitude, with the
+experimental knowledge on Brownian motion, Einstein entitles his new paper 'On
+the Theory of Brownian Motion.' He gives two new applications of his earlier
+ideas: the vertical distribution of a suspension under the influence of gravitation
+and the Brownian rotational motion for the case of a rotating solid sphere. Cor-
+respondingly, he finds two new equations from which N can be determined. He
+also notes that Eq. 5.18 cannot hold for small values of t since that equation
+implies that the mean velocity, (x2)^2/t, becomes infinite as t —* 0. 'The reason
+for this is that we ... implicitly assumed that, during the time t, the phenomenon
+is independent of [what happened] in earlier times. This assumption applies less
+well as t gets smaller.'*
+2) December 1906 [E9]. A brief discussion of 'a phenomenon in the domain
+of electricity which is akin to Brownian motion': the (temperature-dependent)
+mean square fluctuations in the potential between condensor plates.
+3) January 1907 [Ell]. Einstein raises and answers the following question.
+Since the suspension is assumed to obey van 't HofFs law, it follows from the
+equipartition theorem that (v2), the mean square of the instantaneous particle
+velocity, equals 3RT/mN (m is the mass of the suspended particle). Thus, (v2)
+*The general solution for all ( was given independently by Ornstein [O2] and Fiirth [F3].98
+THE REALITY OF MOLECULES 99
+is larger by many orders of magnitude than {x2) /t2, the squared average velocity
+computed from Eq. 5.18 for reasonable values of t. Is this paradoxical? It is not,
+since one can estimate that the instantaneous velocity changes magnitude and
+direction in periods of about 10~7 s; (v2) is therefore unobservable in Brownian
+motion experiments. Here is also the answer to the Naegeli-Ramsey objection.
+4) 1908. At the suggestion of the physical chemist Richard Lorenz, Einstein
+writes an elementary expose of the theory of Brownian motion [E12].
+This completes the account of Einstein's contributions to Brownian motion in
+the classical domain. Applications to the quantum theory will be discussed in Part
+VI. I conclude with a few scattered comments on the subsequent history of clas-
+sical Brownian motion.
+Einstein's relation (Eq. 5.18) is now commonly derived with the help of the
+Langevin equation (derived by Paul Langevin in 1908 [L3]). The first review
+article on Brownian motion appeared in 1909 [Jl]. In later years, the subject
+branched out in many directions, including the behavior for small values of t, the
+non-Stokesian case, and the presence of external forces [W4]. Brownian motion
+was still a subject of active research in the 1970s [B9].
+The rapid experimental confirmation of Einstein's theory by a new generation
+of experiments, in particular the key role of Jean Perrin and his school, has been
+described by Nye [Nl]. Perrin's own account in his book Les Atomes [P9], first
+published in 1913 (and also available in English translation [P10]), remains as
+refreshing as ever.* This work contains not only an account of the determination
+of TV from Brownian motion but also a summary of all methods for determining
+N which had been put to the test at that time. It is remarkable that the method
+proposed by Einstein in his thesis is missing. I mentioned earlier that a commu-
+nication by a pupil of Perrin had led Einstein to discover a mistake in his thesis.
+Perrin must have known about this, since Einstein wrote to him shortly afterward
+to thank him for this information and to inform him of the correct result [El3].
+Einstein's very decent value for ./V (Eq. 5.14) was published in 1911. Its absence
+in Perrin's book indicates that Einstein's doctoral thesis was not widely appreci-
+ated in the early years. This is also evident from a brief note published by Einstein
+in 1920 [El4] for the sole purpose of drawing attention to his erratum published
+in 1911 [E7] 'which till now seems to have escaped the attention of all who work
+in this field.'
+'I had believed it to be impossible to investigate Brownian motion so precisely,'
+Einstein wrote to Perrin from Zurich late in 1909 [El5]. This letter also shows
+that, by that time, Einstein's preoccupation had moved to the quantum theory. He
+asked Perrin if any significance should be attached to the 15 per cent difference
+between the values of ./V obtained from Planck's blackbody radiation law and from
+*Perrin's collected papers are also strongly recommended [Pll].
+100 STATISTICAL PHYSICS
+Brownian motion. This difference seemed to him to be 'disquieting, since one must
+say that the theoretical foundation of Planck's formula is fictitious.'
+The foregoing account of Einstein's work on Brownian motion emphasizes its
+role in securing general acceptance of the reality of molecules. That, however, was
+not the only thing nor, in Einstein's own opinion, the most important thing that
+his theory of Brownian motion did for the development of physics. In 1915, he
+wrote about this work:
+[It] is of great importance since it permits an exact computation of TV. ... The
+great significance as a matter of principle is, however, . . . that one sees directly
+under the microscope part of the heat energy in the form of mechanical energy.
+[E6]
+and in 1917:
+Because of the understanding of the essence of Brownian motion, suddenly all
+doubts vanished about the correctness of Boltzmann's interpretation of the ther-
+modynamic laws. [El6]
+5e. Einstein and Smoluchowski; Critical Opalescence
+If Marian Ritter von Smolan-Smoluchowski had been only an outstanding theo-
+retical physicist and not a fine experimentalist as well, he would probably have
+been the first to publish a quantitative theory of Brownian motion.
+Smoluchowski, born to a Polish family, spent his early years in Vienna, where
+he also received his university education. After finishing his studies in 1894, he
+worked in several laboratories abroad, then returned to Vienna, where he became
+Privatdozent. In 1900 he became professor of theoretical physics in Lemberg (now
+Lvov), where he stayed until 1913. In that period he did his major work. In 1913
+he took over the directorship of the Institute for Experimental Physics at the
+Jagiellonian University in Cracow. There he died in 1917, the victim of a dys-
+entery epidemic.*
+It is quite remarkable how often Smoluchowski and Einstein simultaneously
+and independently pursued similar if not identical problems. In 1904 Einstein
+worked on energy fluctuations [El7], Smoluchowski on particle number fluctua-
+tions [S5] of an ideal gas. Einstein completed his first paper on Brownian motion
+in May 1905; Smoluchowski his in July 1906 [S3]. Later on, we shall encounter
+a further such example. Let us first stay with Brownian motion, however.
+Unlike Einstein, Smoluchowski was fully conversant with the nineteenth cen-
+*For a detailed account of the life and work of Smoluchowski, the reader is referred to the biography
+by Teske [T4], in which the Einstein-Smoluchowski correspondence referred to hereafter is repro-
+duced. My understanding of Smoluchowski's contributions was much helped by my reading of an
+unpublished manuscript by Mark Kac.
+THE REALITY OF MOLECULES 101
+tury studies on Brownian motion, not least because he had remained in touch with
+Felix Exner, a comrade from student days who had done very good experimental
+work on the subject. Indeed, Smoluchowski's paper of 1906 contains a critique of
+all explanations of the phenomenon prior to Einstein's. Like Einstein (but prior
+to him) Smoluchowski also refuted the Naegeli-Ramsey objection, pointing out
+that what we see in Brownian motion is actually the average motion resulting
+from about 1020 collisions per second with the molecules of the ambient liquid. He
+also countered another objection: 'Naegeli believes that [the effect of the collisions]
+should in the average cancel each other. . .. This is the same conceptual error as
+when a gambler would believe that he could never lose a larger amount than a
+single stake.' Smoluchowski followed up this illustrative comment by computing
+the probability of some fixed gain (including sign!) after a prescribed number of
+tosses of a coin.
+Smoluchowski began his 1906 paper [S3] by referring to Einstein's two articles
+of 1905: 'The findings [of those papers] agree completely with some results which
+I had . . . obtained several years ago and which I consider since then as an impor-
+tant argument for the kinetic nature of this phenomenon.' Then why had he not
+published earlier? 'Although it has not been possible for me till now to undertake
+an experimental test of the consequences of this point of view, something I origi-
+nally intended to do, I have decided to publish these considerations....' In support
+of this decision, he stated that his kinetic method seemed more direct, simpler, and
+therefore more convincing than Einstein's, in which collision kinetics plays no
+explicit role. Whether or not one agrees with this judgment of relative merits (I
+do not) depends to some extent on familiarity with one or the other method. In
+any case, Smoluchowski's paper is an outstanding contribution to physics, even
+though the priority of Einstein is beyond question (as Smoluchowski himself
+pointed out [S6]).
+Smoluchowski treats the suspended particles as hard spheres with a constant
+instantaneous velocity given by the equipartition value. He starts out with the
+Knudsen case (the mean free path is large compared with the radius a), uses the
+kinematics of hard-sphere collisions, calculates the average change in direction per
+collision between the suspended particle and a molecule of the liquid, and there-
+from finds an expression for (x2) (different from Eq. 5.18 of course). He must
+have treated the Knudsen case first since it is kinetically much easier than the
+Stokesian case, for which the free path is small compared with a. For the latter
+case, he arrived at Eq. 5.18 for (x2) but with an extra factor 27/64 on the rhs.
+This incorrect factor was dropped by Smoluchowski in his later papers.
+Six letters between Einstein and Smoluchowski have survived. All show cor-
+diality and great mutual respect. The correspondence begins with a note in 1908
+by Einstein informing Smoluchowski that he has sent Smoluchowski some reprints
+and requesting some reprints of Smoluchowski's work [E18]. The next commu-
+nication, in November 1911, is again by Einstein and deals with a new subject to
+which both men had been drawn: critical opalescence.
+It had been known since the 1870s [A2] that the scattering of light passing
+102 STATISTICAL PHYSICS
+through a gas increases strongly in a neighborhood O(1°C) of the critical point.
+In 1908 Smoluchowski became the first to ascribe this phenomenon to large den-
+sity fluctuations [S7]. He derived the following equation for the mean square par-
+ticle number fluctuations S5:
+valid up to terms O((d}p/dV^)T). For an ideal gas, W ~ I/TV, but near the critical
+point, where (dp/dV)T = (8ip/dV2)T = 0, the rhs of Eq. 5.22 blows up. 'These
+agglomerations and rarefactions must give rise to corresponding local density fluc-
+tuations of the index of refraction from its mean value and thus the coarse-
+grainedness of the substance must reveal itself by Tyndall's phenomenon, with a
+very pronounced maximal value at the critical point. In this way, the critical
+opalescence explains itself very simply as the result of a phenomenon the existence
+of which cannot be denied by anybody accepting the principles of kinetic theory'
+[S8].
+Thus, Smoluchowski had seen not only the true cause of critical opalescence
+but also the connection of this phenomenon with the blueness of the midday sky
+and the redness at sunset. Already in 1869 John Tyndall had explained the blue
+color of the sky in terms of the scattering of light by dust particles or droplets, the
+'Tyndall phenomenon' [T5]. Rayleigh, who worked on this problem off and on
+for nearly half a century, had concluded that the inhomogeneities needed to
+explain this phenomenon were the air molecules themselves. Smoluchowski
+believed that the link between critical opalescence and Rayleigh scattering was a
+qualitative one. He did not produce a detailed scattering calculation: 'A precise
+calculation .. . would necessitate far-reaching modifications of Rayleigh's calcu-
+lations' [S7].
+Along comes Einstein in 1910 and computes the scattering in a weakly inho-
+mogeneous nonabsorptive medium and finds [E10] (for monochromatic polarized
+light)
+where r is the ratio of the scattered to the primary intensity, n the index of refrac-
+tion, v the specific volume, A the incident wavelength, $ the irradiated gas volume,
+A the distance of observation, and t? the scattering angle. For an ideal gas (n «
+1),
+'[Equation 5.24] can also be obtained by summing the radiations off the individual
+molecules as long as these are taken to be randomly distributed'. Thus Einstein
+THE REALITY OF MOLECULES 1O3
+found that the link between critical opalescence and Rayleigh scattering is quan-
+titative and, once again, obtained (for the last time) new methods for measuring
+Avogadro's number. As we read in Perrin's Les Atomes, these measurements were
+made shortly afterward.
+Smoluchowski was delighted. In a paper published in 1911, he spoke of Ein-
+stein's contribution as 'a significant advance' [S9]. However, he had not quite
+understood Einstein's argument. In an appendix to his 1911 paper Smoluchowski
+mentioned that the blue of the sky is due to two factors: scattering off molecules
+and scattering that results from density fluctuations. Einstein objected by letter
+[El9]. There is one and only one cause for scattering: 'Reileigh [sic] treats a spe-
+cial case of our problem, and the agreement between his final formula and my
+own is no accident.' Shortly thereafter, Smoluchowski replied; 'You are completely
+right' [S10J.
+Smoluchowski's last contribution to this problem was experimental: he wanted
+to reproduce the blue of the sky in a terrestrial experiment. Preliminary results
+looked promising [Sll], and he announced that more detailed experiments were
+in progress. He did not live to complete them.*
+After Smoluchowski's death, Sommerfeld [S12] and Einstein [E16] wrote obit-
+uaries in praise of a good man and a great scientist. Einstein called him an inge-
+nious man of research and a noble and subtle human being.
+Finally:
+Einstein's paper on critical opalescence and the blue of the sky was written in
+October 1910. It was submitted from Zurich, where he was an associate professor
+at the university. It was his last major paper on classical statistical physics. In
+March 1911 he moved to Prague—to become a full professor for the first time—
+and began his main attack on general relativity.
+Ostwald conceded in 1908. Referring to the experiments on Brownian motion
+and those on the electron, he stated that their results 'entitle even the cautious
+scientist to speak of an experimental proof for the atomistic constitution of space-
+filled matter' [O3].
+Mach died in 1916, unconvinced.**
+Perrin received the Nobel prize in 1926 for his work on Brownian motion. Les
+Atomes, one of the finest books on physics written in the twentieth century, con-
+tains a postmortem, in the classical French style, to the struggles with the reality
+of molecules:
+*For references to later experimental work on critical opalescence, see, e.g., [C7]. The problems of
+the modern theory of critical opalescence are reviewed in [M9].
+"'Stefan Meyer recalled Mach's reaction upon being shown, in Vienna, the scintillations produced
+by alpha particles: 'Now I believe in atoms' [M10]. Mach's text on optics, written after he left
+Vienna, shows that this belief did not last, however [Mil].
+104 STATISTICAL PHYSICS
+La theorie atomique a triomphe. Nombreux encore naguere, ses adversaires
+enfin conquis renoncent 1'un apres 1'autre aux defiances qui longtemps furent
+legitimes et sans doute utiles.**
+References
+Al. A. Avogadro, /. de Phys. 73, 58 (1811); Alembic Reprints, No. 4. Livingstone,
+Edinburgh, 1961.
+A2. M. Avenarius, Ann. Phys. Chem. 151, 306 (1874).
+Bl. Quoted in The Atomic Debates (W. H. Brock, Ed.), p. 8. Leicester University
+Press, Leicester, 1967.
+B2. Quoted by W. H. Brock and M. Knight, Isis 56, 5 (1965).
+B3. D. Bernoulli, Hydrodynamica. Dulsecker, Strassbourg, 1738. German translation
+by K. Flierl, published by Forschungsinstitut fur die Gesch. d. Naturw. und Tech-
+nik, Series C, No. la, 1965.
+B4. S. G. Brush, The Kind of Motion We Call Heat, Vol. 1, Chap. 1. North Holland,
+Amsterdam, 1976.
+B5. R. Brown, Phil. Mag. 4, 161 (1828); see also, Phil. Mag. 6, 161 (1829).
+B6. G. K. Batchelor and J. T. Green, /. Fluid Mech. 56, 401 (1972).
+B7. , /. Fluid Mech. 83, 97 (1977).
+B8. S. G. Brush, [B4], Vol. 2, Chap. 15.
+B9. G. K. Batchelor, /. Fluid Mech. 74, 1 (1976).
+Cl. S. Cannizzaro, Alembic Reprints, No. 18, Livingstone, Edinburgh, 1961.
+C2. R. Clausius, AdP 10, 353 (1857).
+C3. M. Curie, Rev. Scientifique 14, 65 (1900).
+C4. E. Cohen, Naturw. 3, 118 (1915).
+C5. T. Cawkell and E. Garfield, in Einstein, the First Hundred Years (M. Goldsmith,
+A. McKay, and J. Woudhuysen, Eds.), p. 31. Pergamon Press, London, 1980.
+C6. G. Cantoni, N. Cimento 27, 156 (1867).
+C7. B. Chu and J. S. Lin, /. Chem. Phys. 53, 4454 (1970).
+Dl. J. Dalton, New System of Chemical Philosophy. Bickerstaff, London, Vol. 1, Part
+1: 1808; Vol. 1, Part 2: 1810; Vol. 2: 1827.
+D2. , [Dl], Vol. 1, Part 2, Appendix.
+D3. R. D. Deslattes, Ann. Rev. Phys. Chem. 31, 435 (1980).
+D4. R. K. Dewan and V. A. Bloomfield, /. Dairy Sci. 56, 66 (1973).
+D5. J. Delsaulx, quoted in T. Svedberg, Die Existenz der Molekule, p. 91. Akadem-
+isches Verlag, Leipzig, 1912.
+El. P. Ehrenfest, Collected Scientific Papers (M. J. Klein, Ed.), p. 364. North Hol-
+land, Amsterdam, 1959.
+E2. A. Einstein, AdP 17, 549 (1905).
+E3. , Eine neue Bestimmung der Molekiildimensionen. Wyss, Bern, 1905.
+E4. , letter to the Dekan der II. Sektion der philosophischen Fakultat der Uni-
+versitat Zurich, July 20, 1905.
+**The atomic theory has triumphed. Until recently still numerous, its adversaries, at last overcome,
+now renounce one after another their misgivings, which were, for so long, both legitimate and
+undeniably useful.
+THE REALITY OF MOLECULES 105
+E5. —, AdP 19, 289 (1906).
+E6. , in Kultur der Gegenwart (E. Lecher, Ed.). Teubner, Leipzig, 1915 (2nd
+edn., 1925).
+E7. -—, AdP34,59\ (1911).
+E8. , AdP 19, 371 (1906).
+E9. , AdP 22, 569 (1907).
+E10. , AdP 33, 1275 (1910).
+Ell. ——, Z. Elektrochem. 13, 41 (1907).
+E12. —, Z. Elektrochem. 14, 235 (1908).
+E13. , letter to J. Perrin, January 12, 1911.
+E14. , Kolloidzeitschr 27, 137 (1920).
+E15. , letter to J. Perrin, November 11, 1909.
+£16. , Naturw. 5, 737 (1917).
+E17. —, AdP 14, 354 (1904).
+E18. , letter to M. v. Smoluchowski, June 11, 1908.
+E19. , letter to M. v. Smoluchowski, November 27, 1911.
+Fl. R. Fiirth, Ed., Untersuchungen iiber die Theone der Brownschen Bewegung.
+Akademische Verlags Gesellschaft, Leipzig, 1922.
+F2. , Investigations on the Brownian Movement (A. D. Cowper, Tran.).
+Methuen, London, 1926.
+F3. —, Z.'Phys. 2, 244 (1922).
+Gl. J. L. Gay-Lussac, Mem. Soc. d'Arceuil 2, 207 (1809); Alembic Reprint, No. 4,
+Livingstone, Edinburgh, 1961.
+G2. L. G. Gouy, /. de Phys. 7, 561 (1888).
+HI. J. H. van 't Hoff, Arch. Need, des Sci. Exactes et Nat. 20, 239 (1886); Alembic
+Reprint, No. 19, Livingstone, Edinburgh, 1961.
+Jl. S. Jahn, Jahrb. Rad. Elektr. 6, 229 (1909).
+Kl. H. Kogan, The Great Encyclopedia Britannica. University of Chicago Press, Chi-
+cago, 1958.
+LI. J. Loschmidt, Wiener Ber. 52, 395 (1866).
+L2. C. Lanczos, The Einstein Decade, p. 140. Academic Press, New York, 1974.
+L3. P. Langevin, C. R. Ac. Set. Paris 146, 530 (1908).
+Ml. Cf. C. de Milt, Chymia 1, 153 (1948).
+M2. E. von Meyer, /. Prakt. Chem. 83, 182 (1911).
+M3. D. Mendeleev, The principles of chemistry, Vol. 1, p. 315. Translated from the
+5th Russian edn. by G. Kamensky. Greenaway, London, 1891.
+M4. J. C. Maxwell, Collected Works, Vol. 2, pp. 376-7. Dover, New York.
+M5. E. Mach, Popular Scientific Lectures, p. 207. Open Court, Chicago, 1910.
+M6. J. C. Maxwell, [M4], Vol. 2, p. 361.
+M7. ——, Theory of Heat, Chap. 22. Longmans, Green and Co., London, 1872.
+Reprinted by Greenwood Press, Westport, Conn.
+M8. E. W. Miiller, Phys. Rev. 102, 624 (1956); /. Appl. Phys. 27, 474 (1956); 28, 1
+(1957); Sci. Amer., June 1957, p. 113.
+M9. A. Munster, Handbuch der Physik (S. Fliigge, Ed.), Vol. 13, p. 71. Springer,
+Berlin, 1962.
+M10. S. Meyer, Wiener Ber. 159, 1 (1950).
+Mil. E. Mach, The Principles o/Physical Optics, preface. Methuen, London, 1926.
+Nl. M. J. Nye, Molecular Reality, Elsevier, New York, 1972.
+1O6 STATISTICAL PHYSICS
+N2. , [Nl], p. 4.
+N3. Nobel Lectures in Chemistry, p. 3. Elsevier, New York, 1966.
+N4. M. J. Nye, [Nl], pp. 9-13 and 21-9.
+01. W. Ostwald, Verh. Ges. Deutsch. Naturf. Arzte 1, 155 (1895); French translation:
+Rev. Gen. Sci. 6, 956 (1895).
+02. L. S. Ornstein, Versl. K. Ak. Amsterdam 26, 1005 (1917); Proc. K. Ak. Amster-
+dam 21, 96 (1919).
+03. W. Ostwald, Grundriss der Physikalischen Chemie, introduction. Grossbothen,
+1908.
+PI. W. Prout, Ann. Phil. 6, 321 (1815).
+P2. , Ann. Phil. 7, 111 (1816); Alembic Reprints, No. 20. Gurney and Jackson,
+London, 1932.
+P3. M. Planck, AdP 19, 358 (1883).
+P4. W. Pfeflfer, Osmotische Untersuchungen. Engelmann, Leipzig, 1877.
+P5. H. Poincare in Rapports du Congres International de Physique (C. Guillaume
+and L. Poincare, Eds.), Vol. 1, p. 27. Gauthier-Villars, Paris, 1900.
+P6. H. Poincare in The Foundations of Science, p. 305. Scientific Press, New York,
+1913.
+P7. J. Perrin, Ann. Chim. Phys. 18, 1 (1909).
+P8. —, Brownian Movement and Molecular Reality (F. Soddy, Tran.). Taylor and
+Francis, London, 1910.
+P9. ——, Les Atomes, 4th edn. Librairie Alcan, Paris, 1914.
+P10. , Atoms (D. L. Hammick, Tran.). Van Nostrand, New York, 1916.
+Pll. —, Oeuvres Scientifiques, CNRS, Paris, 1950.
+Rl. Lord Rayleigh, Phil. Mag. 30, 456 (1890).
+R2. A. W. Rucker, /. Chem. Soc. (London) 53, 222 (1888).
+R3. H. R. Robinson, Proc. Phys. Soc. (London) 55, 161 (1943).
+R4. M. Reiner, Deformation, Strain and Flow. Lewis, London, 1949.
+R5. R. Rutgers, Rheol. Acta 2, 202, 305 (1965).
+R6. W. C. Roentgen, letter to A. Einstein, September 18, 1906.
+51. A. Sommerfeld, Wiener Chem. Zeitung 47, 25 (1944).
+52. Se, p. 112.
+S2a. W. Sutherland, Phil. Mag. 9, 781 (1905).
+53. M. von Smoluchowski, AdP 21, 756 (1906).
+54. L. Szilard, Z. Phys. 53, 840 (1929). Reprinted in The Collected Works of Leo
+Szilard (B. T. Feld and G. W. Szilard, Eds.), p. 103. MIT Press, Cambridge,
+Mass., 1972.
+55. M. von Smoluchowski, Boltzmann Festschrift, p. 627. Earth, Leipzig, 1904.
+56. , letter to J. Perrin, undated; quoted in [T4], p. 161.
+57. , AdP 25, 205(1908).
+58. , Phil. Mag. 23, 165 (1912).
+59. , Bull. Ac. Sci. Cracovie, Classe Sci. Math. Nat., 1911, p. 493.
+510. , letter to A. Einstein, December 12, 1911.
+511. , Bull. Ac. Sci. Cracovie, Classe Sci. Math. Nat. 1916, p. 218.
+512. A. Sommerfeld, Phys. Zeitschr. 18, 534 (1917).
+Tl. W. Thomson, Nature 1, 551 (1870).
+T2. C. Truesdell, Arch. Hist. Ex. Sci. 15, 1 (1976).
+THE REALITY OF MOLECULES 107
+T3. J. J. Thomson, Phil. Mag. 48, 565 (1899).
+T4. A. Teske, Marian Smoluchowski, Leben und Werk. Polish Academy of Sciences,
+Warsaw, 1977.
+T5. J. Tyndall, Phil. Mag. 37, 384 (1869); 38, 156 (1869).
+Wl. A. W. Williamson, /. Chem. Soc. (London) 22, 328 (1869).
+W2. Quoted by L. P. Williams, Contemp. Phys. 2, 93 (1960).
+W3. J. D. van der Waals, Over de Continuiteit van den Gas-en Vloeistoftoestand. Syth-
+off, Leiden, 1873.
+W4. N. Wax (Ed.), Selected Papers on Noise and Stochastic Processes. Dover, New
+York, 1954.
+Yl. T. Young, Miscellaneous Works. Murray, London, 1855. Reprinted by Johnson
+Reprint, New York, 1972, Vol. 9, p. 461.
+Y2. Y. I. Yalamov, L. Y. Vasiljeva, and E. R. Schukin, /. Coll. Interface Sci. 62, 503
+(1977).
+This page intentionally left blank Ill
+RELATIVITY, THE SPECIAL THEORY
+This page intentionally left blank 

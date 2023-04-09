@@ -1,0 +1,286 @@
+22
+Interlude: The BKS Proposal
+Sie haben sich heiss und innig geliebt.
+Helen Dukas
+In January 1924, Niels Bohr, Hendrik Anton Kramers, and John Clarke Slater
+submitted to the Philosophical Magazine an article [Bl] that contained drastic
+theoretical proposals concerning the interaction of light and matter. It was written
+after Compton's discovery, yet it rejected the photon. It was also written after
+Einstein and Bohr had met. This chapter on the BKS proposal serves a twofold
+purpose. It is a postscript to the story of the photon and a prelude to the Bohr-
+Einstein dialogue which will occupy us more fully later on.
+I have already mentioned that Einstein was immediately and strongly impressed
+by Bohr's work of 1913. The two men did not yet know each other at that time.
+A number of years were to pass before their first encounter; meanwhile, they fol-
+lowed each other's published work. Also, Ehrenfest kept Einstein informed of the
+progress of Bohr's thinking. 'Ehrenfest tells me many details from Niels Bohr's
+Gedankenkiiche [thought kitchen]; his must be a first-rate mind, extremely critical
+and far-seeing, which never loses track of the grand design' [El]. Einstein
+remained forever deeply respectful of Bohr's pioneering work. When he was
+nearly seventy, he wrote 'That this insecure and contradictory foundation [of
+physics in the years from 1910 to 1920] was sufficient to enable a man of Bohr's
+unique instinct and tact to discover the major laws of the spectral lines and of the
+electron shells of the atoms together with their significance for chemistry appeared
+to me like a miracle—and appears to me as a miracle even today. This is the
+highest form of musicality in the sphere of thought' [E2].
+Einstein and Bohr finally met in the spring of 1920, in Berlin. At that time,
+they both had already been widely recognized as men of destiny who would leave
+their indelible marks on the physics of the twentieth century. The impact of their
+encounter was intense and went well beyond a meeting of minds only. Shortly
+after his visit, Einstein wrote to Bohr, 'Not often in life has a human being caused
+me such joy by his mere presence as you did' [E3]. Two days later, he wrote to
+Ehrenfest, 'Bohr was here, and I am as much in love with him as you are. He is
+416
+INTERLUDE: THE BKS PROPOSAL 417
+like an extremely sensitive child who moves around in this world in a sort of
+trance' [E4]. The next month, Bohr wrote to Einstein, 'To meet you and to talk
+with you was one of the greatest experiences I ever had' [B2]. Some years later,
+Einstein began a letter to Bohr, 'Lieber oder viehmehr geliebter Bohr,' Dear or
+rather beloved Bohr [E5]. Once when I talked with Helen Dukas about the strong
+tie between these two men, she made the comment that is at the head of this
+chapter: 'They loved each other warmly and dearly.'
+Those also were the years of scientific harmony between the two men. In 1922
+Einstein wrote to Ehrenfest, 'At present, I am reading a major lecture by Bohr*
+which makes his world of thought wonderfully clear. He is truly a man of genius.
+It is fortunate to have someone like that. I have full confidence in his way of
+thinking' [E6]. Einstein was particularly impressed at that time with Bohr's enun-
+ciation and handling of the correspondence principle [E6], a concept on which he
+and Bohr were able to see eye to eye, then and later.
+All who have known Bohr will be struck by the perceptive characterization
+Einstein gave of him much later. 'He utters his opinions like one perpetually grop-
+ing and never like one who believes to be in the possession of definite truth' [E7].
+Bohr's style of writing makes clear for all to see how he groped and struggled.
+'Never express yourself more clearly than you think,' he used to admonish himself
+and others. Bohr's articles are sometimes dense. Having myself assisted him on a
+number of occasions when he was attempting to put his thoughts on paper, I know
+to what enormous lengths he went to find the most appropriate turn of phrase. I
+have no such first-hand information about the way Einstein wrote. But, again for
+all to see, there are the papers, translucent. The early Einstein papers are brief,
+their content is simple, their language sparse. They exude finality even when they
+deal with a subject in flux. For example, no statement made in the 1905 paper on
+light-quanta needs to be revised in the light of later developments.
+The first meeting of Einstein and Bohr took place in 1920, some years before
+they found themselves at scientific odds on profound questions of principle in
+physics. They did not meet very often in later times. They did correspond but not
+voluminously. I was together a few times with both of them some thirty years after
+their first encounter, when their respective views on the foundations of quantum
+mechanics had long since become irreconcilable. Neither the years nor later events
+had ever diminished the mutual esteem and affection in which they held one
+another.
+Let us now turn to the BKS proposal.
+As already stressed in Section 19f, it was the position of most theoretical phys-
+icists during the first decades of the quantum era that the conventional continuous
+description of the free radiation field should be protected at all cost and that the
+quantum puzzles concerning radiation should eventually be resolved by a revision
+'This was presumably the text of Bohr's contribution to the third Solvay conference (April 1921).
+Because of ill health, Bohr did not deliver that lecture in person [B3].
+418 THE QUANTUM THEORY
+of the properties of interaction between radiation and matter. The BKS proposal
+represents the extreme example of this position. Its authors suggested that radia-
+tive processes have highly unconventional properties 'the cause of [which] we shall
+not seek in any departure from the electrodynamic theory of light as regards the
+laws of propagation in free space, but in the peculiarities of the interaction
+between the virtual field of radiation and the illuminated atoms' [Bl]. Before
+describing these properties, I should point out that the BKS paper represents a
+program rather than a detailed research report. It contains no formalism what-
+soever.* This program was not to be the right way out of the difficulties of the old
+quantum theory, yet the paper had a lasting impact in that (as we shall see) it
+stimulated important experimental developments. Let us discuss next the two
+main paradoxes addressed in BKS.
+The first paradox. Consider an atom that emits radiation in a transition from
+a higher to a lower state. BKS assume that in this process 'energy [is] of two kinds,
+the continuously changing energy of the field and the discontinuously changing
+atomic energy' [S2]. But how can there be conservation of an energy that consists
+of two parts, one changing discontinuously, the other continuously? The BKS
+answer [Bl]: 'As regards the occurrence of transitions, which is the essential fea-
+ture of the quantum theory, we abandon ... a direct application of the principles
+of conservation of energy and momentum.' Energy and momentum conservation,
+they suggested, does not hold true for individual elementary processes but should
+hold only statistically, as an average over many such processes.
+The idea of energy nonconservation had already been on Bohr's mind a few
+years prior to the time of the BKS proposal [B5].** However, it was not Bohr
+but Einstein who had first raised—and rejected—this possibility. In 1910 Einstein
+wrote to a friend, 'At present, I have high hopes for solving the radiation problem,
+and that without light quanta. I am enormously curious as to how it will work
+out. One must renounce the energy principle in its present form' [E9]. A few days
+later he was disenchanted. 'Once again the solution of the radiation problem is
+getting nowhere. The devil has played a rotten trick on me' [E10]. He raised the
+issue one more time at the 1911 Solvay meeting, noting that his formula for the
+energy fluctuations of blackbody radiation could be interpreted in two ways. 'One
+can choose between the [quantum] structure of radiation and the negation of an
+absolute validity of the energy conservation law.' He rejected the second alterna-
+tive. 'Who would have the courage to make a decision of this kind? . .. We shall
+agree that the energy principle should be retained' [Ell]. Others, however, were
+apparently not as convinced. In 1916 the suggestion of statistical energy conser-
+*The same is true for a sequel to this paper that Bohr wrote in 1925 [B4]. Schroedinger [SI] and
+especially Slater [S2] did make attempts to put the BKS ideas on a more formal footing. See also
+Slater's own recollections of that period [S3].
+**A letter from Ehrenfest to Einstein shows that Bohr's thoughts had gone in that direction at least
+as early as 1922 [E8[.
+INTERLUDE: THE BKS PROPOSAL 419
+vation was taken up by Nernst [Nl].* Not later than January 1922, Sommerfeld
+remarked that the 'mildest cure' for reconciling the wave theory of light with
+quantum phenomena would be to relinquish energy conservation [S4]. Similar
+speculations were made by other physicists as well [Kl]. Thus the BKS proposal
+must be regarded as an attempt to face the consequences of an idea that had been
+debated for quite some time.
+In order to understand Bohr's position in 1924, it is above all important to
+realize that to him the correspondence principle was the principal reliable bridge
+between classical and quantum physics. However, the correspondence principle
+is, of course, no help in understanding light-quanta: the issue of photons versus
+waves lies beyond that principle. The photon-wave duality was the earliest
+known instance of what was later to be called a complementary situation. The
+BKS theory, with its rejection of photons and its insistence on the continuous pic-
+ture of light at the price of nonconservation, historically represents the last stand
+of the old quantum theory. For very good reasons, this proposal was characterized
+some years later by one of the principal architects of quantum mechanics as rep-
+resenting the height of the crisis in the old quantum theory [HI]. Nor was non-
+conservation of energy and momentum in individual processes the only radical
+proposal made by BKS.
+The Second Paradox. Another question that had troubled Einstein since 1917
+(as we have seen) was, How does an electron know when to emit radiation in
+making a spontaneous transition?
+In its general form, the BKS answer to this question was that there is no truly
+spontaneous emission. They associated with an atom in a given state a 'virtual
+radiation field' that contains all the possible transition frequencies to other sta-
+tionary states and assumed that 'the transitions which in [the Einstein theory of
+1917] are designated as spontaneous are, in our view, induced [my italics] by the
+virtual field.' According to BKS, the spontaneous transition to a specific final state
+is connected with the virtual field mechanism 'by probability laws analogous to
+those which in Einstein's theory hold for induced transitions.' In this way, 'the
+atom is under no necessity of knowing what transitions it is going to make ahead
+of time' [S2]. Thus, spontaneous emission is ascribed to the action of the virtual
+field, but this action is noncausal. I shall not discuss details of the BKS picture of
+induced emission and absorption and other radiative processes. Suffice it to say
+that all of these are supposed to be due to virtual fields and that in all of these
+causality is abandoned. In a paper completed later in 1924, Slater [S2] noted that
+the theory 'has unattractive features . .. [but] it is difficult at the present stage to
+see how [these are] to be avoided.'
+But what about the Compton effect? The successfully verified Eq. 21.21 rests
+on the conservation laws Eqs. 21.19 and 21.20. However (BKS argued), these
+"The title of Nernst's paper is (in translation) 'On an attempt to revert from quantum-mechanical
+considerations to the assumption of continuous energy changes.'
+420 THE QUANTUM THEORY
+equations do hold in the average and the experiment on AX refers only to the
+average change of the wavelength. In fact, at the time of the BKS proposal, there
+did not exist any direct experimental proof of energy-momentum conservation or
+of causality in any individual process. This is one of the reasons why the objections
+to BKS (held by many, 'perhaps the majority' of physicists [PI]* were initially
+expressed in a somewhat muted fashion. Thus, Pauli wrote to Bohr that he did
+not believe in the latter's theory but that 'one cannot prove anything logically and
+also the available data are not sufficient to decide for or against your view' [PI].
+All this was to change soon.
+There was a second reason, I believe, for the subdued character of comments
+by others. The physics community was witness to a rare occurrence. Einstein, of
+course, did not care at all for BKS. Earlier he had given thought to energy non-
+conservation and rejected it. To give up strict causality went deeply against his
+grain. Thus Einstein and Bohr, the two leading authorities of the day, were locked
+in conflict (the word conflict was used by Einstein himself**). To take sides meant
+choosing between the two most revered physicists. Ideally, personal considerations
+of this kind ought to play no role in matters scientific, but this ideal is not always
+fully realized. Pauli reflected on this in a letter concerning the BKS issue: 'Even
+if it were psychologically possible for me to form a scientific opinion on the
+grounds of some sort of belief in authority (which is not the case, however, as you
+know), this would be logically impossible (at least in this case) since here the
+opinions of two authorities are so very contradictory' [PI].
+Even the interaction between the two protagonists was circumspect during that
+period. They did not correspond on the BKS issue [El2]. Nor (as best I know)
+were there personal meetings between them in those days, even though Bohr had
+told Pauli repeatedly how much he would like to know Einstein's opinion [PI].
+Heisenberg wrote to Pauli that he had met Einstein in Goettingen and that the
+latter had 'a hundred objections' [H2]. Sometime later, Pauli also met Einstein,
+whereupon he sent Bohr a detailed list of Einstein's criticisms [PI].
+Einstein had given a colloquium on this paper, at which he had raised objec-
+tions. The idea (he wrote Ehrenfest) 'is an old acquaintance of mine, which I do
+not hold to be an honest fellow, however' ( .. . den ich aber fur keinen reellen
+Kerl halte) [E13]. At about that time, he drew up a list of nine objections, which
+I shall not reproduce here in detail. Samples: 'What should condition the virtual
+field which corresponds to the return of a previously free electron to a Bohr orbit?
+(very questionable). .. . Abandonment of causality as a matter of principle should
+be permitted only in the most extreme emergency' [El4]. The causality issue
+*Born, Schroedinger, and R. Ladenburg were among the physicists who initially believed that BKS
+might be a step in the right direction.
+**On October 25, 1924, the Danish newspaper Politiken carried an item on the Bohr-Einstein
+controversy. This led the editor of a German newspaper to send a query to Einstein [Jl]. Einstein
+sent a brief reply [E12], acknowledging that a conflict existed and adding that no written exchanges
+between himself and Bohr had resulted.
+INTERLUDE: THE BKS PROPOSAL 421
+(which had already plagued him for seven years by then) was the one to which he
+took exception most strongly. He confided to Born that the thought was unbear-
+able to him that an electron could choose freely the moment and direction in which
+to move [El5]. This causality question would continue to nag him long after
+experiment revealed that the BKS answers to both paradoxes were incorrect.
+The Experimental Verdict on Causality. The BKS ideas stimulated Walther
+Bothe and Hans Geiger to develop counter coincidence techniques for the purpose
+of measuring whether, as causality demands, the secondary photon and the knock-
+on electron are produced simultaneously in the Gompton effect [B6]. Their result:
+these two particles are both created in a time interval < 10~3 s [B7, B8]. Within
+the limits of accuracy, causality had been established and the randomness of the
+relative creation times demanded by BKS disproved. Since then, this time interval
+has been narrowed down experimentally to < 10~" s [B9].
+The Experimental Verdict on Energy-Momentum Conservation. The valid-
+ity of these conservation laws in individual elementary processes was established
+for the Compton effect by Compton and A. W. Simon. From cloud chamber obser-
+vations on photoclectrons and knock-on electrons, they could verify the validity of
+the relation
+in individual events, where (f>, 6 are the scattering angles of the electron and pho-
+ton, respectively, and v is the incident frequency [Cl].
+And so the last resistance to the photon came to an end. Einstein's views had
+been fully vindicated. The experimental news was generally received with great
+relief (see, e.g., [P2]*). Bohr took the outcome in good grace and proposed 'to give
+our revolutionary efforts as honorable a funeral as possible' [BIO]. He was now
+prepared for an even more drastic resolution of the quantum paradoxes. In July
+1925 he wrote, 'One must be prepared for the fact that the required generalization
+of the classical electrodynamic theory demands a profound revolution in the con-
+cepts on which the description of nature has until now been founded' [B4].
+These remarks by Bohr end with references to de Broglie's thesis and also to
+Einstein's work on the quantum gas (the subject of the next chapter): the profound
+revolution had begun.
+References
+Bl. N. Bohr, H. A. Kramers, and J. C. Slater, Phil. Mag. 47, 785 (1924).
+B2. , letter to A. Einstein, June 24, 1920.
+B3. Niels Bohr, Collected Works (L. Rosenfeld, Ed.), Vol. 3, pp. 28, 357. North Hol-
+land, New York, 1976.
+*Pauli's own description of BKS, written early in 1925, can be found in his collected works [P3].(22.1)
+422 THE QUANTUM THEORY
+B4. N. Bohr, Z. Phys. 34, 142 (1925).
+B5. , Z. Phys. 13, 117 (1923), especially Sec. 4.
+B6. W. Bothe and H. Geiger, Z. Phys. 26, 44 (1924).
+B7. and , Naturw. 13, 440 (1925).
+B8. and , Z. Phys. 32, 639 (1925).
+B9. A. Bay, V. P. Henri, and F. McLennon, Phys. Rev. 97, 1710 (1955).
+BIO. N. Bohr, letter to R. H. Fowler, April 21, 1925.
+Cl. A. H. Compton and A. W. Simon, Phys. Rev. 26, 289 (1925).
+El. A. Einstein, postcard to M. Planck, October 23, 1919.
+E2. —— in Albert Einstein: Philosopher-Scientist (P. A. Schilpp, Ed.). Tudor, New
+York, 1949.
+E3. , letter to N. Bohr, May 2, 1920.
+E4. —, letter to P. Ehrenfest, May 4, 1920.
+E5. , letter to N. Bohr, January 11, 1923.
+E6. , letter to P. Ehrenfest, March 23, 1922.
+E7. —, letter to B. Becker, March 20, 1954.
+E8. P. Ehrenfest, letter to A. Einstein, January 17, 1922.
+E9. A. Einstein, letter to J. J. Laub, November 4, 1910.
+E10. , letter to J. J. Laub, November 7, 1910.
+El 1. in Proceedings First Solvay Conference (P. Langevin and M. de Broglie, Ed.)
+pp. 429, 436. Gauthier-Villars, Paris, 1912.
+E12. , letter to K. Joel, November 3, 1924.
+E13. , letter to P. Ehrenfest, May 31, 1924.
+El4. , undated document in the Einstein archives, obviously written in 1924.
+E15. , letter to M. Born, April 29, 1924. Reprinted in The Born-Einstein Letters
+(M. Born, Ed.), p. 82. Walker, New York, 1971.
+HI. W. Heisenberg, Naturw. 17, 490 (1929).
+H2. , letter to W. Pauli, June 8, 1924; see [PI], p. 154.
+Jl. K. Joel, letter to A. Einstein, October 28, 1924.
+Kl. M. Klein, Hist. St. Phys. Sci. 2, 1 (1970).
+Nl. W. Nernst, Verh. Deutsch. Phys. Ges. 18, 83 (1916).
+PL W. Pauli, letter to N. Bohr, October 2, 1924. Reprinted in W. Pauli, Scientific
+Correspondence (A. Hermann, K. v. Meyenn, and V. Weisskoff, Eds.), Vol. 1, p.
+163. Springer, New York, 1979.
+P2. , letter to H. A. Kramers, July 27, 1925; see [PI], p. 232.
+P3. , Collected Scientific Papers, Vol. 1, pp. 83-6. Interscience, New York, 1964.
+51. E. Schroedinger, Naturw. 36, 720 (1924).
+52. J. C. Slater, Phys. Rev. 25, 395 (1925).
+53. , Int. J. Quantum Chem. Is, 1 (1967).
+54. A. Sommerfeld, Atombau und Spektrallinien (3rd edn.), p. 311. Vieweg, Braun-
+schweig, 1922.

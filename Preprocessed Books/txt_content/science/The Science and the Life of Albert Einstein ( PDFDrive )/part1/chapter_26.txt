@@ -1,0 +1,393 @@
+26
+Einstein's Vision
+26a. Einstein, Newton, and Success
+Einstein's lasting conviction that quantum mechanics was not a theory of principle
+did not impede him from recognizing that this theory was highly successful. As
+early as 1927, he publicly expressed his judgment that wave mechanics is 'in
+amazing agreement with the facts of experience' [El]. In 1936 he wrote, 'It seems
+clear . . . that the Born statistical interpretation of the quantum theory is the only
+possible one' [E2], and in 1949 declared, 'The statistical quantum theory [is] the
+most successful theory of our period' [E3]. Then why was he never convinced by
+it?
+I believe Einstein indirectly answered this question in his 1933 Spencer lec-
+ture—perhaps the clearest and most revealing expression of his way of thinking
+in later life. The key is to be found in his remarks on Newton and classical
+mechanics. In this lecture [E4], Einstein noted that 'Newton felt by no means
+comfortable about the concept of absolute space, ... of absolute rest ... [and]
+about the introduction of action at a distance.' Then he went on to refer to the
+success of Newton's theory in these words: 'The enormous practical success of his
+theory may well have prevented him and the physicists of the eighteenth and nine-
+teenth centuries from recognizing the fictitious character of the principles of his
+system.' It is important to note that by fictitious Einstein meant free inventions of
+the human mind. Whereupon he compared Newton's mechanics with his own
+work on general relativity: 'The fictitious character of the principles is made quite
+obvious by the fact that it is possible to exhibit two essentially different bases
+[Newtonian mechanics and general relativistic mechanics] each of which in its
+consequences leads to a large measure of agreement with experience.' (Remember
+that these words were spoken long before it was realized how markedly the pre-
+dictions of Newtonian mechanics differ from those of general relativity when
+strong grativational fields come into play.)
+In the Spencer lecture, Einstein mentioned the success not only of classical
+mechanics but also of the statistical interpretation of quantum theory. 'This con-
+ception is logically unexceptionable and has led to important successes.' But, he
+added, 'I still believe in the possibility of giving a model of reality which shall
+represent events themselves and not merely the probability of their occurence.'
+460
+EINSTEIN'S VISION 461
+From this lecture as well as from discussions with him on the foundations of
+quantum physics, I have gained the following impression. Einstein tended to com-
+pare the successes of classical mechanics with those of quantum mechanics. In his
+view both were on a par, being successful but incomplete. For more than a decade,
+Einstein had pondered the single question of how to extend the invariance under
+uniform translations to general motions. His resulting theory, general relativity,
+had led to only small deviations from Newton's theory. (Instances where these
+deviations are large were discussed only much later.) He was likewise prepared
+for the survival of the practical successes of quantum mechanics, with perhaps
+only small modifications. He was also prepared to undertake his own search for
+objective reality, fearless of how long it would take. It is quite plausible that the
+very success of his highest achievement, general relativity, was an added spur to
+Einstein's apartness. Yet it should not be forgotten that this trait characterized his
+entire oeuvre and style.
+The crux of Einstein's thinking on the quantum theory was not his negative
+position in regard to what others had done, but rather his deep faith in his own
+distinct approach to the quantum problems. His beliefs may be summarized as
+follows:
+(1) Quantum mechanics represents a major advance, and yet it is only a limiting
+case of a theory which remains to be discovered:
+There is no doubt that quantum mechanics has seized hold of a beautiful ele-
+ment of truth and that it will be a touchstone for a future theoretical basis in
+that it must be deducible as a limiting case from that basis, just as electrostatics
+is deducible from the Maxwell equations of the electromagnetic field or as ther-
+modynamics is deducible from statistical mechanics. [E2]
+(2) One should not try to find the new theory by beginning with quantum
+mechanics and trying to refine or reinterpret it:
+I do not believe that quantum mechanics will be the starting point in the search
+for this basis, just as one cannot arrive at the foundations of mechanics from
+thermodynamics or statistical mechanics. [E2]
+(3) Instead—and this was Einstein's main point—one should start all over
+again, as it were, and endeavor to obtain the quantum theory as a by-product of
+a general relativistic theory or a generalization thereof. Starting all over again had
+never daunted him. That is the single most important link between the early and
+the late Einstein. His reverence for Lorentz had not held him back from rejecting
+the latter's dynamic views on the contraction of rods and on the interpretation of
+Fizeau's experiment. His reverence for Newton had not prevented him from
+rejecting absolute space. The relativity theories, his own greatest successes, his
+theories of principle, had been arrived at by making fresh starts. He was going to
+do that again for the quantum theory, and never mind the time it might take. In
+1950 he wrote to Born, 'I am convinced of [objective reality] although, up to now,
+success is against it' [E5].
+462 THE QUANTUM THEORY
+It was a solitary position. Einstein knew that. Nor was he oblivious to other's
+reactions. 'I have become an obstinate heretic in the eyes of my colleagues,' he
+wrote to one friend [E6], and to another, 'I am generally regarded as a sort of
+petrified object, rendered blind and deaf by the years. I find this role not too dis-
+tasteful, as it corresponds very well with my temperament' [E7]. He knew, and
+on occasion would even say, that his road was a lonely one [E8], yet he held fast.
+'Momentary success carries more power of conviction for most people than reflec-
+tions on principle' [E9].
+Einstein was neither saintly nor humorless in defending his position on the
+quantum theory. On occasion he could be acerbic. At one time, he said that Bohr
+thought very clearly, wrote obscurely, and thought of himself as a prophet [SI].
+Another time he referred to Bohr as a mystic [E10]. On the other hand, in a letter
+to Bohr, Einstein referred to his own position by quoting an old rhyme: 'Uber die
+Reden des Kandidaten Jobses/Allgemeines Schiitteln des Kopses' [Ell].*There
+were moments of loneliness. 'I feel sure that you do not understand how I came
+by my lonely ways' [El2]. He may not have expressed all his feelings on these
+matters. But that was his way. 'The essential of the being of a man of my type
+lies precisely in what he thinks and how he thinks, not in what he does or suffers'
+[E3].
+Einstein's apartness in regard to the foundations of quantum physics predates
+the discovery of quantum mechanics. That is the second most important link
+between the early and the later Einstein. I shall enlarge on this in Section 26c, but
+first some final Comments on the subject of Chapter 2: Einstein's general attitude
+toward the quantum and relativity theories.
+26b. Relativity Theory and Quantum Theory
+It is a very striking characteristic of Einstein's early scientific writing that he left
+relativity theory separate from quantum theory, even on occasions where it would
+have been natural and straightforward to connect them. This separation is already
+evident in his very first paper on special relativity, in which he noted, 'It is remark-
+able that the energy and frequency of a light complex vary with the state of motion
+of the observer according to the same law' [E13]. Here was an obvious opportu-
+nity to refer to the relation E = hv of his paper on light-quanta, finished only a
+few months earlier. But Einstein did not do that. Also, in the September 1905
+paper on relativity [El4], he referred to radiation but not to light-quanta. In his
+1909 address at Salzburg, Einstein discussed his ideas both on relativity theory
+and on quantum theory but kept these two areas well separated [El 5]. As we saw
+in Section 21c, in his 1917 paper Einstein ascribed to light-quanta an energy E
+= hv and a momentum p = hv/c. This paper concludes with the remark,
+'Energy and momentum are most intimately related; therefore, a theory can be
+*Roughly: There was a general shaking of heads concerning the words of candidate Jobs.
+EINSTEIN'S VISION 463
+considered justified only if it has been shown that according to [the theory] the
+momentum transferred by radiation to matter leads to motions as required by
+thermodynamics' [El6]. Why is only thermodynamics mentioned; why not rela-
+tivity also? Because, I believe, to him relativity was to such an extent the revealed
+truth that in his view the phenomenological and provisional quantum theory was
+not yet ripe enough, perhaps not yet worthy enough, to be brought into contact
+with relativity arguments.
+So it was in the days of the old quantum theory. So it remained after quantum
+mechanics came along. In the previous section, I noted that Einstein considered
+quantum mechanics to be highly successful. I should now be more precise and add
+that this opinion of his applied exclusively to nonrelativistic quantum mechanics.
+I know from experience how difficult it was to discuss quantum field theory with
+him. He did not believe that nonrelativistic quantum mechanics provided a secure
+enough basis for relativistic generalizations [E17, E18]. Relativistic quantum field
+theory was repugnant to him [Blj. Walter Thirring has written to me of conver-
+sations with Einstein in which 'his objections became even stronger when it con-
+cerned quantum field theory, and he did not believe in any of its consequences'
+[Tl]. Valentin Bargmann has told me that at one time Einstein asked him for a
+private survey of quantum field theory, beginning with second quantization. Barg-
+mann did so for about a month. Thereafter Einstein's interest waned.
+The preceding remarks on quantum field theory refer principally to its special
+relativistic version. In the time capsule of Section 2b, I inserted the comment that
+to this day the synthesis of quantum theory and general relativity is beset with
+conceptual difficulties. Was that what bothered Einstein? It was not, as is best
+seen from the closing phrases of his tribute to Maxwell:
+'I incline to the belief that physicists will not be permanently satisfied with
+... an indirect description of Reality, even if the [quantum] theory can befitted
+successfully to the General Relativity postulates [my italics]. They would then
+be brought back to the attempt to realize that programme which may suitably
+be called Maxwell's: the description of Physical Reality by fields which satisfy
+without singularity a set of partial differential equations. [E19]
+'That programme' is uniquely Einstein's. His main point was that one should not
+start out by accepting the quantum postulates as primary rules and then proceed
+to fit these rules to general relativity. Instead, he believed one should start with a
+classical field theory, a unified field theory, and demand of that theory that the
+quantum rules should emerge as constraints imposed by that theory itself.
+In the next and final section on the quantum theory, I shall outline how Ein-
+stein hoped to achieve this. The question of why he harbored such expectations
+brings us to another edge of history. A definitive answer cannot be given. As a
+personal opinion, it seems to me that making great discoveries can be accompanied
+by trauma, and that the purity of Einstein's relativity theories had a blinding effect
+on him. He almost said so himself: To the discoverer ... the constructions of his
+464 THE QUANTUM THEORY
+imagination appear so necessary and so natural that he is apt to treat them not as
+the creations of his thoughts but as given realities' [E4]. His insistence on objective
+reality is a perfect example of such a mental process.
+Finally, I should like to reiterate my own view that Einstein's technical objec-
+tions to quantum mechanics are unfounded, but that I do not know whether either
+quantum mechanics or general relativity is complete, or whether their desired syn-
+thesis can be consummated simply by welding together their respective sets of
+postulates.
+26c. Uberkausalitat
+In 1923 Einstein published an article entitled 'Does field theory offer possibilities
+for the solution of the quantum problem?' [E20]. It begins with a reminder of the
+successes achieved in electrodynamics and general relativity theory in regard to a
+causal description: events are causally determined by differential equations com-
+bined with initial conditions on a spacelike surface. However, Einstein continued,
+this method cannot be applied to quantum problems without further ado. As he
+put it, the discreteness of the Bohr orbits indicates that initial conditions cannot
+be chosen freely. Then he asked, Can one nevertheless implement these quantum
+constraints in a (causal) theory based on partial differential equations? His
+answer: 'Quite certainly: we must only "overdetermine" the field variables by
+[appropriate] equations.' Next he stated his program, based on three require-
+ments: (1) general covariance, (2) the desired equations should at least be in accor-
+dance with the gravitational and the Maxwell theory, and (3) the desired system
+of equations which overdetermines the fields should have static, spherically sym-
+metric solutions which describe the electron and proton. If this overdetermination
+can be achieved, then 'we may hope that these equations co-determine the mechan-
+ical behavior of the singular points (electrons) in such a way that the initial con-
+ditions of the field and the singular points are also subject to restrictive conditions.'
+He went on to discuss a tentative example and concluded, 'To me, the main point
+of this communication is the idea of overdetermination.'
+By 1923 Einstein had already been brooding about these ideas for a number of
+years. In 1920 he had written to Born, 'I do not seem able to give tangible form
+to my pet idea [meine Lieblingsidee], which is to understand the structure of the
+quanta by redundancy in determination, using differential equations,' [E21].This
+is the earliest reference to his strategy that I am aware of. It would seem likely
+that ideas of this kind began to stir in him soon after 1917, when he had not only
+completed the general theory of relativity but had also discovered the lack of caus-
+ality in spontaneous emission [El6]. The early response of others to these attempts
+by Einstein was recorded by Born: 'In those days [early 1925], we all thought that
+his objective . .. was attainable and also very important' [B2]. Einstein himself
+felt that he had no choice. 'The road may be quite wrong, but it must be tried'
+[E22].
+EINSTEIN'S VISION 465
+Overdetermination was and remained Einstein's hope for an answer to the
+quantum problem. In addressing Planck, six years later, he made his point quite
+emphatically: the understanding of quantum phenomena does not demand a
+weakening of classical causality, as is done in quantum mechanics. On the con-
+trary, classical causality should be strengthened.
+Natural phenomena seem to be determined to such an extent that not only the
+temporal sequence but also the initial state is fixed to a large extent by [phys-
+ical] law. It seemed to me that I should express this idea by searching for over-
+determined systems of differential equations. ... I strongly believe that we will
+not end up with a Subkausalitat [subcausality] but that, in the indicated sense,
+we will arrive at an Uberkausalitat [supercausality]. [E23].
+At long last, I can now explain Einstein's vision. He was looking for a unified
+field theory, but to him that concept meant something different from what it meant
+and means to everyone else. He demanded that the theory shall be strictly causal,
+that it shall unify gravitation and electromagnetism, that the particles of physics
+shall emerge as special solutions of the general field equations, and that the quan-
+tum postulates shall be a consequence of the general field equations. Einstein had
+all these criteria in mind when he wrote, in 1949, 'Our problem is that of finding
+the field equations of the total field' [E3]. Einstein's scientific evolution can there-
+fore be schematized by the picture given in the preface:
+Special relativity Statistical physics
+I I
+General relativity Quantum theory
+^ Unified "^
+field theory
+In Chapter 171 discussed that portion of Einstein's work on unified field theory
+that dealt with the synthesis of gravitation and electromagnetism. Here I add a
+few remarks on the quantum aspects.
+Einstein's correspondence shows that the unified field theory and the quantum
+problems were very often simultaneously on his mind. Here are but a few exam-
+ples. In 1925, while he was at work on a theory with a nonsymmetric metric, he
+wrote to a friend, 'Now the question is whether this field theory is compatible
+with the existence of atoms and quanta.' [E24]. He discussed the same generalized
+theory in a letter written in 1942. 'What I am doing now may seem a bit crazy
+to you. One must note, however, that the wave-particle duality demands some-
+thing unheard of,' [E25]. In 1949 he wrote, 'I am convinced that the . . . statistical
+[quantum] theory ... is superficial and that one must be backed by the principle
+of general relativity' [E26]. And in 1954, 'I must seem like an ostrich who forever
+buries its head in the relativistic sand in order not to face the evil quanta' [E27].
+466 THE QUANTUM THEORY
+Forever and in vain, Einstein kept looking for hints that would help him realize
+his vision of a quantum theory derived from a unified field theory. This urge
+explains his reference to the quantum theory at unexpected places. His first paper
+with Grommer (see Section 15f) on the problem of motion ends, 'It has been
+shown for the first time that a field theory can contain a theory of the mechanical
+properties of discontinuities. This may become of significance for . . . the quantum
+theory' [E28]. However, in a sequel he withdrew this last remark [E29]. In 1930
+he gave a lecture on unified field theory, a report of which contains the statement,
+'He emphasized that he is in no way taking notice of the results of quantum cal-
+culations because he believes that by dealing with microscopic phenomena these
+will come out by themselves' [E30]. A report in 1931 by Einstein on a five-dimen-
+sional theory which should unify gravitation and electromagnetism ends, 'This
+theory does not yet contain the conclusions of the quantum theory' [E31]. Two
+months after the Einstein-Podolsky-Rosen article, Einstein and Rosen completed
+another paper, this one dealing with singularity-free solutions of the gravitational-
+electromagnetic field equations [E32]. One phrase in this paper, 'one does not see
+a priori whether the theory contains the quantum phenomena' illustrates once
+again the scope of the program that was on Einstein's mind. The program was to
+remain an elusive vision. Gravitation and electromagnetism were not synthesized,
+quantum physics was not integrated, satisfactory particle-like solutions were not
+found.
+I add a few scattered remarks.
+After Einstein's brief flirtation with the Dirac equation, (Section 25b), he was
+led to the belief that the sought-for equations of the total field would generate
+particles with nonzero spin in terms of particle-like solutions that are not spher-
+ically symmetrical (V. Bargmann, private communication). Presumably, he hoped
+that his idea of overdetermination would lead to discrete spin values.*
+He also hoped that the future theory would contain solutions which would not
+be absolutely localizable and which would correspond to particles carrying quan-
+tized electric charge [E4].
+In 1925 Einstein noted that if the combined gravitational-electromagnetic field
+equations have particle-like solutions with charge e and mass m, then there should
+also be solutions with ( — e,m)\ [E33]. The proof involves the application of time
+reversal to the combined equations. (In a related context, the existence of (+ e,m)
+solutions was first noted by Pauli [PI].) This result led him to doubt temporarily
+whether the unification of gravitation and electromagnetism was possible at all.
+(Remember his demand that the unified field theory should generate the known
+particles as special solutions.)
+Simplicity was the guide in Einstein's quest. 'In my opinion, there is the correct
+path and ... it is in our power to find it. Our experience up to date justifies us in
+*I note in passing that in 1925 Einstein gave a helping hand to Uhlenbeck and Goudsmit in the
+explanation of the origins of the spin-orbit coupling of electrons in atoms [Ul].
+EINSTEIN'S VISION 467
+feeling sure that in nature is actualized the ideal of mathematical simplicity' [E4].
+As early as 1927, Heisenberg stressed, in a letter to Einstein, that the latter's
+concept of simplicity and the simplicity inherent in quantum mechanics cannot be
+realized at the same time. 'If I have understood correctly your point of view, then
+you would gladly sacrifice the simplicity [of quantum mechanics] to the principle
+of [classical] causality. Perhaps we could comfort ourselves [with the idea that]
+the dear Lord could go beyond [quantum mechanics] and maintain causality. I do
+not really find it beautiful, however, to demand more than a physical description
+of the connection between experiments' [HI].
+As Einstein's life drew to a close, doubts about his vision arose in his mind.
+'The theory of relativity and the quantum theory . . . seem little adapted to
+fusion into one unified theory,' he remarked in 1940 [E34]. He wrote to Born,
+probably in 1949, 'Our respective hobby-horses have irretrievably run off in dif-
+ferent directions. . . . Even I cannot adhere to [mine] with absolute confidence'
+[E35]. In the early 1950s, he once said to me that he was not sure whether dif-
+ferential geometry was to be the framework for further progress, but if it was then
+he believed he was on the right track.* To his dear friend Besso he wrote in 1954,
+'I consider it quite possible that physics cannot be based on the field concept, i.e.,
+on continuous structures. In that case, nothing remains of my entire castle in the
+air, gravitation theory included, [and of] the rest of modern physics' [E37]. I doubt
+whether any physicist can be found who would not agree that this judgment is
+unreasonably harsh. In one of the last of the many introductions Einstein wrote
+for books by others, he said:
+My efforts to complete the general theory of relativity . . . are in part due to the
+conjecture that a sensible general relativistic [classical] field theory might per-
+haps provide the key to a more complete quantum theory. This is a modest
+hope, but certainly not a conviction. [E38]
+But, as Helen Dukas told me, Einstein once said at the dinner table (she did not
+recall the year) that he thought physicists would understand him a hundred years
+later. Nor can I escape the impression that he was thinking about himself when
+he wrote the following lines about Spinoza:
+Although he lived three hundred years before our time, the spiritual situation
+with which Spinoza had to cope peculiarly resembles our own. The reason for
+this is that he was utterly convinced of the causal dependence of all phenomena,
+at a time when the success accompanying the efforts to achieve a knowledge of
+the causal relationship of natural phenomena was still quite modest. [E39].
+*V. Bargmann informs me that Einstein made similar remarks to him in the late 1930s. A related
+comment is found in a letter to Infeld: 'I tend more and more to the opinion that one cannot come
+further with a continuum theory" [E36].
+468 THE QUANTUM THEORY
+Einstein kept thinking about quantum theory until the very end. He wrote his
+last autobiographical sketch in Princeton, in March 1955, about a month before
+his death. Its final sentences deal with the quantum theory.
+It appears dubious whether a [classical] field theory can account for the atom-
+istic structure of matter and radiation as well as of quantum phenomena. Most
+physicists will reply with a convinced 'No,' since they believe that the quantum
+problem has been solved in principle by other means. However that may be,
+Lessing's comforting word stays with us: the aspiration to truth is more precious
+than its assured possession. [E40]
+References
+Bl. M. Born, letter to A. Einstein, October 10, 1944.
+B2. (Ed.), The Born-Einstein Letters, p. 88. Walker, New York, 1971.
+El. A. Einstein, Smithsonian Institution Report for 1927, p. 201; Naturw. 15, 273
+(1927).
+E2. , /. Franklin Inst. 221, 313 (1936).
+E3.- in Albert Einstein: Philosopher-Scientist (P. A. Schilpp, Ed.). Tudor, New
+York, 1949.
+E4. , On the Method of Theoretical Physics. Oxford University Press, New York,
+1933. Reprinted in Phil. Sci. 1, 162 (1934).
+E5. , letter to M. Born, September 15, 1950.
+E6. , letter to M. Besso, August 8, 1949; EB, p. 407.
+E7. , letter to M. Born, April 12, 1949.
+E8. , letter to M. Born, March 18, 1948.
+E9. , letter to M. Besso, July 24, 1949; EB, p. 402.
+E10. , letter to E. Schroedinger, August 9, 1939.
+Ell. , letter to N. Bohr, April 4, 1949.
+E12. —, letter to M. Born, March 18, 1948.
+E13. ,AdP17, 891 (1905).
+E14. —,AdP 18, 639 (1905).
+El 5. , Phys. Zeitschr. 10, 817 (1909).
+E16. , Phys. Zeitschr. 18, 121 (1917).
+E17. , letter to M. Born, March 22, 1934.
+E18. , letter to A. Sommerfeld, December 14, 1946.
+E19. in James Clark Maxwell, p. 66. Macmillan, New York, 1931.
+£20. , PAW, 1923, p. 359.
+E21. , letter to M. Born, March 3, 1920.
+E22. , letter to M. Besso, January 5, 1924; EB, p. 197.
+E23. , Forschungen und Fortschntte 5, 248 (1929).
+E24. , letter to M. Besso, July 28, 1925; EB, p. 209.
+E25. —, letter to M. Besso, August 1942; EB, p. 366.
+E26. , letter to M. Besso, August 16, 1949; EB, p. 409.
+E27. , letter to L. de Broglie, February 8, 1954.
+E28. and J. Grommer PAW, 1927, p. 2.
+EINSTEIN'S VISION 469
+E29. , PAW, 1927, p. 235.
+E30. , Science 71, 608 (1930).
+E31. , Science 74, 438(1931).
+E32. —and N. Rosen, Phys. Rev. 48, 73 (1935).
+E33. , Physica 5, 330 (1925).
+E34. —, Science 91, 487 (1940).
+E35. , letter to M. Born, undated, probably written in 1949.
+E36. , letter to L. Infeld, March 6, 1941.
+E37. , letter to M. Besso, August 10, 1954; EB, p. 525.
+E38. in Louis de Broglie, Physicien et Penseur. Albin Michel, Paris, 1953.
+E39. , introduction to R. Kayser, Spinoza, Portrait of a Spiritual Hero, p. xi, Philo-
+sophical Library, New York, 1946.
+E40. in Helle Zeit, dunkle Zeit (C. Seelig, Ed.). Europa Verlag Zurich, 1956.
+HI. W. Heisenberg, letter to A. Einstein, June 10, 1927.
+PI. W. Pauli, Phys. Zeitschr. 20, 457 (1919).
+SI. R. S. Shankland, Am. J. Phys. 31, 47 (1963).
+Tl. W. Thirring, letter to A. Pais, November 29, 1977.
+Ul. G. E. Uhlenbeck, Physics Today 29 (6), 43 (1976).
+This page intentionally left blank VII
+JOURNEY'S END
+This page intentionally left blank 

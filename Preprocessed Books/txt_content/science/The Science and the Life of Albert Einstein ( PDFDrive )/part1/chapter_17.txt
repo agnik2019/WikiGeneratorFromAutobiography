@@ -1,0 +1,1152 @@
+1?
+Unified Field Theory
+17a. Particles and Fields around 1920
+Einstein died early on a Monday morning. The day before, he had asked for his
+most recent pages of calculations on unified field theory. The awareness of unfin-
+ished work was with him, and not just in those final hours when he knew that
+death was near. It had been so throughout his life. Nearly forty years earlier, he
+had written to Felix Klein:
+However we select from nature a complex [of phenomena] using the criterion
+of simplicity, in no case will its theoretical treatment turn out to be forever
+appropriate (sufficient). Newton's theory, for example, represents the gravita-
+tional field in a seemingly complete way by means of the potential <j>. This
+description proves to be wanting; the functions g^, take its place. But I do not
+doubt that the day will come when that description, too, will have to yield to
+another one, for reasons which at present we do not yet surmise. I believe that
+this process of deepening the theory has no limits. [El]
+That was written in 1917, shortly before he began his search for the unification
+of gravitation and electromagnetism. Those were still the days in which he knew
+with unerring instinct how to select complexes from nature to guide his scientific
+steps. Even then he already had a keen taste for mathematical elegance as well,
+but did not yet believe that formal arguments alone could be relied upon as mark-
+ers for the next progress in physics. Thus, later in 1917, when Felix Klein wrote
+to him about the conformal invariance of the Maxwell equations [Kl], he replied:
+It does seem to me that you highly overrate the value of formal points of view.
+These may be valuable when an already found [his italics] truth needs to be
+formulated in a final form, but fail almost always as heuristic aids. [E2]
+Nothing is more striking about the later Einstein than his change of position in
+regard to this advice, given when he was in his late thirties. I do not believe that
+his excessive reliance in later years on formal simplicity did him much good,
+although I do not accept the view of some that this change was tragic. Nothing in
+Einstein's scientific career was tragic, even though some of his work will be
+remembered forever and some of it will be forgotten. In any event, when Einstein
+embarked on his program for a unified field theory, his motivation was thoroughly
+325
+326 THE LATER JOURNEY
+physical. In order to appreciate this, we must first have a brief look at the physics
+of particles and fields around 1920.
+During the second decade of the twentieth century, there were advances in the-
+oretical physics of the highest calibre. Rutherford discovered the atomic nucleus,
+Bohr the quantum theory of the atom, Einstein general relativity. It was also the
+time that provided one of the most striking examples of how physicists can tem-
+porarily be led astray by the selection of complexes from nature on grounds of
+simplicity. The case in point is the model of the nucleus built of protons and
+electrons.
+Rutherford had discovered the proton (so baptized in 1919), the nucleus of the
+lightest atom. Bohr had been the first to realize that beta decay is a process in
+which electrons are ejected from the nucleus. What then was more obvious than
+to assume that the nuclear weight was almost entirely due to a number of con-
+stituent protons equal to the mass number, with the difference between mass num-
+ber and charge number equal to the number of constituent electrons? The nucleus
+must be considered 'as a very complex structure .. . consisting of positively-
+charged particles and electrons, but it is premature (and would serve no useful
+purpose) to discuss at the present time the possible structure of the nucleus itself
+[Rl]. Thus Rutherford expressed himself on the structure of the atom during a
+Royal Society meeting held on March 19, 1914. Even the cautious Rutherford
+had but one choice for the nature of the internuclear forces. Again in 1914 he
+wrote, 'The nucleus, though of minute dimensions, is in itself a very complex
+system consisting of positively and negatively charged bodies bound closely
+together by intense electrical forces' [R2] (my italics). Nuclear binding energy, he
+conjectured, is an electromagnetic effect. 'As Lorentz has pointed out, the electrical
+mass of a system of charged particles, if close together, will depend not only on
+the number of these particles, but on the way their fields interact. For the dimen-
+sions of the positive and negative electrons considered [a positive electron being a
+proton], the packing must be very close in order to produce an appreciable alter-
+ation in the mass due to this cause. This may, for example, be the explanation of
+the fact that the helium atom has not quite four times the mass of the hydrogen
+atom' [R3].
+Thus all forces within the atom, whether peripheral or in its core, were initially
+perceived to be electrical. This was a natural thought, especially since the nucleus
+had been discovered to begin with by the observation that the scattering of alpha
+particles on atoms was dominated by a coulomb interaction between the alpha
+particle and a near-pointlike atomic core. Not until 1919 did these scatterings give
+a first intimation that all was not electrical [R4]. Not until 1921 did experiments
+show beyond doubt that the 1/r2 force law breaks down at small distances. 'It is
+our task to find some field of force which will represent these effects. . .. The
+present experiments . . . show that the forces are of very great intensity'' [Cl].
+UNIFIED FIELD THEORY 327
+These last words (italicized by me) represent the first instance, as best I know,
+where it is stated in the literature that there are strong interactions. It was the
+second great discovery by James Chadwick. His first one had been made in 1914:
+the primary beta spectrum is continuous [C2]. Until well into the 1920s, this con-
+tinuity was believed to have secondary causes. The neutrino was not postulated
+until 1929.
+Thus nuclear physics began with a nucleus without neutrons, beta decay with-
+out neutrinos. Matter was made of protons and electrons. There were neither
+weak nor strong interactions. In the beginning there was only electromagnetism.
+And, of course, there was gravitation.
+Which brings us back to unified field theory.
+When Einstein, Weyl, and others began their work on unified field theory, it
+was natural to assume that this task consisted exlusively of the union of gravitation
+with electromagnetism. To be sure, the separateness of these two fields posed no
+conflicts or paradoxes. There were no puzzles such as the Michelson-Morley
+experiment nor curious coincidences like the equality of the inertial and the grav-
+itational mass. Nevertheless, it seemed physically well-motivated and appealing to
+ask, Do nature's only two fields of force, both long-range in character, have a
+common origin?
+Then it came to pass that physics veered toward a different course, neither led
+nor followed by Einstein. First quantum mechanics and then quantum field theory
+took center stage. New forces had to be introduced. New particles were proposed
+and discovered. Amid all these developments, Einstein stayed with the unification
+of gravitation and electromagnetism, the final task he set himself. This insistence
+brought the ultimate degree of apartness to his life.
+After his death, the urge for unification returned and became widespread, but
+both the goals and the methods of pursuit are different now. At the end of this
+chapter I shall comment further on this new look of the unification program. I
+turn next to an account of Einstein's own efforts at unification. It remains to be
+seen whether his methods will be of any relevance for the theoretical physics of
+the future. Certainly this work of his did not produce any results of physical inter-
+est. I therefore believe it will suffice to indicate (omitting details as much as pos-
+sible) the two general directions in which he looked for the realization of his aims.
+One of these, based on the extension of space-time to a five-dimensional manifold,
+is discussed in the Section 17c. The other, based on generalizations of the geometry
+of Riemann, is treated in Section 17e. The discussion of this second category is
+preceded by a brief excursion into post-Riemannian geometry and a comment on
+the influence of Einstein's general relativity on mathematics.
+In the early 1920s, the structure of the nucleus was an interesting but secondary
+problem and the unification of forces a minor issue. Quantum phenomena posed
+the central challenge. Einstein was well aware of this when, at age forty, he began
+328 THE LATER JOURNEY
+his search for unification. In fact, by then he already believed that the need to
+unify forces and the need to resolve the quantum paradoxes were connected
+desiderata. In later years, he was one among few to search for unification and one
+among few to be critical of quantum mechanics. He was unique in holding the
+view that there was a link between these problem areas. In this chapter, nothing
+further will be said on Einstein and quantum physics. However, in Chapter 26
+I shall return to his hopes for a new dynamics, based on a generalization of general
+relativity, in which quantum mechanics would be explained rather than
+postulated.
+17b. Another Decade of Gestation
+Einstein completed his first paper on unified field theory in January 1922.
+Much had happened to him since the strenuous days of November 1915, when
+he completed his general relativity theory. He had done his share of applying this
+theory to the energy-momentum conservation problem, to gravitational waves,
+and to cosmology. He had introduced the A and B coefficients in quantum theory.
+He had been ill. He had remarried. After November 1919 he had become a world
+figure. He had been in the midst of turmoil in Germany. And he had made his
+first trip to the United States. The problem of unification had been on his mind
+in the intervening years, even though he had not published on this subject. In 1918
+he wrote to Weyl, 'Ultimately it must turn out that action densities must not be
+glued together additively. I too, concocted various things, but time and again I
+sank my head in resignation' [E3]. His statement to Ehrenfest in 1920, 'I have
+made no progress in general relativity theory. The electromagnetic field still stands
+there in unconnected fashion' [E4], expressed both his disbelief in Weyl's theory
+(to be described in Section 17d) and his conviction that unification is a worthy
+cause. When he wrote to Weyl in 1922 about unified theories, 'I believe that in
+order to make real progress one must again ferret out some general principle from
+nature' [E5], he was still taking his cues from physics.
+Nor were his interests in physics in those years confined to general relativity,
+whether of the orthodox or of the unified variety. His letters of that period to
+Ehrenfest, always filled with physics ideas that intrigued him, deal largely with
+the quantum theory. In 1921 he was excited about his new proposal for an exper-
+iment to test quantum aspects in Doppler phenomena [E6]. In 1922 he was
+intrigued by the Stern-Gerlach experiment [E7]. His January 1922 paper on
+unified field theory, written with Grommer [E8], is never mentioned in these let-
+ters, but a few weeks after its completion he wrote of his work with Grommer on
+quantum problems [E9]. In 1923 he and Ehrenfest worked on the quantum the-
+ory of radiative equilibrium [E10], and, together with another friend,* he pub-
+lished his last paper on experimental physics, a determination of the width of
+*See the entry about Miihsam in Chapter 29.
+UNIFIED FIELD THEORY 329
+capillaries in membranes [Ell]. Late in 1924 and early in 1925, his three papers
+on the Bose-Einstein gas were completed (see Chapter 23).
+Meanwhile he was not altogether idle in regard to unified field theory. There
+is the Einstein-Grommer paper of 1922 in response to the Kaluza theory (see
+Section 17c). There are several papers in 1923 (to be discussed in Section 17e)
+elaborating an attempt at unification due to Eddington. But it is not until 1925
+that we witness his first truly deep immersion in this subject, as he came forth
+with an invention all his own of a new version of unification.
+From that time on, the character of Einstein's scientific output changes. In 1926
+he wrote three papers of that playful but not at all flippant variety which he had
+so often produced in earlier years, one on the meandering of rivers [E12], two on
+the light emission by canal rays [El3, El4]. They were his last in this genre. The
+later period begins. He is nearly fifty years old. Occasionally there are papers on
+conventional general relativity, such as those on the problem of motion. But uni-
+fied field theory now becomes the main thrust of his efforts, along with the search
+for an alternative that deprives quantum mechanics of its status as a fundamental
+theory. I have already alluded to the fact that these two themes were—in his
+view—intimately related, a subject to which I shall return at more length in Sec-
+tion 26e.
+Heisenberg's first paper on matrix mechanics [HI] and Einstein's first privately
+created unified field theory [E15] were both completed in July 1925; Schroedin-
+ger's first paper on wave mechanics in January 1926 [SI]. Einstein's gestation
+period before he made the real plunge into unified field theory had lasted about a
+decade, just as it had been for the special and the general theories of relativity.
+This time, however, it was not he but others who in the end ushered in the new
+physics. So it was to remain in the next decade, and the next and the next, until
+he laid down his pen and died. His work on unification was probably all in vain,
+but he had to pursue what seemed centrally important to him, and he was never
+afraid to do so. That was his destiny.
+Let us see next what he did, first with five-dimensional theories.
+17c. The Fifth Dimension
+1. Kaluza and Oskar Klein. The two pioneers of unified field theory were both
+mathematicians. The first unification, based on a generalization of Riemannian
+geometry in the usual four space-time dimensions, was proposed by Hermann
+Weyl in 1918 (see Section 17d). With the same aim in mind, and inspired by
+Weyl's paper, the mathematician and consummate linguist Theodor Kaluza
+became the first to suggest that unification might be achieved by extending space-
+time to a five-dimensional manifold.* His one paper on this subject was published
+*In 1914 Nordstrom had already proposed to use a five-dimensional space for the unification of
+electromagnetism with a scalar gravitational field [Nl].
+330 THE LATER JOURNEY
+in 1921 [K2], but he already had this idea in 1919, for in April of that year
+Einstein wrote to him, 'The idea of achieving [a unified theory] by means of a
+five-dimensional cylinder world never dawned on me. ... At first glance I like
+your idea enormously' [E16]. Still very much in the Machian mood, Einstein
+added that one ought to examine whether this new theory would allow for a sen-
+sible solution of the cosmological problem.* A few weeks later, he wrote to him
+again, 'The formal unity of your theory is startling'[E18]. In 1921 he communi-
+cated Kaluza's work to the Prussian Academy. (I do not know why this publica-
+tion was delayed so long.)
+Kaluza's well-written paper contains nearly all the main points of the five-
+dimensional approach:
+1. The introduction of an invariant line element
+in which the metric tensor 7^ satisfies two constraints. First, the 7^ shall
+depend only on the space-time coordinates x', i' = 1,. . ,4:
+Secondly, 755 is assumed to be a positive numerical invariant that may be nor-
+malized such that
+Thus we deal with a cylinder world, the fifth axis is preferred, the fifth direc-
+tion is space-like. Equation 17.3 has become known as the cylinder condition.
+2. 7,5, a 4-vector field relative to the Riemannian space-time submanifold R4, is
+assumed to be proportional to the electromagnetic potential.
+3. The field equations are
+where R^ and R are the familiar functions of the F^ and their first derivatives
+and Tw is the energy-momentum tensor exclusive of the purely electromag-
+netic contribution. Kaluza considered only the case where the source is a single
+point particle with mass m and charge e, T1" = mu^u", u" = dx^/ds, and
+showed that for ;u, v = i, j, one obtains the gravitational field equations; /n, v
+= i, 5, yield the Maxwell equations; /*, v — 5, 5, reduces to a trivial identity.
+The identification of the Maxwell equations requires that w5 be proportional
+to e/m. Thus mil* is the 5-vector of 'momentum-energy-charge.'
+4. A geodesic in the cylinder world can be identified with the trajectory of a
+charged test particle moving in a combined gravitational-electromagnetic field.
+*As was mentioned in Section 15e, Einstein had used the cosmological term in 1919 for the purpose
+of linking electromagnetism to gravitation [E17].
+where Rw is the curvature scalar in /?4. Thus /?(5) is the unified Lagrangian
+for gravitation and electromagnetism! Equation 17.8 makes clear why the fac-
+tor VZK was introduced in Eq. 17.6a and why it is important that 755 be taken
+positive (and normalized to +1).
+5. In 1926 Klein already believed that the fifth dimension might have something
+to do with quantization [K4], an idea that stayed with him for many years
+*In the same year, the five-dimensional unification was discovered independently by Mandel [Ml];
+see also [M2] and [Fl].The relations 17.2 and 17.3 are invariant under G5.
+2. Define g^ by(17.5)
+(17.6)UNIFIED FIELD THEORY 331
+Kaluza proved his results only for the case where the fields are weak (i.e.,
+g,u, = Vw + h^, | /z,J «1, Tj55 = 1) and the velocity is small (y/c«l). An impor-
+tant advance was made by Oskar Klein, who showed in 1926* that these two
+constraints are irrelevant [K3]. Unification (at least this version) has nothing to
+do with weak fields and low velocities. The resulting formulation has since become
+known as the Kaluza-Klein theory. Its gist can be stated as follows.
+1. Start with the quadratic form Eq. 17.1 and demand that it be invariant under
+a group G5 of transformations that is the product of the familiar group of point
+transformation G4 in R4 and the group S,, defined by
+which shows that S\ is a geometrized version of the local electromagnetic gauge
+group.
+4. Let /?<5) be the curvature scalar in five-space. A straightforward calculation
+shows thatThey are a four-vector under G4 and (since Eq. 17.1 is invariant under G5)
+thev transform under S, as
+(17.7)(17.6a)The g,k are symmetric; they are a tensor under G4 and are invariant under 5,.
+Thus we can define g^ dx'dxk as the standard line element in R4.
+3. Define the electromagnetic potentials $, by
+(17.8)
+(17.9)
+where Ne is the charge of the particle considered and e is the charge of the
+electron. Now, Klein argued [K4], since nature tells us that N is an integer,
+'[Eq. 17.12] suggests that the atomicity of electricity may be interpreted as a
+quantum theoretical law. In fact, if the five-dimensional space is assumed to be
+closed in the direction of x5 with a period /, and if we apply the formalism of
+quantum mechanics to our geodesies, we shall expect />5 to be governed by the
+following rule:
+Klein conjectured that '[the] smallness [of /] may explain the nonapp .-arance
+of the fifth dimension in ordinary experiments as the result of averaging over
+the fifth dimension.'* This same suspicion that there might be some reality to
+the fifth dimension was also on Einstein's mind when, in the late 1930s, he
+*In those years immediately following the discovery of quantum mechanics, there were also quite
+different speculations to the effect that the fifth dimension had something to do with the new mechan-
+ics. For example, it was suggested that 755 should be taken as a scalar field (rather than as a constant)
+which might play the role of the Schroedinger wavefield [Gl].
+George Uhlenbeck told me, 'I remember that in the summer of 1926, when Oskar Klein told us
+of his ideas which would not only unify the Maxwell with the Einstein equations but also bring in
+the quantum theory, I felt a kind of ecstasy! Now one understands the world!'such that /J5 is constant along a geodesic. For i = 1,... , 4, the corresponding
+equations of motion yield Kaluza's result for the geodesic motion in a gravi-
+tational-electromagnetic field (see, e.g., Pauli's review article [PI]) provided
+one chooses
+(17.12)(17.11)(17.10)332 THE LATER JOURNEY
+[K5]. In particular he noted that the Lagrangian L for a particle with mass
+m
+(where ds is given by Eq. 17.1 and where dr is the differential proper time)
+leads to five conjugate momenta p^.
+Thus a length / enters the theory given by(17.13)
+(17.14)
+UNIFIED FIELD THEORY 333
+worked for some years on the Kaluza-Klein theory. However, Einstein had
+already become actively interested in Kaluza's ideas before the appearance of
+Klein's papers in 1926.
+2. Einstein and the Kaluza-Klein Theory. In 1922 Einstein and Grommer
+addressed the question, Does Eq. 17.4 have any particle-like solutions in the
+absence of 'sources,' that is, if Tm = 0? It was a question Einstein had pondered
+earlier in the context of conventional general relativity. For that case we do not
+know, he reasoned, how to nail down Tik(i,k = 1,... , 4) as firmly as the left-
+hand side of the gravitational equations. Could we do without a TA altogether?
+Perhaps, he said, since the equations for pure gravitation are nonlinear. The pos-
+sibility that there are nonsingular particle-like solutions for vanishing Tik ought
+to be considered. In what follows, we shall see that time and time again Einstein
+kept insisting on the existence of singularity-free solutions of source-free equations
+as a condition that must be met by a theory acceptable to him.
+Transcribed to the Kaluza theory, the question of zero Tik becomes the question
+of zero T^. Einstein and Grommer [E8] showed that 'the Kaluza theory possesses
+no centrally symmetric solution which depends on the g^ only and which might
+be interpreted as a (singularity-free) electron,' a conclusion which of course has
+nothing to do with unified field theory per se, since it could equally well have been
+asked in the context of ordinary general relativity theory.
+Einstein's next papers on the five-dimensional theory are two short communi-
+cations in February 1927 [E19, E20]. I should explain why these papers are a
+mystery to me. Recall that in 1926 (in April, to be precise) Klein had presented
+an improved version of the Kaluza theory. In August 1926 Einstein wrote to
+Ehrenfest that Grommer had drawn his attention to Klein's paper: 'Subject:
+Kaluza, Schroedinger, general relativity' [E21]. Ten days later, he wrote to him
+again: 'Klein's paper is beautiful and impressive, but I find Kaluza's principle too
+unnatural' [E22]. Then come Einstein's own two papers just mentioned, followed
+by a letter to Lorentz: 'It appears that the union of gravitation and Maxwell's
+theory is achieved in a completely satisfactory way by the five-dimensional theory
+(Kaluza-Klein-Fock)' [E23, Fl].
+There is nothing unusual in Einstein's change of opinion about a theory being
+unnatural at one time and completely satisfactory some months later. What does
+puzzle me is a note added to the second paper [E20]: 'Herr Mandel points out to
+me that the results communicated by me are not new. The entire content is found
+in the paper by O. Klein.' An explicit reference is added to Klein's 1926 paper
+[K3]. I fail to understand why he published his two notes in the first place.
+Einstein then remained silent on the subject of five dimensions until 1931, when
+he and Walther Mayer (see Chapter 29) presented a new formalism 'which is
+psychologically connected with the known theory of Kaluza but in which an exten-
+sion of the physical continuum to five dimensions is avoided' [E24]. He wrote
+enthusiastically to Ehrenfest that this theory 'in my opinion definitively solves the
+problem in the macroscopic domain' [E25] (for the last four words read: excluding
+334 THE LATER JOURNEY
+quantum phenomena). This was his motivation: 'It is anomalous to replace the
+four-dimensional continuum by a five-dimensional one and then subsequently to
+tie up artificially one of these five dimensions in order to account for the fact that
+it does not manifest itself. We have succeeded in formulating a theory which for-
+mally approximates Kaluza's theory without being exposed to the objection just
+stated. This is accomplished by the introduction of an entirely new mathematical
+concept' [E26].
+The new mathematics presented by Einstein and Mayer in two papers [E24,
+E27] does not involve the embedding of the Riemann manifold R4 in a five-space.
+Instead, a five-dimensional vector space M5 is associated with each point of R4
+and the local Minkowski space (call it M4) is embedded in the local M5, which
+has (4 + l)-metric. Prescriptions are introduced for decomposing tensors in M5
+with respect to M4. The transport of 5-tensors from one M5 to another M5
+attached to a neighboring point in R4 is defined. This involves a five-dimensional
+connection of which (so it is arranged) some components are identified with the
+Riemannian connection in R^ while, in addition, only an antisymmetrical tensor
+Fu appears, which is identified with the electromagnetic field.* However (as Ein-
+stein noted in a letter to Pauli [E28]), one has to assume that Fkl is the curl of a
+4-vector; also, the Einstein-Mayer equations are not derivable from a variational
+principle. After 1932 we find no trace of this theory in Einstein's work.
+In a different environment, he made one last try at a five-dimensional theory.
+He was in America now. His old friend Ehrenfest was gone. The year was 1938.
+This time he had in mind not to make x* less real than Kaluza-Klein, but more
+real. At first he worked with Peter Bergmann; later Valentin Bargmann joined
+them. Altogether, their project was under active consideration for some three
+years. Bergmann's textbook tells us what the motivation was:
+It appeared impossible for an iron-clad four-dimensional theory ever to account
+for the results of quantum theory, in particular for Heisenberg's indeterminacy
+relation. Since the description of a five-dimensional world in terms of a four-
+dimensional formalism would be incomplete, it was hoped that the indetermi-
+nacy of 'four dimensional' laws would account for the indeterminacy relation
+and that quantum phenomena would, after all, be explained by a [classical]
+field theory. [Bl]
+Their approach was along the lines of Klein's idea [K4] that the 5-space is closed
+in the fifth direction with a fixed period. The group is again G5 (see Eq. 17.5).
+The line element (Eq. 17.1), the condition (Eq. 17.3) on yss, and the definition
+(Eq. 17.6) of gik are also maintained, but Eq. 17.2 is generalized. It is still assumed
+that the 7,5 (the electromagnetic potentials) depend only on x', but (and this is
+new) the gik are allowed to depend periodically on x5. The resulting formalism is
+'These rules are summarized in papers by Pauli and Solomon [P2] that have been reproduced in
+Pauli's collected works [P3].
+Bargmann and Bergmann told me that Einstein thought that the higher Fourier
+components might somehow be related to quantum fields. He gave up the five-
+dimensional approach for good when these hopes did not materialize.
+3. Addenda. Other attempts to use five- or more-dimensional manifolds for
+a description of the physical world continue to be made.
+a) Soon after the Einstein-Mayer theory, another development in five-dimen-
+sional theory began, known as projective relativity, to which many authors con-
+tributed.* In this theory the space-time coordinates xl are assumed to be homo-
+geneous functions of degree zero in five coordinates AT1*. A Riemann metric with
+invariant line element ds2 = gia,dX"dX" is introduced in the projective 5-space
+(which has signature 4 + 1). The condition
+where <pk are the electromagnetic potentials and F is an arbitrary homogeneous
+function of degree one in the X". Thus the projective coordinates themselves are
+directly related to the potentials up to a 5-gauge transformation.
+The Dirac equation in projective space was discussed by Pauli [ P4]. Variational
+methods were applied to this theory by Pais [P5] with the following results. Let
+*For detailed references, see especially [S2]. The best introduction to this subject is a pair of papers
+by Pauli [P4].
+**The mathematical connection between this theory and the Kaluza-KIein theory is discussed in
+[Bl].UNIFIED FIELD THEORY 335
+discussed in much detail in Bergmann's book (see also [B2] and [PI]). Two ver-
+sions of the theory were considered. In the first one [E29], the field equations are
+derived from a variational principle. Because of the new x" dependence, they are
+integro-differential equations (an integration over xs remains). They also contain
+several arbitrary constants because the action can contain new invariants (depend-
+ing on derivatives of the gik with respect to x5). In a second version [E30], the
+variational principle is abandoned and Bianchi identities which constrain these
+constants are postulated.
+In theories of this kind, the g,k can be represented by (the period is normalized
+to ZTT):
+(17.15)
+(17.16)
+takes the place of the cylinder condition. The quantities 7* = dxk/dX" project
+from the 5-space to the 4-space.** One proves that
+(17.17)
+five conservation laws which are shown to be the differential laws for conservation
+of energy, momentum, and charge.
+b) A number of authors, in particular Jordan [Jl], have studied an extension
+of this formalism to the case where the right-hand side of Eq. 17.16 is replaced
+by a scalar field. Bergmann informed me that he and Einstein also had worked
+on this generalization [B3].
+c) In the 1980s, particle physicists have taken up the study of field equations in
+(4 + 7V)-dimensional manifolds, where '4' refers to space-time and where the
+extra N variables span a compact space-like TV-dimensional domain which is sup-
+posed to be so small as not to influence the usual physics in inadmissible ways.
+Various values of N are being considered for the purpose of including non-Abe-
+lian gauge fields. Some authors advocate dropping constraints of the type 17.2 and
+17.3, hoping that the compactness in the additional dimensions will result from
+'spontaneous compactification,' a type of spontaneous symmetry breaking. The
+future will tell what will come of these efforts. It seems fitting to close this section
+by noting that, in 1981, a paper appeared with the title 'Search for a Realistic
+Kaluza-Klein Theory' [Wl].*
+4. Two Options. Einstein spent much less energy on five-dimensional theories
+than on a second category of unification attempts in which the four-dimensional
+manifold is retained but endowed with a geometry more general than Riemann's.
+At this point the reader is offered two options.
+Option 1. Take my word for it that' these attempts have led nowhere thus far,
+skip the next section, skim the two sections thereafter, and turn to the quantum
+theory.
+Option 2. If he is interested in what not only Einstein but also men like Edding-
+ton and Schroedinger tried to do with these geometries, turn to the next section.
+17d. Relativity and Post-Riemannian Differential Geometry
+In his address on general relativity and differential geometry to the Einstein Cen-
+tennial Symposium in Princeton [C3], the eminent mathematician Shiing-Shen
+*In that paper, one will find references to other recent work in this direction.be the variational principle, where R is the 5-curvature scalar. All that is given
+about X is that it is a scalar function of field variables and their covariant deriv-
+atives. In addition, one must admit an explicit dependence of ^~on the coordinates
+X". By extending the Noether methods to this more general situation, one can
+derive an explicit expression for the source tensor T** in terms of jC and deriv-
+atives of X with respect to the fields and to X". This tensor satisfies(17.18)THE LATER JOURNEY 336
+(17.19)
+UNIFIED FIELD THEORY 337
+Ghern made two statements which apply equally well to the present section: 'It
+is a strange feeling to speak on a topic of which I do not know half the title', and
+'I soon saw the extreme difficulty of his [Einstein's] problem and the difference
+between mathematics and physics.' Otherwise the overlap between this section and
+Chern's paper is minor. Chern deals mainly with modern global problems of dif-
+ferential geometry, such as the theory of fiber bundles, subjects which Einstein
+himself never wrote about or mentioned to me. My own aim is to give an account
+of unified field theory in Einstein's day, when the concerns were uniquely with
+local differential geometry and when the now somewhat old-fashioned (and glob-
+ally inadequate) general Ricci calculus was the main tool. Hence the main pur-
+pose of this section: to give the main ideas of this calculus in one easy lesson.* A
+simple way of doing this is first to consider a number of standard equations and
+results of Riemannian geometry, found in any good textbook on general relativity,
+and then to generalize from there.
+In Riemannian geometry, we have a line element
+is a tensor of the second rank. Covariant derivatives of higher covariant tensors
+are deduced in the standard way. In particular, Q^, defined by
+"The interested reader is urged to read Schroedinger's wonderful little book on this subject [S3].(17.20)
+(17.21)invariant under all continuous point transformations x' —*• x1' = x'\x}) and a
+connection Fj, related to the g^ by
+ror later purposes i aistmguisn two groups 01 properties.
+The First Group
+\. A covariant vector field Af and a contravariant vector field B1' transform as
+(17.22)
+from which one deduces the transformation of higher-rank tensors by the standard
+rules.
+2. Contraction of a tensor of rank n (> 2) yields a tensor of rank n — 2.
+3. The covariant derivative of A,., defined bv
+(17.23)
+THE LATER JOURNEY
+(17.24)
+(17.25)
+(17.26)
+(17.27)
+(17.28)The Second Group6. The Ricci tensor Rm is defined byThis tensor plays a central role in all unified field theories discussed hereafter.5. There is a curvature tensor defined by4. The connection transforms asis a tensor of the third rank.338
+1.
+2.
+3.
+4.(17.29)
+(17.30)
+(17.31)
+5. If A* is a contra variant vector field with a covariant derivative defined by
+(17.32)
+then
+6. The quantity R defined by(17.33)
+(17.34)
+is a scalar.
+7.
+8. The equations(17.35)
+(17.36)
+UNIFIED FIELD THEORY 339
+are necessary and sufficient conditions for a Riemann space to be everywhere flat
+(pseudo-Euclidean).
+Now comes the generalization. Forget Eqs. 17.20 and 17.21 and the second
+group of statements. Retain the first group. This leads not to one new geometry
+but to a new class of geometries, or, as one also says, a new class of connections.
+Let us note a few general features.
+a) There is no longer a metric. There are only connections. Equation 17.25,
+now imposed rather than derived from the transformation properties of gm, is
+sufficient to establish that AK, and R^ are tensors. Thus we still have a tensor
+calculus.
+b) A general connection is defined by the 128 quantities F^ and f^,. If these are
+given in one frame, then they are given in all frames provided we add the rule
+that even if Fj, =£ fj, then fj, still transforms according to Eq. 17.25.
+c) In the first group, we retained one reference to g^, in Eq. 17.24. The reason
+for doing so is that in these generalizations one often introduces a fundamental
+tensor g^, but not via the invariant line element. Hence this fundamental tensor
+no longer deserves the name metrical tensor. A fundamental tensor g^ is never-
+theless of importance for associating with any contravariant vector A* a covariant
+vector Af by the rule Af = g^A" and likewise for higher-rank tensors. The g^
+does not in general obey Eq. 17.31, nor need it be symmetric (if it is not, then, of
+course, g^ A' =£ g^A').
+d) Since Eq. 17.28 does not necessarily hold, the order of the ju,j> indices in Eq.
+17.23 is important and should be maintained. For unsymmetric Fj,, the replace-
+ment of Fj, in Eq. 17.23 by F^ also defines a connection, but a different one.
+e) Even if Fj, is symmetric in /i and v, it does not follow that R^ is symmetric:
+we may use Eq. 17.27 but not Eq. 17.30. This remark is of importance for the
+Weyl and Eddington theories discussed in what follows.
+f) For any symmetric connection, the Bianchi identities
+(17.37)
+die vtiiiu.
+g) R1^, is still a tensor, but R^, = 0 does not in general imply flatness; see the
+theory of distant parallelism discussed in the next section.
+h) We can always contract the curvature tensor to the Ricci tensor, but, in the
+absence of a fundamental tensor, we cannot obtain the curvature scalar from the
+Ricci tensor.
+i) the contracted Bianchi identities Eq. 17.35 are in general not valid, nor even
+defined. These last two observations already make clear to the physicist that the
+use of general connections means asking for trouble.
+The theory of connections took off in 1916, starting with a paper by the math-
+ematician Gerhard Hessenberg [H2]. These new developments were entirely a
+340 THE LATER JOURNEY
+consequence of the advent of general relativity, as is seen from persistent reference
+to that theory in all papers on connections which appeared in the following years,
+by authors like Weyl, Levi-Civita, Schouten, Struik, and especially Elie Cartan,
+who introduced torsion in 1922 [C4], and whose memoir 'Sur les Varietes a Con-
+nexion Affine et la theorie de la Relativite Generalisee' [C5] is one of the papers
+which led to the modern theory of fiber bundles [C3]. Thus Einstein's labors had
+a major impact on mathematics.
+The first book on connections, Schouten's Der Ricci-Kalkiil [S4], published in
+1924, lists a large number of connections distinguished (see [S4], p. 75) by the
+relative properties of FJ, and Fj,, the symmetry properties of Fj,, and the prop-
+erties of Q^. It will come as a relief to the reader that for all unified-field theories
+to be mentioned below, Eq. 17.33 does hold. This leads to considerable simplifi-
+cations since then, and only then, product rules of the kind
+(17.38)
+hold true. Important note: the orders of indices in Eqs. 17.23 and 17.32 are
+matched in such a way that Eq. 17.38 is also true for nonsymmetric connections.
+Let us consider the Weyl theory of 1918 [W2] as an example of this formalism.
+This theory is based on Eq. 17.33, on a symmetric (also called affine) connection,
+and on a symmetric fundamental tensor g^ However, Qw does not vanish.
+Instead:
+(17.39)
+(which reduces to Q^ = 0 for 4>p = 0). </>p is a 4-vector. This equation is invar-
+iant under
+(17.40)
+(17.41)
+(17.42)
+where X is an arbitrary function of x". Equations 17.40-17.42 are compatible
+since Eq. 17.39 implies that
+(17.43)
+where F*^ is the Riemannian expression given by the right-hand side of Eq.
+17.21. Weyl's group is the product of the point transformation group and the
+group of X transformations specified by Eqs. 17.40 and 17.41. The xx are
+unchanged by X transformations, so that the thing ds2 = g^dx^dx^^-Xds2. If we
+dare to think of the thing ds as a length, then length is regauged (in the same
+sense the word is used for railroad tracks), whence the expression gauge transfor-
+mations, which made its entry into physics in this unphysical way. The quantities
+R1^ and F^ defined by
+are both gauge-invariant tensors. So, therefore, is R^ (which is not symmetric
+now); R is a scalar but is not gauge invariant: R' =\~1R, sinceg*"' = \~lg^.
+It is obvious what Weyl was after: F^ is to be the electromagnetic field. In
+addition, he could show that his group leads automatically to the five conservation
+laws for energy, momentum, and charge. His is not a unified theory if one
+demands that there be a unique underlying Lagrangian L that forces the validity
+of the gravitational and electromagnetic field equations, since to any L one can
+add an arbitrary multiple of the gauge-invariant scalar ^F^F^yg d*x. For a
+detailed discussion and critique of this theory, see books by Pauli [PI] and by
+Bergmann [Bl].
+When Weyl finished this work, he sent a copy to Einstein and asked him to
+submit it to the Prussian Academy [W3]. Einstein replied, 'Your ideas show a
+wonderful cohesion. Apart from the agreement with reality, it is at any rate a
+grandiose achievement of the mind' [E31]. Einstein was of course critical of the
+fact that the line element was no longer invariant. The lengths of rods and the
+readings of clocks would come to depend on their prehistory [E32], in conflict with
+the fact that all hydrogen atoms have the same spectrum irrespective of their
+provenance. He nevertheless saw to the publication of Weyl's paper, but added a
+note in which he expressed his reservations [E33].* Weyl's response was not con-
+vincing. Some months later, he wrote to Einstein, '[Your criticism] very much
+disturbs me, of course, since experience has shown that one can rely on your intu-
+ition' [W4].
+This theory did not live long. But local gauge transformations survived, though
+not in the original meaning of regauging lengths and times. In the late 1920s,
+Weyl introduced the modern version of these transformations: local phase trans-
+formations of matter wave functions. This new concept, suitably amplified, has
+become one of the most powerful tools in theoretical physics.
+17e. The Later Journey: a Scientific Chronology
+The last period of Einstein's scientific activities was dominated throughout by
+unified field theory. Nor was quantum theory ever absent from his mind. In all
+those thirty years, he was as clear about his aims as he was in the dark about the
+methods by which to achieve them. On his later scientific journey he was like a
+traveler who is often compelled to make many changes in his mode of transpor-
+tation in order to reach his port of destination. He never arrived.
+The most striking characteristics of his way of working in those years are not
+all that different from what they had been before: devotion to the voyage, enthu-
+*In 1921, Einstein wrote a not very interesting note in which he explored, in the spirit of Weyl, a
+relativity theory in which only g^dx'dx' = 0 is invariant [E34].UNIFIED FIELD THEORY
+(17.44)141
+(recall that R^ = 0 in the Riemannian case because of Eq. 17.29). Eddington
+therefore suggested that R^ play the role of electromagnetic field.
+Note further that
+(17.47)
+(17.48)is a scalar, where A is some constant. Define g^ by(17.46)(17.45)
+where the first (second) term is the symmetric (antisymmetric) part. Not only is
+R(^ antisymmetric, it is a curl: according to Eq. 17.27342 THE LATER JOURNEY
+siasm, and an ability to drop without pain, regrets, or afterthought, one strategy
+and to start almost without pause on another one. For twenty years, he tried the
+five-dimensional way about once every five years. In between as well as thereafter
+he sought to reach his goal by means of four-dimensional connections, now of one
+kind, then of another. He would also spend time on problems in general relativity
+(as was already discussed in Chapter 15) or ponder the foundations of quantum
+theory (as will be discussed in Chapter 25).
+Returning to unified field theory, I have chosen the device of a scientific chro-
+nology to convey how constant was his purpose, how manifold his methods, and
+how futile his efforts. The reader will find other entries (that aim to round off a
+survey of the period) interspaced with the items on unification. The entries dealing
+with the five-dimensional approach, already discussed in Section 17b, are marked
+with a f. Before I start with the chronology, I should stress that Einstein had three
+distinct motives for studying generalizations of general relativity. First, he wanted
+to join gravity with electromagnetism. Second, he had been unsuccessful in obtain-
+ing singularity-free solutions of the source-free general relativistic field equations
+which could represent particles; he hoped to have better luck with more general
+theories. Third, he hoped that such theories might be of help in understanding the
+quantum theory (see Chapter 26).
+1922.} A study with Grommer on singularity-free solutions of the Kaluza
+equations.
+1923. Four short papers [E35, E36, E37, E38] on Eddington's program for
+a unified field theory. In 1921 Eddington had proposed a theory inspired by
+Weyl's work [E39]. As we just saw, Weyl had introduced a connection and a
+fundamental tensor, both symmetric, as primary objects. In Eddington's proposal
+only a symmetric F^, is primary; a symmetric fundamental tensor enters through
+a back door. A theory of this kind contains a Ricci tensor /?„, that is not symmetric
+(even though the connection is symmetric). Put
+UNIFIED FIELD THEORY 343
+an equation akin to an Einstein equation with a cosmological constant. Then from
+Eqs. 17.47 and 17.48 we derive rather than postulate a metric.
+It is all rather bizarre, a Ricci tensor which is the sum of a metric and an
+electromagnetic field tensor. In 1923 Weyl declared the theory not fit for discus-
+sion ('undiskutierbar') [W5], and Pauli wrote to Eddington, 'In contrast to you
+and Einstein, I consider the invention of the mathematicians that one can found a
+geometry on an affine connection without a [primary] line element as for the pres-
+ent of no significance for physics' [P6].
+Einstein's own initial reaction was that Eddington had created a beautiful
+framework without content [E40]. Nevertheless, he began to examine what could
+be made of these ideas and finally decided that 'I must absolutely publish since
+Eddington's idea must be thought through to the end' [E41]. That was what he
+wrote to Weyl. Three days later, he wrote to him again about unified field theo-
+ries: 'Above stands the marble smile of implacable Nature which has endowed us
+more with longing than with intellectual capacity' [E42].* Thus, romantically,
+began Einstein's adventures with general connections, adventures that were to
+continue until his final hours.
+Einstein set himself the task of answering a question not fully treated by
+Eddington: what are the field equations for the forty fundamental FjJ, that take
+the place of the ten field equations for the g^ in general relativity? The best equa-
+tions he could find were of the form
+*' . . . Dariiber steht das marmorne Lacheln der unerbittlichen Natur, die uns mehr Sehnsucht als
+Geist verliehen hat.'(17.49)
+where F*J, is the rhs of Eq. 17.21 and where the i had to be interpreted as the
+sources of the electromagnetic field. Then he ran into an odd obstacle: it was
+impossible to derive source-free Maxwell equations! In addition, there was the old
+lament: 'The theory .. . brings us no enlightenment on the structure of electrons'
+[E38], there were no singularity-free solutions.
+In 1925 Einstein referred to these two objections at the conclusion to an appen-
+dix for the German edition of Eddington's book on relativity. 'Unfortunately, for
+me the result of this consideration consists in the impression that the Weyl-
+Eddington [theories] are unable to bring progress in physical knowledge' [E43].
+1924-5. Three papers on the Bose-Einstein gas, Einstein's last major innova-
+tive contribution to physics (see Chapter 23).
+7925. Einstein's first homemade unified field theory, also the first example of a
+publicly expressed unwarranted optimism for a particular version of a unified
+theory followed by a rapid rejection of the idea. 'After incessant search during the
+last two years, I now believe I have found the true solution,' he wrote in the open-
+ing paragraph of this short paper [E44].
+Both the connection and a primary fundamental tensor s^ are nonsymmetric
+344 THE LATER JOURNEY
+in this new version. Thus there are eighty fundamental fields, all of which are to
+be varied independently in his variational principle
+where /?„, is once again the Ricci tensor (still a tensor, as was noted earlier).
+Equation 17.50 looks, of course, very much like the variational principle in gen-
+eral relativity. Indeed, Eq. 17.21 is recovered in the symmetric limit (not surpris-
+ing since in that case the procedure reduces to the Palatini method [PI]). In the
+general case, relations between 1^, and g^ can be obtained only up to the intro-
+duction of an arbitrary 4-vector.
+Einstein attempted to identify the symmetric part of gm with gravitation, the
+antisymmetric part 0^ with the electromagnetic field. However, </>„, is in general
+not a curl. The closest he could come to the first set of Maxwell equations was to
+show that in the weak-field limit
+There the paper ends. Einstein himself realized soon after the publication of
+this work that the results were not impressive. He expressed this in three letters
+to Ehrenfest. In the first one, he wrote, 'I have once again a theory of gravitation-
+electricity; very beautiful but dubious' [E45]. In the second one, 'This summer I
+wrote a very beguiling paper about gravitation-electricity .. . but now I doubt
+again very much whether it is true' [E46]. Two days later, 'My work of last
+summer is no good' [E47]. In a paper written in 1927 he remarked, 'As a result
+of numerous failures, I have now arrived at the conviction that this road [ Weyl
+—» Eddington -* Einstein] does not bring us closer to the truth' [E48].
+[Remark. Einstein's work was done independently of Cartan, who was the first
+to introduce nonsymmetric connections (the antisymmetric parts of the Fj, are now
+commonly known as Cartan torsion coefficients). There is considerable interest by
+general relativists in theories of this kind, called Einstein-Cartan theories [H3].
+Their main purpose is to link torsion to spin. This development has, of course,
+nothing to do with unification, nor was Einstein ever active in this direction].
+1921.\ Einstein returns to the Kaluza theory. His improved treatment turns
+out to be identical with the work of Klein. In January 1928 he writes to Ehrenfest
+that this is the right way to make progress. 'Long live the fifth dimension' [E49].
+Half a year later, he was back at the connections.
+1928. All attempts at unification mentioned thus far have in common that one
+could imagine or hope for standard general relativity to reappear somehow,
+embedded in a wider framework. Einstein's next try is particularly unusual, since
+the most essential feature of the 'old' theory is lost from the very outset: the exis-
+tence of a nonvanishing curvature tensor expressed in terms of the connection by
+Eq. 17.26.
+It began with a purely mathematical paper [E50], a rarity in Einstein's oeuvre,
+in which he invented distant parallelism (also called absolute parallelism or tele-
+where 1"^ is defined by the rhs ot Eq. 17.21 (it follows Irom Eq. 17.25 that A^
+is a true tensor). He hoped to be able to identify A\ with the electromagnetic
+potential, but even for weak fields he was unable to find equations in which grav-
+*See a letter from Cartan to Einstein [C6] (in which Cartan also notes that he had alluded to this
+geometry in a discussion with Einstein in 1922) reproduced in the published Cartan-Einstein cor
+respondence [Dl]. In 1929, Einstein wrote a review of this theory [E51] to which, at his suggestion,
+Cartan added a historical note [C7].UNIFIED FIELD THEORY 345
+parallelism). Transcribed in the formalism of the previous section, this geometry
+looks as follows. Consider a contravariant Vierbein field, a set of four orthonormal
+vectors h"a, a = 1,2, 3, 4; a numbers the vectors, v their components. Imagine that
+it is possible for this Vierbein as a whole to stay parallel to itself upon arbitrary
+displacement, that is, h'av = 0 for each a, or, in longhand,
+for each a. If this is possible, then one can evidently define the notion of a straight
+line (not to be confused with a geodesic) and of parallel lines. Let hm be the nor-
+malized minor of the determinant of the h"a. Then (summation over a is under-
+stood)(17.52)
+(17.53)
+The notation is proper since h,a is a covariant vector field. From Eqs. 17.52 and
+17.53 we can solve for the connection:
+(17.54)
+H7.571)(17.56)(17.55)from which one easily deduces that
+Thus distant parallelism is possible only for a special kind of nonsymmetric con-
+nection in which the sixty-four FJ,, are expressible in terms of sixteen fields and
+in which the curvature tensor vanishes. When Einstein discovered this, he did not
+know that Cartan was already aware of this geometry.*
+All these properties are independent of any metric. However, one can define an
+invariant line element ds2 = g^dx"dx" with
+The resulting geometry, a Riemannian geometry with torsion, was the one Ein-
+stein independently invented. A week later he proposed to use this formalism for
+unification [E51a]. Of course, he had to do something out of the ordinary since he
+had no Ricci tensor. However, he had found a new tensor A^, to play with, defined
+by346 THE LATER JOURNEY
+itational and electromagnetic fields are separated, an old difficulty. There the mat-
+ter rested for several months, when odd things began to happen.
+On November 4, 1928, The New York Times carried a story under the heading
+'Einstein on verge of great discovery; resents intrusion,' followed on November 14
+by an item 'Einstein reticent on new work; will not "count unlaid eggs." ' Einstein
+himself cannot have been the direct source of these rumors, also referred to in
+Nature [N2], since these stories erroneously mentioned that he was preparing a
+book on a new theory. In actual fact, he was at work on a short paper dealing
+with a new version of unification by means of distant parallelism. On January 11,
+1929, he issued a brief statement to the press stating that 'the purpose of this work
+is to write the laws of the fields of gravitation and electromagnetism under a
+unified view point' and referred to a six-page paper he had submitted the day
+before [E52]. A newspaper reporter added the following deathless prose to Ein-
+stein's statement. 'The length of this work—written at the rate of half a page a
+year—is considered prodigious when it is considered that the original presentation
+of his theory of relativity [on November 25, 1915] filled only three pages' [N3].
+'Einstein is amazed at stir over theory. Holds 100 journalists at bay for a week,'
+the papers reported a week later, adding that he did not care for this publicity at
+all. But Einstein's name was magic, and shortly thereafter he heard from Edding-
+ton. 'You may be amused to hear that one of our great department stores in Lon-
+don (Selfridges) has posted on its window your paper (the six pages pasted up
+side by side) so that passers-by can read it all through. Large crowds gather
+around to read it!' [E53]. The 'Special Features' section of the Sunday edition of
+The New York Times of February 3, 1929, carried a full-page article by Einstein
+on the early developments in relativity, ending with remarks on distant parallelism
+in which his no doubt bewildered readers were told that in this geometry paral-
+lelograms do not close.* So great was the public clamor that he went into hiding
+for a while [N4].
+It was much ado about very little. Einstein had found that
+(17.58)
+is a third-rank tensor (as follows at once from Eq. 17.25) and now identified B^,
+with the electromagnetic potentials. He did propose a set of field equations, but
+added that 'further investigations will have to show whether [these] will give an
+interpretation of the physical qualities of space' [E52]. His attempt to derive his
+equations from a variational principle [E54] had to be withdrawn [E55]. Never-
+theless, in 1929 he had 'hardly any doubt' that he was on the right track [E56].
+He lectured on his theory in England [E57] and in France [E58] and wrote about
+distant parallelism in semipopular articles [E59, E60, E61, E62]. One of his co-
+workers wrote of 'the theory which Einstein advocates with great seriousness and
+emphasis since a few years' [LI].
+"Consider four straight lines LI,..., L4. Let L] and L2 be parallel. Let L3 intersect L, and L2.
+Through a point of L, not on L3 draw L4 parallel to L3. Then L4 and L2 need not intersect.
+UNIFIED FIELD THEORY 347
+Einstein's colleagues were not impressed. Eddington [E63] and Weyl [W6]
+were critical (for other views, see [L2] and [W7]). Pauli demanded to know what
+had become of the perihelion of Mercury, the bending of light, and the conser-
+vation laws of energy-momentum [P7]. Einstein had no good answer to these
+questions [ E64], but that did not seem to overly concern him, since one week later
+he wrote to Walther Mayer, 'Nearly all the colleagues react sourly to the theory
+because it puts again in doubt the earlier general relativity' [E65]. Pauli on the
+other hand, was scathing in a review of this subject written in 1932: '[Einstein's]
+never-failing inventiveness as well as his tenacious energy in the pursuit of [uni-
+fication] guarantees us in recent years, on the average, one theory per annum. . . .
+It is psychologically interesting that for some time the current theory is usually
+considered by its author to be the "definitive solution" ' [P8].
+Einstein held out awhile longer. In 1930 he worked on special solutions of his
+equations [E66] and began a search for identities which should play a role (with-
+out the benefit of a variational principle) similar to the role of the Bianchi ident-
+ities in the usual theory [E67]. One more paper on identities followed in 1931
+[E68]. Then he gave up. In a note to Science, he remarked that this was the wrong
+direction [E26] (for his later views on distant parallelism, see [S5]). Shortly there-
+after, he wrote to Pauli, 'Sie haben also recht gehabt, Sie Spitzbube,' You were
+right after all, you rascal [E69]. Half a year after his last paper on distant par-
+allelism he was back at the five dimensions.
+1931-2\. Work on the Einstein-Mayer theory of local 5-vector spaces.
+1933. The Spencer lecture, referred to in Chapter 16, in which Einstein
+expressed his conviction that pure mathematical construction enables us to dis-
+cover the physical concepts and the laws connecting them [E70]. I cannot believe
+that this was the same Einstein who had warned Felix Klein in 1917 against
+overrating the value of formal points of view 'which fail almost always as heuristic
+aids' [E2].
+1935. Work with Rosen and Podolsky on the foundations of the quantum the-
+ory.
+1935-8. Work on conventional general relativity—alone on gravitational
+lenses, with Rosen on gravitational waves and on two-sheeted spaces, and with
+Infeld and Hoffmann on the problem of motion.
+1938-41\, Last explorations of the Kaluza-Klein theory, with Bergmann and
+Bargmann.
+The early 1940s. In this period, Einstein became interested in the question of
+whether the most fundamental equations of physics might have a structure other
+than the familiar partial differential equations. His work with Bargmann on
+bivector fields [E71, E72]* must be considered an exploration of this kind. It was
+not meant to necessarily have anything to do with physics. Other such investiga-
+tions in collaboration with Ernst Straus [S6] remained unpublished.**
+*See Chapter 29.
+**I am grateful to Professors Bargmann and Straus for discussions about this period.
+348 THE LATER JOURNEY
+From 1945 until the end. The final Einstein equations. Einstein, now in his
+mid-sixties, spent the remaining years of his life working on an old love of his,
+dating back to 1925: a theory with a fundamental tensor and a connection which
+are both nonsymmetric. Initially, he proposed [E73] that these quantities be com-
+plex but hermitian (see also [E74]). However, without essential changes one can
+revert to the real nonsymmetric formulation (as he did in later papers) since the
+group remains the G^ of real point transformations which do not mix real and
+imaginary parts of the g's and the F's. The two mentioned papers were authored
+by him alone, as were two other contributions, one on Bianchi identities [E75] and
+one on the place of discrete masses and charges in this theory [E76]. The major
+part of this work was done in collaboration, however, first with Straus [E77] (see
+also [S7]), then with Bruria Kaufman [E78, E79], his last assistant. Shortly after
+Einstein's death, Kaufman gave a summary of this work at the Bern conference
+[K6]. In this very clear and useful report is also found a comparison with the near-
+simultaneous work on nonsymmetric connections by Schroedinger [S3] and by
+Behram Kursunoglu [K7].*
+As the large number of papers intimates, Einstein's efforts to master the non-
+symmetric case were far more elaborate during the last decade of his life than they
+had been in 1925. At the technical level, the plan of attack was modified several
+times. My brief review of this work starts once again from the general formalism
+developed in the previous section, where it was noted that the properties of the
+third-rank tensor Q^ defined by Eq. 17.24 are important for a detailed specifi-
+cation of a connection. That was Einstein's new point of departure. In 1945 he
+postulated the relation
+plays a role; T^ is a 4-vector (use Eq. 17.25) which vanishes identically in the
+Riemann case. The plan was to construct from these ingredients a theory such
+that (as in 1925) the symmetric and antisymmetric parts of g^, would correspond
+to the metric and the electromagnetic field, respectively, and to see if the theory
+*Schroedinger treats only the connection as primary and introduces the fundamental tensor via the
+cosmological-term device of Eddington. Kursunoglu's theory is more like Einstein's but contains one
+additional parameter. For further references to nonsymmetric connections, see [L3, S8, and Tl].(17.60)From the transformation properties of the g^ (which, whether symmetric or not,
+transform in the good old way; see Eq. 17.22 and the comment following it) and
+of the rj, (Eq. 17.25), it follows that Eq. 17.59 is a covariant postulate. Further-
+more, now that we are cured of distant parallelism, we once again have nontrivial
+curvature and Ricci tensors given by Eqs. 17.26 and 17.27, respectively. In addi-
+tion F,,. defined by(17.59)
+UNIFIED FIELD THEORY 349
+could have particle-like solutions. This plan had failed in 1925. It failed again this
+time. I summarize the findings.
+a) The order of the indices of the F's in Eq. 17.59 is important and was chosen
+such that Eq. 17.59 shall remain valid if g^ —» g^ and Fj, —» rJM. Einstein and
+Kaufman extended this rule to the nontrivial constraint that all final equations of
+the theory shall be invariant under this transposition operation. (R^ is not invar-
+iant under transposition; the final equations are. Note that the indices in Eq. 17.26
+have been written in such an order that they conform to the choice made by Ein-
+stein and his co-workers.)
+b) In the symmetric case, Eq. 17.21 is a consequence of Eq. 17.59. This is not
+true here.
+c) gf, is a reducible representation of the group; the symmetric and antisym-
+metric parts do not mix under G4. Therefore, the unification of gravitation and
+electromagnetism is formally arbitrary. Tor this reason, Pauli sticks out his
+tongue when I tell him about [the theory]' [E80]. An attempt to overcome this
+objection by extending G4 was not successful.*
+d) As in 1925, the variational principle is given by Eq. 17.50. After lengthy
+calculations, Einstein and his collaborators found the field equations to be
+the first of which is identical with Eq. 17.59, which therefore ceases to be a pos-
+tulate and becomes a consequence of the variational principle. The R^ and /?„,
+are the respective symmetric and antisymmetric parts of R^.
+These are Einstein's final field equations.
+In his own words (written in December 1954), 'In my opinion, the theory pre-
+sented here is the logically simplest relativistic field theory which is at all possible.
+But this does not mean that nature might not obey a more complex field theory'
+[E81]. It must be said, however, that, once again, logical simplicity failed not only
+to produce something new in physics but also to reproduce something old. Just as
+in 1925 (see Eq. 17.51), he could not even derive the electromagnetic field equa-
+tions in the weak-field approximation (see [K6], p. 234). It is a puzzle to me why
+he did not heed this result of his, obtained thirty years earlier. Indeed, none of
+Einstein's attempts to generalize the Riemannian connection ever produced the
+free-field Maxwell equations.
+In 1949 Einstein wrote a new appendix for the third edition of his The Mean-
+ing of'Relativity in which he described his most recent work on unification. It was
+"The idea was to demand invariance under FJ, —» FJ, + 6° d\/dx', where X is an arbitrary scalar
+function. This forces FJ, to be nonsymmetric and at the same time leaves R,, invariant. However,
+the final equation F, = 0 is not invariant under this new transformation.(17.61)
+350 THE LATER JOURNEY
+none of his doing* that a page of his manuscript appeared on the front page of
+The New York Times under the heading 'New Einstein theory gives a master key
+to the universe' [N5]. He refused to see reporters and asked Helen Dukas to relay
+this message to them: 'Come back and see me in twenty years' [N6]. Three years
+later, Einstein's science made the front page one last time. He had rewritten his
+appendix for the fourth edition, and his equations (Eq. 17.61) appeared in the
+Times under the heading 'Einstein offers new theory to unify law of the cosmos'
+[N7].
+'It is a wonderful feeling to recognize the unifying features of a complex of
+phenomena which present themselves as quite unconnected to the direct experi-
+ence of the senses' [E82]. So Einstein had written to Grossmann, in 1901, after
+completing his very first paper on statistical physics. This wonderful feeling sus-
+tained him through a life devoted to science. It kept him engaged, forever lucid.
+Nor did he ever lose his sense of scientific balance. The final words on unified
+field theory should be his own:
+The skeptic will say, 'It may well be true that this system of equations is rea-
+sonable from a logical standpoint, but this does not prove that it corresponds to
+nature.' You are right, dear skeptic. Experience alone can decide on truth.
+[E83]
+17f. A Postscript to Unification, a Prelude to Quantum Theory
+The unification of forces is now widely recognized to be one of the most important
+tasks in physics, perhaps the most important one. It would have made little dif-
+ference to Einstein if he had taken note of the fact—as he could have—that there
+are other forces in nature than gravitation and electromagnetism. The time for
+unification had not yet come.
+Pauli, familiar with and at one time active in unified field theory, used to play
+Mephisto to Einstein's Faust. He was fond of saying that men shall not join what
+God has torn asunder, a remark which, as it turned out, was more witty than
+wise. In the 1970s, unification achieved its first indubitable successes. Electro-
+magnetism has been joined not to gravitation but to the weak interactions.
+Attempts to join these two forces to the strong interactions have led to promising
+but not as yet conclusive schemes known as grand unified theories.
+The unification of gravitation with the other known fundamental forces remains
+now as much of a dream as it was in Einstein's day. It is just barely possible that
+supergravity** may have something to do with this supreme union and may end
+our ignorance, so often justly lamented by Einstein, about T^.
+*The Princeton University Press displayed the manuscript at an AAAS meeting in New York City.
+**For an authoritative account of the status of supergravity, see [Zlj.
+UNIFIED FIELD THEORY 351
+In his attempts to generalize general relativity, Einstein had from the very
+beginning two aims in mind. One of these, to join gravitation to electromagnetism
+in such a way that the new field theory would yield particle-like singularity-free
+solutions, was described in the preceding pages.
+His second aim was to lay the foundations of quantum physics, to unify, one
+might say, relativity and quantum theory.
+Einstein's vision of the grand synthesis of physical laws will be described toward
+the end of the next part of this book, devoted to the quantum theory. As that part
+begins, we are back with the young Einstein in that radiant year 1905.
+References
+Bl. P. Bergmann, Introduction to the Theory of Relativity, p. 272, Prentice-Hall, New
+York, 1942.
+B2. , Phys. Today, March 1979, p. 44.
+B3. —, Ann. Math. 49, 255, (1948).
+Cl. J. Chadwick and E. S. Bieler, Phil. Mag. 42, 923 (1921).
+C2. , Verh. Deutsch. Phys. Ges. 16, 383, (1914).
+C3. S. Chern, in Some Strangeness in the Proportion (H. Woolf, Ed.) p. 271, Addison-
+Wesley, Reading, Mass., 1980.
+C4. E. Cartan, C. R. Ac. Sci. Pans 174, 437, 593 (1922).
+C5. , Ann. EC. Norm. 40, 325 (1923); 41, 1 (1924). reprinted in Oeuvres Com-
+pletes, Vol. 3, p. 569. Gauthier-Villars, Paris, 1955.
+C6. , letter to A. Einstein, May 8, 1929.
+C7. , Math. Ann. 102, 698 (1929).
+Dl. R. Debever (Ed.), Elie Cartan-Albert Einstein Letters on Absolute Parallelism.
+Princeton University Press, Princeton, N.J., 1979.
+El. A. Einstein, letter to F. Klein, March 4, 1917.
+E2. , letter to F. Klein, December 12, 1917.
+E3. , letter to H. Weyl, September 27, 1918.
+E4. , letter to P. Ehrenfest, April 7, 1920.
+E5. , letter to H. Weyl, June 6, 1922.
+E6. , PAW, 1921, p. 882.
+E7. and P. Ehrenfest, Z. Phys. 11, 31 (1922).
+E8. and J. Grommer, Scripta Jerusalem Univ. 1, No. 7 (1923).
+E9. , letter to P. Ehrenfest, February 20, 1922.
+E10. and P. Ehrenfest, Z. Phys. 19, 301 (1923).
+Ell. and H. Muhsam, Deutsch. Medizin. Wochenschr. 49, 1012 (1923).
+E12. , Naturw. 14, 223 (1926).
+E13. , Naturw. 14, 300 (1926).
+E14. , PAW, 1926, P. 334.
+El5. , PAW, 1925, p. 414.
+E16. , letter to T. Kaluza, April 21, 1919.
+E17. , PAW, 1919, pp. 349, 463.
+E18. , letter to T. Kaluza, May 5, 1919.
+352 THE LATER JOURNEY
+E19. , PAW, 1927, p. 23.
+E20. , PAW, 1927, p. 26.
+E21. , letter to P. Ehrenfest, August 23, 1926.
+E22. , letter to P. Ehrenfest, September 3, 1926.
+E23. , letter to H. A. Lorentz, February 16, 1927.
+E24. and W. Mayer, PAW, 1931, p. 541.
+E25. , letter to P. Ehrenfest, September 17, 1931.
+E26. , Science 74, 438 (1931).
+E27. and W. Mayer, PAW, 1932, p. 130.
+E28. , letter to W. Pauli, January 22, 1932.
+E29. and P. Bergmann, Ann. Math. 39, 683 (1938).
+E30. , V. Bargmann, and P. Bergmann, T. von Kdrmdn Anniversary Volume, p.
+212. California Institute of Technology, Pasadena, 1941.
+E31. , letter to H. Weyl, April 8, 1918.
+E32. , letter to H. Weyl, April 15, 1918.
+E33. —, PAW, 1918, p. 478.
+E34. , PAW, 1921, p. 261.
+E35. —, PAW, 1923, p. 32.
+E36. , PAW, 1923, p. 76.
+E37. —, PAW, 1923, p. 137.
+E38. , Nature 112, 448 (1923).
+E39. A. S. Eddington, Proc. Roy. Soc. 99, 104 (1921).
+E40. A. Einstein, letter to H. Weyl, June 6, 1922.
+E41. , letter to H. Weyl, May 23, 1923.
+E42. , letter to H. Weyl, May 26, 1923.
+E43. , appendix to A. S. Eddington, Relativitdtstheorie. Springer, Berlin, 1925.
+E44. , PAW, 1925, p. 414.
+E45. , letter to P. Ehrenfest, August 18, 1925.
+E46. —, letter to P. Ehrenfest, September 18, 1925.
+E47. , letter to P. Ehrenfest, September 20, 1925.
+E48. , Math Ann. 97, 99 (1927).
+E49. , letter to P. Ehrenfest, January 21, 1928.
+E50. , PAW, 1928, p. 217.
+E51. , Math Ann. 102, 685 (1929).
+E51a. , PAW, 1928, p. 224.
+E52. , PAW, 1929, p. 2.
+E53. A. S. Eddington, letter to A. Einstein, February 11, 1929.
+E54. A. Einstein, PAW, 1929, p. 156.
+E55. , PAW, 1930, p. 18.
+E56. Festschrift Prof. Dr. A. Stodola p. 126. Fussli, Zurich, 1929.
+E57. , Science 71, 608 (1930).
+E58. , Ann. Inst. H. Poincare 1, 1 (1930).
+E59. , Die Karaite, 1930, pp. 486-7.
+E60. , Forum Philosophicum 1, 173 (1930).
+E61. , The Yale University Library Gazette 6, 3 (1930).
+E62. , Die Quelle 82, 440 (1932).
+E63. A. S. Eddington, Nature 123, 280 (1929).
+UNIFIED FIELD THEORY 353
+E64. A. Einstein, letter to W. Pauli, December 24, 1929.
+E65. , letter to W. Mayer, January 1, 1930.
+E66. and W. Mayer, PAW, 1930, p. 110.
+E67. , PAW, 1930, p. 401.
+E68. and W. Mayer, PAW, 1931, p. 257.
+E69. , letter to W. Pauli, January 22, 1932.
+E70. , On the Method of Theoretical Physics. Oxford University Press, Oxford,
+1933.
+E71. and V. Bargmann, Ann. Math. 45, 1 (1944).
+E72. —, Ann. Math. 45, 15 (1944).
+E73. , Ann. Math. 46, 578 (1945).
+E74. , Rev. Mod. Phys. 20, 35 (1948).
+E75. , Can. J. Math. 2, 120 (1950).
+E76. , Phys. Rev. 89, 321 (1953).
+E77. and E. Straus, Ann. Math. 47, 731 (1946).
+E78. and B. Kaufman, Ann. Math. 59, 230 (1954).
+E79. and , Ann. Math. 62, 128 (1955).
+E80. , letter to E. Schroedinger, January 22, 1946.
+E81. , The Meaning of Relativity (5th edn.), p. 163. Princeton University Press,
+Princeton, N.J. 1955.
+E82. , letter to M. Grossmann, April 14, 1901.
+E83. , Sci. Am., April 1950, p. 17.
+Fl. V. Fock, Z. Phys. 39, 226 (1926).
+Gl. F. Gonseth and G. Juret, C. R. Ac. Sci. Paris 185, 448, 535 (1927).
+HI. W. Heisenberg, Z. Phys. 33, 879 (1926).
+H2. G. Hessenberg, Math. Ann. 78, 187 (1916).
+H3. F. Hehl, P. von der Heyde, G. D. Kerlick, and J. Nester, Rev. Mod. Phys. 48, 393
+(1976).
+Jl. P. Jordan, Schwerkraft und Weltall (2nd edn.). Vieweg, Braunschweig, 1955.
+Kl. F. Klein, Gesammelte Mathematische Abhandungen, Vol. 1, p. 533. Springer,
+Berlin, 1921.
+K2. T. Kaluza, PAW,\<)2\, p. 966.
+K3. O. Klein, Z. Phys. 37, 895 (1926).
+K4. , Nature 118, 516 (1926).
+K5. , Helv. Phys. Acta, Suppl. IV, 58 (1956).
+K6. B. Kaufman, Helv. Phys. Acta, Suppl. IV, 227 (1956).
+K7. B. Kursunoglu, Phys. Rev. 88, 1369 (1952).
+LI. C. Lanczos, Erg. Ex. Naturw. 10, 97 (1931).
+L2. T. Levi-Civita, Nature 123, 678 (1929).
+L3. A. Lichnerowicz, Theories Relativistes de la Gravitation et de I'Electromagnetisme,
+Chap. 4. Masson, Paris, 1955.
+Ml. H. Mandel, Z. Phys. 39, 136 (1926).
+M2. H. Mandel. Z. Phys. 45, 285 (1927).
+Nl. G. Nordstrom, Phys. Zeitschr. 15, 504 (1914).
+N2. Nature, 123, 174 (1929).
+N3. New York Times, January 12, 1929.
+N4. New York Times, February 4, 1929.
+354 THE LATER JOURNEY
+N5. New York Times, December 27, 1949.
+N6. New York Times, December 28, 1949.
+N7. New York Times, March 30, 1953.
+PI. W. Pauli, Theory of Relativity (G. Field, Tran.), Supplementary Note 23. Perga-
+mon Press, London, 1958.
+P2. and J. Solomon, /. Phys. Radium 3, 452, 582 (1932).
+P3. , Collected Scientific papers (R. Kronig and V. Weisskopf, Eds.), Vol. 2, p.
+461. Interscience, New York, 1964.
+P4. , AdP 18, 305, 337 (1933); Collected Papers, Vol. 2, p. 630. Interscience, New
+York, 1964.
+P5. A. Pais, Physica 8, 1137 (1941).
+P6. W. Pauli, letter to A. S. Eddington, September 20, 1923. Reprinted in Scientific
+Correspondence, p. 115. Springer, New York, 1979.
+P7. , letter to A. Einstein, December 19, 1929. reprinted in Scientific Correspon-
+dence, Vol. 1, p. 526.
+P8. , Naturw. 20, 186 (1932); Collected Papers, Vol. 2. p. 1399.
+Rl. E. Rutherford, Proc. Roy. Soc. A90, addendum (1914).
+R2. , Scientia 16, 337 (1914).
+R3. , Phil. Mag. 27, 488 (1914).
+R4. , Phil. Mag. 37, 537 (1919).
+51. E. Schroedinger, AdP 79, 361 (1926).
+52. E. Schmutzer, Relativistische Physik, Chap. 10. Teubner, Leibzig, 1968.
+53. E. Schroedinger, Space-Time Structure. Cambridge University Press, Cambridge,
+1950.
+54. J. Schouten, Der Ricci-Kalkul. Springer, Berlin, 1924.
+55. H. Salzer, Arch. Hist. Ex. Sci. 12, 88 (1973).
+56. E. Straus in Some Strangeness in the Proportion (H. Woolf, Ed.), p. 483. Addison-
+Wesley, Reading, Mass., 1980.
+57. E. Straus, Rev. Mod. Phys. 21, 414 (1949).
+58. J. Schouten, Ricci-Calculus (2nd edn.), Chap. 3, Sec. 11. Springer, Berlin, 1954.
+Tl. M. A. Tonnelat, Einstein's Unified Field Theory. Gordon and Breach, New York,
+1966.
+Wl. E. Witten, Nucl. Phys. B186, 412 (1981).
+W2. H. Weyl, PAW, 1918, p. 465.
+W3. —, letter to A. Einstein, April 5, 1918.
+W4. , letter to A. Einstein, December 10, 1918.
+W5. , Raum, Zeit, Materie (5th edn.), Appendix 4. Springer, Berlin, 1923.
+W6. , Z. Phys. 56, 330 (1929).
+W7. N. Wiener and M. Vallarta, Nature 123, 317 (1929).
+Zl. B. Zumino, Einstein Symposium Berlin, p. 114. Springer, New York, 1979.
+VI
+THE QUANTUM THEORY
+Apart, adv., 4. Away from others in action or function; separately,
+independently, individually. . . .
+Oxford English Dictionary
+This page intentionally left blank 

@@ -1,0 +1,602 @@
+11
+The Prague Papers
+Ha. From Zurich to Prague
+'I will most probably receive a call from a large university to be full professor with
+a salary significantly better than I have now. I am not yet permitted to say where
+it is' [El]. So Einstein wrote to his mother on April 4, 1910, less than half a year
+after he had begun his associate professorship in Zurich. The call he expected was
+supposed to come from the Karl-Ferdinand University, the German university in
+Prague. He had to be discreet since the search committee convened in January
+had not even made a proposal to the faculty yet. The experimentalist Anton
+Lampa, committee chairman and Einstein's strong advocate, had sounded him out
+beforehand. The committee report dated April 21, 1910, proposed three candi-
+dates and stated that all of them were willing to accept a formal offer. Einstein
+was the first choice. This report quotes a glowing recommendation by Planck:
+'[Einstein's work on relativity] probably exceeds in audacity everything that has
+been achieved so far in speculative science and even in epistemology; non-Euclid-
+ean geometry is child's play by comparison.' Planck went on to compare Einstein
+to Copernicus [HI].
+The news spread. In July 1910 the Erziehungsrat (board of education) peti-
+tioned the government of the Canton Zurich. It was noted that, according to
+experts, Einstein was one of the few authorities in theoretical physics; that stu-
+dents from the ETH were coming to the University of Zurich to attend his lec-
+tures; that he was teaching six to eight hours per week instead of the customary
+four to six; and that efforts should be made to keep him in Zurich. An annual
+raise of 1000 SF was proposed. The petition was granted [PI].
+It would appear that Einstein was eager to go to Prague, however. In the sum-
+mer of 1910 he wrote to Laub, 'I did not receive the call from Prague. I was only
+proposed by the faculty; the ministry has not accepted my proposal because of my
+Semitic descent' [E2]. (I have seen no documents to this effect.) In October he
+wrote to Laub that the appointment seemed pretty certain [E3], but in December
+he wrote that there had been no word from Prague yet [E4]. However, on Jan-
+uary 6, 1911, His Imperial and Apostolic Majesty Franz Joseph formally
+approved the appointment, effective April 1. Einstein was notified by letter, dated
+January 13 [HI]. Prior to the beginning of his appointment, he had to record his
+religious affiliation. The answer none was unacceptable. He wrote 'Mosaisch'
+192
+THE PRAGUE PAPERS 193
+[Fl]. On January 10, he sent his letter of resignation, which was accepted on
+February 10 [P2]. In February Einstein visited Lorentz in Leiden. In March he
+and his family arrived in Prague [SI].
+It is mildly puzzling to me why Einstein made this move. He liked Zurich.
+Mileva liked Zurich. He had colleagues to talk to and friends to play music with.
+He had been given a raise. He must have known that in the normal course of
+events further promotion was to be expected. Prague was not an active center of
+theoretical physics. However, a letter by Kleiner to a colleague may indicate that
+there were other considerations. 'After my statements about his conduct some time
+ago (after which he wanted to apologize, which I once again prevented), Einstein
+knows that he cannot expect personal sympathy from the faculty representatives.
+I would think you may wait until he submits his resignation before you return to
+this matter .. .' [Kl]. I do not know what the cause of friction was.
+'I have here a splendid institute in which I work comfortably,' Einstein wrote
+to Grossmann soon after his arrival in Prague [E5]. Ludwig Hopf, his assistant
+from Zurich, had accompanied him but left soon afterward for a junior position
+in Aachen. What little I know about Emil Nohel, Hopf's successor, is found in
+Chapter 29. In the summer of 1911, Besso came for a visit [E6]. In February
+1912 Einstein and Ehrenfest met personally for the first time in Prague [K2].
+Otto Stern availed himself of his independent means to join Einstein there, after
+having received his PhD with Sackur in Breslau [S2], and stayed with Einstein
+from 1912 to 1914, first in Prague, then in Zurich.
+'My position and my institute give me much joy,' Einstein wrote to Besso, but
+added, 'Nur die Menschen sind mir so fremd,' (Only the people are so alien to
+me) [E7]. It appears that Einstein was never quite comfortable in Prague. When
+he arrived at the Institute, a porter would greet him with a bow and a 'your most
+obedient servant', a servility that did not agree with him. He was bothered by
+bureaucracy. 'Infinitely much paperwork for the most insignificant Dreck,' he
+wrote to one friend [E5] and, 'Die Tintenscheisserei ist endlos,' to another [E7a].
+His wife was not at ease either [F2]. In Einstein's day, there were four institutions
+of higher learning in Prague, two universities and two institutes of technology, one
+Czech and one German each. As Stern later recalled: 'At none [of these
+institutions] was there anyone with whom Einstein could talk about the matters
+which really interested him ... he was completely isolated in Prague . . .' [Jl].
+Einstein's stay in Prague lasted sixteen months. Ehrenfest was his first choice
+as his successor. This proposal came to naught because of Ehrenfest's refusal to
+state a religious affiliation [K3]. Eventually Philipp Frank was named to this post
+on Einstein's recommendation. Frank stayed in Prague until 1938.* In the next
+chapter I shall describe Einstein's return to Zurich. First, however, let us have a
+look at his physics during the Prague period.
+*See Frank's biography [Fl] for other details about Einstein's Prague period.
+194 RELATIVITY, THE GENERAL THEORY
+lib. 1911. The Bending of Light is Detectable
+Do not Bodies act upon Light at a distance, and by their action
+bend its Rays; and is not this action (caeteris paribus) strongest
+at the least distance?
+ISAAC NEWTON: Opticks, Query 1
+Einstein finally broke his silence about gravitation in June 1911 [E8]. He had
+become dissatisfied with his presentation of 1907 [E9]. 'More than that, I now
+realize that one of the most important consequences of those considerations is ame-
+nable to experimental verification.' This is the bending of light. He had already
+been aware of this phenomenon in 1907. However, at that time he had thought
+only of terrestrial experiments as a means of its observation and had concluded
+that these would be too hard to perform (still true to this day). Meanwhile it had
+dawned on him that deflection of light by the sun could be detectable. He also had
+other new conclusions to report.
+The resulting paper, 'On the Influence of Gravitation on the Propagation of
+Light,' is included in Das Relativitatsprinzip, which first appeared in 1913, a
+handy little book (English translation, [LI]). Its later editions contain contribu-
+tions to relativity theory by Lorentz, Minkowski, Einstein, and Weyl. The book
+has two flaws. First, there is no contribution by Poincare. Poincare's memoir of
+1905 is lengthy and does not readily fit into this small volume. However, a frag-
+ment could easily have been included, especially since one of Lorentz's papers does
+appear in abridged form. A second shortcoming of the book is the absence of the
+brief Section V of Einstein's 1907 article [E9]. Either this piece should have been
+included along with his 1911 article or else both should have been omitted, since
+the finer points of the 1911 paper cannot be understood without the approxima-
+tions he had used in 1907.
+In the 1911 paper Einstein cautioned his readers, 'Even if the theoretical foun-
+dation is correct, the relations derived here are valid only in first approximation,'
+but did not add an explicit statement about the nature of this approximation. He
+had yet to acquire the skill of reiterating conclusions from his own earlier work.
+This is not surprising. Prior to Einstein's involvement with gravitation, each
+one of his papers is transparent and self-contained (with the possible exception of
+his earliest writing on the foundations of statistical mechanics) though his readers
+may occasionally have to go to some effort to realize that. We have seen on various
+earlier occasions that Einstein did not go to great trouble to search the literature
+for contributions by others, but that was no particular hindrance to an understand-
+ing of what he himself had to communicate. Of course, he would return now and
+then to a subject he had discussed earlier, but then the new contribution would
+again be self-contained. We know that sometimes he had thought long and hard
+before gaining a new insight, as in the case of special relativity. Yet little if any
+sign of the preceding struggle is found in the resulting papers, which rather give
+the impression of a man hugely enjoying himself. From 1907 until 1916, this light
+THE PRAGUE PAPERS 195
+touch and this element of closure is missing. His style of writing changes. Instead
+of statements made with characteristic finality, we find reports on work in
+progress.
+Turning to the first of the Prague papers, I should evidently begin with the
+approximations to which Einstein referred. His problem was and remained to find
+a way to give meaning to simultaneity for the case of uniformly accelerated sys-
+tems. To this end, he used once again the approximate methods of 1907. Thus in
+1911 the three coordinate systems S, Z, and S' discussed in Chapter 9 reappear.*
+Recall that Z is in constant acceleration relative to S and that the inertial frame
+S' is at one, and only one, time coincident with Z. As indicated earlier, the strategy
+was to relate the clocks in S' to those in S by a Lorentz transformation and then,
+for a tiny time interval, to identify the clock readings in S' with those in Z. This
+is not a rigorous procedure, as we saw in Chapter 9. The approximations
+explained there are the ones that also apply to the paper now under consideration.
+In 1911 the four main issues were the same as in 1907: the equivalence prin-
+ciple, the gravity of energy, the red shift, and the bending of light. The main
+equations in these two papers are also nearly all identical. However, Einstein now
+had new thoughts about each one of these four questions.
+THE EQUIVALENCE PRINCIPLE
+Let the frame S be at rest and let it carry a homogeneous gravitational field in the
+negative z direction. Z is a field-free frame that moves with a constant acceleration
+relative to S in the positive z direction. Einstein first reminds the reader of the
+equivalence of Newton's mechanical laws in both frames. Then he rephrases this
+principle as follows. 'One can speak as little of the absolute acceleration of the
+reference frame as one can of the absolute velocity in the ordinary [special] rela-
+tivity theory' (his italics). From this he concludes that 'according to this theory,
+the equal fall of all bodies in a gravitational field is self-evident1 (my italics).
+This seemingly innocent new twist is typical. Einstein had the gift of learning
+something new from ancient wisdom by turning it around. In the present instance,
+instead of following the reasoning—experimentally known equal time of fall —*•
+meaninglessness of constant absolute acceleration—he reverses the direction of the
+arrow of logic. Thus in 1911 we discern the first glimpses of the new Einstein
+program: to derive the equivalence principle from a new theory of gravitation.
+This cannot be achieved within the framework of what he called the ordinary
+relativity theory, the special theory. Therefore one must look for a new theory not
+only of gravitation but also of relativity. Another point made in this paper likewise
+bears on that new program. 'Of course, one cannot replace an arbitrary gravita-
+*In the 1911 paper, Einstein denotes the frames S, E, and S' by K, K', and K0, respectively. For
+ease of presentation, I continue to use his earlier notation.
+196 RELATIVITY, THE GENERAL THEORY
+tional field by a state of motion without gravitational field, as little as one can
+transform to rest by means of a relativity transformation all points of an arbitrarily
+moving medium.' This statement would continue to be true in the ultimate general
+theory of relativity.
+Einstein concluded his comments on the equivalence principle by stressing
+again the great heuristic significance of the assumption that it is true for all phys-
+ical phenomena rather than for point mechanics only.
+THE GRAVITY OF ENERGY; THE RED SHIFT
+In 1907 Einstein had noted that an electromagnetic field is the source not only of
+inertial energy but also of an equal amount of gravitational energy (Chapter 9).
+He had reached this conclusion by studying the structure of the Maxwell equa-
+tions in the frame E. He was now ready to elaborate on this result, but without
+recourse to anything as specific as the electromagnetic origins of the energy in
+question. His new and broader view was based on general considerations regard-
+ing conservation laws. Consider (he said) the energy increase by an amount E of
+an arbitrary body. According to the special theory, there is a corresponding
+increase E/c2 of its inertial mass. This leads to the 'so satisfactory' conclusion that
+the law of conservation of mass merges with the law of conservation of energy.
+Suppose now (he continues) that there were no corresponding increase of the grav-
+itational mass of the body. Then one would have to maintain a separate conser-
+vation law of gravitational mass while, at the same time, there would no longer
+exist a separate conservation law for inertial mass. 'This must be considered as
+very improbable.' Not only the very existence of the equivalence principle but also
+the gravitational properties of energy point to the incompleteness of the special
+theory: 'The usual relativity theory [by itself] yields no argument from which we
+might conclude that the weight of a body depends on its energy content.' However,
+this dependence on energy can be derived in a rather general way if, in addition,
+we invoke the equivalence principle. 'We shall show . .. that the hypothesis of the
+equivalence of the systems [S and E] yields the gravity of energy as a necessary
+consequence. Then he gives the following argument. (At this point the reader may
+like to refresh his memory concerning the coordinate systems described in Chapter
+9.)
+Let there be a light receiver S, in the origin of the frame E and an emitter at a
+distance h along the positive z axis, also in E. The emitter S2 emits an amount £2
+of radiation energy at just that moment in which the frame S' is coincident with
+E. The radiation will arrive at S, approximately after a time h/c. At that time,
+S, has the velocity yh/c relative to S', 7 being the acceleration of E. Recall that
+clocks in E are judged by using the inertial frame S'. Einstein could therefore use
+a result of his 1905 paper on special relativity [E10]: the energy £, arriving at S,
+is larger than E2:
+THE PRAGUE PAPERS 197
+Now go to the frame S with its gravitational field. In that frame, we install the
+same equipment S, and S2 in the same relative positions as in E. Then Eq. 11.1
+and the equivalence principle yield
+where 0, and 02 are tne gravitational potential at positions 1 and 2, respectively.
+This is the energy conservation law for the transmission process. It implies that
+to an energy E there corresponds a gravitational mass E/c2, the desired result.
+Next Einstein treated the red shift in a similar way. First work in E. Let the
+light emitted at S2 have the frequency v2. After having traveled the approximate
+time h/c, this light is received at S, with frequency i>,. To find the connection
+between v2 and c,, work in S'. Then the well-known linear Doppler effect formula
+gives
+The equivalence principle tells us what happens in S:
+Assume that this equation also holds for inhomogeneous fields. Let 2 be the sun
+and 1 the earth. Then 4> is negative. A red shift is seen on earth such that &v/v
+« 1(T6.
+I next interrupt the discussion of the Prague paper in order to make two com-
+ments. First, Einstein derives Eq. 11.2 for the energy shift; then he starts 'all over
+again' and derives the frequency shift (Eq. 11.4). It is no accident, I am sure, that
+he did not derive only one of these equations and from there go to the other one
+with the help of
+He had had something to do with Eq. 11.5. It cannot have slipped his mind; the
+quantum theory never slipped his mind. However, it was Einstein's style forever
+to avoid the quantum theory if he could help it—as in the present case of the
+energy and the frequency shift. In Chapter 26 I shall come back to discuss at some
+length this attitude of his, a main clue to the understanding of his destiny as a
+physicist.
+Second, in good texts on general relativity the red shift is taught twice. In a first
+go-around, it is noted that the red shift follows from special relativity and the
+198 RELATIVITY, THE GENERAL THEORY
+equivalence principle only. Then, after the tensor equations of general relativity
+have been derived and the equivalence principle has been understood to hold
+strictly only in the small, the red shift is returned to and a proof is given that it is
+sufficient for the derivation of the previous result to consider only the leading
+deviations of g^ from its flat-space-time value. If the text is modern enough, one
+is treated next to the niceties of second-order effects and to the extreme cases where
+expansions break down. All this should be remembered in order to grasp better
+Einstein's plight in 1911. He knows that special relativity is to be incorporated
+into a more profound theory, but he does not know yet how to do that. With care
+he manipulates his three coordinate systems in order to obtain Eqs. 11.1-11.4. He
+knows very well that these equations are approximations, but he does not know
+to what.
+THE BENDING OF LIGHT
+What and how can we measure? That prime question of science has a double
+entendre. First of all it means, What is conceptually interesting and technically
+feasible? Taken in that sense, Einstein's remarks on the red shift and the deflection
+of light had given direction to the phenomenology of general relativity even before
+that theory existed. The question has also a second meaning, What is a meaning-
+ful measurement as a matter of principle? Also in that sense Einstein had con-
+tributed by his re-analysis of simultaneity in 1905. In 1907 the study of the Max-
+well equations in accelerated frames had taught him that the velocity of light is
+no longer a universal constant in the presence of gravitational fields. When he
+returned to this problem in 1911 he left aside, once again, these earlier dynamic
+considerations. Instead, he turned to the interpretation of Eq. 11.4.
+'Superficially seen, [this equation] seems to state something absurd. If light is
+steadily transmitted from S2 to S,, then how can a different number of periods per
+second arrive at S, than were emitted in S2? The answer is simple, however.' The
+apparent trouble lay not with the number of periods but with the second: one must
+examine with the greatest care what one means by the rate of clocks in an inho-
+mogeneous gravitational field. This demands an understanding of the following
+three facts of time.
+The Clock Factory. One must first construct 'gleich beschaffene Uhren,' iden-
+tically functioning clocks, to use Einstein's language. He does not state how this
+is done. However, his subsequent arguments make sense only if the following
+procedure is adopted. Construct a clock factory in a (sufficiently small) region of
+space in which the gravitational field is constant. Synchronize the clocks by some
+standard procedure. Transport these clocks, one of them (U,) to a position 1,
+another one (U2) to a position 2, etc.
+Local Experiments. Observe the frequency of a spectral line generated at 1
+with the clock Uj. Call this frequency v(l,l) (produced at 1, measured with U,).
+THE PRAGUE PAPERS 199
+Next determine v(2,2), the frequency of the same* spectral line produced at 2,
+measured with U2. One will find (Einstein asserts) that i»(l,l) = v(2,2), 'the fre-
+quency is independent of where the light source and the [local] clock are placed.'
+[Remark. This statement is not true in all rigor: even though we still cannot
+calculate the displacement of spectral lines caused by local external gravitational
+fields (we have no theory of quantum gravity!), we do know that such a displace-
+ment must exist; it should be small within our neighborhood.]
+Global Experiments. Determine v(2,l), the frequency of the same spectral
+line produced at 2 but now measured at 1 with U]. As Eq. 11.4 implies, v(2,\)
+¥= c(l,l). Yet, Einstein insists, we should continue to accept the physical criterion
+that the number of wave crests traveling between 2 and 1 shall be independent of
+the absolute value of time. This is quite possible since 'nothing forces us to the
+assumption that the ["gleich beschaffene"] clocks at different gravitational poten-
+tials [i.e., at 1 and at 2] should run equally fast.' (Recall that the synchronization
+was achieved in the factory.)
+The conclusion is inevitable: the compatibility of Eq. 11.4 with the physical
+criterion implies that the clock U2 in 2 runs slower by a factor (1 + 0/c2) than
+Ut in 1. This is, of course, compatible with v(2,2) = v(l,\) since the spectral
+frequency in 2 also decreases by the same factor. After all, the spectral line is
+nothing but a clock itself. In other words, as a result of the transport to places of
+different gravitational field strength, clocks become 'verschieden beschaffen,' dif-
+ferently functioning. This leads to a 'consequence of... fundamental significance':
+where c, and c2 are the local light velocities at 1 and 2 (the difference between c,
+and c2 is assumed to be small, so that the symbol c in Eq. 11.6 may stand for
+either c, or c2). Thus Einstein restored sanity, but at a price. 'In this theory the
+principle of the constancy of light velocity does not apply in the same way as in
+. .. the usual relativity theory.'
+The final result of the paper is the application of Eq. 11.6 to the deflection of
+a light ray coming from 'infinity' and moving in the field of a gravitational point
+source (i.e., a \/r potential). From a simple application of Huyghens' principle,
+Einstein finds that this ray when going to 'infinity' has suffered a deflection a
+toward the source given (in radians) by
+where G is the gravitational constant, M the mass of the source, A the distance
+of closest approach, and c the (vacuum) light velocity. For a ray grazing the sun,
+*I trust that the term the same will not cause confusion.
+200 RELATIVITY, THE GENERAL THEORY
+A as 7 X 10'° cm, M « 2 X 1033 g, and a = 0?87 (Einstein found (K'83). This
+is the answer to which four years later he would supply a further factor of 2.
+The paper ends with a plea to the astronomers: 'It is urgently desirable that
+astronomers concern themselves with the question brought up here, even if the
+foregoing considerations might seem insufficiently founded or even adventurous.'
+From this time on, Einstein writes to his friends of his hopes and fears about
+gravitation, just as we saw him do earlier about the quantum theory. Shortly after
+he completed the paper discussed above, he wrote to Laub:
+The relativistic treatment of gravitation creates serious difficulties. I consider it
+probable that the principle of the constancy of the velocity of light in its custom-
+ary version holds only for spaces with constant gravitational potential. [Ell]
+Evidently he did not quite know yet what to believe of his most recent work.
+However, he was certain that something new was needed. A few months later, he
+wrote to his friend Heinrich Zangger, director of the Institute for Forensic Med-
+icine at the University of Zurich: 'Just now I am teaching the foundations of the
+poor deceased mechanics, which is so beautiful. What will her successor look like?
+With that [question] I torment myself incessantly' [E12].
+I conclude this section by paying my respects to the German geodete and astron-
+omer Johann Georg von Soldner, who in 1801 became the first to answer New-
+ton's query on the bending of light [S3]. 'No one would find it objectionable, I
+hope, that I treat a light ray as a heavy body... . One cannot think of a thing
+which exists and works on our senses that would not have the property of matter,'
+Soldner wrote.* He was motivated by the desire to check on possible corrections
+in the evaluation of astronomical data. His calculations are based on Newton's
+emission theory, according to which light consists of particles. On this picture the
+scattering of light by the sun becomes an exercise in Newtonian scattering theory.
+For small mass of the light-particles, the answer depends as little on that mass as
+Einstein's wave calculation depends on the light frequency. Soldner made the scat-
+tering calculation, put in numbers, and found a = 0''84!!
+In 1911 Einstein did not know of Soldner's work. The latter's paper was in fact
+entirely unknown in the physics community until 1921. In that turbulent year,
+Lenard, in one of his attempts to discredit Einstein, reproduced part of Soldner's
+paper in the Annalen der Physik [L2], together with a lengthy introduction in
+which he also claimed priority for Hasenohrl in connection with the mass-energy
+equivalence.** Von Laue took care of Lenard shortly afterward [L3].
+*I have seen not his original paper but only an English translation that was recently published
+together with informative historical data [J2].
+**See Section 7b.
+THE PRAGUE PAPERS 2O1
+lie. 1912. Einstein in No Man's Land
+Another eight months passed before Einstein made his next move in the theory of
+gravitation. A scientific meeting at Karlsruhe, summer lectures at Zurich, and a
+few minor papers kept him busy in the meantime. But principally he was once
+again otherwise engaged by the quantum theory. This time, however, it was not
+so much because that seemed the more compelling subject to him. Rather he had
+taken on the obligation to prepare a major report on quantum physics for the first
+Solvay Congress (October 30 to November 3, 1911). 'I am harassed by my drivel
+for the Brussels Congress,' he wrote to Besso [E13]. He did not look forward to
+the 'witches' sabbath in Brussels [El4].
+He found the congress interesting and especially admired the way in which
+Lorentz presided over the meetings. 'Lorentz is a marvel of intelligence and fine
+tact. A living work of art! He was in my opinion still the most intelligent one
+among the theoreticians present' [El2]. He was less impressed with the outcome
+of the deliberations: ' . . . but no one knows anything. The whole affair would
+have been a delight to Jesuit fathers' [E12]. 'The congress gave the impression of
+a lamentation at the ruins of Jerusalem' [E15]. Obviously, these were references
+to the infringements of quantum physics on classically conditioned minds. Einstein
+gave the final address at the congress. His assigned subject was the quantum the-
+ory of specific heats. In actual fact, he critically discussed all the problems of quan-
+tum theory as they were known to exist at a time when the threats and promises
+of the hydrogen atom were yet to be revealed. I shall return to this subject in
+Chapter 20. As to Einstein's contribution, drivel it was not.
+Then, in rapid succession, Einstein readied two papers on gravitation, one in
+February 1912 [E16] and one in March 1912 [E17] (referred to in this section as
+I and II, respectively). These are solid pieces of theoretical analysis. It takes some
+time to grasp their logic. Yet these 1912 papers give the impression less of finished
+products than of well-developed sketches from a notebook. Their style is irresolute.
+The reasons for this are clear. In 1907 and 1911 Einstein had stretched the kine-
+matic approach to gravitation to its limits. This time he embarked on one of the
+hardest problems of the century: to find the new gravitational dynamics. His first
+steps are taken gingerly.
+These are also the last papers in which time is warped but space is flat. Already,
+for the first time in Einstein's published work, the statement appears in paper I
+that this treatment of space
+is not obviously permissible but contains physical assumptions which might
+ultimately prove to be incorrect; for example, [the laws of Euclidean geometry]
+most probably do not hold in a uniformly rotating system in which, because of
+the Lorentz contraction, the ratio of the circumference to the diameter should
+be different from ir if we apply our definition of lengths.
+2O2 RELATIVITY, THE GENERAL THEORY
+All the same, Einstein continued to adhere to flat space. It is perhaps significant
+that, immediately following the lines just quoted, he continued, 'The measuring
+rods as well as the coordinate axes are to be considered as rigid bodies. This is
+permitted even though the rigid body cannot possess real existence.' The sequence
+of these remarks may lead one to surmise that the celebrated problem of the rigid
+body in the special theory of relativity stimulated Einstein's step to curved space,
+later in 1912.*
+It would be as ill-advised to discuss these papers in detail as to ignore them
+altogether. It is true that their particular dynamic model for gravitation did not
+last. Nevertheless, these investigations proved not to be an idle exercise. Indeed,
+in the course of his ruminations Einstein made a number of quite remarkable
+comments and discoveries that were to survive. I shall display these in the remain-
+der of this chapter, labeling the exhibits A to F. However, in the course of the
+following discussion, I shall hold all technicalities to a minimum.
+Einstein begins by reminding the reader of his past result that the velocity of
+light is not generally constant in the presence of gravitational fields:
+A. ' ... this result excludes the general applicability of the Lorentz
+transformation.'
+At once a new chord is struck. Earlier he had said (I paraphrase), 'Let us see
+how far we can come with Lorentz transformations.' Now he says, 'Lorentz trans-
+formations are not enough.'
+B. 'If one does not restrict oneself to [spatial] domains of constant c, then the
+manifold of equivalent systems as well as the manifold of the transformations
+which leave the laws of nature unchanged will become a larger one, but in turn
+these laws will be more complicated' [!!].
+Let us next unveil Einstein's first dynamic Ansatz for a theory of gravitation,
+to which he was led by Eq. (11.6). He begins by again comparing a homogeneous
+field in the frame S(x,y,z,t) with the accelerated frame E(£,77,fVr).** For small T
+—terms O(r3) are neglected—he finds
+and the important relation
+in which ca is fixed by the speed of the clock at the origin of £; acQ is the accel-
+eration of this origin relative to S. Thus Ac = 0 in S. By equivalence Ac = 0 in
+S (the A's are the respective Laplacians). 'It is plausible to assume that [Ac = 0]
+"This point of view has been developed in more detail by Stachel [S4].
+**I use again the notations of Chapter 9, which are not identical with those in I. In the frame S, the
+light velocity is taken equal to unity.
+THE PRAGUE PAPERS 203
+is valid in every mass-free static gravitational field.' The next assumption concerns
+the modification of this equation in the presence of a density of matter p:
+where k is a constant. The source must be static: 'The equations found by me
+shall refer only to the static case of masses at rest' [El8].
+This last remark, referring to the gravitational field equation, does not preclude
+the study of the motion of a mass point under the action of the external static field
+c. This motion (Einstein finds) is given by
+where v2 = ~x2. For what follows, it is important to note in what sense this equa-
+tion satisfies the equivalence principle: if c is given by Eq. 11.9, then Eq. 11.11
+can be transformed to a force-free equation in the accelerated frame Z.
+Einstein derived Eq. 11.11 in I by a method which need not concern us. It is
+quite important, on the other hand, to note a comment he made about Eq. 11.11
+in a note added in proof to paper II. There he showed that this equation can be
+derived from the variational principle:
+Earlier, Planck had applied Eq. 11.12 to special relativistic point mechanics [P3],
+where, of course, c in Eq. 11.13 is the usual constant light velocity in vacuum.
+Einstein was stirred by the fact that Eqs. 11.12 and 11.13 still apply if c is a static
+field!
+C. 'Also, here it is seen—as was shown for the usual relativity theory by
+Planck—that the equations of analytical mechanics have a significance which far
+exceeds that of the Newtonian mechanics.'
+It is hard to doubt that this insight guided Einstein to the ultimate form of the
+mechanical equations of general relativity, in which Eq. 11.12 survives, while Eq.
+11.13 is generalized further.
+Paper II is largely devoted to the question of how the electromagnetic field
+equations are affected by the hypothesis that c is a field satisfying Eq. 11.6. The
+details are of no great interest except for one remark. The field c, of course, enters
+into the Maxwell equations. Hence, there is a coupling between the gravitational
+field and the electromagnetic field. However, the latter is not static in general,
+whereas the gravitational field is static by assumption. Therefore '[the equations]
+might be inexact . . . since the electromagnetic field might be able to influence the
+gravitational field in such a way that the latter is no longer a static field.'
+It is conceivable that some of my readers, upon reflecting on this last statement,
+may ask the same question I did when I first read paper II. What possessed Ein-
+204 RELATIVITY, THE GENERAL THEORY
+stein? Why would he ever write about a static gravitational field coupled to a
+nonstatic Maxwell field and hope to make any sense? I would certainly have asked
+him this question, were it not for the fact that I never laid eyes on these papers
+until many years after the time I knew him. I can offer nothing better than the
+reply I imagine he might have given me.
+The time is about 1950. Einstein speaks: 'Ja, wissen Sie, that time in Prague,
+that was the most confusing period in my life as far as physics was concerned.
+Before I wrote down my equation Ac = kcp, I had, of course, thought of using
+the Dalembertian instead of the Laplacian. That would look more elegant. I
+decided against that, however, because I already knew that gravitation would have
+to lead me beyond the Lorentz transformations. Thus I saw no virtue in writing
+down DC = kcp, since Lorentz in variance was no longer an obvious criterion to
+me, especially in the case of the dynamics of gravitation. For that reason, I never
+believed what Abraham and others were doing at that time. Poor Abraham. I did
+not realize, I must admit, that one can derive an equation for a time-dependent
+scalar gravitational field that does satisfy the weak equivalence principle. No, that
+has nothing to do with the wrong value for the perihelion obtained from a scalar
+theory. That came some years later. I thought again about a scalar theory when
+I was at first a bit overawed by the complexity of the equations which Grossmann
+and I wrote down a little later. Yes, there was confusion at that time, too. But it
+was not like the Prague days. In Zurich I was sure that I had found the right
+starting point. Also, in Zurich I believed that I had an argument which showed
+that the scalar theory, you know, the Nordstrom theory, was in conflict with the
+equivalence principle. But I soon realized that I was wrong. In 1914 I came to
+believe in fact that the Nordstrom theory was a good possibility.
+'But to come back to Prague. The only thing I believed firmly then was that
+one had to incorporate the equivalence principle in the fundamental equations.
+Did you know that I had not even heard of the Eo'tvos experiments at that time?
+Ah, you knew that. Well, there I was. There was no paradox of any kind. It was
+not like the quantum theory in those days. Those Berlin experiments on blackbody
+radiation had made it clear that something was badly amiss with classical physics.
+On the other hand, there was nothing wrong with the equivalence principle and
+Newton's theory. One was perfectly compatible with the other. Yet I was certain
+that the Newtonian theory was successful but incomplete. I had not lost my faith
+in the special theory of relativity either, but I believed that that theory was likewise
+incomplete. So what I did in Prague was something like this. I knew I had to start
+all over again, as it were, in constructing a theory of gravitation. Of course, New-
+tonian theory as well as the special theory had to reappear in some approximate
+sense. But I did not know how to proceed. I was in no-man's land. So I decided
+to analyze static situations first and then push along until inevitably I would reach
+some contradictions. Then I hoped that these contradictions would in turn teach
+me what the next step might be. Sehen Sie, the way I thought then about New-
+tonian theory is not so different from the way I think now about quantum
+THE PRAGUE PAPERS 205
+mechanics. That, too, seens to me to be a naive theory, and I think people should
+try to start all over again, first reconsidering the nonrelativistic theory, just as I
+did for gravitation in Prague. .. .'*
+Here my fabrications end. I now return to the 1912 papers in order to add three
+final exhibits.
+The inclusion of electromagnetism forced Einstein to generalize the meaning of
+p in Eq. 11.10, since the electromagnetic energy has a gravitating mass equivalent:
+D. The source of the gravitational field had to be 'the density of ponderable
+matter augmented with the [locally measured] energy density.'
+Applied to a system of electrically-charged particles and electromagnetic fields,
+this would seem to mean that p should be replaced by the sum of a 'mechanical'
+and an electromagnetic term. Einstein denoted this sum by the new symbol a.
+However, a paradox arose. On closer inspection, he noted that the theory does not
+satisfy the conservation laws of energy and momentum, 'a quite serious result
+which leads one to entertain doubt about the admissibility of the whole theory
+developed here.' However, he found a way in which this paradox could be
+resolved.
+E. 'If every energy density . . . generates a (negative) divergence of the lines of
+force of gravitation, then this must also hold for the energy density of gravitation
+itself.' This led him to the final equation for his field c:
+He went on to show that the second term in the brackets is the gravitational field
+energy density and that the inclusion of this new term guaranteed validity of the
+conservation laws. From then on, he was prepared for a nonlinear theory of the
+gravitational field!
+It had been a grave decision to make this last modification of the c-field equa-
+tion, Einstein wrote, 'since [as a result] I depart from the foundation of the uncon-
+ditional equivalence principle.' Recall the discussion following Eq. 11.9: it was
+that equation and the equivalence principle which had led him to Ac = 0 in the
+source-free case. This same reasoning does not apply to Eq. 11.14 with <r = 0!
+What was the moral?
+F. It seems that [the equivalence principle] holds only for infinitely small
+fields. . . . Our derivations of the equation of motion of the material point and
+of the electromagnetic [field] are not illusory since [Eqs. 11.8 and 11.9 were]
+applied only to infinitely small space domains.
+This is the dawn of the correct formulation of equivalence as a principle that holds
+only locally.
+"The references to other physicists in this piece of fiction have their basis in reality, as will become
+clear in later chapters.
+206 RELATIVITY, THE GENERAL THEORY
+Let us summarize the Prague papers.* By the spring of 1912, Einstein knew
+of the red shift and the deflection of light. He had realized that the Lorentz trans-
+formations are not generally applicable, that a larger invariance group was
+needed, and that the laws of physics would have to be correspondingly more com-
+plicated. From the study of a primitive scalar model field theory, his attention had
+been drawn to the generality of the variational principle d$ds = 0 for mechanical
+systems. He understood that the sources of the gravitational field were not just
+ponderable matter but also field energy. He realized that gravitational field energy
+is to be included as a source and that the gravitational field equations were there-
+fore bound to be nonlinear. He saw that the equivalence principle apparently held
+only locally. As yet, he had no theory of gravitation. But he had learned a lot of
+physics.
+References
+El. A. Einstein, letter to Pauline Einstein, April 4, 1910.
+Ela. , letter to M. Besso, March 6, 1952; EB, p. 464.
+E2. , letter to J. Laub, summer 1910, undated.
+E3. , letter to J. Laub, October 11, 1910.
+E4. , letter to J. Laub, December 28, 1910.
+E5. —, letter to M. Grossmann, March 1911.
+E6. —, letter to H. Zangger, August 24, 1911.
+£7. , letter to M. Besso, May 13, 1911; EB, p. 19.
+E7a. , letter to A. Stern, March 17, 1912.
+E8. ,AdP 35, 898(1911).
+E9. , Jahrb. Rad. Elektr. 4, 411 (1907).
+E10. , AdP 17, 891 (1905), Sec. 8.
+Ell. , letter to J. Laub, August 10, 1911.
+E12. —, letter to H. Zangger, November 16, 1911.
+E13. , letter to M. Besso, September 11, 1911; EB, p. 26.
+E14. , letter to M. Besso, September 21, 1911; EB, p. 32.
+E15. , letter to M. Besso, December 26, 1911; EB, p. 40.
+E16. , AdP 38, 355(1912).
+E17. , AdP 38, 443(1912).
+E18. , letter to P. Ehrenfest, June 7, 1912.
+E19. , Viertelj. Schrift Ger. Medizin, 44, 37 (1912).
+Fl. P. Frank, Albert Einstein, Sein Leben und Seine Zeit, p. 137, Vieweg, Braun-
+schweig, 1979.
+F2. ,[Fl],p. 169.
+HI. J. Havranek, Acta Univ. Carolmae 17, 105 (1977).
+Jl. R. Jost, Viertelj. Schrift. Naturf. Ges. Zurich 124, 7 (1979).
+J2. S. Jaki, Found. Phys. 8, 927 (1978).
+*A short third paper on the c-field theory, also written in Prague [E19], will be discussed later.
+THE PRAGUE PAPERS 207
+Kl. A. Kleiner, letter to an unidentified colleague, January 18, 1911. The original is
+in the Staatsarchiv des Kantons Zurich.
+K2. M. J. Klein, Paul Ehrenfest, Vol. 1, p. 176. North Holland, Amsterdam, 1970.
+K3. , [K2], p. 178.
+LI. H. A. Lorentz, A. Einstein, H. Minkowski, and H. Weyl, The Principle of Rela-
+tivity (W. Perrett and G. B. Jeffery, Trans.). Dover, New York.
+L2. P. Lenard, AdP 65, 593 (1921).
+L3. M. von Laue, AdP 66, 283 (1922).
+PI. Protokoll des Regierungsrates, No. 1226, July 14, 1910.
+P2. Protokoll des Regierungsrates, No. 247, February 10, 1911.
+P3. M. Planck, Verh. Deutsch. Phys. Ges. 8, 136 (1906).
+51. Se, p. 204.
+52. O. Stern, see Biogr. Mem. Nat. Ac. Set. 43, 215 (1973).
+53. J. G. von Soldner, Berliner Astr. Jahrb., 1804, p. 161.
+54. J. Stachel in General Relativity and Gravitation, GRG Society Einstein Centennial
+Volume, Vol. 1, p. 1. Plenum Press, New York, 1980.

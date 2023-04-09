@@ -1,0 +1,488 @@
+20
+Einstein and Specific Heats
+The more success the quantum theory has, the sillier it looks.
+A. Einstein in 1912
+20a. Specific Heats in the Nineteenth Century
+By the end of the first decade of the twentieth century, three major quantum the-
+oretical discoveries had been made. They concern the blackbody radiation law, the
+light-quantum postulate, and the quantum theory of the specific heat of solids. All
+three arose from statistical considerations. There are, however, striking differences
+in the time intervals between these theoretical advances and their respective exper-
+imental justification. Planck formulated his radiation law in an uncommonly short
+time after learning about experiments in the far infrared that complemented ear-
+lier results at higher frequencies. It was quite a different story with the light-
+quantum. Einstein's hypothesis was many years ahead of its decisive experimental
+tests. As we shall see next, the story is quite different again in the case of specific
+heats. Einstein's first paper on the subject [El], submitted in November 1906,
+contains the qualitatively correct explanation of an anomaly that had been
+observed as early as 1840: the low value of the specific heat of diamond at room
+temperature. Einstein showed that this can be understood as a quantum effect.
+His paper contains one graph, the specific heat of diamond as a function of tem-
+perature, reproduced here below, which represents the first published graph in
+the history of the quantum theory of the solid state. It also represents one of only
+three instances I know of in which Einstein published a graph to compare theory
+with experiment (another example will be mentioned in Section 20b).
+In order to recognize an anomaly, one needs a theory or a rule or at least a
+prejudice. As I just mentioned, peculiarities in specific heats were diagnosed more
+than half a century before Einstein explained them. It was also known well before
+1906 that specific heats of gases exhibited even more curious properties. In what
+way was diamond considered so exceptional? And what about other substances?
+For a perspective on Einstein's contributions, it is necessary to sketch the answer
+to these questions. I therefore begin with a short account of specific heats in the
+nineteenth century.
+389
+The first published graph dealing with the quantum theory of the solid state: Einstein's
+expression for the specific heat of solids [given in Eq. 20.4] plotted versus hv/kT. The
+little circles are Weber's experimental data for diamond. Einstein's best fit to Weber's
+measurements corresponds to hv/k = 1300K.
+The story begins in 1819, when two young Frenchmen, Pierre Louis Dulong
+and Alexis Therese Petit, made an unexpected discovery during the researches in
+thermometry on which they had been jointly engaged for a number of years. For
+a dozen metals and for sulfur (all at room temperature), they found that c, the
+specific heat per gram-atom* (referred to as the specific heat hereafter), had prac-
+tically the same value, approximately 6 cal/mole-deg [PI]. They did, of course,
+not regard this as a mere coincidence: 'One is allowed to infer [from these data]
+the following law: the atoms of all simple bodies [elements] have exactly the same
+heat capacity.' They did not restrict this statement to elements in solid form, but
+initially believed that improved experiments might show their law to hold for gases
+also. By 1830 it was clear, however, that the rule could at best apply only to solids.
+Much remained to be learned about atomic weights in those early days of mod-
+ern chemistry. In fact, in several instances Dulong and Petit correctly halved val-
+ues of atomic weights obtained earlier by other means in order to bring their data
+into line with their law [Fl]. For many years, their rule continued to be an
+important tool for atomic weight determinations.
+*To be precise, these and other measurements on solids to be mentioned hereafter refer to cp at
+atmospheric pressure. Later on, a comparison will be made with theoretical values for c,. This
+requires a tiny correction to go from cp to cv. This correction will be ignored [LI].390 THE QUANTUM THEORY
+EINSTEIN AND SPECIFIC HEATS 391
+It became clear rather soon, however, that even for solid elements the Dulong-
+Petit rule is not as general as its propounders had thought. Amedeo Avogadro was
+one of the first to remark on deviations in the case of carbon, but his measurements
+were not very precise [Al].* Matters got more serious in 1840, when two Swiss
+physicists, Auguste de la Rive and Francois Marcet, reported on studies of carbon.
+In particular, they had obtained 'not without difficulty and expense' an amount
+of diamond powder sufficient to experiment with, for which they found c ~ 1.4
+[Rl]. At almost the same time, diamond was also being studied by Henri Victor
+Regnault, who more than any other physicist contributed to the experimental
+investigations of specific heats in the nineteenth century. His value: c =* 1.8 [R2].
+Regnault's conclusion about carbon was unequivocal: it is 'a complete exception
+among the simple bodies: it does not satisfy the general law which [relates] specific
+heats and atomic weights.' During the next twenty years, he continued his studies
+of specific heats and found many more deviations from the general law, though
+none as large as for diamond.
+We now move to the 1870s, when Heinrich Friedrich Weber,** then in Berlin,
+made the next advance. He began by re-analyzing the data of de la Rive and
+Marcet and those of Regnault and came to the correct conclusion that the different
+values for the specific heat of diamond found by these authors were not due to
+systematic errors. However, the de la Rive-Marcet value referred to a tempera-
+ture average from 3° to 14°C whereas Regnault's value was an average from 8°
+to 98°C. Weber noted that both experiments could be correct if the specific heat
+of carbon were to vary with temperature [Wl]! Tiny variations in specific heats
+with temperature had long been known for some substances (for example, water)
+[Nl]. In contrast, Weber raised the issue of a very strong temperature depen-
+dence—a new and bold idea. His measurements for twelve different temperatures
+between 0° and 200° C confirmed his conjecture: for diamond c varied by a factor
+of 3 over this range. He wanted to continue his observations, but it was March
+and, alas, there was no more snow for his ice calorimeter. He announced that he
+would go on with his measurements 'as soon as meteorological circumstances per-
+mit.' The next time we hear from Weber is in 1875, when he presented his beau-
+tiful specific heat measurements for boron, silicon, graphite, and diamond, from
+-100° to 1000°C [W2]. For the case of diamond, c varied by a factor of 15
+between these limits.
+By 1872, Weber had already made a conjecture which he confirmed in 1875:
+at high T one gets close to the Dulong-Petit value. In Weber's words, 'The three
+*In 1833 Avogadro obtained c =* 3 for carbon at room temperature. This value is too high. Since
+it was accidentally just half the Dulong-Petit value, Avogadro incorrectly conjectured 'that one must
+reduce the atom [i.e., the atomic weight] of sulfur and metals in general by [a factor of] one half
+[Al].
+**Weber was Einstein's teacher, whom we encountered in Chapter 3. Einstein's notebooks of
+Weber's lectures are preserved. They do not indicate that as a student Einstein knew of Weber's
+results.
+392 THE QUANTUM THEORY
+curious exceptions [C, B, Si] to the Dulong-Petit law which were until now a
+cause for despair have been eliminated: the Dulong-Petit law for the specific heats
+of solid elements has become an unexceptional rigorous law' [W2]. This is, of
+course, not quite true, but it was distinct progress. The experimental points on
+page 390 are Weber's points of 1875.*
+In 1872, not only Weber, but also a second physicist, made the conjecture that
+the Dulong-Petit value c ~ 6 would be reached by carbon at high temperatures:
+James Dewar. His road to the carbon problem was altogether different: for rea-
+sons having to do with solar temperatures, Dewar became interested in the boiling
+point of carbon. This led him to high-temperature experiments, from which he
+concluded [Dl] that the mean specific heat of carbon between 0° and 2000°C
+equals about 5 and that 'the true specific heat [per gram] at 2000°C must be at
+least 0.5, so that at this temperature carbon would agree with the law of Dulong
+and Petit.'**
+Dewar's most important contribution to our subject deals with very low tem-
+peratures. He had liquefied hydrogen in 1898. In 1905 he reported on the first
+specific heat measurements in the newly opened temperature region. It will come
+as no surprise that diamond was among the first substances he chose to study. For
+this case, he found the very low average value c ~ 0.05 in the interval from 20
+to 85 K. 'An almost endless field of research in the determination of specific heats
+is now opened,' Dewar remarked in this paper [D2]. His work is included in a
+detailed compilation by Alfred Wigand [W3] of the literature on the specific heats
+of solid elements that appeared in the same issue of the Annalen der Physik as
+Einstein's first paper on the quantum theory of specific heats. We are therefore
+up to date in regard to the experimental developments preceding Einstein's work.
+The theoretical interpretation of the Dulong-Petit rule is due to Boltzmann. In
+1866 he grappled unsuccessfully with this problem [B2]. It took another ten years
+before he recognized that this rule can be understood with the help of the equi-
+partition theorem of classical statistical mechanics. The simplest version of that
+theorem had been known since 1860: the average kinetic energy equals £772 for
+each degree of freedom.! In 1871 Boltzmann showed that the average kinetic
+energy equals the average potential energy for a system of particles each one of
+which oscillates under the influence of external harmonic forces [B4]. In 1876 he
+applied these results to a three-dimensional lattice [B5]. This gave him an average
+energy 3RT ^ 6 cal/mol. Hence cv, the specific heat at constant volume, equals
+* By the end of the nineteenth century, it was clear that the decrease in c with temperature occurs
+far more generally than just for C, B, and Si [Bl].
+** There followed a controversy about priorities between Weber and Dewar, but only a very mild
+one by nineteenth century standards. In any event, there is no question that the issues were settled
+only by Weber's detailed measurements in 1875.
+fThis result (phrased somewhat differently) is due to John James Waterston and Maxwell [Ml].
+For the curious story of Waterston's contribution, see [B3].
+EINSTEIN AND SPECIFIC HEATS 393
+6 cal/mol • deg. Thus, after half a century, the Dulong-Petit value had found a
+theoretical justification! As Boltzmann himself put it, his result was in good agree-
+ment with experiment 'for all simple solids with the exception of carbon, boron*
+and silicon.' Boltzmann went on to speculate that these anomalies might be a con-
+sequence of a loss of degrees of freedom due to a 'sticking together' at low tem-
+peratures of atoms at neighboring lattice points. This suggestion was elaborated
+by others [R3] and is mentioned by Wigand in his 1906 review as the best expla-
+nation of this effect. I mention this incorrect speculation only in order to stress one
+important point: before Einstein's paper of 1906, it was not realized that the dia-
+mond anomaly was to be understood in terms of the failure (or, rather, the inap-
+plicability) of the classical equipartition theorem. Einstein was the first one to state
+this fact clearly.
+By sharp contrast, it was well appreciated that the equipartition theorem was
+in trouble when applied to the specific heat of gases. This was a matter of grave
+concern to the nineteenth century masters. Even though this is a topic that does
+not directly bear on Einstein's work in 1906, I believe it will be useful to complete
+the nineteenth century picture with a brief explanation of why gases caused so
+much more aggravation.
+The reasons were clearly stated by Maxwell in a lecture given in 1875:
+The spectroscope tells us that some molecules can execute a great many differ-
+ent kinds of vibrations. They must therefore be systems of a very considerable
+degree of complexity, having far more than six variables [the number charac-
+teristic for a rigid body] . . . Every additional variable increases the specific heat.
+... Every additional degree of complexity which we attribute to the molecule
+can only increase the difficulty of reconciling the observed with the calculated
+value of the specific heat. I have now put before you what I consider the greatest
+difficulty yet encountered by the molecular theory. [M2]
+Maxwell's conundrum was the mystery of the missing vibrations. The follow-
+ing oversimplified picture suffices to make clear what troubled him. Consider a
+molecule made up of n structureless atoms. There are 3« degrees of freedom,
+three for translations, at most three for rotations, and the rest for vibrations. The
+kinetic energy associated with each degree of freedom contributes k.T/2 to cv. In
+addition, there is a positive contribution from the potential energy. Maxwell was
+saying that this would almost always lead to specific heats which are too large. As
+a consequence of Maxwell's lecture, attention focused on monatomic gases, and,
+in 1876, the equipartition theorem scored an important success: it found that cj
+cv « 5/3 for mercury vapor, in accordance with cv = 3R/2 and the ideal gas rule
+cp — cv = R [Kl]. It had been known since the days of Regnault** that several
+"The good professor wrote bromine but meant boron.
+**A detailed review of the specific heats of gases from the days of Lavoisier until 1896 is found in
+Wullner's textbook [W4].
+394 THE QUANTUM THEORY
+diatomic molecules (including hydrogen) have a cv close to 5R/2. It was not yet
+recognized by Maxwell that this is the value prescribed by the equipartition theo-
+rem for a rigid dumbbell molecule; that observation was first made by Boltzmann
+[B5]. The equipartition theorem was therefore very helpful, yet, on the whole, the
+specific heat of gases remained a murky subject.
+Things were getting worse. Already before 1900, instances were being found in
+which cv depended (weakly) on temperature [W4], in flagrant contradiction with
+classical concepts. No wonder these results troubled Boltzmann. His idea about
+the anomalies for the specific heats of solids could not work for gases. Molecules
+in dilute gases hardly stick together! In 1895 he suggested a way out: the equi-
+partition theorem is correct for gases but does not apply to the combined gas-
+aether system because there is no thermal equilibrium: 'The entire ether has not
+had time to come into thermal equilibrium with the gas molecules and has in no
+way attained the state which it would have if it were enclosed for an infinitely
+long time in the same vessel with the molecules of the gas' [B6].
+Kelvin took a different position; he felt that the classical equipartition theorem
+was wrong. He stuck to this belief despite the fact that his attempts to find flaws
+in the theoretical derivation of the theorem had of course remained unsuccessful.
+'It is ... not quite possible to rest contented with the mathematical verdict not
+proved and the experimental verdict not true in respect to the Boltzmann-Max-
+well doctrine,' he said in a lecture given in 1900 before the Royal Institution [K2].
+He summarized his position by saying that 'the simplest way to get rid of the
+difficulties is to abandon the doctrine' [K3].
+Lastly, there was the position of Rayleigh: the proof of the equipartition theo-
+rem is correct and there is thermal equilibrium between the gas molecules and the
+aether. Therefore there is a crisis. 'What would appear to be wanted is some
+escape from the destructive simplicity of the general conclusion [derived from
+equipartition]' [R4].
+Such was the state of affairs when Einstein took on the specific heat problem.
+20b. Einstein
+Until 1906, Planck's quantum had played a role only in the rather isolated prob-
+lem of blackbody radiation. Einstein's work on specific heats [El] is above all
+important because it made clear for the first time that quantum concepts have a
+far more general applicability. His 1906 paper is also unusual because here we
+meet an Einstein who is quite prepared to use a model he knows to be approxi-
+mate in order to bring home a point of principle. Otherwise this paper is much
+like his other innovative articles: succinctly directed to the heart of the matter.
+Earlier in 1906 Einstein had come to accept Planck's relation (Eq. 19.11)
+between p and the equilibrium energy U as a new physical assumption (see Sec-
+tion 19d). We saw in Section 19a that Planck had obtained the expression
+EINSTEIN AND SPECIFIC HEATS 395
+for all n, where the value of the constant A is irrelevant. Mathematically, this is
+the forerunner of the 5-function! Today we write a(E,v) = ^ 5(E — nhv).
+From Eqs. 20.2 and 20.3 we recover Eq. 20.1. This new formulation is impor-
+tant because for the first time the statistical and the dynamic aspects of the problem
+are clearly separated. 'Degrees of freedom must be weighed and not counted,' as
+Sommerfeld put it later [SI].
+In commenting on his new derivation of Eq. 20.1, Einstein remarked, 'I believe
+we should not content ourselves with this result' [El]. If we must modify the the-
+ory of periodically vibrating structures in order to account for the properties of
+radiation, are we then not obliged to do the same for other problems in the molec-
+ular theory of heat, he asked. 'In my opinion, the answer cannot be in doubt. If
+Planck's theory of radiation goes to the heart of the matter, then we must also
+expect to find contradictions between the present [i.e., classical] kinetic theory and
+experiment in other areas of the theory of heat—contradictions that can be
+resolved by following this new path. In my opinion, this expectation is actually
+realized.'
+Then Einstein turned to the specific heat of solids, introducing the following
+model of a three-dimensional crystal lattice. The atoms on the lattice points oscil-
+late independently, isotropically, harmonically, and with a single frequency v
+*I do not always use the notations of the original paper.(20.1)
+by introducing a prescription that modified Boltzmann's way of counting states.
+Einstein's specific heat paper begins with a new prescription for arriving at the
+same result. He wrote U in the form*
+The exponential factor denotes the statistical probability for the energy E. The
+weight factor us contains the dynamic information about the density of states
+between E and E + dE. For the case in hand (linear oscillators), <o is trivial in
+the classical theory: u(E,v) = 1. This yields the equipartition result U = kT.
+Einstein proposed a new form for w. Let t = hv. Then o> shall be different from
+zero only when ne < E < nt + a, n = 0, 1, 2, ... 'where a is infinitely small
+compared with «,' and such that(20.2)
+(20.3)
+396 THE QUANTUM THEORY
+around their equilibrium positions (volume changes due to heating and contri-
+butions to the specific heat due to the motions of electrons within the atoms are
+neglected, Einstein notes). He emphasized that one should of course not expect
+rigorous answers because of all these approximations.
+The First Generalization. Einstein applied Eq. 20.2 to his three-dimensional
+oscillators. In thermal equilibrium, the total energy of a gram-atom of oscillators
+equals 3>NU(v,T), where U is given by Eq. 20.1 and N is Avogadro's number.
+Hence,
+(20.4)
+which is Einstein's specific heat formula.
+The Second Generalization. For reasons of no particular interest to us now,
+Einstein initially believed that his oscillating lattice points were electrically
+charged ions. A few months later, he published a correction to his paper, in which
+he observed that this was an unnecessary assumption [E2] (In Planck's case, the
+linear oscillators had of course to be charged!). Einstein's correction freed the
+quantum rules (in passing, one might say) from any specific dependence on elec-
+tromagnetism.
+Einstein's specific heat formula yields, first of all, the Dulong-Petit rule in the
+high-temperature limit. It is also the first recorded example of a specific heat for-
+mula with the property
+(20.5)
+As we shall see in the next section, Eq. 20.5 played an important role in the
+ultimate formulation of Nernst's heat theorem.
+Einstein's specific heat formula has only one parameter. The only freedom is
+the choice of the frequency* v, or, equivalently, the 'Einstein temperature' TE, the
+value of T for which £ = 1. As was mentioned before, Einstein compared his
+formula with Weber's points for diamond. Einstein's fit can be expressed in tem-
+perature units by 7^E ^ 1300 K, for which 'the points lie indeed almost on the
+curve.' This high value of TE makes clear why a light and hard substance like
+diamond exhibits quantum effects at room temperature (by contrast, TE ~ 70 K
+for lead).
+By his own account, Einstein took Weber's data from the Landolt-Bornstein
+tables. He must have used the 1905 edition [L2], which would have been readily
+available in the patent office. These tables do not yet contain the earlier-mentioned
+results by Dewar in 1905. Apparently Einstein was not aware of these data in
+1906 (although they were noted in that year by German physicists [W3]). Perhaps
+that was fortunate. In any case, Dewar's value of cv ~ 0.05 for diamond refers
+*In a later paper, Einstein attempted to relate this frequency to the compressibility of the material
+[E3].
+EINSTEIN AND SPECIFIC HEATS 397
+to an average over the range £ ~ 0.02-0.07. This value is much too large to be
+accommodated (simultaneously with Weber's points) by Einstein's Eq. 20.4: the
+exponential drop of cv as T —*• 0, predicted by that equation, is far too steep.
+Einstein did become aware of this discrepancy in 1911, when the much
+improved measurements by Nernst showed that Eq. 20.4 fails at low T [N2].
+Nernst correctly ascribed the disagreement to the incorrectness of the assumption
+that the lattice vibrations are monochromatic. Einstein himself explored some
+modifications of this assumption [ E4]. The correct temperature dependence at low
+temperatures was first obtained by Peter Debye; for nonmetallic substances, cv
+—* 0 as T"3 [D3]. Einstein had ended his active research on the specific heats of
+solids by the time the work of Debye and the more exact treatment of lattice
+vibrations by Max Born and Theodore von Karman appeared [B7]. These further
+developments need therefore not be discussed here.
+However, in 1913 Einstein returned once again to specific heats, this time to
+consider the case of gases. This came about as the result of important experimental
+advances on this subject which had begun in 1912 with a key discovery by Arnold
+Eucken. It had long been known by then that c, ~ 5 for molecular hydrogen at
+room temperature. Eucken showed that this value decreased with decreasing T
+and that cv « 3 at T «s 60 K [E5]. As is well known today, this effect is due to
+the freezing of the two rotational degrees of freedom of this molecule at these low
+temperatures. In 1913 Einstein correctly surmised that the effect was related to
+the behavior of these rotations and attempted to give a quantitative theory. In a
+paper on this subject, we find another instance of curve fitting by Einstein [E6].
+However, this time he was wrong. His answer depended in an essential way on
+the incorrect assumption that rotational degrees of freedom have a zero point
+energy.*
+In 1925 Einstein was to turn his attention one last time to gases at very low
+temperatures, as we shall see in Section 23b.
+20c. Nernst: Solvay I**
+'As the temperature tends to absolute zero, the entropy of a system tends to a
+universal constant that is independent of chemical or physical composition or of
+other parameters on which the entropy may depend. The constant can be taken
+to be zero.' This modern general formulation of the third law of thermodynamics
+implies (barring a few exceptional situations) that specific heats tend to zero as T
+—* 0 (see [H2]). The earliest and most primitive version of the 'heat theorem' was
+presented in 1905, before Einstein wrote his first paper on specific heats. The final
+*In 1920 Einstein announced a forthcoming paper on the moment of inertia of molecular hydrogen
+[E7]. That paper was never published, however,
+**The preparation of this section was much facilitated by my access to an article by Klein [K4] and
+a book by Hermann [HI].
+398 THE QUANTUM THEORY
+form of the third law was arrived at and accepted only after decades of controversy
+and confusion.* For the present account, it is important to note the influence of
+Einstein's work on this evolution.
+On December 23, 1905, Hermann Walther Nernst read a paper at the Goet-
+tingen Academy entitled 'On the Computation of Chemical Equilibria from Ther-
+mal Measurements.' In this work he proposed a new hypothesis for the thermal
+behavior of liquids and solids at absolute zero [N3]. For our purposes, the 1905
+hypothesis is of particular interest as it applies to a chemically homogeneous sub-
+stance. For this case, the hypothesis states in essence that the entropy difference
+between two modifications of such a substance (for example, graphite and dia-
+mond in the case of carbon) tends to zero as T —* 0. Therefore it does not exclude
+a nonzero specific heat at zero temperatures. In fact, in 1906 Nernst assumed that
+all specific heats tend to 1.5 cal/deg at T = 0 [N3, N4]. However, he noted that
+he had no proof of this statement because of the absence of sufficient low-temper-
+ature data. He stressed that it was a 'most urgent task' to acquire these [N3].
+Nernst's formidable energies matched his strong determination. He and his col-
+laborators embarked on a major program for measuring specific heats at low tem-
+peratures. This program covered the same temperature domain already studied
+by Dewar, but the precision was much greater and more substances were exam-
+ined. One of these was diamond, obviously.
+By 1910 Nernst was ready to announce his first results [N5]. From his curves,
+'one gains the clear impression that the specific heats become zero or at least take
+on very small values at very low temperatures. This is in qualitative agreement
+with the theory developed by Herr Einstein. ..'
+Thus, the order of events was as follows. Late in 1905 Nernst stated a primitive
+version of the third law. In 1906 Einstein gave the first example of a theory that
+implies that cv —» 0 as T —> 0 for solids. In 1910 Nernst noted the compatibility
+of Einstein's result with 'the heat theorem developed by me.' However, it was
+actually Planck who, later in 1910, took a step that 'not only in form but also in
+content goes a bit beyond [the formulation given by] Nernst himself.' In Planck's
+formulation, the specific heat of solids and liquids does go to zero as T —*• 0 [P2].
+It should be stressed that neither Nernst nor Planck gave a proof of the third law.
+The status of this law was apparently somewhat confused, as is clear from Ein-
+stein's remark in 1914 that 'all attempts to derive Nernst's theorem theoretically
+in a thermodynamic way with the help of the experimental fact that the specific
+heat vanishes at T = 0 must be considered to have failed.' Einstein went on to
+remark—rightly so—that the quantum theory is indispensable for an understand-
+ing of this theorem [E8]. In an earlier letter to Ehrenfest, he had been sharply
+critical of the speculations by Nernst and Planck [E9].
+Nernst's reference to Einstein in his paper of 1910 was the first occasion on
+*Simon has given an excellent historical survey of this development [S2j.
+EINSTEIN AND SPECIFIC HEATS 399
+which he acknowledged the quantum theory in his publications. His newly
+aroused interest in the quantum theory was, however, thoroughly pragmatic. In
+an address (on the occasion of the birthday of the emperor), he said:
+At this time, the quantum theory is essentially a computational rule, one may
+well say a rule with most curious, indeed grotesque, properties. However, . . .
+it has borne such rich fruits in the hands of Planck and Einstein that there is
+now a scientific obligation to take a stand in its regard and to subject it to
+experimental test.
+He went on to compare Planck with Dalton and Newton [N6]. Also in 1911,
+Nernst tried his hand at a needed modification of Einstein's Eq. 20.4 [N7].
+Nernst was a man of parts, a gifted scientist, a man with a sense for practical
+applications, a stimulating influence on his students, and an able organizer. Many
+people disliked him. But he commanded respect 'so long as his egocentric weakness
+did not enter the picture' [E10]. He now saw the need for a conference on the
+highest level to deal with the quantum problems. His combined talents as well as
+his business relations enabled him to realize this plan. He found the industrialist
+Ernest Solvay willing to underwrite the conference. He planned the scientific pro-
+gram in consultation with Planck and Lorentz. On October 29, 1911, the first
+Solvay Conference convened. Einstein was given the honor of being the final
+speaker. The title of his talk: 'The Current Status of the Specific Heat Problem.'
+He gave a beautiful review of this subject—and used the occasion to express his
+opinion on the quantum theory of electromagnetic radiation as well. His contri-
+butions to the latter topic are no doubt more profound than his work on specific
+heats. Yet his work on the quantum theory of solids had a far greater immediate
+impact and considerably enlarged the audience of those willing to take quantum
+physics seriously.
+Throughout the period discussed in the foregoing, the third law was applied
+only to solids and liquids. Only in 1914 did Nernst dare to extend his theorem to
+hold for gases as well. Eucken's results on the specific heat of molecular hydrogen
+were a main motivation for taking this bold step [N8]. Unlike the case for solids,
+Nernst could not point to a convincing theoretical model of a gas with the property
+cv —> 0 as T -* 0. So it was to remain until 1925, when the first model of this
+kind was found. Its discoverer: Einstein (Section 23b).
+Einstein realized, of course, that his work on the specific heats of solids was a
+step in the right direction. Perhaps that pleased him. It certainly puzzled him. In
+1912 he wrote the following to a friend about his work on the specific heat of gases
+at low temperatures:
+In recent days, I formulated a theory on this subject. Theory is too presump-
+tuous a word—it is only a groping without correct foundation. The more suc-
+cess the quantum theory has, the sillier it looks. How nonphysicists would scoff
+if they were able to follow the odd course of developments! [Ell]
+400 THE QUANTUM THEORY
+References
+Al. A. Avogadro, Ann. Chim. Phys. 55, 80 (1833), especially pp. 96-8.
+Bl. U. Behn, AdP 48, 708 (1893).
+B2. L. Boltzmann, Wiener Ber. 53, 195 (1866). Reprinted in Wissenschaftliche Abhan-
+dlugen von L. Boltzmann (F. Hasenohrl, Ed.), Vol. 1, p. 20, Reprinted by Chelsea,
+New York, 1968. These collected works are referred to below as WA.
+B3. S. G. Brush, The Kind of Motion We Call Heat, Vol. 1, Chap 3; Vol. 2, Chap. 10.
+North Holland, Amsterdam, 1976.
+B4. L. Boltzmann, Wiener Ber. 63, 679, (1871); WA, Vol. 1, p. 259.
+B5. , Wiener Ber. 74, 553, (1876); WA, Vol 2, p. 103.
+B6. , Nature 51, 413, (1895); WA, Vol. 3, p. 535.
+B7. M. Born and T. von Karman, Phys. Zeitschr. 13, 297, (1912); 14, 15 (1913).
+Dl. J. Dewar, Phil. Mag. 44, 461 (1872).
+D2. , Proc. Roy. Soc. London 76, 325 (1905).
+D3. P. Debye, AdP 39, 789 (1912).
+El. A. Einstein, AdP 22, 180 (1907).
+E2. , AdP 22, 800 (1907).
+E3. —, AdP 34, 170(1911).
+E4. , Ad 35, 679, (1911).
+E5. A. Eucken, PAW, 1912, p. 141.
+E6. A. Einstein and O. Stern, AdP 40, 551 (1913).
+E7. , PAW, 1920, p. 65.
+E8. , Verh. Deutsch. Phys. Ges. 16, 820 (1914).
+E9. —, letter to P. Ehrenfest, April 25, 1912.
+E10. , Set. Monthly 54, 195 (1942).
+Ell. , letter to H. Zangger, May 20, 1912.
+Fl. R. Fox, Brit. J. Hist. Sci. 4, 1 (1968).
+HI. A. Hermann, Fruhgeschichte der Quantentheorie, 1899-1913. Mosbach, Baden,
+1969.
+H2. K. Huang, Statistical Mechanics, p. 26. Wiley, New York, 1963.
+Kl. A. Kundt and E. Warburg, AdP 157, 353 (1876).
+K2. Kelvin, Baltimore Lectures, Sec. 27. Johns Hopkins University Press, Baltimore,
+1904.
+K3. , [K2], p. xvii.
+K4. M. Klein, Science 148, 173 (1965).
+LI. G. N. Lewis, /. Am. Chem. Soc. 29, 1165, 1516 (1907).
+L2. H. Landolt and R. Bornstein, Physikalisch Chemische Tabellen (3rd ed.), p. 384.
+Springer, Berlin, 1905.
+Ml. J. C. Maxwell, The Scientific Papers of J. C. Maxwell (W. P. Niven , Ed.), Vol.
+1, p. 377. Dover, New York.
+M2. [Ml], Vol. 2, p. 418.
+Nl. F. E. Neumann, AdP 23, 32 (1831).
+N2. W. Nernst, PAW, 1911, p. 306.
+N3. —, Gott. Nachr., 1906, p. 1.
+N4. , PAW, 1906, p. 933.
+N5. , PAW, 1910, p. 262.
+EINSTEIN AND SPECIFIC HEATS 401
+N6. , PAW, 1911, p. 65.
+N7. and F. Lindemann, PAW,\9l\,p. 494.
+N8. , Z. Elektrochem. 20, 397 (1914).
+PI. A. T. Petit and P. L. Dulong, Ann. Chim. Phys. 10, 395 (1819).
+P2. M. Planck, Vorlesungen ilber Thermodynamik (3rd Edn.), introduction and Sec.
+292. Von Veil, Leipzig, 1911.
+Rl. A. de la Rive and F. Marcet, Ann. Chim. Phys. 75, 113 (1840).
+R2. H. V. Regnault, Ann. Chim. Phys. 1, 129 (1841), especially pp. 202-5.
+R3. F. Richarz, AdP 48, 708 (1893).
+R4. J. W. S. Rayleigh, Phil. Mag. 49, 98 (1900).
+51. A. Sommerfeld, Gesammelte Schriften, Vol. 3, p. 10. Vieweg, Braunschweig, 1968.
+52. F. Simon, Yearbook Phys. Soc. London, 1956, p. 1.
+Wl. H. F. Weber, AdP 147, 311 (1872).
+W2. , AdP 154, 367, 533 (1875).
+W3. A. Wigand, AdP 22, 99 (1907).
+W4. A. Wiillner, Lehrbuch der Experimentalphysik, Vol. 2, p. 507. Teubner, Leipzig,
+1896.

@@ -1,0 +1,548 @@
+21
+The Photon
+2 la. The Fusion of Particles and Waves and Einstein's Destiny
+I now continue the tale of the light-quantum, a subject on which Einstein pub-
+lished first in 1905, then again in 1906. Not long thereafter, there began the period
+I earlier called 'three and a half years of silence,' during which he was again
+intensely preoccupied with radiation and during which he wrote to Laub, 'I am
+incessantly busy with the question of radiation.. .. This quantum question is so
+uncommonly important and difficult that it should concern everyone' [El]. Our
+next subject will be two profound papers on radiation published in 1909. The first
+one [E2] was completed while Einstein was still a technical expert second class at
+the patent office. The second one [E3] was presented to a conference at Salzburg
+in September, shortly after he had been appointed associate professor in Zurich.
+These papers are not as widely known as they should be because they address
+questions of principle without offering any new experimental conclusion or pre-
+diction, as had been the case for the first light-quantum paper (photoeffect) and
+the paper on specific heats.
+In 1909 KirchhofFs theorem was half a century old. The blackbody radiation
+law had meanwhile been found by Planck. A small number of physicists realized
+that its implications were momentous. A proof of the law did not yet exist. Never-
+theless, 'one cannot think of refusing [to accept] Planck's theory,' Einstein said in
+his talk at Salzburg. That was his firmest declaration of faith up to that date. In
+the next sentence, he gave the new reason for his conviction: Geiger and Ruther-
+ford's value for the electric charge had meanwhile been published and Planck's
+value for e had been 'brilliantly confirmed' (Section 19a).
+In Section 4c, I explained Einstein's way of deriving the energy fluctuation
+formula
+(21.1)
+where (e2) is the mean square energy fluctuation and {E) the average energy for
+a system in contact with a thermal bath at temperature T. As is so typical for
+Einstein, he derived this statistical physics equation in a paper devoted to the
+quantum theory, the January 1909 paper. His purpose for doing so was to apply
+402
+THE PHOTON 403
+this result to energy fluctuations of blackbody radiation in a frequency interval
+between v and v + dv. In order to understand how this refinement is made, con-
+sider a small subvolume v of a cavity filled with thermal radiation. Enclose v with
+a wall that prevents all frequencies but those in dv from leaving v while those in
+dv can freely leave and enter v. We may then apply Eq. 21.1 with (E) replaced
+by pvdv, so that (€2) is now a function of v and T and we have
+This equation expresses the energy fluctuations in terms of the spectral function
+p in a way that is independent of the detailed form of p. Consider now the follow-
+ing three cases.
+1. p is given by the Rayleigh-Einstein-Jeans law (eq. 19.17). Then
+2. p is given by the Wien law (Eq. 19.7). Then
+3. p is given by the Planck law (Eq. 19.6). Then(21.3)
+(21.4)
+(21.5)
+(I need not apologize for having used the same symbol p in the last three equations
+even though p is a different function of v and T in each of them.)*
+In his discussion of Eq. 21.5, Einstein stressed that 'the current theory of radia-
+tion is incompatible with this result.' By current theory, he meant, of course, the
+classical wave theory of light. Indeed, the classical theory would give only the
+second term in Eq. 21.5, the 'wave term' (compare Eqs. 21.5 and 21.3). About the
+first term of Eq. 21.5, Einstein had this to say: 'If it alone were present, it would
+result in fluctuations [to be expected] if radiation were to consist of independently
+moving pointlike quanta with energy hi>.' In other words, compare Eqs. 21.4 and
+21.5. The former corresponds to Wien's law, which in turn holds in the regime
+in which Einstein had introduced the light-quantum postulate.
+Observe the appearance of a new element in this last statement by Einstein.
+The word pointlike occurs. Although he did not use the term in either of his 1909
+papers, he now was clearly thinking of quanta as particles. His own way of refer-
+ring to the particle aspect of light was to call it 'the point of view of the Newtonian
+emission theory.' His vision of light-quanta as particles is especially evident in a
+letter to Sommerfeld, also dating from 1909, in which he writes of 'the ordering
+of the energy of light around discrete points which move with light velocity' [E4].
+'Equations 21.3 and 21.4 do not explicitly occur in Einstein's own paper.
+(21. 2)404 THE QUANTUM THEORY
+Equation 21.5 suggests (loosely speaking) that the particle and wave aspects of
+radiation occur side by side. This is one of the arguments which led Einstein in
+1909 to summarize his view on the status of the radiation theory in the following
+way!*
+I already attempted earlier to show that our current foundations of the radiation
+theory have to be abandoned. ... It is my opinion that the next phase in the
+development of theoretical physics will bring us a theory of light that can be
+interpreted as a kind of fusion of the wave and the emission theory. . . . [The]
+wave structure and [the] quantum structure ... are not to be considered as
+mutually incompatible. ... It seems to follow from the Jeans law [Eq. 19.17]
+that we will have to modify our current theories, not to abandon them
+completely.
+This fusion now goes by the name of complementarity. The reference to the
+Jeans law we would now call an application of the correspondence principle.
+The extraordinary significance for twentieth century physics of Einstein's sum-
+ming up hardly needs to be stressed. I also see it as highly meaningful in relation
+to the destiny of Einstein the scientist if not of Einstein the man. In 1909, at age
+thirty, he was prepared for a fusion theory. He was alone in this. Planck certainly
+did not support this vision. Bohr had yet to arrive on the scene. Yet when the
+fusion theory arrived in 1925, in the form of quantum mechanics, Einstein could
+not accept the duality of particles and waves inherent in that theory as being fun-
+damental and irrevocable. It may have distressed him that one statement he made
+in 1909 needed revision: moving light-quanta with energy hv are not pointlike.
+Later on, I shall have to make a number of comments on the scientific reasons
+that changed Einstein's apartness from that of a figure far ahead of his time to
+that of a figure on the sidelines. As I already indicated earlier, I doubt whether
+this change can be fully explained on the grounds of his scientific philosophy
+alone.
+(As a postscript to the present section, I add a brief remark on Einstein's energy
+fluctuation formula. Equations 21.3-21.5 were obtained by a statistical reasoning.
+One should also be able to derive them in a directly dynamic way. Einstein himself
+had given qualitative arguments for the case of Eq. 21.3. He noted that the fluc-
+tuations come about by interference between waves with frequencies within and
+without the dv interval. A few years later, Lorentz gave the detailed calculation,
+obtaining Eq. 21.3 from classical electromagnetic theory [LI]. However, difficul-
+ties arose with attempts to derive the Planck case (Eq. 21.5) dynamically. These
+were noted in 1919 by Leonard Ornstein and Frits Zernike, two Dutch experts
+on statistical physics [Ol]. The problem was further elaborated by Ehrenfest [E5].
+*In the following quotation, I combine statements made in the January and in the October paper.
+THE PHOTON 405
+It was known at that time that one can obtain Planck's expression for p by
+introducing the quantum prescription* that the electromagnetic field oscillators
+could have only energies nhv. However, both Ornstein and Zernike, and Ehren-
+fest found that the same prescription applied to the fluctuation formula gave the
+wrong answer. The source of the trouble seemed to lie in Einstein's entropy
+additivity assumption (see Eq. 4.21). According to Uhlenbeck (private communi-
+cation), these discrepancies were for some years considered to be a serious prob-
+lem. In their joint 1925 paper, Born, Heisenberg, and Jordan refer to it as a
+fundamental difficulty [Bl]. In that same paper, it was shown, however, that the
+new quantum mechanics applied to a set of noninteracting oscillators does give the
+Einstein answer. The noncommutativity of coordinates and momenta plays a role
+in this derivation. Again, according to Uhlenbeck (private communication), the
+elimination of this difficulty was considered one of the early successes of quantum
+mechanics. (It is not necessary for our purposes to discuss subsequent improve-
+ments on the Heisenberg-Born-Jordan treatment.))**
+21 b. Spontaneous and Induced Radiative Transitions
+After 1909 Einstein continued brooding about the light-quantum for almost
+another two years. As mentioned in Chapter 10, in May 1911 he wrote to Besso,
+'I do not ask anymore whether these quanta really exist. Nor do I attempt any
+longer to construct them, since I now know that my brain is incapable of fath-
+oming the problem this way' [E6]. For the time being, he was ready to give up.
+In October 1911 Einstein (now a professor in Prague) gave a report on the quan-
+tum theory to the first Solvay Congress [E7], but by this time general relativity
+had already become his main concern and would remain so until November 1915.
+In 1916, he returned once again to blackbody radiation and made his next
+advance. In November 1916 he wrote to Besso, 'A splended light has dawned on
+me about the absorption and emission of radiation' [E8]. He had obtained a deep
+insight into the meaning of his heuristic principle, and this led him to a new der-
+ivation of Planck's radiation law. His reasoning is contained in three papers, two
+of which appeared in 1916 [E9, E10], the third one early in 1917 [Ell]. His
+method is based on general hypotheses about the interaction between radiation
+and matter. No special assumptions are made about intrinsic properties of the
+objects which interact with the radiation. These objects 'will be called molecules
+in what follows' [E9]. (It is completely inessential to his arguments that these
+molecules could be Planck's oscillators!)
+Einstein considered a system consisting of a gas of his molecules interacting
+with electromagnetic radiation. The entire system is in thermal equilibrium.
+"The elementary derivation due to Debye is found in Section 24c.
+"The reader interested in these further developments is referred to a paper by Gonzalez and Werge-
+land, which also contains additional references to this subject [Gl].
+The A coefficient corresponds to spontaneous transitions m —» n, which occur with
+a probability that is independent of the spectral density p of the radiation present.
+The B terms refer to induced emission and absorption. In Eqs. 21.7 and 21.8, p
+is a function of v and T, where 'we shall assume that a molecule can go from the
+state En to the state Em by absorption of radiation with a definite frequency v, and
+[similarly] for emission' [E9]. Microscopic reversibility implies that dWmri =
+dWnm. Using Eq. 21.6, we therefore havewhere pm is a weight factor. Consider a pair of levels Em, Ea, Em > Ea. Einstein's
+new hypothesis is that the total number dW of transitions in the gas per time
+interval dt is given by
+(21.7)
+(21.8)(21.6)400 THE QUANTUM THEORY
+Denote by Em the energy levels of a molecule and by Nm the equilibrium number
+of molecules in the level Em. Then
+(Note that the second term on the right-hand side corresponds to induced emission.
+Thus, if there were no induced emission we would obtain Wien's law.) Einstein
+remarked that 'the constants A and B could be computed directly if we were to
+possess an electrodynamics and mechanics modified in the sense of the quantum
+hypothesis' [E9]. That, of course, was not yet the case. He therefore continued his
+argument in the following way. For fixed Em — £„ and T -* oo, we should get
+the Rayleigh-Einstein-Jeans law (Eq. 19.17). This implies that(21.9)
+(21.10)
+(21.11)whence
+where «„„, = A^/B^. Then he concluded his derivation by appealing to the uni-
+versality of p and to Wien's displacement law, Eq. 19.4: 'a^, and Em — Ea cannot
+depend on particular properties of the molecule but only on the active frequency
+v, as follows from the fact that p must be a universal function of v and T. Further,
+it follows from Wien's displacement law that «„„, and Em — En are proportional
+to the third and first powers of v, respectively. Thus one has
+(21.12)
+where h denotes a constant' [E9].
+The content of Eq. 21.12 is far more profound than a definition of the symbol
+THE PHOTON 407
+v (and h). It is a compatibility condition. Its physical content is this: in order that
+Eqs. 21.7 and 21.8 may lead to Planck's law, it is necessary that the transitions
+m ^5 n are accompanied by a single monochromatic radiation quantum. By this
+remarkable reasoning, Einstein therefore established a bridge between blackbody
+radiation and Bohr's theory of spectra.
+About the assumptions he made in the above derivation, Einstein wrote, 'The
+simplicity of the hypotheses makes it seem probable to me that these will become
+the basis of the future theoretical description.' That turned out to be true.
+Two of the three papers under discussion [E10, Ell] contained another result,
+one which Einstein himself considered far more important than his derivation of
+the radiation law: light-quanta carry a momentum hv/c. This will be our next
+topic.
+21c. The Completion of the Particle Picture
+1. Light-Quantum and Photon. A photon is a state of the electromagnetic field
+with the following properties.
+1. It has a definite frequency v and a definite wave vector k.
+2. Its energy E,
+(21.13)
+(21.14)
+(21.15)and its momentum p,
+satisfy the dispersion law
+characteristic of a particle of zero rest mass.*
+3. It has spin one and (like all massless particles with nonzero spin) two states of
+polarization. The single particle states are uniquely specified by these three
+properties [Wl].
+The number of photons is in general not conserved in particle reactions and
+decays. I shall return to the nonconservation of photon number in Chapter 23, but
+would like to note here an ironic twist of history. The term photon first appeared
+in the title of a paper written in 1926: 'The Conservation of Photons.' The author:
+the distinguished physical chemist Gilbert Lewis from Berkeley. The subject: a
+speculation that light consists of 'a new kind of atom .. . uncreatable and inde-
+structible [for which] I ... propose the name photon' [L2]. This idea was soon
+forgotten, but the new name almost immediately became part of the language. In
+*There have been occasional speculations that the photon might have a tiny nonzero mass. Direct
+experimental information on the photon mass is therefore a matter of interest. The best determina-
+tions of this mass come from astronomical observations. The present upper bound is 8 X 10~49 g
+[Dl]. In what follows, the photon mass is taken to be strictly zero.
+408 THE QUANTUM THEORY
+October 1927 the fifth Solvay conference was held. Its subject was 'electrons et
+photons.'
+When Einstein introduced light-quanta in 1905, these were energy quanta sat-
+isfying Eq. 21.13. There was no mention in that paper of Eqs. 21.15 and 21.14.
+In other words, the full-fledged particle concept embodied in the term photon was
+not there all at once. For this reason, in this section I make the distinction between
+light-quantum ('E — hv only') and photon. The dissymmetry between energy and
+momentum in the 1905 paper is, of course, intimately connected with the origins
+of the light-quantum postulate in equilibrium statistical mechanics. In the statis-
+tical mechanics of equilibrium systems, important relations between the overall
+energy and other macroscopic variables are derived. The overall momentum plays
+a trivial and subsidiary role. These distinctions between energy and momentum
+are much less pronounced when fluctuations around the equilibrium state are con-
+sidered. It was via the analysis of statistical fluctuations of blackbody radiation
+that Einstein eventually came to associate a definite momentum with a light-quan-
+tum. That happened in 1916. Before I describe what he did, I should again draw
+the attention of the reader to the remarkable fact that it took the father of special
+relativity theory twelve years to write down the relation p = hv/c side by side
+with E = hv. I shall have more to say about this in Section 25d.
+2. Momentum Fluctuations: 1909. Einstein's first results bearing on the
+question of photon momentum are found in the two 1909 papers. There he gave
+a momentum fluctuation formula that is closely akin to the energy fluctuation
+formula Eq. 21.5. He considered the case of a plane mirror with mass m and area
+/ placed inside the cavity. The mirror moves perpendicular to its own plane and
+has a velocity v at time t. During a small time interval from t to t + T, its momen-
+tum changes from mv to mv — Pvr + A. The second term describes the drag
+force due to the radiation pressure (P is the corresponding friction constant). This
+force would eventually bring the mirror to rest were it not for the momentum
+fluctuation term A, induced by the fluctuations of the radiation pressure. In ther-
+mal equilibrium, the mean square momentum m2(v2) should remain unchanged
+over the interval T. Hence* (A2) = 2mPr{v2). The equipartition law applied to
+the kinetic energy of the mirror implies that m(v2) = kT. Thus
+Einstein computed P in terms of p for the case in which the mirror is fully trans-
+parent for all frequencies except those between v and v + dv, which it reflects
+perfectly. Using Planck's expression for p, he found that(21.16)
+(21.17)
+"Terms O(T ) are dropped, and (v A) =0 since v and A are uncorrelated.
+THE PHOTON 409
+The parallels between Eqs. 21.5 and 21.17 are striking. The respective first terms
+dominate if hv/kT S> 1, the regime in which p is approximated by Wien's expo-
+nential law. Recall that Einstein had said of the first term in Eq. 21.5 that it
+corresponds to 'independently moving pointlike quanta with energy hv.' One
+might therefore expect that the first term in Eq. 21.17 would lead Einstein to
+state, in 1909, the 'momentum quantum postulate': monochromatic radiation of
+low density behaves in regard to pressure fluctuations as if it consists of mutually
+independent momentum quanta of magnitude hv/' c. It is unthinkable to me that
+Einstein did not think so. But he did not quite say so.
+What he did say was, 'If the radiation were to consist of very few extended
+complexes with energy hv which move independently through space and which
+are independently reflected—a picture that represents the roughest visualization
+of the light-quantum hypothesis—then as a consequence of fluctuations in the
+radiation pressure there would act on our plate only such momenta as are repre-
+sented by the first term of our formula [Eq. 21.17].' He did not refer explicitly to
+momentum quanta or to the relativistic connection between E = hv and p =
+hv/c. Yet a particle concept (the photon) was clearly on his mind, since he went
+on to conjecture that 'the electromagnetic fields of light are linked to singular
+points similar to the occurrence of electrostatic fields in the theory of electrons'
+[E3]. It seems fair to paraphrase this statement as follows: light-quanta may well
+be particles in the same sense that electrons are particles. The association between
+the particle concept and a high degree of spatial localization is typical for that
+period. It is of course not correct in general.
+The photon momentum made its explicit appearance in that same year, 1909.
+Johannes Stark had attended the Salzburg meeting at which Einstein discussed
+the radiative fluctuations. A few months later, Stark stated that according to the
+light-quantum hypothesis, 'the total electromagnetic momentum emitted by an
+accelerated electron is different from zero and ... in absolute magnitude is given
+by hv/c [SI]. As an example, he mentioned Bremsstrahlung, for which he wrote
+down the equation
+the first occasion on record in which the photon enters explicitly into the law of
+momentum conservation for an elementary process.
+3. Momentum Fluctuations: 1916. Einstein himself did not explicitly intro-
+duce photon momentum until 1916, in the course of his studies on thermal equi-
+librium between electromagnetic radiation and a molecular gas [E10, Ell]. In
+addition to his new discussion of Planck's law, Einstein raised the following prob-
+lem. In equilibrium, the molecules have a Maxwell distribution for the transla-
+tional velocities. How is this distribution maintained in time considering the fact
+that the molecules are subject to the influence of radiation pressure? In other
+words, what is the Brownian motion of molecules in the presence of radiation?(21.18)
+410 THE QUANTUM THEORY
+Technically, the following issue arises. If a molecule emits or absorbs an
+amount e of radiative energy all of which moves in the same direction, then it
+experiences a recoil of magnitude (./ c. There is no recoil if the radiation is not
+directed at all, as for a spherical wave. Question: What can one say about the
+degree of directedness of the emitted or absorbed radiation for the system under
+consideration? Einstein began the discussion of this question in the same way he
+had treated the mirror problem in 1909. Instead of the mirror, he now considered
+molecules that all move in the same direction. Then there is again a drag force,
+PUT, and a fluctuation term, A. Equipartition gives again m(v2) = kT, and one
+arrives once more at Eq. 21.16.
+Next comes the issue of compatibility. With the help of Eqs. 21.7 and 21.8,
+Einstein could compute separately expressions for (A2) as well as for P in terms
+of the A and B terms and p, where p is now given by Planck's law.* I shall not
+reproduce the details of these calculations, but do note the crux of the matter. In
+order to obtain the same answer for the quantities on both sides of Eq. 21.16, he
+had to invoke a condition of directedness: 'if a bundle of radiation causes a mole-
+cule to emit or absorb an energy amount hv, then a momentum hv/c is transferred
+to the molecule, directed along the bundle for absorption and opposite the bundle
+for [induced] emission' [El 1]. (The question of spontaneous emission is discussed
+below.) Thus Einstein found that consistency with the Planck distribution (and
+Eqs. 21.7 and 21.8) requires that the radiation be fully directed (this is often called
+Nadelstrahlung). And so with the help of his trusted and beloved fluctuation
+methods, Einstein once again produced a major insight, the association of momen-
+tum quanta with energy quanta. Indeed, if we leave aside the question of spin,
+we may say that Einstein abstracted not only the light-quantum but also the more
+general photon concept entirely from statistical mechanical considerations.
+21d. Earliest Unbehagen about Chance
+Einstein prefaced his statement about photon momentum just quoted with the
+remark that this conclusion can be considered 'als ziemlich sicher erwiesen,' as
+fairly certainly proven. If he had some lingering reservations, they were mainly
+due to his having derived some of his equations on the basis of 'the quantum
+theory, [which is] incompatible with the Maxwell theory of the electromagnetic
+field' [Ell]. Moreover, his momentum condition was a sufficient, not a necessary,
+condition, as was emphasized by Pauli in a review article completed in 1924:
+'From Einstein's considerations, it could . .. not be seen with complete certainty
+that his assumptions were the only ones that guarantee thermodynamic-statistical
+equilibrium' [PI]. Nevertheless, his 1917 results led Einstein to drop his caution
+and reticence about light-quanta. They had become real to him. In a letter to
+*In 1910, Einstein had made a related calculation, together with Hopf [E12]. At that time, he used
+the classical electromagnetic theory to compute (A2) and P. This cast Eq. 21.16 into a differential
+equation for p. Its solution is Eq. 19.17.
+THE PHOTON 411
+Besso about the needle rays, he wrote, 'Damit sind die Lichtquanten so gut wie
+gesichert' [E13].* And, in a phrase contained in another letter about two years
+later, 'I do not doubt anymore the reality of radiation quanta, although I still
+stand quite alone in this conviction,' he underlined the word 'Realitat' [E14].
+On the other hand, at about the same time that Einstein lost any remaining
+doubts about the existence of light-quanta, we also encounter the first expressions
+of his Unbehagen, his discomfort with the theoretical implications of the new
+quantum concepts in regard to 'Zufall,' chance. This earliest unease stemmed
+from the conclusion concerning spontaneous emission that Einstein had been
+forced to draw from his consistency condition (Eq. 21.16): the needle ray picture
+applies not only to induced processes (as was mentioned above) but also to spon-
+taneous emission. That is, in a spontaneous radiative transition, the molecule suf-
+fers a recoil hv/c. However, the recoil direction cannot be predicted! He stressed
+(quite correctly, of course) that it is 'a weakness of the theory .. . that it leaves
+time and direction of elementary processes to chance' [Ell]. What decides when
+the photon is spontaneously emitted? What decides in which direction it will go?
+These questions were not new. They also apply to another class of emission
+processes, the spontaneity of which had puzzled physicists since the turn of the
+century: radioactive transformations. A spontaneous emission coefficient was in
+fact first introduced by Rutherford in 1900 when he derived** the equation dN
+= —\Ndt for the decrease of the number N of radioactive thorium emanation
+atoms in the time interval dt [R2]. Einstein himself drew attention to this simi-
+larity: 'It speaks in favor of the theory that the statistical law assumed for [spon-
+taneous] emission is nothing but the Rutherford law of radioactive decay' [E9]. I
+have written elsewhere about the ways physicists responded to this baffling life-
+time problem [ P2]. I should now add that Einstein was the first to realize that the
+probability for spontaneous emission is a nonclassical quantity. No one before
+Einstein in 1917 saw as clearly the depth of the conceptual crisis generated by the
+occurrence of spontaneous processes with a well-defined lifetime. He expressed
+this in prophetic terms:
+The properties of elementary processes required by [Eq. 21.16] make it seem
+almost inevitable to formulate a truly quantized theory of radiation. [Ell]
+Immediately following his comment on chance, Einstein continued, 'Neverthe-
+less, I have full confidence in the route which has been taken' [Ell]. If he was
+confident at that time about the route, he also felt strongly that it would be a long
+one. The chance character of spontaneous processes meant that something was
+amiss with classical causality. That would forever deeply trouble him. As early as
+March 1917, he had written on this subject to Besso, 'I feel that the real joke that
+the eternal inventor of enigmas has presented us with has absolutely not been
+* With that, [the existence of] light-quanta is practically certain.
+**Here a development began which, two years later, culminated in the transformation theory for
+radioactive substances [Rl].
+412 THE QUANTUM THEORY
+understood as yet' [E15]. It is believed by nearly all of us that the joke was under-
+stood soon after 1925, when it became possible to calculate Einstein's Amn and
+fimn from first principles. As I shall discuss later, Einstein eventually accepted
+these principles but never considered them to be first principles. Throughout the
+rest of his life, his attitude was that the joke has not been understood as yet. One
+further example may show how from 1917 on he could not make his peace with
+the quantum theory. In 1920 he wrote as follows to Born:
+That business about causality causes me a lot of trouble, too. Can the quantum
+absorption and emission of light ever be understood in the sense of the complete
+causality requirement, or would a statistical residue remain? I must admit that
+there I lack the courage of a conviction. However, I would be very unhappy to
+renounce complete causality. [E16]
+21e. An Aside: Quantum Conditions for Nonseparable Classical Motion
+In May 1917, shortly after Einstein finished his triple of papers on the quantum
+theory of radiation, he wrote an article on the restrictions imposed by the 'old'
+quantum theory on classically allowed orbits in phase space [El7], to which he
+added a brief mathematical sequel a few months later [E18]. He never returned
+to this subject nor, for a long time, did others show much interest in it. However,
+recently the importance and the pioneering character of this work has been rec-
+ognized by mathematicians, quantum physicists, and quantum chemists. The only
+logic for mentioning this work at this particular place is that it fits with the time
+sequence of Einstein's contributions to quantum physics.
+What Einstein did was to generalize the Bohr-Sommerfeld conditions for a
+system with / degrees of freedom. These conditions are Jp,<^<?, = nth, i =
+1, ... , I, where the (?, are the coordinates, the p{ their conjugate momenta, and
+the n, the integer quantum numbers. These conditions had been derived for the
+case where one can find a coordinate system in which the classical motion is sep-
+arable in the coordinates. Thus, the conditions, if at all realizable, depend on the
+choice of a suitable coordinate system. Einstein found a coordinate-invariant gen-
+eralization of these conditions which, moreover, did not require the motion to be
+separable, but only to be multiply periodic. The generalization of this result has
+become a problem of interest to mathematicians. Its relevance to modern physics
+and chemistry stems from the connection between the orbits of the old quantum
+theory and the semiclassicai (WKB) limit of quantum mechanics. For example,
+a semiclassicai treatment of the nuclear motion in a molecule can be combined
+with a Born-Oppenheimer treatment of the electronic motion. For references to
+recent literature, see, e.g., [B2] and [Ml].
+21f. The Compton Effect
+I return to the photon story and come to its denouement.
+Since, after 1917, Einstein firmly believed that light-quanta were here to stay,
+Why were these elementary equations not published five or even ten years earlier,
+as well they could have been? Even those opposed to quantized radiation might
+have found these relations to their liking since (independent of any quantum
+dynamics) they yield at once significant differences from the classical theories of
+the scattering of light by matter** and therefore provide simple tests of the photon
+idea.
+I have no entirely satisfactory answer to this question. In particular, it is not
+clear to me why Einstein himself did not consider these relations. However, there
+are two obvious contributing factors. First, because photons were rejected out of
+hand by the vast majority of physicists, few may have felt compelled to ask for
+tests of an idea they did not believe to begin with. Second, it was only in about
+1922 that strong evidence became available for deviations from the classical pic-
+ture. This last circumstance impelled both Compton and Debye to pursue the
+quantum alternative.f Debye, incidentally, mentioned his indebtedness to Ein-
+stein's work on needle radiation [D2]. Compton in his paper does not mention
+Einstein at all.
+The same paper in which Compton discussed Eqs. 21.19 and 21.20 also con-
+tains the result of a crucial experiment. These equations imply that the wave-
+length difference AX between the final and the initial photon is given by
+where 6 is the photon scattering angle. Compton found this relation to be satisfied
+* Einstein attached great importance to an advance in another direction that took place in the inter-
+vening years: the effect discovered by Otto Stern and Walther Gerlach [E21]. Together with Ehren-
+fest, he made a premature attempt at its interpretation [E22].
+**For details on these classical theories, see Stuewer's fine monograph on the Compton effect [S2].
+| Nor is it an accident that these two men came forth with the photon kinematics at about the same
+time. In his paper, Debye acknowledges a 1922 report by Compton in which the evidence against
+the classical theory was reviewed. A complete chronology of these developments in 1922 and 1923 is
+found in [S2], p. 235. For a detailed account of the evolution of Compton's thinking, see [S2J, Chap-
+ter 6.THE PHOTON 413
+it is not surprising that he would look for new ways in which the existence of
+photons might lead to observable deviations from the classical picture. In this he
+did not succeed. At one point, in 1921, he thought he had found a new quantum
+criterion [E19], but it soon turned out to be a false lead [E20, Kl]. In fact, after
+1917 nothing particularly memorable happened in regard to light-quanta until
+capital progress was achieved* when Arthur Compton [Cl] and Debye [D2]
+independently derived the relativistic kinematics for the scattering of a photon off
+an electron at rest:
+(21.19)
+(21.20)
+414 THE QUANTUM THEORY
+within the error.* The quality of the experiment is well demonstrated by the value
+he obtained for the Compton wavelength: h/mc « 0.024-2 A, which is within less
+than one per cent of the modern value (for the current state of the subject, see
+[W2]). Compton concluded, 'The experimental support of the theory indicates
+very convincingly that a radiation quantum carries with it directed momentum as
+well as energy.'**
+This discovery 'created a sensation among the physicists of that time' [Al].
+There were the inevitable controversies surrounding a discovery of such major
+proportions. Nevertheless, the photon idea was rapidly accepted. Sommerfeld
+incorporated the Compton effect in his new edition of Atombau und Spektrallinien
+with the comment, 'It is probably the most important discovery which could have
+been made in the current state of physics' [S3].
+What about Einstein's response? A year after Compton's experiments, Einstein
+wrote a popular article for Berliner Tageblatt, which ends as follows: 'The posi-
+tive result of the Compton experiment proves that radiation behaves as if it con-
+sisted of discrete energy projectiles, not only in regard to energy transfer but also
+in regard to Stosswirkung (momentum transfer)' [E24]. Here then, in projectile
+(that is, particle) language, is the 'momentum postulate,' phrased in close analogy
+to the energy quantum postulate in 1905. In both cases, we encounter the phra-
+seology, 'Radiation . . . behaves ... as if it consists of. . . .'
+Still, Einstein was not (and would never be) satisfied. There was as yet no real
+theory. In the same article he also wrote, 'There are therefore now two theories
+of light, both indispensable, and—as one must admit today despite twenty years
+of tremendous effort on the part of theoretical physicists—without any logical
+connection.'
+The years 1923-24 mark the end of the first phase of Einstein's apartness in
+relation to the quantum theory. Yet there remained one important bastion of
+resistance to the photon, centering around Niels Bohr.
+References
+Al. S. K. Allison, Biogr. Mem. Nat. Acad. Sci. 38, 81 (1965).
+Bl. M. Born, W. Heisenberg, and P. Jordan, Z. Phys. 35, 557 (1925).
+B2. M. V. Berry, Ann. N.Y. Ac. Set. 357, 183 (1980).
+Cl. A. H. Compton, Phys. Rev. 21, 483 (1923).
+Dl. L. Davis, A. S. Goldhaber, and M. M. Nieto, Phys. Rev. Lett. 35, 1402 (1975).
+D2. P. Debye, Phys. Zeitschr. 24, 161 (1923).
+*K-line X-rays from a molybdenum anticathode were scattered off graphite. Compton stressed that
+one should use only light elements as scatterers so that the electrons will indeed be quasi-free. Scat-
+tered X-rays at 45°, 90°, and 135° were analyzed.
+**The work of Compton and Debye led Pauli to extend Einstein's work of 1917 to the case of
+radiation in equilibrium with free electrons [P3]. Einstein and Ehrenfest subsequently discussed the
+connection between Pauli's and Einstein's Stosszahlansatz [E23].
+THE PHOTON 415
+El. A. Einstein, letter to J. Laub, undated, 1908. Quoted in Se, p. 103.
+E2. , Phys. Zeitschr. 10, 185 (1909).
+E3. , Phys. Zeitschr. 10, 817 (1909).
+E4. , letter to A. Sommerfeld, September 29, 1909.
+E5. P. Ehrenfest, Z. Phys. 34, 362 (1925).
+E6. A. Einstein, letter to M. Besso, May 13, 1911; EB, p. 19.
+E7. , in La Theorie du Rayonnement et les Quanta (P. Langevin and M. de Brog-
+lie, Eds.), p. 407. Gauthier-Villars, Paris, 1912.
+E8. , letter to M. Besso, November 18, 1916; EB, p. 78.
+E9. , Verh. Deutsch. Phys. Ges. 18, 318 (1916).
+E10. —, Mitt. Phys. Ges. Zurich 16, 47 (1916).
+Ell. , Phys. Zeitschr. 18, 121 (1917).
+E12. , and L. Hopf, AdP 33, 1105 (1910).
+E13. , letter to M. Besso, September 6, 1916; EB, p. 82.
+E14. , letter to M. Besso, July 29, 1918; EB, p. 130.
+E15. , letter to M. Besso, March 9, 1917.
+E16. , letter to M. Born, January 27, 1920; in M. Born (Ed.), The Born-Einstein
+Letters, p. 23. Walker, New York, 1971.
+E17. , Verh. Deutsch. Phys. Ges. 19, 82 (1917).
+E18. , PAW, 1917, p. 606.
+El9. , PAW, 1921, p. 882.
+E20. , PAW, 1922, p. 18.
+E21. , letter to M. Besso, May 24, 1924; EB, p. 201.
+E22. , and P. Ehrenfest, Z. Phys. 11, 31 (1922).
+E23. and , Z. Phys. 19, 301 (1923).
+E24. , Berliner Tageblatt, April 20, 1924.
+Gl. J. J. Gonzales and H.Wergeland, K. Nor. Vidensk. Selsk. Skr., No. 4, 1973.
+Kl. M. Klein, Hist. St. Phys. Sci. 2, 1 (1970).
+LI. H. A. Lorentz, Les Theories Statistiques en Thermodynamique, p. 59. Teubner,
+Leipzig, 1916.
+L2. G. N. Lewis, Nature 118, 874 (1926).
+Ml. R. A. Marcus, Ann. N.Y. Ac. Sci. 357, 169 (1980).
+Ol. L. S. Ornstein and F. Zernike, Proc. K. Ak. Amsterdam 28, 280 (1919).
+PI. W. Pauli, Collected Scientific Papers, Vol. l,p. 630. Interscience, New York, 1964.
+P2. A. Pais, Rev. Mod. Phys. 49; 925 (1977).
+P3. W. Pauli, Z. Phys. 18, 272 (1923).
+Rl. E. Rutherford and F. Soddy, Phil. Mag. 4, 370, 569 (1902).
+R2. —, Phil. Mag. 49, 1 (1900).
+51. J. Stark, Phys. Zeitschr. 10, 902 (1909).
+52. R. H. Stuewer, The Compton Effect. Science History, New York, 1975.
+53. A. Sommerfeld, Atombau und Spektrallinien (4th ed.), p. VIII. Vieweg, Braun-
+schweig, 1924.
+Wl. E. P. Wigner, Ann. Math. 40, 149 (1939).
+W2. B. Williams (Ed.), Compton Scattering. McGraw-Hill, New York, 1977.

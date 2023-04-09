@@ -1,0 +1,367 @@
+2
+Relativity Theory
+and Quantum Theory
+Einstein's life ended . .. with a demand on us for synthesis.
+W. Pauli[Pl]
+2a. Orderly Transitions and Revolutionary Periods
+In all the history of physics, there has never been a period of transition as abrupt,
+as unanticipated, and over as wide a front as the decade 1895 to 1905. In rapid
+succession the experimental discoveries of X-rays (1895), the Zeeman effect
+(1896), radioactivity (1896), the electron (1897), and the extension of infrared
+spectroscopy into the 3 /un to 60 /an region opened new vistas. The birth of quan-
+tum theory (1900) and relativity theory (1905) marked the beginning of an era in
+which the very foundations of physical theory were found to be in need of revision.
+Two men led the way toward the new theoretical concepts: Max Karl Ernst Lud-
+wig Planck, professor at the University of Berlin, possessed—perhaps obsessed—
+by the search for the universal function of frequency and temperature, known to
+exist since 1859, when Gustav Robert Kirchhoff formulated his fundamental law
+of blackbody radiation (19a)*; and Albert Einstein, technical expert at the Swiss
+patent office in Bern, working in an isolation which deserves to be called splendid
+(3).
+In many superficial ways, these two men were quite unlike each other. Their
+backgrounds, circumstances, temperaments, and scientific styles differed pro-
+foundly. Yet there were deep similarities. In the course of addressing Planck on
+the occasion of Planck's sixtieth birthday, Einstein said:
+The longing to behold . . . preestablished harmony** is the source of the inex-
+haustible persistence and patience with which we see Planck devoting himself
+to the most general problems of our science without letting himself be deflected
+by goals which are more profitable and easier to achieve. I have often heard
+that colleagues would like to attribute this attitude to exceptional will-power
+*In this chapter, I use for the last time parenthetical notations when referring to a chapter or a
+section thereof. Thus, (19a) means Chapter 19, Section a.
+**An expression of Leibniz's which Einstein considered particularly apt.
+RELATIVITY THEORY AND QUANTUM THEORY 27
+and discipline; I believe entirely wrongly so. The emotional state which enables
+such achievements is similar to that of the religious person or the person in love;
+the daily pursuit does not originate from a design or program but from a direct
+need [El].
+This overriding urge for harmony directed Einstein's scientific life as much as it
+did Planck's. The two men admired each other greatly.
+The main purpose of this chapter is to make some introductory comments on
+Einstein's attitude to the quantum and relativity theories. To this end, it will be
+helpful to recall a distinction which he liked to make between two kinds of physical
+theories [E2]. Most theories, he said, are constructive, they interpret complex phe-
+nomena in terms of relatively simple propositions. An example is the kinetic the-
+ory of gases, in which the mechanical, thermal, and diffusional properties of gases
+are reduced to molecular interactions and motions. 'The merit of constructive the-
+ories is their comprehensiveness, adaptability, and clarity.' Then there are the
+theories of principle, which use the analytic rather than the synthetic method:
+'Their starting points are not hypothetical constituents but empirically observed
+general properties of phenomena.' An example is the impossibility of a perpetuum
+mobile in thermodynamics. '[The merit of] theories of principle [is] their logical
+perfection and the security of their foundation.' Then Einstein went on to say,
+'The theory of relativity is a theory of principle.' These lines were written in 1919,
+when relativity had already become 'like a house with two separate stories': the
+special and the general theory. (Of course, the special theory by itself is a theory
+of principle as well.)
+Thus, toward the end of the decade 1895-1905 a new theory of principle had
+emerged: special relativity. What was the status of quantum theory at that time?
+It was neither a theory of principle nor a constructive theory. In fact, it was not
+a theory at all. Planck's and Einstein's first results on blackbody radiation proved
+that there was something wrong with the foundations of classical physics, but old
+foundations were not at once replaced by new ones—as had been the case with
+the special theory of relativity from its very inception (7). Peter Debye recalled
+that, soon after its publication, Planck's work was discussed in Aachen, where
+Debye was then studying with Arnold Sommerfeld. Planck's law fitted the data
+well, 'but we did not know whether the quanta were something fundamentally
+new or not' [Bl].
+The discovery of the quantum theory in 1900 (19a) and of special relativity in
+1905 (7) have in common that neither was celebrated by press releases, dancing
+in the streets, or immediate proclamations of the dawn of a new era. There all
+resemblance ends. The assimilation of special relativity was a relatively fast and
+easy process. It is true that great men like Hendrik Antoon Lorentz and Henri
+Poincare had difficulty recognizing that this was a new theory of kinematic prin-
+ciple rather than a constructive dynamic theory (8) and that the theory caused the
+inevitable confusion in philosophical circles, as witness, for example, the little book
+28 INTRODUCTORY
+on the subject by Henry Bergson written as late as 1922 [B2]. Nevertheless, senior
+men like Planck, as well as a new generation of theorists, readily recognized spe-
+cial relativity to be fully specified by the two principles stated by Einstein in his
+1905 paper (7a). All the rest was application of these theoretical principles. When
+special relativity appeared, it was at once 'all there.' There never was an 'old'
+theory of relativity.
+By contrast, the 'old' quantum theory, developed in the years from 1900 to
+1925, progressed by unprincipled—but tasteful—invention and application of ad
+hoc rules rather than by a systematic investigation of the implications of a set of
+axioms. This is not to say that relativity developed in a 'better' or 'healthier' way
+than did quantum physics, but rather to stress the deep-seated differences between
+the evolution of the two. Nor should one underestimate the tremendous, highly
+concrete, and lasting contributions of the conquistadores, Einstein among them,
+who created the old quantum theory. The following four equations illustrate bet-
+ter than any long dissertation what they achieved:
+V,T) = ^ I (2.1)
+Planck's formula for the spectral density p of blackbody radiation in thermal equi-
+librium as a function of frequency v and temperature T (h = Planck's constant,
+k = Boltzmann's constant, c = velocity of light), the oldest equation in the quan-
+tum theory of radiation. It is remarkable that the old quantum theory would orig-
+inate from the analysis of a problem as complex as blackbody radiation. From
+1859 until 1926, this problem remained at the frontier of theoretical physics, first
+in thermodynamics, then in electromagnetism, then in the old quantum theory,
+and finally in quantum statistics;
+Einstein's 1905 equation for the energy E of photoelectrons liberated from a
+metallic surface irradiated by light of frequency v (19e), the oldest equation in the
+quantum theory of the interaction between radiation and matter;
+Einstein's 1906 equation for the specific heat c, of one gram-atom of an idealized
+crystalline solid, in which all lattice points vibrate harmonically with a unique
+frequency v around their equilibrium positions (R is the gas constant) (20), the
+oldest equation in the quantum theory of the solid state; and
+the equation given in 1913 by Niels Bohr, the oldest equation in the quantum
+theory of atomic structure. Long before anyone knew what the principles of the
+RELATIVITY THEORY AND QUANTUM THEORY 2Q
+quantum theory were, the successes of equations like these made it evident that
+such a theory had to exist. Every one of these successes was a slap in the face of
+hallowed classical concepts. New inner frontiers, unexpected contraventions of
+accepted knowledge, appeared in several places: the equipartition theorem of clas-
+sical statistical mechanics could not be true in general (19b); electrons appeared
+to be revolving in closed orbits without emitting radiation.
+The old quantum theory spans a twenty-five-year period of revolution in phys-
+ics, a revolution in the sense that existing order kept being overthrown. Relativity
+theory, on the other hand, whether of the special or the general kind, never was
+revolutionary in that sense. Its coming was not disruptive, but instead marked an
+extension of order to new domains, moving the outer frontiers of knowledge still
+farther out.
+This state of affairs is best illustrated by a simple example. According to special
+relativity, the physical sum (r(y,,i>2) of two velocities w, and v2 with a common
+direction is given by
+a result obtained independently by Poincare and Einstein in 1905. This equation
+contains the limit law, ff(v,,c) = c, as a case of extreme novelty. It also makes
+clear that for any velocities, however small, the classical answer, a(vi,v2) = vt +
+r>2, is no longer rigorously true. But since c is of the order of one billion miles per
+hour, the equation also says that the classical answer can continue to be trusted
+for all velocities to which it was applied in early times. That is the correspondence
+principle of relativity, which is as old as relativity itself. The ancestors, from Gal-
+ileo via Newton to Maxwell, could continue to rest in peace and glory.
+It was quite otherwise with quantum theory. To be sure, after the discovery of
+the specific heat expression, it was at once evident that Eq. 2.3 yields the long-
+known Dulong-Petit value of 6 calories/mole (20a) at high temperature. Nor did
+it take long (only five years) before the connection between Planck's quantum
+formula (Eq. 2.1) and the classical 'Ray leigh-Einstein-Jeans limit' (hv <C kT)
+was established (19b). These two results indicated that the classical statistical law
+of equipartition would survive in the correspondence limit of (loosely speaking)
+high temperature. But there was (and is) no correspondence limit for Eqs. 2.2 and
+2.4. Before 1925, nothing was proved from first principles. Only after the discov-
+eries of quantum mechanics, quantum statistics, and quantum field theory did
+Eqs. 2.1 to 2.4 acquire a theoretical foundation.
+The main virtue of Eq. 2.5 is that it simultaneously answers two questions:
+where does the new begin? where does the old fit in? The presence of the new
+indicates a clear break with the past. The immediate recognizability of the old
+shows that this break is what I shall call an orderly transition. On the other hand,
+a revolution in science occurs if at first only the new presents itself. From that
+moment until the old fits in again (it is a rule, not a law, that this always happens
+30 INTRODUCTORY
+in physics), we have a period of revolution. Thus the births of the relativities were
+orderly transitions, the days of the old quantum theory were a revolutionary
+period. I stress that this distinction is meant to apply to the historical process of
+discovery, not to the content of one or another physical theory. (I would not argue
+against calling the abandonment of the aether and the rejection of absolute simul-
+taneity in 1905 and the rejection of Newton's absolute space in 1915 amazing,
+astounding, audacious, bold, brave ... or revolutionary steps.)
+No one appreciated the marked differences between the evolution of relativity
+and quantum theory earlier and better than Einstein, the only man who had been
+instrumental in creating both. Nor, of course, was anyone better qualified than he
+to pronounce on the structure of scientific revolutions. After all, he had been to the
+barricades. Let us see what he had to say about this subject.
+Early in 1905 he wrote a letter to a friend in which he announced his forth-
+coming papers on the quantum theory and on special relativity. He called the first
+paper Very revolutionary.' About the second one he only remarked that 'its kine-
+matic part will interest you' [E3].
+In a report of a lecture on relativity that Einstein gave in London on June 13,
+1921, we read, 'He [Einstein] deprecated the idea that the new principle was
+revolutionary. It was, he told his audience, the direct outcome and, in a sense, the
+natural completion of the work of Faraday, Maxwell, and Lorentz. Moreover
+there was nothing specially, certainly nothing intentionally, philosophical about
+it....'[Nl].
+In the fall of 1919, in the course of a discussion with a student, Einstein handed
+her a cable which had informed him that the bending of light by the sun was in
+agreement with his general relativistic prediction. The student asked what he
+would have said if there had been no confirmation. Einstein replied, 'Da konnt'
+mir halt der liebe Gott leid tun. Die Theorie stimmt doch.' Then I would have to
+pity the dear Lord. The theory is correct anyway [Rl]. (This statement is not at
+variance with the fact that Einstein was actually quite excited when he first heard
+the news of the bending of light (16b).)
+These three stories characterize Einstein's lifelong attitude to the relativity the-
+ories: they were orderly transitions in which, as he experienced it, he played the
+role of the instrument of the Lord, Who, he deeply believed, was subtle but not
+malicious.
+Regarding Einstein's judgment of his own role in quantum physics, there is
+first of all his description of his 1905 paper 'On a heuristic point of view concern-
+ing the generation and transformation of light' as very revolutionary (19c). Next
+we have his own summary: 'What I found in the quantum domain are only occa-
+sional insights or fragments which were produced in the course of fruitless strug-
+gles with the grand problem. I am ashamed* to receive at this time such a great
+honor for this' [E4]. Those words he spoke on June 28,1929, the day he received
+*I have translated Ich bin beschdmt as / am ashamed rather than as / am embarrassed because I
+believe that the first alternative more accurately reflects Einstein's mood.
+RELATIVITY THEORY AND QUANTUM THEORY 31
+the Planck medal from Planck's own hands. By then the revolutionary period of
+the old quantum theory—which coincided exactly with the years of Einstein's
+highest creativity!—had made way for nonrelativistic quantum mechanics (and
+the beginning of its relativistic extension), a theory which by 1929 was recognized
+by nearly everyone as a new theory of principle.
+Einstein dissented. To him, who considered relativity theory no revolution at
+all, the quantum theory was still in a state of revolution and—as he saw it—
+remained so for the rest of his life; according to him the old did not yet fit in
+properly. That is the briefest characterization of Einstein's scientific philosophy.
+He was more deeply commited to orderly transition than to revolution. He could
+be radical but never was a rebel.
+In the same speech in 1929, he also said, 'I admire to the highest degree the
+achievements of the younger generation of physicists which goes by the name
+quantum mechanics and believe in the deep level of truth of that theory; but I
+believe that the restriction to statistical laws will be a passing one.' The parting
+of ways had begun. Einstein had started his solitary search for a theory of prin-
+ciple that would maintain classical causality in an orderly way and from which
+quantum mechanics should be derivable as a constructive theory.
+Far more fascinating to me than the substance of Einstein's critique of quantum
+mechanics—to be discussed in detail in (26)—is the question of motivation. What
+drove Einstein to this search which he himself called 'quite bizarre as seen from
+the outside' [E5] ? Why would he continue 'to sing my solitary little old song' [E6]
+for the rest of his life? As I shall discuss in (27), the answer has to do with a grand
+design which Einstein conceived early, before the discovery of quantum mechanics,
+for a synthetic physical theory. It was to be a theory of particles and fields in
+which general relativity and quantum theory would be synthesized. This he failed
+to achieve.
+So to date have we all.
+The phenomena to be explained by a theory of principle have become enor-
+mously richer since the days when Einstein made the first beginnings with his
+program. Theoretical progress has been very impressive, but an all-embracing the-
+ory does not exist. The need for a new synthesis is felt more keenly as the phe-
+nomena grow more complex.
+Therefore any assessment of Einstein's visions can be made only from a vantage
+point that is necessarily tentative. It may be useful to record ever so briefly what
+this vantage point appears to be to at least one physicist. This is done in the fol-
+lowing 'time capsule,' which is dedicated to generations of physicists yet unborn.*
+2b. A Time Capsule
+When Einstein and others embarked on their programs of unification, three par-
+ticles (in the modern sense) were known to exist, the electron, the proton, and the
+"The following section is meant to provide a brief record without any attempt at further explanation
+or reference to literature. It can be skipped without loss of continuity.
+32 INTRODUCTORY
+photon, and there were two fundamental interactions, electromagnetism and grav-
+itation. At present the number of particles runs into the hundreds. A further
+reduction to more fundamental units appears inevitable. It is now believed that
+there are at least four fundamental interactions. The unification of all four types
+of forces—gravitational, electromagnetic, weak, and strong—is an active topic of
+current exploration. It has not been achieved as yet.
+Relativistic quantum field theories (in the sense of special relativity) are the
+principal tools for these explorations. Our confidence in the general field theoret-
+ical approach rests first and foremost on the tremendous success of quantum elec-
+trodynamics (QED). One number, the g factor of the electron, may illustrate both
+the current level of predictability of this theory and the level of experimental pre-
+cision which has been reached:
+u/ _ ox -f1 159 652 46° (127> (75) X 10"12 predicted by pure QED*
+(g ' (1 159652200(40) X 10-'2 observed
+It has nevertheless become evident that this branch of field theory will merge with
+the theory of other fields.
+'If we could have presented Einstein with a synthesis of his general relativity
+and the quantum theory, then the discussion with him would have been consid-
+erably easier' [PI]. To date, this synthesis is beset with conceptual and technical
+difficulties. The existence of singularities associated with gravitational collapse is
+considered by some an indication for the incompleteness of the general relativistic
+equations. It is not known whether or not these singularities are smoothed out by
+quantum effects.
+There is hope that gravitational waves will be observed in this century (15d).
+The ultimate unification of weak and electromagnetic interactions has probably
+not yet been achieved, but a solid beach-head appears to have been established in
+terms of local non-Abelian gauge theories with spontaneous symmetry breakdown.
+As a result, it is now widely believed that weak interactions are mediated by mas-
+sive vector mesons. Current expectations are that such mesons will be observed
+within the decade.
+It is widely believed that strong interactions are also mediated by local non-
+Abelian gauge fields. Their symmetry is supposed to be unbroken so that the cor-
+responding vector mesons are massless. The dynamics of these 'non-Abelian pho-
+tons' are supposed to prohibit their creation as single free particles. The technical
+exploration of this theory is in its early stages.
+Promising steps have been made toward grand unification, the union of weak,
+electromagnetic, and strong interactions in one compact, non-Abelian gauge
+*In this prediction (which does not include small contributions from muons and hadrons), the best
+value of the fine-structure constant a has been used as an input: a"1 = 137.035 963 (15). The
+principal source of uncertainty in the predicted value of (g — 2) stems from the experimental uncer-
+tainties of a, leading to the error (127). The error (75) is mainly due to uncertainties in the eighth
+order calculation [Kl].
+RELATIVITY THEORY AND QUANTUM THEORY 33
+group. In most grand unified theories the proton is unstable. News about the pro-
+ton's fate is eagerly awaited at this time.
+Superunification, the union of all four forces, is the major goal. Some believe
+that it is near and that supergravity will provide the answer. Others are not so
+sure.
+All modern work on unification may be said to represent a program of geo-
+metrization that resembles Einstein's earlier attempts, although the manifold sub-
+ject to geometrization is larger than he anticipated and the quantum framework
+of the program would not have been to his liking.
+In the search for the correct field theory, model theories have been examined
+which reveal quite novel possibilities for the existence of extended structures
+(solitons, instantons, monopoles). In the course of these investigations, topological
+methods have entered this area of physics. More generally, it has become clear in
+the past decade that quantum field theory is much richer in structure than was
+appreciated earlier. The renormalizability of non-Abelian gauge fields with spon-
+taneous symmetry breakdown, asymptotic freedom, and supersymmetry are cases
+in point.
+The proliferation of new particles has led to attempts at a somewhat simplifed
+underlying description. According to the current picture, the basic constituents of
+matter are: two classes of spin-% particles, the leptons and the quarks; a variety
+of spin-1 gauge bosons, some massless, some massive; and (more tentatively) some
+fundamental spin-zero particles. The only gauge boson observed so far is the pho-
+ton. To date, three kinds of charged leptons have been detected. The quarks are
+hypothetical constituents of the observed hadrons. To date, at least five species of
+quarks have been identified. The dynamics of the strong interactions are supposed
+to prohibit the creation of quarks as isolated, free particles. This prohibition, con-
+finement, has not as yet been implemented theoretically in a convincing way. No
+criterion is known which enables one to state how many species of leptons and of
+quarks should exist.
+Weak, electromagnetic, and strong interactions have distinct intrinsic symmetry
+properties, but this hierarchy of symmetries is not well understood theoretically.
+Perhaps the most puzzling are the small effects of noninvariance under space
+reflection and the even smaller effects of noninvariance under time reversal. It
+adds to the puzzlement that the latter phenomenon has been observed so far only
+in a single instance, namely, in the K° - K° system. (These phenomena were first
+observed after Einstein's death. I have often wondered what might have been his
+reactions to these discoveries, given his 'conviction that pure mathematical con-
+struction enables us to discover the concepts and the laws connecting them' [E7].)
+It is not known why electric charge is quantized, but it is plausible that this
+will be easily explicable in the framework of a future gauge theory.
+In summary, physicists today are hard at work to meet Einstein's demands for
+synthesis, using methods of which he probably would be critical. Since about 1970,
+there has been much more promise for progress than in the two or three decades
+34 INTRODUCTORY
+before. Yet the theoretical structures now under investigation are not as simple
+and economical as one would wish. The evidence is overwhelming that the theory
+of particles and fields is still incomplete. Despite much progress, Einstein's earlier
+complaint remains valid to this day: 'The theories which have gradually been
+associated with what has been observed have led to an unbearable accumulation
+of independent assumptions' [E8]. At the same time, no experimental evidence or
+internal contradiction exists to indicate that the postulates of general relativity, of
+special relativity, or of quantum mechanics are in mutual conflict or in need of
+revision or refinement. We are therefore in no position to affirm or deny that these
+postulates will forever remain unmodified.
+I conclude this time capsule with a comment by Einstein on the meaning of the
+occurrence of dimensionless constants (such as the fine-structure constant or the
+electron-proton mass ratio) in the laws of physics, a subject about which he knew
+nothing, we know nothing: 'In a sensible theory there are no [dimensionless] num-
+bers whose values are determinable only empirically. I can, of course, not prove
+that. .. dimensionless constants in the laws of nature, which from a purely logical
+point of view can just as well have other values, should not exist. To me in my
+'Gottvertrauen' [faith in God] this seems evident, but there might well be few who
+have the same opinion' [E9].
+References
+Bl. U. Benz, Arnold Sommerfeld, p. 74. Wissenschaftliche Verlags Gesellschaft, Stutt-
+gart, 1975.
+B2. H. Bergson, Duree et Simultaneite: A Propos de la Theorie d'Einstein. Alcan, Paris,
+1922.
+El. A. Einstein, Ansprachen in der Deutschen Physikalischen Gesellschaft, p. 29.
+Muller, Karlsruhe, 1918.
+E2. , The London Times, November 28, 1919.
+E3. , letter to C. Habicht, undated, most probably written in March 1905.
+E4. , Forschungen und Fortschritte 5, 248 (1929).
+E5. , letter to L. de Broglie, February 8, 1954.
+E6. , letter to N. Bohr, April 4, 1949.
+E7. , On the Method of Theoretical Physics. Oxford University Press, Oxford,
+1933. Reprinted in Philos. Sci. 1, 162, (1934).
+E8. , Lettres a Maurice Solovine, p. 130. Gauthier-Villars, Paris, 1956.
+E9. , letters to I. Rosenthal-Schneider, October 13, 1945, and March 24, 1950.
+Reprinted in [Rl], pp. 36, 41.
+Kl. T. Kinoshita and W. B. Lindquist, Phys, Rev. Lett. 47, 1573 (1981).
+Nl. Nature 107, 504 (1921).
+PI. W. Pauli, Neue Ziiricher Zeitung, January 12, 1958. Reprinted in W. Pauli Col-
+lected Scientific Papers, Vol. 2, p. 1362. Interscience, New York, 1964.
+Rl. I. Rosenthal-Schneider, Reality and Scientific Truth, p. 74. Wayne State University
+Press, 1980.

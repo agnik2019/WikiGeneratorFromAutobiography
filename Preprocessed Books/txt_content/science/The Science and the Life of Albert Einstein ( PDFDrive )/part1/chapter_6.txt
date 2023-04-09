@@ -1,0 +1,1087 @@
+6
+' Subtle is the Lord...'
+6a. The Michelson-Morley Experiment
+Maxwell's article Ether, written for the ninth edition of the Encyclopedia Britan-
+nica [Ml], begins with an enumeration of the 'high metaphysical .. . [and] mun-
+dane uses to be fulfilled by aethers' and with the barely veiled criticism that, even
+for scientific purposes only, 'all space had been filled three or four times over with
+aethers.' This contribution by Maxwell is an important document for numerous
+reasons. To mention but three, it shows us that, like his contemporaries, Maxwell
+was deeply convinced of the reality of some sort of aether: 'There can be no doubt
+that the interplanetary and interstellar spaces are not empty but are occupied by
+a material substance or body, which is certainly the largest, and probably the most
+uniform, body of which we have any knowledge'; it tells us of an unsuccessful
+attempt by Maxwell himself to perform a terrestrial optical experiment aimed at
+detecting the influence of an aether drag on the earth's motion; and it informs us
+of his opinion that effects of the second order in v/c (v = velocity of the earth
+relative to the aether, c = velocity of light) are too small to be detectable. This
+last comment was prompted by his observation that 'all methods ... by which it
+is practicable to determine the velocity of light from terrestrial experiments
+depend on the measurement of the time required for the double journey from
+one station to the other and back again,' leading to an effect at most of
+0((u/c)2) = 0(10-8).
+However, Maxwell still hoped that first-order effects might be astronomically
+observable. The example he gave was the determination of the velocity of light
+from the eclipses of Jupiter's satellites when Jupiter is seen from the earth at
+nearly opposite points of the ecliptic. If one defines the aether* in the sense of
+Maxwell, or, which is the same thing, in the sense of Augustin Jean Fresnel—a
+medium in a state of absolute rest relative to the fixed stars, in which light is
+propagated and through which the earth moves as if it were transparent to it—
+then one readily sees that the Jupiter effect, if it exists at all, is of first order in
+the velocity of the solar system relative to this aether.
+*For a review of aether theories and aether models, see especially [LI] and [SI]. Some speak of
+aether, others of ether. I prefer the former. In quotations I follow the predilections of the original
+authors, however.
+Ill
+112 RELATIVITY, THE SPECIAL THEORY
+Maxwell requested and received data on the Jovian system from David Peck
+Todd, Director of the Nautical Almanac Office in Washington, D.C. On March
+19, 1879, Maxwell sent a letter of thanks in which he referred Todd to his ency-
+clopedia article and in particular reiterated his remark on the second-order nature
+of terrestrial experiments. This letter (not reproduced in his collected papers) was
+written when Maxwell had less than eight months to live and Einstein was five
+days old. After Maxwell's death, the letter was forwarded to the secretary of the
+Royal Society, who saw to its publication in the January 29,1880, issue of Nature
+[M2].
+A year and a half later, in August 1881, there appeared an article in an issue
+of the American Journal of Science, authored by Albert A. (for Abraham)
+Michelson, Master, U.S. Navy [M3]. Michelson, then on leave from the Navy
+and doing post-graduate work in Helmholtz's laboratory in Berlin, had read
+Maxwell's 1879 letter. Being already an acknowledged expert on measurements
+of the velocity of light (he had by then published three papers on the subject [L2]),
+he had concluded that Maxwell had underrated the accuracy with which terres-
+trial experiments could be performed. The instrument he designed in Berlin in
+order to measure Maxwell's second-order effect is known as the Michelson inter-
+ferometer. In order not to be bothered by urban vibrations, Michelson performed
+his experiments at the astrophysical observatory in nearby Potsdam. The method
+he used was to compare the times it takes for light to travel the same distance
+either parallel or transversely to the earth's motion relative to the aether. In his
+arrangement a stationary aether would yield a time difference corresponding to
+about an extra 1 /25 of a wavelength of yellow light traveling in the parallel direc-
+tion, an effect that can be detected by letting the transverse and parallel beams
+interfere. For easily accessible details of the experiment I refer the reader to text-
+books* and state only Michelson's conclusion: there was no evidence for an aether
+wind. 'The result of the hypothesis of a stationary aether is thus shown to be
+incorrect, and the necessary conclusion follows that the hypothesis is erroneous,'
+[M3].
+Early in 1887 Michelson wrote to Rayleigh** that he was 'discouraged at the
+slight attention the work received' [M4], a statement which perhaps was justified
+if one counts the number of those who took note, but not if one considers their
+eminence. Kelvin and Rayleigh, both of whom Michelson had met at Johns Hop-
+kins University in 1884 [S3] certainly paid attention. So did Lorentz, who found
+an error in Michelson's theory of the experiment [L3] and who was dubious about
+the interpretation of the results [ L4]. Lorentz's misgivings and Rayleigh's urgings
+contributed to Michelson's decision—he was now at the Case School of Applied
+Science in Cleveland—to repeat his experiment, this time in collaboration with
+Edward Williams Morley, a chemist from next-door Western Reserve University.
+'See, e.g., [PI].
+**For details of the Michelson-Rayleigh correspondence, see especially [S2] and [HI].
+SUBTLE IS THE LORD 113
+Proceeding along the same general lines used in the Potsdam experiments, they
+built a new interferometer. Great care was taken to minimize perturbative influ-
+ences. In August 1887, Michelson wrote to Rayleigh that again a null effect had
+been found [M5]. The paper on the Michelson-Morley experiment came out the
+following November [M6]. Understandably, the negative outcome of this experi-
+ment was initially a disappointment, not only to its authors, but also to Kelvin,
+Rayleigh, and Lorentz.
+However, more important, the experimental result was accepted. There had to
+be a flaw in the theory. In 1892 Lorentz queried Rayleigh: 'Can there be some
+point in the theory of Mr Michelson's experiment which had as yet been over-
+looked?' [L5]. In a lecture before the Royal Institution on April 27, 1900, Kelvin
+referred to the experiment as 'carried out with most searching care to secure a
+trustworthy result' and characterized its outcome as a nineteenth century cloud
+over the dynamic theory of light [Kl]. In 1904 he wrote in the preface to his
+Baltimore lectures: 'Michelson and Morley have by their great experimental work
+on the motion of the ether relatively to the earth raised the one and only serious
+objection against our dynamical explanations. . ..' [K2].
+In later years, Michelson repeated this experiment several times, for the last
+time in 1929 [M7]. Others did likewise, notably Dayton Clarence Miller, at one
+time a junior colleague of Michelson's at Case. In 1904, Morley and Miller were
+the first to do a hilltop experiment: 'Some have thought that [the Michelson-Mor-
+ley] experiment only proves that the ether in a certain basement room is carried
+along with it. We desire therefore to place the apparatus on a hill to see if an
+effect can there be detected' [M8].* Articles in 1933 [M9] and 1955 [S4] give
+many technical and historical details of these experiments. No one has done more
+to unearth their history than Robert S. Shankland, whose papers are quoted
+extensively in this section. For the present purposes, there is no need to discuss
+these later developments, except for one interlude which directly involved Einstein.
+On April 2, 1921, Einstein arrived for the first time in the United States, for
+a two-month visit. In May, he gave four lectures on relativity theory at Princeton
+University [El]. While he was there, word reached Princeton that Miller had
+found a nonzero aether drift during preliminary experiments performed (on April
+8-21 [S4]) at Mount Wilson observatory. Upon hearing this rumor, Einstein
+commented: 'Raffiniert ist der Herr Gott, aber boshaft ist er nicht,' Subtle is the
+Lord, but malicious He is not. Nevertheless, on May 25, 1921, shortly before his
+departure from the United States, Einstein paid a visit to Miller in Cleveland,
+where they talked matters over [S5].
+There are two postscripts to this story. One concerns transitory events. On April
+28, 1925, Miller read a paper before the National Academy of Sciences in Wash-
+ington, D.C., in which he reported that an aether drift had definitely been estab-
+* Michelson had pointed out earlier that perhaps the aether might be trapped in the basements in
+which he had done his experiments [M4].
+114 RELATIVITY, THE SPECIAL THEORY
+lished [M10]. Later that year, he made the same claim in his retiring address in
+Kansas City as president of the American Physical Society [Mil]. The outcome
+of all this was that Miller received a thousand dollar prize for his Kansas City
+paper from the American Association for the Advancement of Science [L6]—pre-
+sumably in part an expression of the resistance to relativity which could still be
+found in some quarters [Bl]—while Einstein got flooded with telegrams and let-
+ters asking him to comment. The latter's reactions to the commotion are best seen
+from a remark he made in passing in a letter to Besso: 'I have not for a moment
+taken [Miller's results] seriously' [E2].* As to present times, quantum field theory
+has drastically changed our perceptions of the vacuum, but that has nothing to do
+with the aether of the nineteenth century and earlier, which is gone for good.**
+The second postscript to the Miller episode concerns a lasting event. Oswald
+Veblen, a professor of mathematics at Princeton, had overheard Einstein's com-
+ment about the subtlety of the Lord. In 1930 Veblen wrote to Einstein, asking his
+permission to have this statement chiseled in the stone frame of the fireplace in the
+common room of Fine Hall, the newly constructed mathematics building at the
+university [VI]. Einstein consented.! The mathematics department has since
+moved to new quarters, but the inscription in stone has remained in its original
+place, Room 202 in what once was Fine Hall.
+Let us now move back to the times when Einstein was still virtually unknown
+and ask how Michelson reacted to Einstein's special theory of relativity and what
+influence the Michelson-Morley experiment had on Einstein's formulation of
+that theory in 1905.
+The answer to the first question is simple. Michelson, a genius in instrumen-
+tation and experimentation, never felt comfortable with the special theory. He was
+the first American scientist to receive a Nobel prize, in 1907. The absence of any
+mention of the aether wind experiments in his citation^ is not surprising. Rela-
+tivity was young; even fifteen years later, relativity was not mentioned in Ein-
+stein's citation. It is more interesting that Michelson himself did not mention these
+experiments in his acceptance speech [Nl]—not quite like Einstein, who
+responded to the award given him in 1922 for the photoelectric effect by delivering
+a lecture on relativity [E4]. Truly revealing, however, is Michelson's verdict on
+relativity given in 1927 in his book Studies in Optics [Ml2]. He noted that the
+*In 1927 Einstein remarked that the positive effect found by Miller could be caused by tiny tem-
+perature differences in the experimental equipment [E2a].
+**In 1951 Dirac briefly considered a return to the aether [Dl].
+fin his reply to Veblen, Einstein gave the following interpretation of his statement. 'Die Natur
+verbirgt ihr Geheimnis durch die Erhabenheit ihres Wesens, aber nicht durch List,' Nature hides
+its secret because of its essential loftiness, but not by means of ruse [E3]. In June 1966 Helen Dukas
+prepared a memorandum about this course of events [D2].
+HThe citation reads 'For his optical precision instruments and the spectroscopical and metrological
+investigations carried out with their aid' [Nl].
+SUBTLE IS THE LORD 115
+theory of relativity 'must be accorded a generous acceptance' and gave a clear
+expose of Lorentz transformations and their consequences for the Michelson -
+Morley experiment and for the experiment of Armand Hippolyte Louis Fizeau
+on the velocity of light in streaming water. Then follows his summation: 'The
+existence of an ether appears to be inconsistent with the theory.. .. But without
+a medium how can the propagation of light waves be explained? . . . How explain
+the constancy of propagation, the fundamental assumption (at least of the
+restricted theory) if there be no medium?'
+This is the lament not of a single individual but of an era, though it was an era
+largely gone when Michelson's book came out. Michelson's writings are the per-
+fect illustration of the two main themes to be developed in this and the next two
+chapters. The first one is that in the early days it was easier to understand the
+mathematics of special relativity than the physics. The second one is that it was
+not a simple matter to assimilate a new kinematics as a lasting substitute for the
+old aether dynamics.
+Let us turn to the influence of the Michelson-Morley experiment on Einstein's
+initial relativity paper [E5]. The importance of this question goes far beyond the
+minor issue of whether Einstein should have added a footnote at some place or
+other. Rather, its answer will help us to gain essential insights into Einstein's
+thinking and will prepare us for a subsequent discussion of the basic differences
+in the approaches of Einstein, Lorentz, and Poincare.
+Michelson is mentioned neither in the first nor in any of Einstein's later
+research papers on special relativity. One also looks in vain for his name in Ein-
+stein's autobiographical sketch of 1949 [E6], in which the author describes his
+scientific evolution and mentions a number of scientists who did influence him.
+None of this should be construed to mean that Einstein at any time underrated
+the importance of the experiment. In 1907 Einstein was the first to write a review
+article on relativity [E7], the first paper in which he went to the trouble of giving
+a number of detailed references. Michelson and Morley are mentioned in that
+review, in a semipopular article Einstein wrote in 1915 [E8], again in the Prince-
+ton lectures of 1921 [El], and in the book The Meaning of Relativity [E9] (which
+grew out of the Princeton lectures), where Einstein called the Michelson-Morley
+experiment the most important one of all the null experiments on the aether drift.
+However, neither in the research papers nor in these four reviews does Einstein
+ever make clear whether before 1905 he knew of the Michelson-Morley experi-
+ment. Correspondence is of no help either. I have come across only one letter,
+written in 1923, by Michelson to Einstein [M13] and none by Einstein to
+Michelson. In that letter, Michelson, then head of the physics department at the
+University of Chicago, offers Einstein a professorship at Chicago. No scientific
+matters are mentioned. The two men finally met in Pasadena. There was great
+warmth and respect between them, as Helen Dukas (who was with the Einsteins
+in California) told me. On January 15, 1931, at a dinner given in Einstein's honor
+at the Atheneum of Cal Tech, Einstein publicly addressed Michelson in person
+Il6 RELATIVITY, THE SPECIAL THEORY
+for the first and last time: 'I have come among men who for many years have been
+true comrades with me in my labors. You, my honored Dr Michelson, began with
+this work when I was only a little youngster, hardly three feet high. It was you
+who led the physicists into new paths, and through your marvelous experimental
+work paved the way for the development of the theory of relativity. You uncovered
+an insidious defect in the ether theory of light, as it then existed, and stimulated
+the ideas of H. A. Lorentz and FitzGerald out of which the special theory of
+relativity developed' [E10]. One would think that Einstein might have associated
+himself explicitly with Lorentz and FitzGerald had he believed that the occasion
+warranted it. He was worldly enough to know that this would be considered an
+additional compliment to Michelson rather than a lack of modesty.
+Michelson was very ill at the time of that festive dinner and died four months
+later. On July 17, 1931, Einstein, back in Berlin, gave a speech in Michelson's
+memory before the Physikalische Gesellschaft of Berlin [Ell]. The talk ended
+with a fine anecdote. In Pasadena, Einstein had asked Michelson why he had
+spent so much effort on high-precision measurements of the light velocity.
+Michelson had replied, 'Weil es mir Spass macht,' Because I think it is fun. Ein-
+stein's main remark about the Michelson-Morley experiment was, 'Its negative
+outcome has much increased the faith in the validity of the general theory of rel-
+ativity.' Even on this most natural of occasions, one does not find an acknowl-
+edgement of a direct influence of Michelson's work on his own development.
+Nevertheless, the answers to both questions—did Einstein know of Michelson's
+work before 1905? did it influence his creation of the special theory of
+relativity?—are, yes, unquestionably. We know this from discussions between
+Shankland and Einstein in the 1950s and from an address entitled 'How I Created
+the Relativity Theory' given by Einstein on December 14, 1922, at Kyoto Uni-
+versity (and referred to in what follows as the Kyoto address). Let us first note
+two statements made by Einstein to Shankland, recorded by Shankland soon after
+they were made, and published by him some time later [S6], as well as part of a
+letter which Einstein wrote to Shankland [S7].*
+a) Discussion on February 4, 1950. 'When I asked him how he had learned of
+the Michelson-Morley experiment, he told me that he had become aware of it
+through the writings of H. A. Lorentz, but only after 1905 [S. 's italics] had it
+come to his attention! "Otherwise," he said, "I would have mentioned it in my
+paper." He continued to say that experimental results which had influenced him
+most were the observations on stellar aberration and Fizeau's measurements on
+the speed of light in moving water. "They were enough," he said' [S6].
+b) Discussion on October 24, 1952. 'I asked Professor Einstein when he had
+first heard of Michelson and his experiment. He replied, "This is not so easy, I
+"This letter, written at Shankland's request, was read before the Cleveland Physics Society on the
+occasion of the centenary of Michelson's birth.
+SUBTLE IS THE LORD 117
+am not sure when I first heard of the Michelson experiment. I was not conscious
+that it had influenced me directly during the seven years that relativity had been
+my life. I guess I just took it for granted that it was true." However, Einstein said
+that in the years 1905-1909, he thought a great deal about Michelson's result, in
+his discussion with Lorentz and others in his thinking about general relativity. He
+then realized (so he told me) that he had also been conscious of Michelson's result
+before 1905 partly through his reading of the papers of Lorentz and more because
+he had simply assumed this result of Michelson to be true' [S6].
+c) December 1952, letter by Einstein to Shankland. 'The influence of the crucial
+Michelson-Morley experiment upon my own efforts has been rather indirect. I
+learned of it through H. A. Lorentz's decisive investigation of the electrodynamics
+of moving bodies (1895) with which I was acquainted before developing the spe-
+cial theory of relativity. Lorentz's basic assumption of an ether at rest seemed to
+me not convincing in itself and also for the reason that it was leading to an inter-
+pretation of the Michelson-Morley experiment which seemed to me artificial'
+[S7].
+What do we learn from these three statements?
+First, that memory is fallible. (Einstein was not well in the years 1950-2 and
+already knew that he did not have much longer to live.) There is an evident incon-
+sistency between Einstein's words of February 1950 and his two later statements.
+It seems sensible to attach more value to the later comments, made upon further
+reflection, and therefore to conclude that Einstein did know of Michelson and
+Morley before 1905. One also infers that oral history is a profession which should
+be pursued with care and caution.
+Second, there is Einstein's opinion that aberration and the Fizeau experiment
+were enough for him. This is the most crucial statement Einstein ever made on
+the origins of the special theory of relativity. It shows that the principal argument
+which ultimately led him to the special theory was not so much the need to resolve
+the conflict between the Michelson-Morley result and the version of aether theory
+prevalent in the late nineteenth century but rather, independent of the Michelson-
+Morley experiment, the rejection of this nineteenth century edifice as inherently
+unconvincing and artificial.
+In order to appreciate how radically Einstein departed from the ancestral views
+on these issues, it is necessary to compare his position with the 'decisive investi-
+gation' published by Lorentz in 1895 [L4]. In Section 64 of that paper, we find
+the following statement, italicized by its author: 'According to our theory the
+motion of the earth will never have any first-order [in v/c] influence whatever on
+experiments with terrestrial light sources.' By Einstein's own account, he knew
+this 1895 memoir in which Lorentz discussed, among other things, both the aber-
+ration of light and the Fizeau experiment. Let us briefly recall what was at stake.
+Because of the velocity v of the earth, a star which would be at the zenith if the
+earth were at rest is actually seen under an angle a with the vertical, where
+where n is the refractive index of the liquid (assumed a nondispersive medium).
+Fresnel derived this result from the assumption that light imparts elastic vibrations
+to the aether it traverses. According to him, the presence of the factor 1 — \/n2
+(now known as Fresnel's drag coefficient) expresses the fact that light cannot
+acquire the full additional velocity v since it is partially held back by the aether
+in the tube. In 1851 Fizeau had sent light from a terrestrial source into a tube
+filled with a moving fluid and had found reasonable experimental agreement with
+Eq. 6.2 [F2].
+Lorentz discussed both effects from the point of view of electromagnetic theory
+and gave a dynamic derivation of the Fresnel drag in terms of the polarization
+induced in a medium by incident electromagnetic waves.* Throughout this paper
+of 1895, the Fresnel aether is postulated explicitly. In rejecting these explanations
+of aberration and the Fizeau experiment, Einstein therefore chose to take leave of
+a first-order terra firma which had been established by the practitioners, limited
+in number but highly eminent and influential, of electromagnetic theory. I shall
+leave for the next chapter a discussion of his reasons for doing so. Note, however,
+that it was easy to take the Michelson-Morley experiments for granted (as Ein-
+stein repeatedly said he did) once a new look at the first-order effects had led to
+the new logic of the special theory of relativity. Note also that this experiment was
+discussed at length in Lorentz's paper of 1895 and that Einstein was familiar with
+this paper before 1905!
+Finally, there is the Kyoto address. It was given in German and translated into
+Japanese by Jun Ishiwara** [II]. Part of the Japanese text was retranslated into
+English [Ol]. I quote a few lines from this English rendering:
+As a student I got acquainted with the unaccountable result of the Michelson
+experiment and then realized intuitively that it might be our incorrect thinking
+*For a calculation along these lines, see the book by Panofsky and Phillips [P2].
+**From 1912 to 1914, Ishiwara studied physics in Germany and in Switzerland. He knew Einstein
+personally from those days. He also translated a number of Einstein's papers into Japanese.Il8 RELATIVITY, THE SPECIAL THEORY
+The concept of an aether at absolute rest, introduced in 1818 by Fresnel in his
+celebrated letter to Dominique Francois Jean Arago [Fl], served the express pur-
+pose of explaining this aberration effect (which would be zero if the aether moved
+along with the earth). As to the Fizeau effect, Fresnel had predicted that if a liquid
+is moving through a tube with a velocity v relative to the aether and if a light
+beam traverses the tube in the same direction, then the net light velocity c' in the
+laboratory is given by
+'SUBTLE is THE LORD' 119
+to take account of the motion of the earth relative to the aether, if we recognized
+the experimental result as a fact. In effect, this is the first route that led me to
+what is now called the special principles of relativity. ... I had just a chance to
+read Lorentz's 1895 monograph, in which he had succeeded in giving a com-
+prehensive solution to problems of electrodynamics within the first approxi-
+mation, in other words, as far as the quantities of higher order than the square
+of the velocity of a moving body to that of light were neglected. In this connec-
+tion I took into consideration Fizeau's experiment. . . .
+In his first paper on relativity, Einstein mentions 'the failed attempts to detect
+a motion of the earth relative to the "light-medium" ' without specifying what
+attempts he had in mind.* Neither Michelson nor Fizeau is mentioned, though he
+knew of both. Einstein's discontent with earlier explanations of first-order effects
+may have made the mystery of Michelson and Morley's second-order null effect
+less central to him. Yet this 'unaccountable result' did affect his thinking and thus
+a new question arises: Why, on the whole, was Einstein so reticent to acknowledge
+the influence of Michelson on him? I shall return to this question in Chapter 8.
+6b. The Precursors
+1. What Einstein Knew. Historical accounts of electromagnetism in the late
+nineteenth century almost invariably cite a single phrase written by that excellent
+experimental and theoretical physicist, Heinrich Rudolf Hertz: 'Maxwell's theory
+is Maxwell's system of equations.'** By itself, this is a witty, eminently quotable,
+and meaningless comment on the best that the physics of that period had to offer.
+The post-Maxwell, pre-Einstein attitude which eventually became preponderant
+was that electrodynamics is Maxwell's equations plus a specification of the charge
+and current densities contained in these equations plus a conjecture on the nature
+of the aether.
+Maxwell's own theory placed the field concept in a central position. It did not
+abolish the aether, but it did greatly simplify it. No longer was 'space filled three
+or four times over with ethers,' as Maxwell had complained [Ml]. Rather, 'many
+workers and many thinkers have helped to build up the nineteenth century school
+of plenum, one ether for light, heat, electricity, magnetism', as Kelvin wrote in
+1893 [K3]. However, there still were many nineteenth century candidates for this
+one aether, some but not all predating Maxwell's theory. There were the aethers
+of Fresnel, Gauchy, Stokes, Neumann, MacCulIagh, Kelvin, Planck, and proba-
+bly others, distinguished by such properties as degree of homogeneity and com-
+*In a thoughtful article on Einstein and the Michelson-Morley experiment, Holton [H2] raised the
+possibility that Einstein might have had in mind other null effects known by then, such as the absence
+of double refraction [B2, Rl] and the Trouton-Noble experiment [Tl].
+**See the second volume of Hertz's collected works [H3], which is also available in English trans-
+lation [H4],
+120 RELATIVITY, THE SPECIAL THEORY
+pressibility, and the extent to which the earth dragged the aether along. This
+explains largely (though not fully) why there was such a variety of post-Max-
+wellian Maxwell theories, the theories of Hertz, Lorentz, Larmor, Wiechert,
+Cohn, and probably others.
+Hertz was, of course, aware of these options [Ml4]. After all, he had to choose
+his own aether (the one he selected is dragged along by the earth). Indeed, his
+dictum referred to earlier reads more fully: 'Maxwell's theory is Maxwell's system
+of equations. Every theory which leads to the same system of equations, and there-
+fore comprises the same possible phenomena, I would consider as being a form or
+special case of Maxwell's theory.'
+The most important question for all these authors of aethers and makers of
+Maxwell theories was to find a dynamic understanding of the aberration of light,
+of Fresnel drag, and, later, of the Michelson-Morley experiment. In a broad
+sense, all these men were precursors of Einstein, who showed that theirs was a
+task both impossible and unnecessary. Einstein's theory is, of course, not just a
+Maxwell theory in the sense of Hertz. Rather s Einstein's resolution of the diffi-
+culties besetting the electrodynamics of moving bodies is cast in an all-embracing
+framework of a new kinematics. Going beyond Lorentz and Poincare, he based
+his theory on the first of the two major re-analyses of the problem of measurement
+which mark the break between the nineteenth and the twentieth centuries (the
+other one being quantum mechanics).
+It is not the purpose of this section on precursors to give a detailed discussion
+of the intelligent struggles by all those men named above. Instead I shall mainly
+concentrate on Lorentz and Poincare, the precursors of the new kinematics. A
+final comparison of the contributions of Einstein, Lorentz, and Poincare will be
+deferred until Chapter 8. Nor shall I discuss Lorentz's finest contribution, his
+atomistic interpretation of the Maxwell equations in terms of charges and currents
+carried by fundamental particles (which he called charged particles in 1892, ions
+in 1895, and, finally, electrons in 1899), even though this work represents such a
+major advance in the development of electrodynamics. Rather, I shall confine
+myself largely to the evolution and the interpretation of the Lorentz
+transformation:
+which relates one set of space-time coordinate systems (x',y',2?,t') to another,
+(x,y,z,t), moving with constant velocity v relative to the first. (For the purpose of
+this section, it suffices to consider only relative motion in the x direction.)
+The main characters who will make their appearance in what follows are:
+Voigt, the first to write down Lorentz transformations; FitzGerald, the first to
+propose the contraction hypothesis; Lorentz himself; Larmor, the first to relate the
+contraction hypothesis to Lorentz transformations; and Poincare. It should also be
+mentioned that before 1900 others had begun to sense that the aether as a material
+'SUBTLE is THE LORD' 121
+medium might perhaps be dispensed with. Thus Paul Drude wrote in 1900: 'The
+conception of an ether absolutely at rest is the most simple and the most natural—
+at least if the ether is conceived to be not a substance but merely space endowed
+with certain physical properties' [D3]; and Emil Cohn in 1901, 'Such a medium
+fills every element of our space; it may be a definite ponderable system or also the
+vacuum' [Cl].
+Of the many papers on the subject treated in this section, the following in par-
+ticular have been of great help to me: Tetu Hirosige on the aether problem [H5],
+McCormmach on Hertz [Ml4], Bork [B3] and Brush [B4] on FitzGerald, and
+Miller [M15] on Poincare.
+As to Einstein himself, in his first relativity paper he mentions only three phys-
+icists by name: Maxwell, Hertz, and Lorentz. As he repeatedly pointed out else-
+where, in 1905 he knew Lorentz's work only up to 1895. It follows—as we shall
+see—that in 1905 Einstein did not know of Lorentz transformations. He invented
+them himself. Nor did he know at that time those papers by Poincare which deal
+in technical detail with relativity issues.
+2. Voigt. It was noted in 1887 [V2] by Woldemar Voigt that equations of the
+type
+retain their form if one goes over to the new space-time variables
+These are the Lorentz transformations (Eq. 6.3) up to a scale factor. Voigt
+announced this result in a theoretical paper devoted to the Doppler principle. As
+an application of Eq. 6.7, he gave a derivation of the Doppler shift, but only for
+the long-familiar longitudinal effect of order v/c. His new method has remained
+standard procedure to this day: he made use of the invariance of the phase of a
+propagating plane light wave under Eq. 6.7 [P3]. Since the Doppler shift is a
+purely kinematic effect (in the relativistic sense), it is irrelevant that Voigt's argu-
+ment is set in the dynamic framework of the long-forgotten elastic theory of light
+propagation, according to which light is propagated as a result of oscillations in
+an elastic incompressible medium.
+Lorentz was familiar with some of Voigt's work. In 1887 or 1888, the two men
+corresponded—about the Michelson-Morley experiment [V3]. However, for a
+long time Lorentz seems not to have been aware of the Voigt transformation (Eq.
+6.7). Indeed, Lorentz's Columbia University lectures, given in 1906 and published
+in book form in 1909, contain the following comment: 'In a paper . . . published
+in 1887 . .. and which to my regret has escaped my notice all these years, Voigt
+has applied to equations of the form [of Eq. 6.5] a transformation equivalent to
+[Eq. 6.3]. The idea of the transformations [Eq. 6.3] .. . might therefore have been
+122 RELATIVITY, THE SPECIAL THEORY
+borrowed from Voigt and the proof that it does not alter the form of the equations
+for the free ether is contained in his paper' [L7]. (Although these lines were writ-
+ten after Einstein's work of 1905, they still contain a reference to the aether. So
+does the second edition of Lorentz's book, published in 1915. I shall have more to
+say on this subject in Chapter 8.)
+At a physics meeting in 1908, Minkowski drew attention to Voigt's 1887 paper
+[M16]. Voigt was present. His response was laconic: ' . . . already then [in 1887]
+some results were found which later were obtained from the electromagnetic the-
+ory' [V4].
+3. FitzGerald. The collected papers of the Irish physicist George Francis
+FitzGerald, edited by his friend Joseph Larmor [L8], show that FitzGerald
+belonged to that small and select group of physicists who participated very early
+in the further development of Maxwell's theory. (In 1899, he was awarded a
+Royal Medal for his work in optics and electrodynamics by the Royal Society, of
+which he was a member.) However, this handsome volume does not contain the
+very brief paper for which FitzGerald is best remembered, the one dealing with
+the hypothesis of the contraction of moving bodies. This paper appeared in 1889
+in the American journal Science [F3] under the title 'The Ether and the Earth's
+Atmosphere.' It reads, in full:
+I have read with much interest Messrs. Michelson and Morley's wonderfully
+delicate experiment attempting to decide the important question as to how far
+the ether is carried along by the earth. Their result seems opposed to other
+experiments showing that the ether in the air can be carried along only to an
+inappreciable extent. I would suggest that almost the only hypothesis that can
+reconcile this opposition is that the length of material bodies changes, according
+as they are moving through the ether or across it, by an amount depending on
+the square of the ratio of their velocities to that of light. We know that electric
+forces are affected by the motion of the electrified bodies relative to the ether,
+and it seems a not improbable supposition that the molecular forces are affected
+by the motion, and that the size of a body alters consequently. It would be very
+important if secular experiments on electrical attractions between permanently
+electrified bodies, such as in a very delicate quadrant electrometer, were insti-
+tuted in some of the equatorial parts of the earth to observe whether there is
+any diurnal and annual variation of attraction—diurnal due to the rotation of
+the earth being added and subtracted from its orbital velocity, and annual sim-
+ilarly for its orbital velocity and .the motion of the solar system.
+Here for the first time appears the proposal of what now is called the Fitz-
+Gerald-Lorentz contraction. The formulation is qualitative and distinctly prere-
+lativistic. Consider the statement '.. . the length of material bodies changes,
+according as they are moving through the aether. ...' First of all, there is (of
+course) still an aether. Second, the change of length is considered (if I may borrow
+a later phrase of Einstein's) to be objectively real; it is an absolute change, not a
+change relative to an observer at rest. Consider next the statement about the
+'SUBTLE is THE LORD' 123
+molecular forces being affected by the motion. The author clearly has in mind a
+dynamic contraction mechanism which presses the molecules together in their
+motion through the aether.
+FitzGerald's hypothesis was referred to several times in lectures (later pub-
+lished) by Oliver Joseph Lodge [B3]. Larmor, too, properly credited FitzGerald
+in the introduction to the latter's collected works: 'He [F.] was the first to suggest
+. . . that motion through the aether affects the dimensions of solid molecular aggre-
+gations' [L9]. Elsewhere in that same book, we find FitzGerald himself mention-
+ing the contraction hypothesis, in 1900. In that year, Larmor's essay Aether and
+Matter [L10] had come out. In a review of this book, FitzGerald wrote that in the
+analysis of the Michelson-Morley experiment 'he [Larmor] has to assume that
+the length of a body depends on whether it is moving lengthwise or sideways
+through the ether' [Lll], without referring, however, to his own suggestion made
+more than ten years earlier!
+FitzGerald's curious silence may perhaps be explained in part by what he once
+wrote to his friend Oliver Heaviside: 'As I am not in the least sensitive to having
+made mistakes, I rush out with all sorts of crude notions in hope that they may
+set others thinking and lead to some advance' [ F4]. Perhaps he was also held back
+by an awareness of those qualities of his which were described by Heaviside soon
+after FitzGerald's death: 'He had, undoubtedly, the quickest and most original
+brain of anybody. That was a great distinction; but it was, I think, a misfortune
+as regards his scientific fame. He saw too many openings. His brain was too fertile
+and inventive. I think it would have been better for him if he had been a little
+stupid—I mean not so quick and versatile but more plodding. He would have
+been better appreciated, save by a few' [O2].
+Lorentz was one of those few who appeciated FitzGerald the way he was.
+4. Lorentz. The first paper by Lorentz relevant to the present discussion is
+the one of 1886—that is, prior to the Michelson-Morley experiment—in which
+he criticized Michelson's theoretical analysis of the 1881 Potsdam experiment
+[L3]. The main purpose of Lorentz's paper was to examine how well Fresnel's
+stationary aether fitted the facts. He therefore reexamined the aberration and
+Fizeau effects and noted in particular another achievement (not yet mentioned) of
+Michelson and Morley: their repetition of the Fizeau experiment with much
+greater accuracy, which bore out Fresnel's prediction for the drag coefficient in a
+much more quantitative way than was known before [M17]. Since at that time
+Lorentz had a right to be dubious about the precision of the Potsdam experiment,
+he concluded that there was no particular source for worry: 'It seems doubtful in
+my opinion that the hypothesis of Fresnel has been refuted by experiment' [L3].
+We move to 1892, the year in which Lorentz publishes his first paper on his
+atomistic electromagnetic theory [L12]. The Michelson-Morley experiment has
+meanwhile been performed, and Lorentz is now deeply concerned (as was noted
+before): 'This experiment has been puzzling me for a long time, and in the end I
+have been able to think of only one means of reconciling it with Fresnel's theory.
+Today we call Eq. 6.8 the FitzGerald-Lorentz contraction up to second order in
+v/c. In order to interpret this result, Lorentz assumed that molecular forces, like
+electromagnetic forces, 'act by means of an intervention of the aether' and that a
+contraction effect O(v2/c2) cannot be excluded on any known experimental
+grounds.
+These conclusions agree in remarkable detail with FitzGerald's earlier pro-
+posal: save the aether by its dynamic intervention on the action of molecular forces.
+In 1892, Lorentz was still unaware of FitzGerald's earlier paper, however.
+The fall of 1894. Lorentz writes to FitzGerald, telling him that he has learned
+of the latter's hypothesis via an 1893 paper by Lodge, informing FitzGerald that
+he had arrived at the same idea in his own paper of 1892, and asking him where
+he has published his ideas so that he can refer to them [LI4]. A few days later,
+FitzGerald replies: His paper was sent to Science, 'but I do not know if they ever
+published it. ... I am pretty sure that your publication is prior to any of my
+printed publications'(l) [F5]. He also expresses his delight at hearing that Lorentz
+agrees with him, 'for I have been rather laughed at for my view over here.'
+From that time on, Lorentz used practically every occasion to point out that he
+and FitzGerald had independently arrived at the contraction idea. In his memoir
+of 1895, he wrote of 'a hypothesis ... which has also been arrived at by Mr
+FitzGerald, as I found out later' [LI5]. This paper also marks the beginning of
+Lorentz's road toward the Lorentz transformations, our next subject.
+In the paper of 1895, Lorentz proved the following 'theorem of corresponding
+states.' Consider a distribution of nonmagnetic substances described in a coordi-
+nate system x,t at rest relative to the aether. Denote by E, H, D, the electric,
+magnetic, and electric displacement fields, respectively. D = E + P; P is the
+electric polarization. Consider a second coordinate system x',t' moving with veloc-
+ity v relative to the (x,t) system. Then to first order in v/c, there is a correspond-
+ing state in the second system in which E', H', P' are the same functions of x',t'
+as E, H, P are of x,t, where124 RELATIVITY, THE SPECIAL THEORY
+It consists in the supposition that the line joining two points of a solid body, if at
+first parallel to the direction of the earth's motion, does not keep the same length
+when it is subsequently turned through 90°' [L13]. If this length be / in the latter
+position, then, Lorentz notes, Fresnel's aether hypothesis can be maintained if the
+length in the former position /' were
+'SUBTLE is THE LORD' 125
+Like Voigt before him, Lorentz regarded the transformations (Eqs. 6.9 and
+6.10) only as a convenient mathematical tool for proving a physical theorem, in
+his case that to O(v/c) terrestrial optical experiments are independent of the
+motion of the earth, a result already mentioned in Section 6a. Equation 6.9 was
+obviously familiar to Lorentz, but the novel Eq. 6.10 led him to introduce signif-
+icant new terminology. He proposed to call t the general time and t' the local time
+[L16]. Although he did not say so explicitly, it is evident that to him there was,
+so to speak, only one true time: t. At this stage, Lorentz's explanation for the
+absence of any evidence for a stationary aether was hybrid in character: to first
+order he had derived the null effects from electrodynamics; to second order he had
+to introduce his ad hoc hypothesis expressed by Eq. 6.8.
+One last remark on the 1895 paper. It contains another novelty, the assumption
+that an 'ion' with charge e and velocity v is subject to a force K:
+the Lorentz force (Lorentz called it the electrische Kraft [L17]).
+As has been noted repeatedly, in 1905 Einstein knew of Lorentz's work only
+up to 1895. Thus Einstein was aware of no more and no less than the following:
+Lorentz's concern about the Michelson-Morley experiment, his 'first-order
+Lorentz transformation,' Eqs. 6.9 and 6.10, his proof of the first-order theorem
+for optical phenomena, his need to supplement this proof with the contraction
+hypothesis, and, finally, his new postulate of the Lorentz force, Eq. 6.13.
+As a conclusion to the contributions of Lorentz prior to 1905, the following
+three papers need to be mentioned.
+1898. Lorentz discusses the status of his work in a lecture given in Diisseldorf
+[LI8]. It is essentially a summary of what he had written in 1895.
+1899. He gives a 'simplified version' of his earlier theory [L19]. Five years
+later, he characterized this work as follows. 'It would be more satisfactory if it
+were possible to show, by means of certain fundamental assumptions, and without
+neglecting terms of one order of magnitude or another, that many electromagnetic
+actions are entirely independent of the motion of the system. Some years ago [in
+1899] I had already sought to frame a theory of this kind' [L20]. In 1899 he wrote
+down the transformations
+which are the Lorentz transformations (Eq. 6.3) up to a scale factor €. He noted
+among other things that 'the dilatations determined by [Eqs. 6.14 and 6.15] are
+precisely those which I had to assume in order to explain the experiment of Mr
+Michelson'! Thus the reduction of the FitzGerald-Lorentz contraction to a con-
+126 RELATIVITY, THE SPECIAL THEORY
+sequence of Lorentz transformations* is a product of the nineteenth century.
+Lorentz referred to tf defined by Eq. 6.16 as a modified local time. Concerning
+the scale factor e, he remarked that it had to have a well-defined value which one
+can determine only 'by a deeper knowledge of the phenomena.' Note that it is, of
+course, not necessary for the interpretation of the Michelson-Morley experiment
+to know what e is. (As for all optical phenomena in free space, one may allow not
+only for Lorentz invariance but also for scale invariance, in fact, for conformal
+invariance.) In 1899 Lorentz did not examine whether his theorem of correspond-
+ing states could be adapted to the transformations represented by Eqs. 6.14-6.16.
+1904. Lorentz finally writes down the transformations (Eqs. 6.3-6.4) [L20].
+He fixes e to be equal to unity from a discussion of the transformation properties
+of the equation of motion of an electron in an external field. This time he attempts
+to prove a theorem of corresponding states (that is, Lorentz covariance) for the
+inhomogeneous Maxwell-Lorentz equations. He makes an error in the transfor-
+mation equations for velocities ([L20], Eq. 8). As a result, he does not obtain the
+covariance beyond the first order in v/c (compare Eqs. 2 and 9 in [L20]).
+I shall return to this 1904 paper in the next chapter. However, as far as the
+history of relativistic kinematics is concerned, the story of Lorentz as precursor to
+Einstein is herewith complete.
+5. Larmor. Larmor's prize-winning essay Aether and Matter [L10] was
+completed in 1898 and came out in 1900. It contains not only the exact transfor-
+mations (Eqs. 6.3 and 6.4) but also the proof that one arrives at the FitzGerald-
+Lorentz contraction with the help of these transformations [L21]. Larmor was
+aware of Lorentz's paper of 1895 and quoted it at length, but he could not have
+known the 1899 paper.
+It is true that Larmor's reasonings are often obscured by his speculations (of no
+interest here) about dynamic interrelations between aether and matter. However,
+there is no doubt that he gave the Lorentz transformations and the resulting con-
+traction argument before Lorentz independently did the same. It is a curious fact
+that neither in the correspondence between Larmor and Lorentz** nor in
+Lorentz's papers is there any mention of this contribution by Larmor.
+The first time I became aware of Larmor's work was in the early 1950s, when
+Adriaan Fokker told me that it was known in Leiden that Larmor had the Lorentz
+transformations before Lorentz. Alas, I never asked Fokker (an ex-student of
+Lorentz's) what Lorentz himself had to say on that subject.
+6. Poincare. In 1898 there appeared an utterly remarkable article by Poin-
+care entitled 'La Mesure du Temps' [P5].+ In this paper, the author notes that
+'we have no direct intuition about the equality of two time intervals. People who
+*For the simple mathematics of this reduction, see standard textbooks, e.g., [P4j.
+**This correspondence is deposited in the Ryksarchief in the Hague. I am grateful to A. Kox for
+information related to this correspondence.
+fThis essay is available in English as Chapter 2 in The Value of Science [P6].
+SUBTLE IS THE LORD 127
+believe they have this intuition are the dupes of an illusion' (the italics are Poin-
+care's). He further remarks, 'It is difficult to separate the qualitative problems of
+simultaneity from the quantitative problem of the measurement of time; either one
+uses a chronometer, or one takes into account a transmission velocity such as the
+one of light, since one cannot measure such a velocity without measuring a time.'
+After discussing the inadequacies of earlier definitions of simultaneity, Poincare
+concludes, 'The simultaneity of two events or the order of their succession, as well
+as the equality of two time intervals, must be defined in such a way that the state-
+ments of the natural laws be as simple as possible. In other words, all rules and
+definitions are but the result of an unconscious opportunism.' These lines read
+like the general program for what would be given concrete shape seven years later.
+Other comments in this paper indicate that Poincare wrote this article in response
+to several other recent publications on the often-debated question of the measure-
+ment of time intervals. The new element which Poincare injected into these dis-
+cussions was his questioning of the objective meaning of simultaneity.
+In 1898 Poincare did not mention any of the problems in electrodynamics. He
+did so on two subsequent occasions, in 1900 and in 1904. The style is again pro-
+grammatic. In these works, the aether questions are central. 'Does the aether
+really exist?' he asked in his opening address to the Paris Congress of 1900 [P7].*
+'One knows where our belief in the aether stems from. When light is on its way
+to us from a far star ... it is no longer on the star and not yet on the earth. It is
+necessary that it is somewhere, sustained, so to say, by some material support.' He
+remarked that in the Fizeau experiment 'one believes one can touch the aether
+with one's fingers.' Turning to theoretical ideas, he noted that the Lorentz theory
+'is the most satisfactory one we have.'** However, he considered it a drawback
+that the independence of optical phenomena from the motion of the earth should
+have separate explanations in first and in second order. 'One must find one and
+the same explanation for one and for the other, and everything leads us to antic-
+ipate that this explanation will be valid for higher-order terms as well and that
+the cancellation of the [velocity-dependent] terms will be rigorous and absolute.'
+His reference to cancellations would seem to indicate that he was thinking about
+a conspiracy of dynamic effects.
+In 1904 he returned to the same topics, once again in a programmatic way, in
+his address to the International Congress of Arts and Science at St. Louis [P9].f
+'What is the aether, how are its molecules arrayed, do they attract or repel each
+other?' He expressed his unease with the idea of an absolute velocity: 'If we suc-
+ceed in measuring something we will always have the freedom to say that it is not
+*This address is available in English as Chapters 9 and 10 in Science and Hypothesis [P8j.
+"'During the period 1895 to 1900, Poincare considered it a flaw of the theory that it did not satisfy
+momentum conservation in the Newtonian sense, that is, conservation of momentum for matter only.
+He withdrew this objection soon afterward.
+-(•This address is available in English as Chapters 7 to 9 in The Value of Science [P6].
+128 RELATIVITY, THE SPECIAL THEORY
+the absolute velocity, and if it is not the velocity relative to the aether, it can always
+be the velocity relative to a new unknown fluid with which we would fill space.'
+He gently chides Lorentz for his accumulation of hypotheses, and then he goes
+beyond Lorentz in treating local time as a physical concept. He considers two
+observers in uniform relative motion who wish to synchronize their clocks by
+means of light signals. 'Clocks regulated in this way will not mark the true time,
+rather they mark what one may call the local time.' All phenomena seen by one
+observer are retarded relative to the other, but they all are retarded equally (Poin-
+care points out) and 'as demanded by the relativity principle [the observer] cannot
+know whether he is at rest or in absolute motion.' Poincare is getting close. But
+then he falters: 'Unfortunately [this reasoning] is not sufficient and complemen-
+tary hypotheses are necessary [my italics]; one must assume that bodies in motion
+suffer a uniform contraction in their direction of motion.' The reference to com-
+plementary hypotheses makes clear that relativity theory had not yet been
+discovered.
+Poincare concluded this lecture with another of his marvelous visions: 'Perhaps
+we must construct a new mechanics, of which we can only catch a glimpse,... in
+which the velocity of light would become an unpassable limit.' But, he added, 'I
+hasten to say that we are not yet there and that nothing yet proves that [the old
+principles] will not emerge victoriously and intact from this struggle.'
+The account of Einstein's precursors ends here, on a note of indecision. Lorentz
+transformations had been written down. Simultaneity had been questioned. The
+velocity of light as a limiting velocity had been conjectured. But prior to 1905 there
+was no relativity theory. Let us now turn to what Poincare did next, not as a
+precursor to Einstein but essentially simultaneously with him.
+6c. Poincare in 1905
+All three papers just mentioned are qualitative in character. Poincare, one of the
+very few true leaders in mathematics and mathematical physics of his day, knew,
+of course, the electromagnetic theory in all its finesses. He had published a book
+on optics in 1889 [P10] and one on electromagnetic theory in 1901 [Pll]. In 1895
+he had written a series of papers on Maxwellian theories [P12]. From 1897 to
+1900 he wrote several articles on the theory of Lorentz [PI3]. All this work cul-
+minated in his two papers completed in 1905. Both bear the same title: 'Sur la
+Dynamique de 1'Electron.' The occurrence of the term dynamics is most signifi-
+cant. So is the following sequence of dates:
+June 5, 1905. Poincare communicates the first of these two papers to the Aca-
+demic des Sciences in Paris [PI4].
+June 30, 1905. Einstein's first paper on relativity is received by the Annalen
+der Physik.
+July, 1905. Poincare completes his second paper, which appears in 1906 [PI5].
+The first of the Poincare papers is in essence a summary of the second, much
+'SUBTLE is THE LORD' 129
+longer one. The content of his articles is partly kinematic, partly dynamic. Here
+I shall discuss only their kinematic part, leaving the remainder until the next
+chapter.
+The June paper begins with the remark that neither the aberration of light and
+related phenomena nor the work of Michelson reveals any evidence for an absolute
+motion of the earth. 'It seems that this impossibility of demonstrating absolute
+motion is a general law of nature.' Next Poincare refers to the contraction hypoth-
+esis and to Lorentz's paper of 1904 [L20] in which—as he has it—Lorentz had
+succeeded in modifying the hypothesis 'in such a way as to bring it in accordance
+with the complete impossibility of determining absolute motion.' This statement
+is not quite correct, since (as was mentioned earlier) Lorentz had not succeeded
+in proving the covariance of the inhomogeneous Maxwell-Lorentz equations.
+Poincare was to return to this point in July. However, in June he already had the
+correct transformation properties of the velocities, the point Lorentz had missed.
+'I have been led to modify and complete [Lorentz's analysis] in certain points of
+detail.'
+Poincare then turns to the transformations (Eqs. 6.14-6.16), 'which I shall
+name after Lorentz,' and continues, 'The ensemble of all these transformations,
+together with the ensemble of all spatial rotations must form a group; but in order
+for this to be so it is necessary that* e = 1; one is thus led to assume that « = 1,
+a result which Lorentz had obtained in another way.'
+The final topic discussed in this paper concerns gravitation. Following
+Lorentz's dynamic picture, Poincare reasons in a more general and abstract way
+that all forces should transform in the same way under Lorentz transformations.
+He concludes that therefore Newton's laws need modification and that there
+should exist gravitational waves which propagate with the velocity of light!
+Finally, he points out that the resulting corrections to Newton's law must be
+O(v2/c2) and that the precision of astronomical data does not seem to rule out
+effects of this order.
+The July paper of Poincare gives many more details. Its Section 1, entitled
+'Lorentz Transformation,' contains the complete proof of covariance of electrody-
+namics. 'It is here that I must point out for the first time a difference with Lorentz'
+[PI6]. Section 4 contains a discussion of 'a continuous group which we shall call
+the Lorentz group.' Poincare explains his argument for € = 1: starting from Eqs.
+6.14-6.16, consider the inverse of these transformations, that is, replace v by —v.
+Clearly,
+Moreover, from a rotation of 180° around the y axis it follows that
+*I use the notation of Eqs. 6.14-6.16; Poincare used the symbol / instead of e.
+He did, of course, not know that a few weeks earlier someone else had inde-
+pendently noted the group properties of Lorentz transformations and had derived
+Eqs. 6.19-6.21 by an almost identical argument.
+I shall return later to the efforts by Lorentz in 1904 and by Poincare in 1905
+to give a theory of the electron. However, I believe I have presented at this point
+all the evidence that bears on the role of Lorentz and of Poincare in the develop-
+ment of relativity theory. I shall now let their case rest until the discussion of
+Einstein's first two papers on the subject has been completed. Thereafter an
+attempt will be made to compare the contributions of all three men.
+As a last step preparatory to the account of Einstein's discovery of relativity, I
+should like to mention what little we know about his thoughts on the subject prior
+to 1905.
+6d. Einstein before 1905
+Einstein's curiosity in electromagnetic theory goes back at least to his Pavia days
+of 1895, which followed his escape from the hated high school in Munich. The
+following brief and rather disconnected remarks bear on his interest in electro-
+dynamics during the decade preceding his creation of the special theory of
+relativity.
+7. The Pavia Essay.* In 1895 Einstein sent a manuscript entitled Uber die
+Untersuchung des Atherzustandes im magnetischen Felde (On the Examination
+of the State of the Aether in a Magnetic Field) to his uncle Caesar Koch in Bel-
+gium. This paper—which Einstein never published—was accompanied by a cov-
+ering letter in which he wrote: '[The manuscript] deals with a very special theme
+and is ... rather naive and incomplete, as can be expected from a young fellow.'
+*In 1950, Einstein dated this manuscript to be from 1894 or 1895. It was sent to Caesar Koch in
+1895, since in its covering letter Einstein tells of his intent to go to the ETH and adds, 'In the next
+letter I shall write you what may come of this.' Both the essay and its covering letter were reproduced
+in a paper by Mehra [Ml8].130 RELATIVITY, THE SPECIAL THEORY
+SO that
+Once it is settled that « = 1, the Lorentz transformations have the property that
+In showing the group property of Lorentz transformations, Poincare remarked
+that the 'product' of two transformations (Eq. 6.3), one with velocity w,, the other
+with v2, results in another Lorentz transformation with velocity v given by
+'SUBTLE is THE LORD' 131
+In the opening lines of the essay, he asks the reader's forbearance: 'Since I com-
+pletely lacked the material for penetrating deeper into the subject, I beg that this
+circumstance will not be interpreted as superficiality.'
+The main questions raised in the essay are, How does a magnetic field, gen-
+erated when a current is turned on, affect the surrounding aether? How, in turn,
+does this magnetic field affect the current itself? Evidently Einstein believed in an
+aether at that time. He regarded it as an elastic medium and wondered in partic-
+ular how 'the three components of elasticity act on the velocity of an aether wave'
+which is generated when the current is turned on. He came to the following main
+conclusion. 'Above all, it ought to be [experimentally] shown that there exists a
+passive resistance to the electric current's ability for generating a magnetic field;
+[this resistance] is proportional to the length of the wire and independent of the
+cross section and the material of the conductor.' Thus, the young Einstein discov-
+ered independently the qualitative properties of self-induction (a term he did not
+use). It seems clear that he was not yet familiar with earlier work on this phe-
+nomenon. In his paper he mentions 'the wonderful experiments of Hertz.' I do
+not know how he became aware of Hertz's work. At any rate, it is evident that at
+that time he already knew that light is an electromagnetic phenomenon but did
+not yet know Maxwell's papers.
+2. The Aarau Question. In his final autobiographical note [El2], Einstein
+wrote, 'During that year [sometime between October 1895 and the early fall of
+1896] in Aarau the question came to me: If one runs after a light wave with [a
+velocity equal to the] light velocity, then one would encounter a time-independent
+wavefield. However, something like that does not seem to exist! This was the first
+juvenile thought experiment which has to do with the special theory of relativity'
+(and he added, 'Invention is not the product of logical thought, even though the
+final product is tied to a logical structure.'). Also, in his more extensive autobio-
+graphical notes, published in 1949, Einstein remarked that 'after ten years of
+reflection such a principle [special relativity] resulted from [this] paradox upon
+which I had already hit at the age of sixteen' [E6].
+3. The ETH Student. Since Rudolf Kayser, Einstein's son-in-law and biog-
+rapher, was himself not a physicist, it is hard to believe that the following lines
+from the biography could have come from anyone but Einstein himself. 'He
+encountered at once, in his second year of college [1897-8], the problem of light,
+ether and the earth's movement. This problem never left him. He wanted to con-
+struct an apparatus which would accurately measure the earth's movement against
+the ether. That his intention was that of other important theorists, Einstein did
+not yet know. He was at that time unacquainted with the positive contributions,
+of some years back, of the great Dutch physicist Hendrik Lorentz, and with the
+subsequently famous attempt of Michelson. He wanted to proceed quite empiri-
+cally, to suit his scientific feeling of the time, and believed that an apparatus such
+as he sought would lead him to the solution of the problem, whose far-reaching
+perspectives he already sensed. But there was no chance to build this apparatus.
+132 RELATIVITY, THE SPECIAL THEORY
+The skepticism of his teachers was too great, the spirit of enterprise too small.
+Albert had thus to turn aside from his plan, but not to give it up forever. He still
+expected to approach the major questions of physics by observation and experi-
+ment' [R2].
+As to electromagnetic theory, Einstein was not offered a course on this subject
+in his ETH days. As noted in Chapter 3, he learned this theory from Foppl's
+textbook.
+4. The Winterthur Letter. A letter by Einstein to Grossmann, written in
+1901 from Winterthur, informs us that aether drift experiments were still on Ein-
+stein's mind: 'A new and considerably simpler method for investigating the motion
+of matter relative to the light-aether has occurred to me. If the merciless fates
+would just once give me the necessary quiet for its execution!' [E13]. Since there
+are no preliminaries to this statement, one gains the impression that Grossmann
+knew something about a previous method which Einstein must have had in mind
+when they were together at the ETH.
+This letter also shows that Einstein still believed in an aether as late as 1901.
+5. The Bern Lecture. On the evening of December 5, 1903, Albert Einstein,
+technical expert third class with provisional appointment, held a lecture in the
+conference room of the Hotel Storchen in Bern before the Naturforschende
+Gesellschaft Bern. He had been elected to membership of this society on May 2,
+1903. The subject of his December lecture was 'Theorie der elektromagnetischen
+Wellen' [F6]. It would obviously be extraordinarily interesting to know what Ein-
+stein said that evening. However, to the best of my knowledge, no record of his
+talk exists.
+6. The Kyoto Address. Finally I quote another part of the translation from
+German to Japanese to English of the Kyoto address that Einstein gave in 1922.
+Before doing so, I should point out that I do not know what times are referred to
+in the statements 'I then thought .. .' and 'In those days .. .'.
+'I then thought I would want to prove experimentally to myself in any way the
+flow of the aether to the earth, that is to say, the motion of the earth. In those days
+when this problem arose in my mind, I had no doubt as to the existence of the
+aether and the motion of the earth in it. Meanwhile I had a plan to try to test it
+by means of measuring the difference of heats which were to appear in a ther-
+mocouple according as the direction along or against which the light from a single
+source was made to reflect by suitable mirrors, as I presupposed there should be
+a difference between the energies of reflected lights in the opposite directions. This
+idea was similar to the one in the Michelson experiment, but I had not carried out
+the experiment yet to obtain any definite result' [Ol].
+7. Summary. In the same lecture Einstein remarked, 'It is never easy to talk
+about how I got to the theory of relativity because there would be various con-
+cealed complexities to motivate human thinking and because they worked with
+different weights' [Ol]. Even with this admonition in mind, it would seem that
+the following is a fair summary of Einstein's work and thoughts on electrody-
+namics prior to 1905.
+'SUBTLE is THE LORD' 133
+Einstein's first important creative act dates from his high school days, when he
+independently discovered self-induction, a contribution which should, of course,
+not be associated with his name. At least twice he had an idea for a new experi-
+mental method to measure the aether drift. He intended to perform these exper-
+iments himself but did not succeed in doing so, either because his teachers would
+not let him [R2] or because he did not have enough free time [El3]. He believed
+in an aether at least until 1901 [El3]. Sometime during 1895 or 1896, the thought
+struck him that light cannot be transformed to rest [El2]. He knew of the
+Michelson-Morley experiment which, however, was not as crucial to his formu-
+lation of special relativity as were the first-order effects, the aberration of light,
+and the Fresnel drag [S6, Ol]. He knew the 1895 paper of Lorentz in which the
+Michelson-Morley experiment is discussed at length. He did not know the Lor-
+entz transformations. He did not know any of those writings by Poincare which
+deal with physics in technical detail.
+It is virtually certain, however, that prior to 1905 Einstein was aware of the
+1900 Paris address by Poincare and that he had also read Poincare's remark of
+1898 concerning the lack of intuition about the equality of two time intervals.
+Before 1905 Einstein, together with his friends of the Akademie Olympia, did
+indeed read some of Poincare's general essays on science: 'In Bern I had regular
+philosophical reading and discussion evenings, together with K. Habicht and
+Solovine, during which we were mainly concerned with Hume. .. . The reading
+of Hume, along with Poincare and Mach, had some influence on my development'
+[E14].
+The four collections of Poincare essays—La Science et I'Hypothese, La Valeur
+de la Science, Science et Methode, and Dernieres Pensees—first appeared in 1902,
+1905, 1908, and 1913, respectively. All three programmatic papers by Poincare
+mentioned in Section 6b are contained in one or another of these volumes. His
+1898 article, in which he questioned the naive use of simultaneity, and his
+St. Louis address of 1904 are found in La Valeur de la Science, his Paris address
+of 1900 in La Science et I'Hypothese. This last book, the only one of the four to
+appear before 1905, is the one Einstein and his friends read in Bern. I therefore
+believe that, prior to his own first paper on relativity, Einstein knew the Paris
+address in which Poincare suggested that the lack of any evidence for motion rel-
+ative to the aether should hold generally to all orders in v/c and that 'the cancel-
+lation of the [velocity-dependent] terms will be rigorous and absolute.' But there
+is more. In La Science et I'Hypothese, there is a chapter on classical mechanics in
+which Poincare writes, 'There is no absolute time; to say that two durations are
+equal is an assertion which has by itself no meaning and which can acquire one
+only by convention.. .. Not only have we no direct intuition of the equality of two
+durations, but we have not even direct intuition of the simultaneity of two events
+occurring in different places; this I have explained in an article entitled "La
+Mesure du Temps".' I stress that Einstein and his friends did much more than
+just browse through Poincare's writings. Solovine has left us a detailed list of books
+which the Akademie members read together. Of these, he singles out one and only
+134 RELATIVITY, THE SPECIAL THEORY
+one, La Science et I'Hypothese, for the following comment: '[This] book pro-
+foundly impressed us and kept us breathless for weeks on end' [E15]!
+I must say more about Einstein and Poincare and shall do so in Chapter 8 after
+having discussed Einstein's creation of special relativity in the next chapter.
+References
+Bl. Cf. W. L. Bryan (Ed.), A Debate on the Theory of Relativity. Open Court, Chi-
+cago, 1927.
+B2. D. B. Brace, Phil. Mag. 7, 317 (1904).
+B3. A. M. Bork, his 57, 199 (1966).
+B4. S. G. Brush, his 58, 230 (1967).
+Cl. E. Cohn, Goett. Nachr., 1901, p. 74.
+Dl. P. A. M. Dirac, Nature 168, 906 (1951); 169, 702 (1951).
+D2. H. Dukas, memorandum to V. Hobson, secretary to Professor J. R. Oppenheimer,
+June 21, 1966.
+D3. P. Drude, The Theory of Optics (C. R. Mann and R. A. Millikan, Trans.), p.
+457. Dover, New York, 1959.
+El. A. Einstein, The Meaning of Relativity (E. P. Adams Tran.). Princeton University
+Press, Princeton, N.J., 1921.
+E2. —, letter to M. Besso, December 23, 1925; EB, p. 215.
+E2a. , Forschungen und Fortschritte 3, 36 (1927).
+E3. —, letter to O. Veblen, April 30, 1930.
+E4. , Grundgedanken und Probleme der Relativitatstheorie. Imprimerie Royale,
+Stockholm, 1923. English translation in [Nl], p. 482.
+E5. , AdP 17, 891 (1905).
+E6. in Albert Einstein: Philosopher-Scientist (P. A. Schilpp, Ed.). Tudor, New
+York, 1949.
+E7. , Jahrb. Rod. Elektr. 4, 411 (1907).
+E8. , in Kultur der Gegenwart (E. Lecher, Ed.), Vol. 3, Sec. 3. Teubner, Leipzig,
+1915.
+E9. , The Meaning of Relativity (5th edn.). Princeton University Press, Princeton,
+N.J., 1955.
+E10. , Science 73, 375 (1931).
+Ell. , Z. Angew. Chemie 44, 685 (1931).
+El2. in Helle Zeit, Dunkle Zeit (C. Seelig, Ed.). Europa Verlag, Zurich, 1956.
+E13. , letter to M. Grossmann, 1901, undated.
+E14. , letter to M. Besso, March 6, 1952; EB, p. 464.
+El 5. , Lettres d Maurice SoLovine, p. VIII. Gauthier-Villars, Paris 1956.
+Fl. A. Fresnel, letter to F. Arago, September 1818. Reprinted in Oeuvres d'Augustin
+Fresnel, Vol. 2, p. 627. Imprimerie Royale, Paris, 1868.
+F2. A. Fizeau, C. R. Ac. Sci. Paris 33, 349 (1851).
+F3. G. F. FitzGerald, Science 13, 390 (1889).
+F4. , letter to O. Heaviside, quoted in A. M. Bork, Dictionary of Scientific Biog-
+raphy, Vol. 5, p. 15. Scribner's, New York, 1972.
+F5. , letter to H. A. Lorentz, November 10, 1894. Reprinted in [B4].
+'SUBTLE is THE LORD' 135
+F6. M. Fluckiger, Albert Einstein in Bern, pp. 71-6. Paul Haupt Verlag, Bern, 1974.
+HI. J. N. Howard, his 58, 88 (1967).
+H2. G. Holton, I sis 60, 133 (1969).
+H3. H. Hertz, Gesammelte Werke (2nd edn.), Vol. 2, p. 23. Earth, Leipzig, 1894.
+H4. H. Hertz, Electric Waves (D. E. Jones, Tran.), p. 21. Dover, New York, 1962.
+H5. T. Hirosige, Hist. St. Phys. Sci. 7, 3 (1976).
+II. J. Ishiwara, Einstein Koen-Roku, Tokyo-Tosho, Tokyo, 1977.
+Kl. Kelvin, Baltimore Lectures, Appendix B. Clay, London, 1904.
+K2. , [Kl], p. vi.
+K3. , [H4], p. xv.
+LI. H. A. Lorentz, Lectures on Theoretical Physics, Vol. 1, p. 3. McMillan, London,
+1927.
+L2. D. M. Livingston, The Master of Light, Chap. 3. Scribner's, New York, 1973.
+L3. H. A. Lorentz, Arch. Neerl. 21,103 (1886). Reprinted in H. A. Lorentz, Collected
+Papers, Vol. 4, p. 153. Nyhoff, the Hague, 1936.
+L4. , Versuch Einer Theorie der Electrischen und Optischen Erscheinungen in
+Bewegten Korpern, Collected Papers, Vol. 5, p. 1. Brill, Leiden, 1895.
+L5. , letter to Lord Rayleigh, August 18, 1892. Reprinted in [S2].
+L6. B. E. Livingston, Science 63, 105 (1926).
+L7. H. A. Lorentz, The Theory of Electrons, Sec. 169. Teubner, Leipzig, 1909.
+L8. J. Larmor (Ed.), The Scientific Writings of the Late George Francis FitzGerald.
+Longmans Green, London, 1902.
+L9. , [L8], p. Iviii.
+L10. , Aether and Matter. Cambridge University Press, Cambridge, 1900.
+Lll. , [L8],p. 514.
+L12. H. A. Lorentz, Arch. Neerl. 25, 363 (1892); Collected Papers, Vol. 2, p. 164.
+L13. , Versl. K. Ak. Amsterdam 1, 74 (1892); Collected Papers, Vol. 4, p. 219.
+L14. , letter to G. F. FitzGerald, November 10, 1894. Reprinted in [B4].
+L15. , [L4],Sec. 89.
+L16. , [L4],Sec. 31.
+L17. , [L4], Sec. 12.
+L18. , Verh. Ges. Deutsch. Naturf. Arzte 70, 56 (1898); Collected Papers, Vol. 7,
+p. 101.
+L19. , Versl. K. Ak. Amsterdam 10, 793 (1902); Collected Papers, Vol. 5, p. 139.
+L20. , Proc. K. Ak. Amsterdam 6, 809 (1904); Collected Papers, Vol. 5, p. 172.
+L21. J. Larmor, [L10], Chap. 11.
+Ml. J. C. Maxwell, Encyclopedia Britannica, 9th edn., Vol. 8, 1878. Reprinted in The
+Scientific Papers of James Clerk Maxwell, Vol. 2, p. 763. Dover, New York.
+M2. , Nature 21, 315 (1880).
+M3. A. A. Michelson, Am. J. Sci. 22, 120 (1881).
+M4. , letter to Lord Rayleigh, March 6, 1887. Reprinted in [S2],
+M5. , letter to Lord Rayleigh, August 17, 1887. Reprinted in [S2].
+M6. and E. W. Morley, Am. J. Sci. 34, 333 (1887).
+M7. , F. G. Pease, and F. Pearson, Nature 123, 88 (1929); /. Opt. Soc. 18, 181
+(1929).
+M8. E. W. Morley and D. C. Miller, Phil. Mag, 9, 680 (1905).
+M9. D. C. Miller, Rev. Mod. Phys. 5, 203 (1933).
+.136 RELATIVITY, THE SPECIAL THEORY
+M10. , Proc. Nat. Ac. Sci. 11, 306 (1925); Science 61, 617 (1925).
+Mil. , Science 63, 433 (1926).
+Ml2. A. A. Michelson, Studies in Optics, Chap. 14. University of Chicago Press, Chi-
+cago, 1927.
+Ml3. , letter to A. Einstein, December 5, 1923.
+M14. R. McCormmach in Dictionary of Scientific Biography, Vol. 6, p. 340. Scribner's,
+New York, 1972.
+Ml5. A. I. Miller, Arch. Hist. Ex. Sci. 10, 207 (1973).
+M16. H. Minkowski, Phys. Zeitschr. 9, 762 (1908).
+M17. A. A. Michelson and E. W. Morley, Am. ]. Sci. 31, 377 (1886).
+M18. J. Mehra, Phys. Blatt. 27, 385 (1971); University of Texas at Austin, Report
+CPT-82, 1971.
+Nl. Nobel Lectures in Physics 1901-1921, pp. 159ff. Elsevier, New York, 1967.
+01. T. Ogawa, Jap. St. Hist. Sci. 18, 73 (1979).
+02. O. Heaviside, letter quoted in [L8], p. xxvi.
+PI. W. K. H. Panofsky and M. Phillips, Classical Electricity and Magnetism, Addi-
+son-Wesley, Reading, Mass., 1955.
+P2. , [PI], p. 174.
+P3. , [PI], p. 347.
+P4. , [PI], Chap. 15.
+P5. H. Poincare, Rev. Metaphys. Morale 6, 1 (1898).
+P6. , The Value of Science. Reprinted in The Foundations of Science (G. R.
+Halsted, Tran.). Science Press, New York, 1913.
+P7. , Report of the International Physics Congress (C. Guillaume and L. Poin-
+care, Eds.), Vol. 1, p. 1. Gauthier-Villars, Paris, 1900.
+P8. , Science and Hypothesis. Dover, New York, 1952.
+P9. , Bull. Sci. Math. 28, 302 (1904).
+P10. , Theorie Mathematique de la Lumiere. Carre, Paris, 1889.
+Pll. , Electricite et Optique. Carre and Naud, Paris, 1901.
+P12. , Oeuvres, Vol. 9, pp. 369-426. Gauthier-Villars, Paris, 1954.
+P13. , Oeuvres, Vol. 9. pp. 427-88.
+P14. , C. R. Ac. Set. Pans 140, 1504 (1905); Oeuvres, Vol. 9, p. 489.
+P15. , Rend. Circ. Mat. Palermo 21, 129 (1906); Oeuvres, Vol. 9, p. 494.
+PI 6. , Oeuvres, Vol. 9, p. 500.
+Rl. Rayleigh, Phil. Mag. 4, 678 (1902).
+R2. A. Reiser, Albert Einstein, p. 52. Boni, New York, 1930.
+51. L. S. Swenson, The Ethereal Aether, p. 194. University of Texas Press, Austin,
+1972.
+52. R. S. Shankland, I sis 58, 86 (1967).
+53. , Am. J. Phys. 32, 16 (1964).
+54. , S. W. McCuskey, F. C. Leone, and G. Kuerti, Rev. Mod. Phys. 27, 167
+(1955).
+55. R. S. Shankland, Biography Quarterly, Vol. 2, No. 3. University of Hawaii Press,
+Honolulu, 1979.
+56. , Am. J. Phys. 31, 47 (1962); 41, 895 (1973).
+57. , Am. J. Phys. 32, 16 (1964).
+'SUBTLE is THE LORD' 137
+Tl. F. T. Trouton and H. R. Noble, Phil. Trans. Roy. Soc. A202, 165 (1903).
+VI. O. Veblen, letter to A. Einstein, April 17, 1930.
+V2. W. Voigt, Goett. Nachr., 1887, p. 41.
+V3. W. Voigt, AdP 35, 370, see footnote on p. 390 (1888).
+V4. W. Voigt, Phys. Zeitschr. 9, 762 (1908).

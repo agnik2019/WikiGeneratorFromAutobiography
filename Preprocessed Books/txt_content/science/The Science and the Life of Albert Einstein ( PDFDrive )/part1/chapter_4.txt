@@ -1,0 +1,904 @@
+4
+Entropy and Probability
+4a. Einstein's Contributions at a Glance
+Einstein's activities related to thermodynamics, statistical mechanics, and kinetic
+theory begin with his very first paper, completed at the end of 1900, and span a
+quarter of a century, during which time he wrote close to forty articles bearing in
+varying degree on these subjects. The first of the vintage years was 1905, when he
+developed theoretically three independent methods for finding Avogadro's number.
+In an autobiographical sketch published in 1949, Einstein's comments on his
+contributions to statistical physics are relatively brief. The main message is con-
+tained in the following phrases: 'Unacquainted with the investigations of Boltz-
+mann and Gibbs which had appeared earlier and which in fact had dealt exhaus-
+tively with the subject, I developed statistical mechanics and the molecular-kinetic
+theory of thermodynamics based on it. My main purpose for doing this was to
+find facts which would attest to the existence of atoms of definite size' [El]. Here
+he is referring to his three papers published* in the period 1902-4, in which he
+made 'a rediscovery of all essential elements of statistical mechanics' [Bl]. At that
+time, his knowledge of the writings of Ludwig Boltzmann was fragmentary and
+he was not at all aware of the treatise by Josiah Willard Gibbs [Gl]. In 1910,
+Einstein wrote that had he known of Gibbs's book, he would not have published
+his own papers on the foundations of statistical mechanics except for a few com-
+ments [E2]. The influential review on the conceptual basis of statistical mechanics
+completed in that same year by his friends and admirers Paul Ehrenfest and
+Tatiana Ehrenfest-Affanasjewa refers to these Einstein articles only in passing,
+in an appendix [E3]. It is true that Einstein's papers of 1902-4 did not add much
+that was new to the statistical foundations of the second law of thermodynamics.
+It is also true that, as Einstein himself pointed out [E4], these papers are no pre-
+requisite for the understanding of his work of 1905 on the reality of molecules.
+Nevertheless, this early work was of great importance for his own further scientific
+development. In particular, it contains the germ of the theory of fluctuations which
+he was to apply with unmatched skill from 1905 until 1925.
+It would be entirely beside the mark, however, to consider Einstein's main con-
+*In 1901, he had sent the first of these papers to Zurich in the hope that it might be accepted as his
+doctoral thesis; see Chapter 3.
+55
+56 STATISTICAL PHYSICS
+tributions to statistical physics and kinetic theory as neither more nor less than
+extremely ingenious and important applications of principles discovered indepen-
+dently by him but initially developed by others. Take, for example, his treatment
+of Brownian motion. It bristles with new ideas: particles in suspension behave like
+molecules in solution; there is a relation between diffusion and viscosity, the first
+fluctuation-dissipation theorem ever noted; the mean square displacement of the
+particles can be related to the diffusion coefficient. The final conclusion,* that
+Avogadro's number can essentially be determined from observations with an
+ordinary microscope, never fails to cause a moment of astonishment even if one
+has read the paper before and therefore knows the punch line. After 1905, Ein-
+stein would occasionally mention in conversation that 'it is puzzling that Boltz-
+mann did not himself draw this most perspicuous consequence [i.e., the explana-
+tion of Brownian motion], since Boltzmann had laid the foundations for the whole
+subject' [SI]. However, it is hard to imagine the embattled Boltzmann evincing
+the serious yet playful spirit with which Einstein handled the problem of molec-
+ular reality.
+Even more profoundly novel are Einstein's applications of statistical ideas to
+quantum physics. In his first paper on this subject, the light-quantum hypothesis
+is arrived at by a statistical argument. This work was completed two months
+before his paper on Brownian motion. After 1905, Einstein did occasionally return
+to classical statistical physics, but in those later years all his main work on statis-
+tical problems was in the domain of the quantum theory. In fact, a stronger state-
+ment can be made: all of Einstein's principal contributions to the quantum theory
+are statistical in origin. They include his work on specific heats, on particle-wave
+duality, on the particle nature of the light-quantum, on spontaneous and induced
+radiative processes, and on a new derivation of the blackbody radiation formula.
+His last encounter with statistics occurred as an aside—as he put it [S2]—late in
+1924 and early in 1925, when he was already working hard on unified field the-
+ory. The three papers produced at that time brought him to the very threshold of
+wave mechanics.
+Since Einstein's papers on statistical physics cover so much ground, it may be
+helpful to preface a more detailed discussion of their main points with a brief
+chronology.
+1901-2. Thermodynamics of liquid surfaces [E5] and of electrolysis [E6]. In
+these papers, Einstein was looking for experimental support for a hypothesis con-
+cerning molecular forces. Making an analogy with gravitation, he conjectured that
+the potential between two molecules of species i and j is of the form CjCj$(r), where
+the c's are characteristic for the species and 0( r) is a universal function of distance.
+In a further analogy with gravitation, he assumed that each c-, is of the form Sca,
+where ca is a number characteristic for the ath atom in the molecule of kind i. He
+was able to relate the c's to the specific volume and to the surface tension and its
+"This reasoning will be discussed in detail in Chapter 5.
+ENTROPY AND PROBABILITY 57
+temperature derivative. Using known data, he could check his hypothesis, which,
+he found, actually worked fairly well for a limited range of carbon compounds
+(with molecular weights mainly of the order of 100) but not for lighter molecules,
+such as water.
+Einstein's hypothesis is, of course, incorrect. As is now well known, even in the
+simplest semiphenomenological models (such as the Lennard-Jones potential),
+the intermolecular forces not only have a characteristic strength constant but also
+depend on the molecular size. This first paper by Einstein is of interest only in
+that it shows how from the start he was groping for universal principles, in the
+present case for a relation between molecular forces and gravitation. 'It should be
+noted,' he remarked, 'that the constants c increase in general but not always with
+increasing weight; however, this increase is not linear. Therefore the question if
+and how our forces are related to gravitational forces must for the time being be
+kept completely open' [E5]. The purpose of his second paper [E6] was likewise to
+obtain information on his conjectured force law. Here, no comparison data were
+available. The paper concludes with an apology by Einstein for not being in a
+position to contribute personally to the experimental clarification of his theoretical
+ideas.
+That Einstein was quite taken with the concept of a universal molecular force
+is seen from a letter to Grossmann in 1901. 'I am certain now that my theory of
+the attractive forces .. . can be extended to gases .. . Then the decision about the
+question of the close relation of molecular forces with the Newtonian forces acting
+at a distance will come a big step nearer' [E7]. Then follows a lyrical passage: 'It
+is a wonderful feeling to recognize the unifying features of a complex of phenom-
+ena which present themselves as quite unconnected to the direct experience of the
+senses.'
+In December 1907, Einstein wrote to Stark: 'I am sending you ... all my pub-
+lications except for my worthless first two papers [E8]. And so we meet for the
+first time a trait typical of Einstein throughout his life. He could be very enthu-
+siastic about his own ideas and then, when necessary, drop them some time later,
+without any pain, as being of no consequence.
+I have dwelt at disproportionate length on these first two papers simply because
+by doing so I shall have no need to return to them. Two final comments about
+them: (1) one thermodynamic relation contained in the first paper did survive;*
+and (2) in 1911 Einstein briefly returned one more time to the molecular theory
+of liquid surface phenomena.**
+'Let / be the heat capacity at constant pressure p of a liquid held in a container, <o the liquid surface,
+and a the surface tension. Einstein derived the relation [E5]
+This result is discussed by Schottky [S3].
+**In a short note on the Eotvbs relation between surface tension, specific volume, and temperature
+[E9].
+58 STATISTICAL PHYSICS
+1902-4. The three studies on the foundations of statistical mechanics. The
+first paper deals with the definitions of temperature and entropy for thermal equi-
+librium conditions and with the equipartition theorem [E10], the second one with
+irreversibility [Ell], the third one with fluctuations and new ways to determine
+the magnitude of the Boltzmann constant [El2]. Einstein published a brief com-
+ment on these papers in 1911 [E2].
+March 1905. Introduction of the light-quantum hypothesis with the help of
+an argument based on Boltzmann statistics [El3]. The first correct application of
+equipartition to radiation.
+April 1905. Completion of the PhD thesis on a new determination of molec-
+ular dimensions [El4]. A correction to this paper was published in 1911 [E15]
+and a minor comment in 1920 [E16].
+1905-8. Several papers on Brownian motion. The first and most important
+dates from May 1905 [El7]. A sequel in 1906 includes the discussion of rotatory
+Brownian motion [El8]. A brief comment on the interpretation of mean velocity
+was published in 1907 [El9] and a semipopular account of the whole subject in
+1908 [E20].
+1906. Quantum theory of specific heats of solids [E21]. With this paper, solid
+state quantum theory begins.
+7907. Voltage fluctuations in a condenser as a means of measuring Boltz-
+mann's constant [E22]. Relativistic transformation of thermodynamic quantities
+[E23].*
+1909. Two papers containing details of the energy fluctuations of electromag-
+netic radiation around thermal equilibrium and the first statement in history of
+particle-wave duality, arrived at by the interpretation of these fluctuation for-
+mulae. Discussion of the Brownian motion exhibited by a mirror moving uni-
+formly through a radiation field [E24, E25].
+1910. Statistical aspects of the motion of resonator in a radiation field [E26,
+E27]; a further comment in 1915 [E28]. The theory of critical opalescence [E29J.
+1911. Two additional comments on the specific heat paper of 1906 [E21]: an
+attempt to relate the specific heat of solids to their elastic properties [E30] and an
+attempt to refine his assumption, made earlier for reasons of simplicity, that lattice
+vibrations can be treated as approximately monochromatic [E31].
+1912-13. The thermodynamics of photochemical processes [E32, E33].
+1914. An abortive attempt to explain anomalies in the specific heat of gases
+[E34].
+1916-17. Three overlapping but nonidentical papers dealing with sponta-
+neous and induced radiative processes (A and B coefficients), a new derivation of
+the blackbody radiation law, and the Brownian motion of a molecular gas in equi-
+librium with radiation, from which the momentum properties of a light-quantum
+are deduced [E35, E36, E37].
+7924. A qualitative discussion of thermal conductivity in gases for the case
+"This last topic is not yet ripe for historic assessment [LI].
+ENTROPY AND PROBABILITY 59
+where the mean free path of the molecules is small compared with the linear
+dimensions of the container [E38]. At that time it was believed by some that the
+motion of foils in a radiometer was somehow induced by radiation pressure. Ein-
+stein's paper, which complements earlier work by Knudsen, was a contribution
+toward the elimination of this incorrect idea.
+1924-5. Three papers on the quantum theory of a molecular gas; discovery
+of the condensation phenomenon named after Einstein and also after Rose; Ein-
+stein's last application of fluctuation theory, which leads him to particle-wave
+duality for matter by a route independent of the one taken earlier by de Broglie
+[E39, E40, E41].
+Reviews. In 1911 Einstein summarized the status of the specific heat problem
+before the first Solvay conference [E42]. In 1915 he wrote a semipopular review
+on kinetic problems [E43].
+This concludes the introductory summary of Einstein's work on statistical phys-
+ics and related subjects. I shall, of course, return in more detail to the main topics
+mentioned in this chronology. Sections 4c and 4d deal with the 1902-4 papers and
+with Einstein's subsequent involvement with Boltzmann's principle. Chapter 5,
+which opens with introductory remarks on the highly complex subject of molec-
+ular reality in the nineteenth century, is devoted mainly to Einstein's doctoral
+thesis, Brownian motion, and critical opalescence. All the principal papers men-
+tioned above that belong to the area of quantum physics will be discussed in Chap-
+ters 19 to 24.
+At the beginning of this section, I remarked that Einstein devoted some but not
+much attention to his contributions to statistical physics when, at age seventy, he
+looked back on his work. At that time, he had much more to say about his rela-
+tivity theories and devoted more space to his critique of quantum mechanics than
+to all the work summarized above [El]. It is an additional purpose of the foregoing
+chronology to make clear that in doing so he did not fully convey the breadth of
+his life's work.
+Einstein's position regarding questions of principle in statistical mechanics is
+best explained by first reviewing briefly the contributions of Maxwell and, espe-
+cially, of Boltzmann. Gibbs will not enter into this review because he did not
+influence Einstein and also because, as Lorentz noted in Einstein's presence, the
+Einstein and Gibbs approaches are different [L2]. Einstein did not disagree.
+Indeed, in responding to Lorentz's remark, he observed, '[My] point of view is
+characterized by the fact that one introduces the probability of a specific state in
+a phenomenological manner. In that way one has the advantage of not interposing
+any particular theory, for example, any statistical mechanics' [E44]. His critical
+attitude to Boltzmann's approach, implied by this statement, will be discussed in
+Section 4d. One of the aims of this chapter is to explain what Einstein had in
+mind with his phenomenological approach.
+In concluding this introduction, I note that the period of Einstein's activities
+60 STATISTICAL PHYSICS
+concerning the foundations of statistical mechanics preceded the appearance of the
+first papers in which it was noted that all was not well with Boltzmann's ergodic
+hypothesis. In what follows, I shall therefore have no occasion to make reference
+to ergodic theory.
+4b. Maxwell and Boltzmann*
+Boltzmann's grave, in the Central Cemetery in Vienna, is marked by a monument
+on which the formula
+is carved. 'It is immaterial that Boltzmann never wrote down the equation in this
+form. This was first done by Planck. ... The constant k was also first introduced
+by Planck and not by Boltzmann' [S4]. Indeed, k is a twentieth century symbol
+which was used for the first time in the formula
+proposed on December 14, 1900, by Planck [PI] for the thermal equilibrium dis-
+tribution of blackbody radiation.** The quantity p(v, T)dv is the radiative energy
+per unit volume in the frequency interval v to v + dv at temperature T. Equation
+4.1, or rather (and better)
+is also found for the first time in a paper by Planck, one completed a few weeks
+later [P3]. Lorentz referred to k as Planck's constant as late as 1911 [L3]. Nor
+was he the only one to do so at that time [Jl].
+The essence of Eq. 4.3, the insight that the second law of thermodynamics can
+be understood only in terms of a connection between entropy and probability, is
+one of the great advances of the nineteenth century.f It appears that Maxwell was
+*In writing this section, M. Klein's studies of the work of Maxwell and Boltzmann have served me
+as an indispensable guide.
+"Planck's discovery will be treated in Chapter 19. An equation equivalent to Eq. 4.2 but in which
+h and k do not yet occur explicitly had been proposed by Planck on the preceding October 19 [P2].
+•(•Recall that the period of discovery of the first law of thermodynamics (the impossibility of a per-
+petuum mobile of the first kind) is approximately 1830 to 1850. Many scientists, from engineers to
+physiologists, made this discovery independently [Kl]. The law of conservation of energy for purely
+mechanical systems is, of course, much older. The second law was discovered in 1850 [Cl] by Rudolf
+Julius Emmanuel Clausius while he was pondering the work of Sadi Carnot. In its original form
+(Clausius's principle), the second law said in essence that heat cannot go from a colder to a warmer
+body without some other accompanying change. The term entropy was also introduced by Clausius,
+in 1865, at which time he stated the two laws as follows: 'The energy of the world is constant, its
+entropy strives toward a maximum,' and commented that 'the second law of thermodynamics is much
+harder for the mind to grasp than the first' [C2].
+ENTROPY AND PROBABILITY 6l
+the first to state that the second law is statistical in nature.* In a letter about his
+'demons,' probably written early in 1868, he discussed their naming, their char-
+acteristics, and their purpose:
+'1. Who gave them this name? Thompson.**
+2. What were they by nature? Very small but lively beings incapable of doing
+work but able to open and shut valves which move without friction or inertia.
+3. What was their chief end? To show that the 2nd Law of Thermodynamics
+was only a statistical certainty . . .' [M2].
+Boltzmann had already begun his attempts to derive the second law when Max-
+well wrote these lines, but he did not yet understand its statistical character. The
+stated purpose of Boltzmann's first paper on the subject (1866) was 'to give a
+completely general proof of the second law of the theory of heat, as well as to
+discover the theorem in mechanics that corresponds to it' [B2].f He made a fresh
+start when he returned to the problem in 1871-2: 'The problems of the mechan-
+ical theory of heat are . .. problems in the theory of probability' [B3]. His new
+proof was based on the so-called kinetic method [E3, K3]. In the first of two
+papers, he dealt with the equilibrium relation between entropy, heat, and tem-
+perature [B4]. The sequel, published in 1872 [B3], is one of his most important
+papers. It contains the Boltzmann equation. It also contains the H theorem: there
+exists a quantity, later called //, defined in terms of the velocity distribution, with
+the property that dH/dt < 0 so that, up to a negative multiplicative constant, H
+can be identified with the entropy. Both mechanical and probabilistic arguments
+are used in the derivation of this theorem. (In that same period, Boltzmann also
+did important work on the equipartition theorem and in 1876 gave the derivation
+of the 'law' of Dulong and Petit. The discussion of equipartition and of specific
+heats will be deferred to Chapter 20.)
+At that time, Boltzmann still did not have it entirely straight, however. He
+believed that he had shown that the second law is absolute, that H can never
+increase. He made the final step as the result of his reflections^: on a remark by
+Johann Joseph Loschmidt [L4] which in modern terms can be phrased as follows.
+Consider a large number of particles moving according to fully specified initial
+conditions and subject to the standard time-reversal invariant Newtonian laws.
+'Maxwell's views on the second law are discussed in more detail by Klein [K2].
+**This is William Thomson, later Baron Kelvin of Largs. In December 1867, Maxwell had written
+a letter to Peter Guthrie Tail in which he introduced 'a finite being who knows the path and veloc-
+ities of all the molecules by simple inspection' [Ml]. Tail had shown this letter to Thomson, who
+invented the name demon for Maxwell's finite being.
+fA quite similar attempt was made by Clausius in 1871 [C3]. This led to a priority argument
+between Boltzmann and Clausius—to the amusement of Maxwell [K2].
+$ For the influence of Loschmidt's ideas on Boltzmann, see especially [K3].
+t62 STATISTICAL PHYSICS
+Suppose that H decreases in the course of time. Then for a second system, which
+differs from the first one only in that the initial conditions are time-reversed, H
+must increase in the course of time. Thus, the law of increase of entropy cannot
+be an absolute law. Boltzmann immediately recognized the importance of this
+observation [B5] and in a major paper, published in 1877 [B6], finally arrived at
+the modern view: in the approach to equilibrium the increase in entropy is not the
+actual but the most probable course of events. Just as Loschmidt's remark guided
+Boltzmann, so, twenty years later, did Boltzmann play a similar role for Planck,
+who at that time was trying to derive the equilibrium distribution for blackbody
+radiation under the assumption that the increase in entropy is an absolute law. In
+the course of a polemic between these two men, Boltzmann became the first to
+prove the property of time-reversal in electromagnetic theory: the Maxwell equa-
+tions are invariant under the joint inversion of the directions of time and of the
+magnetic field, the electric field being left unaltered [B7]. More generally, we owe
+to Boltzmann the first precise statement that for a time-reversal invariant dynam-
+ics, macroscopic irreversibility is due to the fact that in the overwhelming majority
+of cases a physical system evolves from an initial state to a final state which is-
+almost never less probable.* Boltzmann was also the first to state explicitly that
+this interpretation might need reconsideration in the presence of time-asymmetric
+dynamic forces.**
+I turn next to Boltzmann's definition of the concept of thermodynamic proba-
+bility. Actually, one finds two such definitions in his writings. The first one dates
+from 1868 [B9]: Consider a system of N structureless particles with fixed total
+energy. The evolution in time of this system can be represented as an orbit on a
+surface of constant energy in the 6A^-dimensional phase space (later called the F
+space [E3]). To a state S,{i = 1,2. ... ) of the system corresponds a point on the
+orbit. The state S, shall be specified up to a small latitude, and thus the corre-
+sponding point is specified up to a small neighborhood. Observe the system for a
+long time r during which it is in S, for a period r,. Then T,/T (in the limit T -*
+oo) is defined to be the probability of the system being in the state S,. This we
+shall call Boltzmann's first definition of probability.
+I alluded earlier to Einstein's critical attitude toward some of Boltzmann's ideas.
+That has nothing to do with the first definition of probability. In fact, that very
+definition was Einstein's own favorite one. He independently reintroduced it him-
+*See [P4] for a quantum mechanical version of the H theorem.
+**See [B8]. The most important initial condition in our physical world is the selection of the Fried-
+mann universe—in which, it seems, we live—as the one realized solution of the time-reversal invar-
+iant gravitational equations. It has been speculated that this particular choice of actualized universe
+is one indication of the incompleteness of our present physical laws, that the actual physical laws are
+not all time-symmetric, that the time-reversal violation observed in the neutral K-particle system is
+only a first manifestation of this asymmetry, and that the conventional view on the statistical arrow
+of time may indeed need revision. For a discussion of all these topics, see the review by Penrose [P5].
+ENTROPY AND PROBABILITY 63
+self in 1903 [Ell], evidently unaware of Boltzmann's paper of 1868. (Lorentz
+later called this definition the time ensemble of Einstein [L3], perhaps not the
+most felicitous of names.) Rather, Einstein had reservations about the second def-
+inition of probability, which Boltzmann gave in the paper of 1877 [B6]. In that
+paper, Boltzmann introduced for the first time a new tool, the so-called statistical
+method, in which there is no need to deal explicitly with collision mechanisms and
+collision frequencies (as there is in the kinetic method). His new reasoning only
+holds close to equilibrium [BIO]. He applied the method only to an ideal gas
+[Bll]. For that case, he not only gave his second definition of probability but also
+showed how that probability can be computed explicitly by means of counting
+'complexions.'
+In preparation for some comments on Einstein's objections (Section 4d) as well
+as for a later discussion of the differences between classical and quantum statistics
+(Chapter 23), it is necessary to recall some elementary facts about this counting
+procedure.*
+Suppose I show someone two identical balls lying on a table and then ask this
+person to close his eyes and a few moments later to open them again. I then ask
+whether or not I have meanwhile switched the two balls around. He cannot tell,
+since the balls are identical. Yet I know the answer. If I have switched the balls,
+then I have been able to follow the continuous motion which brought the balls
+from the initial to the final configuration. This simple example illustrates Boltz-
+mann's first axiom of classical mechanics, which says, in essence, that identical
+particles which cannot come infinitely close to each other can be distinguished by
+their initial conditions and by the continuity of their motion. This assumption,
+Boltzmann stressed, 'gives us the sole possibility of recognizing the same material
+point at different times' [B13]. As Erwin Schroedinger emphasized, 'Nobody
+before Boltzmann held it necessary to define what one means by [the term] the
+same material point' [S5]. Thus we may speak classically of a gas with energy E
+consisting of N identical, distinguishable molecules.
+Consider next (following Boltzmann) the specific case of an ideal gas model in
+which the energies of the individual particles can take on only discrete values
+e,,e2). . . . Let there be rc, particles with energy e, so that
+*See Lorentz [L3] for the equivalence of this method with the microcanonical ensemble of Gibbs.
+Also, the notion of ensemble has its roots in Boltzmann's work [B12], as was stressed by Gibbs in
+the preface of his book on statistical mechanics [Gl].Since the gas is ideal, the particles are uncorrelated and therefore have no a priori
+preference for any particular region in one-particle phase space (n space), i.e.,
+they are statistically independent. Moreover, they are distinguishable in the sense
+64 STATISTICAL PHYSICS
+just described. Therefore, the number of microstates (or complexions, as Boltz-
+mann called them) corresponding to the partition Eq. 4.4 is given by
+Boltzmann took w to be proportional to the probability of the distribution speci-
+fied by (n^,n2, . ..). This will be called his second definition of probability.
+For later purposes I need to mention a further development, one not due to
+Boltzmann. The number of microstates w is now called a fine-grained probability.
+For the purpose of analyzing general macroscopic properties of systems, it is very
+important to use a contracted description, which leads to the so-called coarse-
+grained probability,* a concept that goes back to Gibbs. The procedure is as fol-
+lows. Divide n space into cells co1,(o2, . .. such that a particle in COA has the mean
+energy EA. Partition the TV particles such that there are NA particles in WA:
+The set (NA,EA) defines a coarse-grained state. For the special case of the ideal
+gas model, it follows from Eq. 4.5 that the volume W in F space corresponding
+to the partition of Eqs. 4.6 and 4.7 is given by
+where W is the so-called coarse-grained probability. The state of equilibrium cor-
+responds to the maximum Wm.ut of W considered as a function of 7VA and subject
+to the constraints imposed by Eqs. 4.6 and 4.7. Thus the Maxwell-Boltzmann
+distribution follows** from the extremal conditions
+"The names fine-grained and coarse-grained density (feine und grobe Dichte) were introduced by
+the Ehrenfests [E45].
+**For the classical ideal gas, one can get the Maxwell-Boltzmann distribution directly from Eqs.
+4.4 and 4.5; that is just what Boltzmann himself did.The entropy in equilibrium, £„,, is given by (see Eq. 4.3)
+ENTROPY AND PROBABILITY 65
+Einstein's precursors have now been sufficiently introduced. I conclude this sec-
+tion with three final comments.
+The first definition of probability, in terms of time spent, is the natural one,
+directly linked to observation. For example, the most probable state is the state in
+which the system persists for the longest time. The second definition (either for
+w or for W) is not directly linked to observation; it is more like a declaration. It
+has the advantage, however, that one can more readily compute with it. Logic
+demands, of course, that these two definitions be equivalent, that 'time spent' be
+proportional to 'volume in F space.' This is the profound and not yet fully solved
+problem of ergodic theory.* Boltzmann was well aware of the need to show this
+equivalence. Einstein's physical intuition made him comfortable with the first but
+not with the second definition.
+Second, why did Boltzmann himself not introduce the symbol k?** After all,
+his 1877 paper [B6] contains a section entitled 'The Relation of the Entropy to
+the Quantity Which I Have Called Partition Probability,' that quantity being
+essentially In W. Moreover, in that section he noted that In W 'is identical with the
+entropy up to a constant factor and an additive constant.' He was also quite
+familiar with Eq. 4.9, with its two Lagrange multipliers [B14]. I can imagine that
+he did not write down Eq. 4.3 because he was more concerned with understanding
+the second law of thermodynamics than with the applications of an equation such
+as Eq. 4.3 to practical calculations. I hope that this question will be discussed
+some day by someone more at home with Boltzmann's work than I am.
+Finally, Eq. 4.3 is evidently more general than Eq. 4.10. Boltzmann was aware
+of this: '[InH7] also has a meaning for an irreversible bodyf and also steadily
+increases during [such a process]' [B6]. The first one to make use of Eq. 4.3 in its
+broader sense was Einstein. It was also Einstein who, in 1905, in his paper on the
+light-quantum hypothesis [E13], gave that equation its only fitting name: Boltz-
+mann's principle.
+4c. Preludes to 1905
+Boltzmann's qualities as an outstanding lecturer are not reflected in his scientific
+papers, which are sometimes unduly long, occasionally obscure, and often dense.
+Their main conclusions are sometimes tucked away among lengthy calculations.
+Also (and especially in regard to the theoretical interpretation of the second law),
+Boltzmann would change his point of view from one paper to the next without
+*For introductions to this problem, see, e.g., [Ul] and [VI].
+**As to what might have been, in 1860 Maxwell could have been the first to introduce k when he
+derived his velocity distribution, in which the Boltzmann factor makes its first appearance. Maxwell
+wrote this factor as exp( — v2/a2), where v — velocity, showed that a2 is proportional to the average
+of v2, and knew full well that this average is proportional to T.
+f Obviously, he must have meant process instead of body.
+66 STATISTICAL PHYSICS
+advance warning to the reader.* Maxwell said of his writings: 'By the study of
+Boltzmann I have been unable to understand him. He could not understand me
+on account of my shortness, and his length was and is an equal stumbling block
+to me' [M3]. Einstein once said to a student of his: 'Boltzmann's work is not easy
+to read. There are great physicists who have not understood it' [S6].** That state-
+ment was made around 1910, when he was a professor at the University of Zurich.
+By then he must have read Boltzmann's major memoir of 1877 on the statistical
+mechanical derivation of the second law, since he referred to that paper (for the
+first time!) in 1909 [E47]. However, it is very doubtful whether in the years from
+1901 to 1904, when he did his own work on this subject, Einstein knew either this
+paper or the one of 1868, in which Boltzmann had introduced his first definition
+of probability.
+It must have been difficult for Einstein to get hold of scientific journals. Recall
+that the first of his three papers on the foundations of statistical mechanics was
+completed while he was still a teacher at SchafFhausen.t His move to Bern does
+not seem to have improved his access to the literature very much [E48]. It is also
+unclear whether he had read Maxwell's papers on kinetic theory at that time.
+Certainly, he did not know English then, since he did not start to study that lan-
+guage until about 1909 [S7] and his knowledge of it was still rudimentary when
+he came to the United States.:):
+Yet Einstein was acquainted with some of Maxwell's and Boltzmann's achieve-
+ments. As he put it in his first paper on statistical physics [E10]: 'Maxwell's and
+Boltzmann's theories have already come close to the goal' of deriving the laws of
+thermal equilibrium and the second law from the equations of mechanics and the
+theory of probability. However, he remarked, this goal had not yet been achieved
+and the purpose of his own paper was 'to fill the gap' left by these men. From the
+single reference in Einstein's paper, it is clear how much he could have learned
+about their work. This reference is to Boltzmann's lectures on gas theory [B15],
+a two-volume work which contains much original research and which was cer-
+tainly not intended by Boltzmann to be a synopsis of his earlier work. The book
+is largely based on the kinetic method (the Boltzmann equation); by comparison,
+the comments on the statistical method are quite brief. The counting formula of
+complexions is mentioned [B6]; however, said Boltzmann, 'I must content myself
+to indicate [this method] only in passing,' and he then concluded this topic with
+a reference to his 1877 paper. Also, it seems possible to me that Einstein knew of
+*See especially Klein's memoir [K3] for a discussion of Boltzmann's style.
+"The encyclopedia article by the Ehrenfests contains several such qualifying phrases as 'The aim
+of the . .. investigations by Boltzmann seems to be .. .' [E46].
+fSee Chapter 3.
+|Helen Dukas, private communication. However, it may be that Einstein did see one of the German
+translations of Maxwell's Theory of Heat, dating from the 1870s.
+ENTROPY AND PROBABILITY 67
+Maxwell's work on kinetic theory only to the extent that it was discussed by Boltz-
+mann in those same volumes. Thus Einstein did not know the true gaps in the
+arguments of Maxwell and, especially, of Boltzmann; nor did he accidentally fill
+them. The reading of Einstein's paper [E10] is not facilitated by the absence of
+an explicit statement as to what, in his opinion, the gaps actually were. This paper
+is devoted exclusively to thermal equilibrium. The statistical interpretation of tem-
+perature, entropy, and the equipartition theorem are discussed. The tool used is
+essentially (in modern terms) the canonical ensemble. The paper is competent and
+neither very interesting nor, by Einstein's own admission [E2], very well written.
+Einstein believed that in his next paper, completed in 1903 [Ell], he gave a
+proof of the second law for irreversible processes. At this stage, he of course needed
+some definition for the thermodynamic probability W, and it is here that he inde-
+pendently introduced Boltzmann's first definition in terms of the time spent in the
+appropriate interval in F space. His proof is logically correct but rests on an erro-
+neous assumption: 'We will have to assume that more probable distributions will
+always follow less probable ones, that is, that W always [my italics] increases until
+the distribution becomes constant and Whas reached a maximum' [E49]. Three
+days after he sent this paper to the Annalen der Physik, he wrote to Besso, 'Now
+[this work] is completely clear and simple so that I am completely satisfied with
+it' [E50]. He had been studying Boltzmann's book since 1901 [E51]. The book
+does refer to the Loschmidt objection, but, in typical Boltzmann fashion, in a
+somewhat tucked-away place [B16]. Einstein must have missed it; at any rate, it
+is obvious that in 1903 he was unaware of the main subtlety in the proof of the
+second law: the overwhelming probability, rather than the certainty, of entropy
+increase.
+It was not until 1910 that, for the first time, Einstein's 'derivation' was criticized
+in the literature. At that time, Paul Hertz pointed out that 'if one assumes, as
+Einstein did, that more probable distributions follow less probable ones, then one
+introduces thereby a special assumption which is not evident and which is thor-
+oughly in need of proof [HI]. This is a remarkable comment. Hertz does not say,
+'Your assumption is wrong.' Rather, he asks for its proof. Here we have but one
+example of the fact that, at the end of the first decade of the twentieth century,
+Boltzmann's ideas had not yet been assimilated by many of those who were active
+at the frontiers of statistical physics. A larger audience acquired some degree of
+familiarity with Boltzmann's work only after its exegesis by the Ehrenfests, pub-
+lished in 1911 [E3].
+Einstein's reply to Hertz, also written in 1910 [E2] is remarkable as well. He
+agrees with Hertz's objection and adds, 'Already then [i.e., in 1903] my derivation
+did not satisfy me, so that shortly thereafter I gave a second derivation.' The latter
+is contained in the only paper Einstein completed in 1904 [El2].* It is indeed a
+*For other discussions of Einstein's 1902-4 papers, see [K4] and [K5].
+68 STATISTICAL PHYSICS
+different derivation, in that use is made of the canonical ensemble, yet it contains
+once again the assumption Hertz had criticized.
+It is interesting but not all that surprising that in 1903 and 1904 Einstein, in
+his isolation, had missed the point about time reversal. After all, the great Boltz-
+mann had done the same thirty years earlier. However, the exchange between
+Einstein and Hertz took place in 1910, when Einstein was a professor at Zurich
+(and taught the kinetic theory of heat during the summer semester of that year
+[S8]). By that time, he had read Boltzmann's work of 1877 (as mentioned earlier),
+in which it was stated that the entropy does not always, but rather almost always,
+increase. A month before replying to Hertz, he had phrased the second law quite
+properly in another paper. * One can only conclude that Einstein did not pay much
+attention when he replied to Hertz.
+As a postscript to the issue of the second law, it is fitting to recall the first
+personal exchange between Einstein and Ehrenfest, which took place in Prague
+in February 1912. The Einsteins had come to the train to meet the Ehrenfests.
+After the first greetings, 'their conversation turned at once to physics, as they
+plunged into a discussion of the ergodic hypothesis' [K6].
+What was the harvest of Einstein's scientific efforts up to this point? Five
+papers. The first two, dealing with his quest for a universal molecular force, are
+justly forgotten.** One main ambition of the next three, to establish a dynamic
+basis for the thermodynamic laws, did not entirely come to fulfillment either.
+Nothing indicates Einstein's flowering in 1905, which begins with his very next
+paper. Nothing yet. However, there is one aspect (not yet mentioned) of his brief
+1904 paper which does give the first intimations of things to come. In the years
+1902 to 1904, Einstein may not have grasped the awesome problems—still a sub-
+ject of active research—which have to be coped with in giving the second law a
+foundation which stands the tests of requisite mathematical rigor. Yet these early
+struggles of his played an important role in his development. They led him to ask,
+in 1904, What is the meaning of the Boltzmann constant? How can this constant
+be measured? His pursuit of these questions led to lasting contributions to statis-
+tical physics and to his most important discovery in quantum theory.
+In the opening paragraphs of Einstein's paper of 1904 [E12], reference is made
+to Eq. 4.3: 'An expression for the entropy of a system .. . which was found by
+Boltzmann for ideal gases and assumed by Planck in his theory of radiation... .'
+Here, for the first time, Planck appears in Einstein's writings, and we also catch
+a first brief glimpse of Einstein's subsequent concern with the quantum theory in
+*'The irreversibility of physical phenomena is only apparent ... [a] system probably [my italics]
+goes to states of greater probability when it happens to be in a state of relatively small probability'
+[E29].
+**See Section 4a.
+ENTROPY AND PROBABILITY 69
+the context of statistical considerations. It seems that he had already been brooding
+for some time about the mysterious formula Eq. 4.2. Much later he wrote,
+'Already soon after 1900, i.e., shortly after Planck's trailblazing work, it became
+clear to me that neither mechanics nor thermodynamics could (except in limiting
+cases) claim exact validity' [E52].
+His statement that thermodynamics is not exact refers, of course, to the phe-
+nomena of fluctuations. Einstein turned to fluctuations for the first time in 1904,
+when he considered a system with variable energy E in thermal equilibrium with
+a very large second system at temperature T. The equilibrium energy {E) of the
+first system is given by
+where u(E) is the density of states with energy E. In 1904 Einstein deduced a
+formula for the mean square energy fluctuation
+of the first system. Differentiating Eq. 4.11 with respect to /3, he obtained
+The quantity («2) (Einstein noted) is a measure for the thermal stability of the
+system. The larger the fluctuations, the smaller the system's degree of stability.
+'Thus the absolute constant* [k] determines the thermal stability of the system.
+[Equation 4.13] is of interest since it does not contain any quantities which remind
+one of the assumptions on which the theory is based' [El2].
+Next, Einstein introduced a criterion for fluctuations to be large:
+This relation is not satisfied by a classical ideal gas under normal conditions, since
+then (E) = nkT/2 (n is the number of particles) so that £ = 0(n~'), indepen-
+dent of the volume. He went on to note that £ can be of order unity only for one
+kind of system: blackbody radiation. In that case, (E) = aVT4, by the Stefan-
+Boltzmann law (V is volume, a is a constant), and hence £ = 4k/aVTi. The
+temperature T is proportional to the inverse of Xmax, the wavelength at which the
+spectral distribution reaches its maximum. He therefore concluded that volume
+dependence is important: for fixed T, £ can become large if X^ax/ V is large, i.e.,
+'Einstein used a symbol other than k.
+70 STATISTICAL PHYSICS
+if V is small.* Thus he believed that radiation is 'the only kind of physical system
+... of which we can suspect that it exhibits an energy fluctuation.'
+This subject deserves two comments. First, the conclusion is incorrect. Consider
+the radiation to be composed of n modes. Then (E) = aVT4 = nkT, so that
+again £ = 0(n"'). In the classical theory (which, of course, Einstein was using in
+1904), fluctuations are therefore not all that different for radiation and for an
+ideal gas. Second, the reasoning was most important for Einstein's work in 1905,
+since it drew his attention to the volume dependence of thermodynamic quantities,
+a dependence which played a crucial role in his formulation of the light-quantum
+hypothesis, which appeared in his very next paper.
+Nevertheless, in 1904 Einstein had already taken a bold new step (of which he
+was aware): he had applied statistical reasonings to radiation.** In 1905 he was
+to do this again. In 1909, Eq. 4.13 would again be his starting point, and it would
+lead him to the realization of the particle-wave duality of electromagnetic radia-
+tion. In 1925, a formula closely related to Eq. 4.13 would make it clear to him
+that a similar duality has to exist for matter. These topics will be discussed in
+detail in Part VI of this book. For now, two last comments on Eq. 4.13. When
+Einstein first derived it, he did not know that Gibbs had done so before him [G2].
+And it is his most important and only memorable result prior to 1905.
+In May 1905, Einstein was again busy with fluctuations, though in a different
+style, when he did his work on Brownian motion, to be discussed in Chapter 5.
+The remainder of the present chapter is devoted to a discussion of Einstein's gen-
+eral views on statistical physics, in 1905 and in the years following.
+4d. Einstein and Boltzmann's Principle
+I have already stressed that all of Einstein's main contributions to the quantum
+theory are statistical in origin. Correspondingly, most of his more important com-
+ments on the principles of statistical mechanics are found in his papers on quan-
+tum physics. His light-quantum paper of 1905 [E13] is a prime example. Two-
+and-a-half of its seventeen pages deal with the photoelectric effect—nine with sta-
+tistical and thermodynamic questions. This paper, in which the term Boltzmann's
+principle appears in the literature for the first time, contains a critique of Boltz-
+mann's statistical method.
+During the years 1905 to 1920, Einstein stated_more than once his displeasure
+with the handling of probability by others. In 1905 he wrote, 'The word proba-
+bility is used in a sense that does not conform to its definition as given in the theory
+of probability. In particular, "cases of equal probability" are often hypothetically
+defined in instances where the theoretical pictures used are sufficiently definite to
+*For £ = 1, F'/3 « 0.4/Tand X^ « 0.3/7. Einstein found this near-coincidence pleasing.
+**Rayleigh had done so before him (see Section 19b), but I do not believe that Einstein knew that
+in 1904.
+ENTROPY AND PROBABILITY 71
+give a deduction rather than a hypothetical assertion' [E13]. Since Einstein had
+by then already reinvented Boltzmann's first definition, it appears safe to assume
+that he was referring to the counting of complexions. Not only did he regard that
+definition as artificial. More than that, he believed that one could dispense with
+such countings altogether: 'In this way, [I] hope to eliminate a logical difficulty
+which still hampers the implementation of Boltzmann's principle' [El3]. In order
+to illustrate what he had in mind, he gave a new derivation of a well-known for-
+mula for the change of entropy S of an ideal gas when, at constant temperature
+T, the volume changes reversibly from F0 to V:
+where n is the number of molecules in the gas, R is the gas constant, and TV is
+Avogadro's number. As we shall see later, this equation played a crucial role in
+Einstein's discovery of the light-quantum. (To avoid any confusion, I remind the
+reader that this relation has nothing to do with any subtleties of statistical mechan-
+ics, since it is a consequence of the second law of thermodynamics for reversible
+processes and of the ideal gas law.*) Einstein derived Eq. 4.15 by the following
+reasoning. Boltzmann's principle (Eq. 4.3), which he wrote in the form
+(it took until 1909 before Einstein would write k instead of R/N) implies that a
+reversible change from a state 'a' to a state 'b' satisfies
+Let the system consist of subsystems 1,2,..., which do not interact and therefore
+are statistically independent. Then
+*For an infinitesimal reversible change, the second law can be written (p = pressure)
+where cv, the specific heat at constant volume, S, and U, the internal energy, all are in general
+functions of V and T. From
+For a classical ideal gas, this last relation reduces to dU/d V = 0 since in this case NpV = nRT.
+In turn, dU/d V = 0 implies that cv is a function of T only. (Actually, for an ideal gas, cv does not
+depend on T either, but we do not need that here.) Hence TdS(V,T) = c,(T)dT + nRTdV/NV.
+For a finite reversible change, this yields Eq. 4.15 by integration with respect to the volume.and from Eq. 4.16 it follows that
+Equations 4.17 and 4.20 again give Eq. 4.15.
+Equation 4.20 can of course also be derived from Boltzmann's formula Eq. 4.8,
+since each factor WA can be chosen proportional to V (for all A). Therefore Eq.
+4.8 can be written W = VN times a complexion-counting factor which is the
+same for states a and b. Einstein was therefore quite right in saying that Eq. 4.15
+(and, therefore, the ideal gas law which follows from Eqs. 4.15 and 4.16) can be
+derived without counting complexions. 'I shall show in a separate paper [he
+announced] that, in considerations about thermal properties, the so-called statis-
+tical probability is completely adequate' [El3]. This statement was too optimistic.
+Equation 4.8 yields much stronger results than Eq. 4.15. No physicist will deny
+that the probability for finding n statistically independent particles in the subvol-
+ume V of FQ is 'obviously' equal to (V/V0)". The counting of complexions gives
+more information, however, to wit, the Maxwell-Boltzmann distribution. No
+wonder that the promised paper never appeared.
+Einstein did not cease criticizing the notion of complexion, however. Here he
+is in 1910: 'Usually W is put equal to the number of complexions.... In order
+to calculate W, one needs a complete (molecular-mechanical) theory of the system
+under consideration. Therefore it is dubious whether the Boltzmann principle has
+any meaning without a complete molecular-mechanical theory or some other the-
+ory which describes the elementary processes. [Eq. 4.3] seems without content,
+from a phenomenological point of view, without giving in addition such an Ele-
+mentartheorie' [E29].
+My best understanding of this statement is that, in 1910, it was not clear to him
+how the complexion method was to be extended from an ideal to a real gas. It is
+true that there are no simple and explicit counting formulas like Eqs. 4.5 and 4.8
+if intermolecular forces are present. However, as a matter of principle the case of
+a real gas can be dealt with by using Gibbs's coarse-grained microcanonical
+ensemble, a procedure with which Einstein apparently was not yet familiar.
+After 1910, critical remarks on the statistical method are no longer found in
+Einstein's papers. His subsequent views on this subject are best illustrated by his
+comments on Boltzmann and Gibbs in later years. Of Boltzmann he wrote in72 STATISTICAL PHYSICS
+For the case of an ideal gas, the subsystems may be taken to be the individual
+molecules. Let the gas in the states a and b have volume and temperature (V,T)
+and (F0,T), respectively. Einstein next unveils his own definition of probability:
+'For this probability [ Wa/Wb], which is a "statistical probability," one obviously
+[my italics] finds the value
+ENTROPY AND PROBABILITY 73
+1915: 'His discussion [of the second law] is rather lengthy and subtle. But the
+effort of thinking [about it] is richly rewarded by the importance and the beauty
+of the subject' [E43]. Of Gibbs he wrote in 1918: '[His] book is ... a masterpiece,
+even though it is hard to read and the main points are found between the lines'
+[E54]. A year before his death, Einstein paid Gibbs the highest compliment. When
+asked who were the greatest men, the most powerful thinkers he had known, he
+replied, 'Lorentz,' and added, 'I never met Willard Gibbs; perhaps, had I done so,
+I might have placed him beside Lorentz' [Dl].
+At the end of Section 4a, I mentioned that Einstein preferred to think of prob-
+ability in a phenomenological way, without recourse to statistical mechanics. The
+final item of this chapter is an explanation of what he meant by that. To begin
+with, it needs to be stressed that Boltzmann's principle was as sacred to Einstein
+as the law of conservation of energy [E54]. However, his misgivings about the
+way others dealt with the probability concept led him to a different way, uniquely
+his own, of looking at the relation between S and W. His proposal was not to
+reason from the microscopic to the macroscopic but rather to turn this reasoning
+around. That is to say, where Boltzmann made an Ansatz about probability in
+order to arrive at an expression for the entropy, Einstein suggested the use of
+phenomenological information about entropy in order to deduce what the proba-
+bility had to be.
+In order to illustrate this kind of reasoning, which he used to great advantage,
+I shall give one example which, typically, is found in one of his important papers
+on quantum physics. It concerns the fluctuation equation 4.13, which had been
+derived independently by Gibbs and by Einstein, using in essence the same
+method. In 1909, Einstein gave a new derivation, this one all his own [E24]. Con-
+sider a large system with volume V in equilibrium at temperature T. Divide V
+into a small subvolume F0 and a remaining volume F,, where V = V0 + F,, F0
+<K F,. The fixed total energy is likewise divided, E = E0 + Et. Assume* that
+the entropy is also additive:
+"This assumption was briefly challenged at a later time; see Section 2la.Suppose that E0, Et deviate by amounts &E0, A£, from their respective equilib-
+rium values. Then
+where W0 is the equilibrium value of W0. Equations 4.22 and 4.24 show that W0
+is Gaussian in &Ea. Denote (as before) the mean square deviation of this distri-
+bution by (e2). Then (e2) = kcgT2, which is again Eq. 4.13.
+As we now know, although it was not at once clear then, in the early part of
+the twentieth century, physicists concerned with the foundations of statistical
+mechanics were simultaneously faced with two tasks. Up until 1913, the days of
+the Bohr atom, all evidence for quantum phenomena came either from blackbody
+radiation or from specific heats. In either case, statistical considerations play a key
+role. Thus the struggle for a better understanding of the principles of classical
+statistical mechanics was accompanied by the slowly growing realization that
+quantum effects demand a new mechanics and, therefore, a new statistical
+mechanics. The difficulties encountered in separating the two questions are seen
+nowhere better than in a comment Einstein made in 1909. Once again complain-
+ing about the complexions, he observed, 'Neither Herr Boltzmann nor Herr
+Planck has given a definition of W [E24]. Boltzmann, the classical physicist, was
+gone when these words were written. Planck, the first quantum physicist, had
+ushered in theoretical physics of the twentieth century with a new counting of
+complexions which had absolutely no logical foundation whatsoever—but which
+gave him the answer he was looking for.* Neither Einstein, deeply respectful and
+at the same time critical of both men, nor anyone else in 1909 could have foreseen
+how odd it would appear, late in the twentieth century, to see the efforts of Boltz-
+mann and Planck lumped together in one phrase.
+In summary, Einstein's work on statistical mechanics prior to 1905 is memo-
+rable first because of his derivation of the energy fluctuation formula and second
+because of his interest in the volume dependence of thermodynamic quantities,
+* Planck's counting is discussed in Section 19a.74 STATISTICAL PHYSICS
+where the expressions in brackets refer to equilibrium values. The first-order
+terms cancel since A£0 = —AEi (energy conservation) and [dS0/dE0] = [dSJ
+6>£,] (equilibrium). Furthermore, [3*S0/dEt] = -l/c0T2 and [d*SJdE\} =
+— \/CjT2, where c0,c^ are the respective heat capacities at constant volume and
+c, » c0 since F, » V0. Thus Eq. 4.22 becomes
+Next Einstein applied the relation S0 = k In W0 to the subsystem and reinter-
+preted this equation to mean that W0 is the probability for the subsystem to have
+the entropy S0 (at a given time). Hence,
+o]ENTROPY AND PROBABILITY 75
+which became so important in his discovery of the light-quantum. He reinvented
+Boltzmann's first definition of probability in terms of 'time spent.' His critical
+position in regard to Boltzmann's second definition may have led him to replace
+the 'Boltzmann logic,' W —» S, by the 'Einstein logic,' S —*• W. Out of his concern
+with the foundations of statistical mechanics grew his vastly more important
+applications to the theoretical determination of the Boltzmann constant. These
+applications are the main topic of the next chapter, where we meet Einstein in the
+year of his emergence, 1905. One of the reasons for his explosive creativity in that
+year may well be the liberation he experienced in moving away from the highly
+mathematical foundation questions which did not quite suit his scientific
+temperament.
+References
+Bl. M. Born in Albert Einstein: Philosopher-Scientist (P. Schilpp, Ed.), p. 46. Tudor,
+New York, 1949.
+B2. L. Boltzmann, Wiener Ber. 53, 195 (1866). Reprinted in Wissenschaftliche
+Abhandlungen von Ludwig Boltzmann (F. Hasenohrl, Ed.), Vol. 1, p. 9. Chelsea,
+New York, 1968. (These collected works are referred to below as WA.)
+B3. , Wiener Ber. 66, 275 (1872); WA, Vol. 1, p. 316.
+B4. , Wiener Ber. 63, 712 (1871); WA, Vol. 1, p. 288.
+B5. , Wiener Ber. 75, 62 (1877); WA, Vol. 2, p. 112 (esp. Sec. 2).
+B6. , Wiener Ber. 76, 373 (1877); QA, Vol. 2, p. 164.
+B7. , PAW, 1897, p. 660; WA, Vol. 3, p. 615.
+B8. , WA, Vol. 2, p. 118, footnote 2.
+B9. , Wiener Ber. 58, 517 (1868); WA, Vol. 1, p. 49 and Sec. III. See also L.
+Boltzmann, Nature 51, 413 (1895); WA, Vol. 3, p. 535.
+BIO. , WA, Vol. 2, p. 218.
+Bll. , WA, Vol. 2, pp. 166, 223.
+B12. , Wiener Ber. 63, 679 (1871); WA, Vol. 1, pp. 259, (esp. p. 277); Crelles
+J. 100, 201 (1887); WA, Vol. 3, p. 258.
+B13. , Vorlesungen iiber die Principe der Mechanik, Vol. 1, p. 9. Barth,
+Leipzig, 1897. Reprinted by Wissenschaftliche Buchges, Darmstadt, 1974.
+B14. , Wiener Ber. 72, 427 (1875); WA, Vol. 2, p. 1, Eq. 13.
+B15. , Vorlesungen iiber Gastheorie. Barth, Leipzig, 1896, 1898. Translated as
+Lectures on Gas Theory (S. G. Brush, Tran.). University of California Press,
+Berkeley, 1964.
+B16. —, [B15], Vol. l.Sec. 6.
+Cl. R. Clausius, AdP 79, 368, 500 (1850).
+C2. , AdP 125, 353 (1865), esp. p. 400.
+C3. , AdP 142, 433 (1871).
+Dl. V. A. Douglas, /. Roy. Astr. Soc. Can. 50, 99 (1956).
+El. A. Einstein, [Bl], p. 46.
+E2. , AdP 34, 175 (1911).
+E3. P. and T. Ehrenfest, Enz. d. Math. Wiss., Vol. 4, Part 2, Sec. 28. Teubner,
+?6 STATISTICAL PHYSICS
+Leipzig, 1911. Translated as The Conceptual Foundations of the Statistical
+Approach in Mechanics (M. J. Moravcsik, Tran.). Cornell University Press, Ith-
+aca, N.Y., 1959.
+E4. A. Einstein, AdP 17, 541 (1905), footnote on p. 551.
+E5. , AdP 4, 513 (1901).
+E6. , AdP 8, 798(1902).
+E7. —, letter to M. Grossmann, April 14, 1901.
+E8. , letter to J. Stark, December 7, 1907. Reprinted in A. Hermann, Sudhoffs
+Archiv. 50, 267 (1966).
+E9. , AdP 34, 165(1911).
+E10. , AdP 9, 417(1902).
+Ell. , AdP 11, 170(1903).
+E12. , AdP 14, 354 (1904).
+E13. , AdP 17, 132 (1905).
+E14. , Eine neue Bestimmung der Molekiildimensionen. K. J. Wyss, Bern, 1905.
+Apart from a short addendum identical with AdP 19, 289 (1906).
+E15. , AdP 34, 591 (1911).
+El6. , KolloidzeitschrW, 137 (1920).
+E17. —, AdP 17, 549 (1905).
+E18. , AdP 19, 371 (1906).
+E19. —, Z. Elektrochem. 13, 41 (1907).
+E20. , Z. Elektrochem. 14, 235 (1908).
+E21. , AdP 22, 180, 800 (1907).
+E22. , AdP 22, 569 (1907).
+E23. , Jahrb. Rod. Elektr. 4, 411 (1907), Sees. 15, 16.
+E24. —, Phys. Zeitschr. 10, 185 (1909).
+E25. —, Phys. Zeitschr. 10, 817 (1909).
+E26. and L. Hopf, AdP 33, 1096 (1910).
+E27. and , AdP 33, 1105 (1910).
+E28. , AdP 47, 879 (1915).
+E29. , AdP 33, 1275 (1910).
+E30. , AdP 34, 170, 590 (1911).
+E31. , AdP 35, 679(1911).
+E32. , AdP 37, 832 (1912); 38, 881 (1912).
+E33. , /. de Phys. 3, 277 (1913).
+E34. and O. Stern, AdP 40, 551 (1914).
+E35. , Verh. Deutsch. Phys. Ges. 18, 318 (1916).
+E36. , Mitt. Phys. Ges. Zurich 16, 47 (1916).
+E37. , Phys. Zeitschr. 18, 121 (1917).
+E38. , Z. Phys. 27, 392 (1924).
+E39. , PAW, 1924, p. 261.
+E40. , PAW, 1925, p. 3.
+E41. , PAW, 1925, p. 18.
+E42. , in Proceedings of the First Solvay Conference (P. Langevin and M. de Brog-
+lie, Eds.), p. 407. Gauthier-Villars, Paris, 1911.
+E43. , in Kulturder Gegenwart (E. Lecher, Ed.). Teubner, Leipzig, 1915 (2nd ed.,
+1925).
+E44. , [E42], p. 441.
+ENTROPY AND PROBABILITY 77
+E45. [E3], Sec. 23.
+E46. [E3], Sec. 11.
+E47. A. Einstein, [E24], p. 187.
+E48. , letter to M. Besso, March 17, 1903. EB, p. 13.
+E49. , [Ell], p. 184.
+E50. —, letter to M. Besso, January 1903. EB, p. 3.
+E51. , letter to M. Grossmann, 1901, undated.
+E52. , [Bl],p. 52.
+E53. —, [E42], p. 436.
+E54. , letter to M. Besso, June 23, 1918. EB, p. 126.
+Gl. J. W. Gibbs, Elementary Principles of Statistical Mechanics. Yale University
+Press, New Haven, Conn., 1902.
+G2. , [Gl], Chap. 7.
+HI. P. Hertz, AdP33, 537 (1910), esp. p. 552.
+Jl. See, e.g., S. Jahn, Jahrb. Rad. Elektr. 6, 229 (1909), esp. p. 236.
+Kl. T. S. Kuhn in Critical Problems in the History of Science (M. Clagett, Ed.), p.
+321. University of Wisconsin Press, Madison, 1962.
+K2. M. Klein, Am. Scientist 58, 84 (1970).
+K3. , in The Boltzmann Equation (E. G. D. Cohen and W. Thirring, Eds.), p.
+53. Springer Verlag, New York, 1973.
+K4. , Science 157, 509 (1967).
+K5. , in Proceedings of the Jerusalem Einstein Centennial Symposium, March
+1979.
+K6. , Paul Ehrenfest, Vol. 1, p. 176. North Holland, Amsterdam, 1970.
+LI. P. T. Landsberg, Phys. Rev. Lett. 45, 149 (1980).
+L2. H. A. Lorentz, [E42], p. 441.
+L3. , Entropie en Waarschynlykheid, p. 39. Brill, Leiden, 1923. Translated as
+Lectures on Theoretical Physics (L. Silberstein and A. Trivelli, Trans.), Vol. II,
+p. 175. Macmillan, London, 1927.
+L4. J. Loschmidt, Wiener Ber. 73, 128 (1876), see esp. p. 139; 75, 67 (1877).
+Ml. J. C. Maxwell, letter to P. G. Tait, December 11, 1867. Reprinted in C. G. Knott,
+Life and Scientific Work of P. G. Tait, p. 213. Cambridge University Press, Cam-
+bridge, 1911.
+M2. , letter to P. G. Tait, undated; Knott, p. 214.
+M3. , letter to P. G. Tait, August 1873; Knott, p. 114.
+PI. M. Planck, Verh. Deutsch. Phys. Ges. 2, 237 (1900).
+P2. , Verh. Deutsch. Phys. Ges. 2, 202 (1900).
+P3. , AdP 4, 553(1901).
+P4. W. Pzu\i,Collected Scientific Papers (R. Kronig and V. Weisskopf, Eds.), Vol. 1,
+p. 549. Interscience, New York, 1964.
+P5. R. Penrose in General Relativity (S. W. Hawking and W. Israel, Eds.), p. 581.
+Cambridge University Press, Cambridge, 1979.
+51. A. Sommerfeld, Phys. Zeitschr. 18, 533 (1917).
+52. E. Salaman, Encounter, April 1979, p. 19.
+S3 W. Schottky, Thermodynamik, p. 116. Springer, Berlin, 1929.
+54. A. Sommerfeld, Thermodynamics and Statistical Mechanics, p. 213. Academic
+Press, New York, 1956.
+55. E. Schroedinger in E. Broda, Ludwig Boltzmann, p. 65. Deuticke, Vienna, 1955.
+78 STATISTICAL PHYSICS
+56. Se, p. 176.
+57. Se, p. 198.
+58. Se, p. 169.
+Ul. G. E. Uhlenbeck and G. W. Ford, Lectures in Statistical Mechanics, Chap. I.
+American Mathematical Society, Providence, 1963.
+VI. V. I. Arnold and A. Avez, Problemes Ergodiques de la Mecanique Classique, Gau-
+thier-Villars, Paris, 1967.

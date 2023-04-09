@@ -1,0 +1,786 @@
+25
+Einstein's Response
+to the New Dynamics
+Everyone familiar with modern physics knows that Einstein's attitude regarding
+quantum mechanics was one of skepticism. No biography of him fails to mention
+his saying that God does not throw dice. He was indeed given to such utterances
+(as I know from experience), and stronger ones, such as 'It seems hard to look in
+God's cards. But I cannot for a moment believe that He plays dice and makes use
+of "telepathic" means (as the current quantum theory alleges He does)' [El].
+However, remarks such as these should not create the impression that Einstein
+had abandoned active interest in quantum problems in favor of his quest for a
+unified field theory. Far from it. In fact, even in the search for a unified theory,
+the quantum riddles were very much on his mind, as I shall discuss in Chapter
+26. In the present chapter, I shall describe how Einstein's position concerning
+quantum mechanics evolved in the course of time. To some extent this is reflected
+in his later scientific papers. It becomes evident more fully in several of his more
+autobiographical writings and in his correspondence. My own understanding of
+his views has been helped much by discussions with him.
+To begin with, I turn to the period 1925-31, during which he was much con-
+cerned with the question, Is quantum mechanics consistent?
+25a. 1925-31: The Debate Begins
+Schroedinger was not the only one who had profited from the study of Einstein's
+three papers on the new gas theory. Half a year before Schroedinger's first paper
+on wave mechanics, Walter Elsasser, likewise acknowledging the stimulus of Ein-
+stein's articles, suggested that slow electrons would be ideally suited for testing
+'[ Einstein's] assumption that to every translational motion of a particle one must
+associate a wavefield which determines the kinematics of the particle' [E2]. He
+also pointed out that the existing experimental results of Ramsauer, Davisson and
+Kunsman, and others already seemed to give evidence of diffraction and interfer-
+ence of matter waves. Heisenberg wrote to Pauli that, after having studied Ein-
+stein's papers, he was enthusiastic about Elsasser's ideas [HI].
+Also Einstein himself continued thinking about the meaning of wavefields, old
+440
+EINSTEIN S RESPONSE TO THE NEW DYNAMICS 441
+and new. Eugene Wigner, who was in Berlin in 1925, told me that Einstein had
+at that time the idea of wavefields serving as 'Fiihrungsfelder,' guiding fields, for
+light-quanta or other particles, one field for each particle. 'Einstein, though in a
+way he was fond of [this idea], never published it' [Wl] since his idea of one field
+per particle was incompatible with strict energy-momentum conservation—a dif-
+ficulty which was overcome when Schroedinger introduced one guiding field, the
+Schroedinger wave function, for joint particle configurations.
+As was mentioned earlier, Einstein considered his work on the quantum gas
+only a temporary digression. During the very early days of quantum mechanics,*
+we find him 'working strenuously on the further development of a theory on the
+connection between gravitation and electricity' [E3]. Yet the great importance of
+the new developments in quantum theory was not lost on him. Bose, who visited
+Berlin in November 1925, recalled that 'Einstein was very excited about the ne
+quantum mechanics. He wanted me to try to see what the statistics of light-quanta
+and the transition probabilities of radiation would look like in the new theory'
+[Ml]. It was not Bose but Dirac who answered that question by giving the
+dynamic derivation of expressions for Einstein's A and B coefficients in a paper
+in which he laid the foundations of quantum electrodynamics [Dl]. Initially, Ein
+stein's reaction to Dirac's contributions was decidedly negative. In 1926 he wrote
+to Ehrenfest, 'I have trouble with Dirac. This balancing on the dizzying path
+between genius and madness is awful' [E4], and again, a few days later, 'I don't
+understand Dirac at all (Compton effect)' [E5]. Some years later, however, he
+wrote admiringly of 'Dirac, to whom, in my opinion, we owe the most logically
+perfect presentation of [quantum mechanics]' [E6].
+Let us return to the fall of 1925. Einstein's deep interest in quantum mechanics
+must have led him to write to Heisenberg soon after the publication of the latter's
+paper [H2].** All the letters from Einstein to Heisenberg have been lost. How-
+ever, a number of letters from Heisenberg to Einstein are extant. One of these
+. (dated November 30, 1925) is clearly in response to an earlier letter from Einstein
+to Heisenberg in which Einstein appears to have commented on the new quantum
+mechanics. One remark by Heisenberg is of particular interest. 'You are probably
+right that our formulation of quantum mechanics is more adapted to the Bohr-
+Kramers-Slater attitude, but this [BKS theory] constitutes, in fact, one aspect of
+the radiation phenomena. The other is your light-quantum theory, and we have
+the hope that the validity of the energy and momentum laws in our quantum
+mechanics will one day make possible the connection with your theory' [H4]. I
+find it remarkable that Einstein apparently sensed that there was some connection
+between the BKS theory and quantum mechanics. No such connection exists, of
+'Recall that Heisenberg's first paper on this subject was completed in July 1925, Schroedinger's in
+January 1926.
+**The two men met for the first time in the spring of 1926. See [H3] for an attempt at reconstruction
+of their early discussions.
+442 THE QUANTUM THEORY
+course. Nevertheless, the BKS proposal contains statistical features,* as we have
+seen. Could Einstein have surmised as early as 1925 that some statistical element
+is inherent in the quantum mechanical description?
+During the following months, Einstein vacillated in his reaction to the Heisen-
+berg theory. In December 1925 he expressed misgivings [E7], but in March 1926
+he wrote to the Borns, 'The Heisenberg-Born concepts leave us all breathless and
+have made a deep impression on all theoretically oriented people. Instead of a dull
+resignation, there is now a singular tension in us sluggish people' [E8]. The next
+month he expressed again his conviction that the Heisenberg-Born approach was
+off the track. That was in a letter in which he congratulated Schroedinger on his
+new advance [E9]. In view of the scientific links between Einstein's and Schroe-
+dinger's work, it is not surprising that Einstein would express real enthusiasm
+about wave mechanics: 'Schroedinger has come out with a pair of wonderful
+papers on the quantum rules', he wrote in May 1926 [E10]. It was the last time
+he would write approvingly about quantum mechanics.
+There came a parting of ways.
+Nearly a year passed after Heisenberg's paper before there was a first clarifi-
+cation of the conceptual basis of quantum mechanics. It began with Born's obser-
+vation in June 1926 that the absolute square of a Schroedinger wave function is
+to be interpreted as a probability density. Born's brief and fundamental paper goes
+to the heart of the problem of determinism. Regarding atomic collisions he wrote:
+One does not get an answer to the question, What is the state after collision?
+but only to the question, How probable is a given effect of the collision? . . .
+From the standpoint of our quantum mechanics, there is no quantity [Grosze]
+which causally fixes the effect of a collision in an individual event. Should we
+hope to discover such properties later . . . and determine [them] in individual
+events? ... I myself am inclined to renounce determinism in the atomic world,
+but that is a philosophical question for which physical arguments alone do not
+set standards. [Bl]
+One month later, Born wrote a more elaborate sequel to this paper, in which he
+pointed out that the starting point of his considerations was 'a remark by Einstein
+on the relation between [a] wavefield and light-quanta; he [E.] said approximately
+that waves are there only to point out the path to the corpuscular light-quanta,
+* Heisenberg remarked much later that 'the attempt at interpretation by Bohr, Kramers, and Slater
+nevertheless contained some very important features of the later correct interpretation [of quantum
+mechanics],' [H5], I do not share this view, but shall not argue the issue beyond what has been said
+in Chapter 22.
+EINSTEIN'S RESPONSE TO THE NEW DYNAMICS 443
+and spoke in this sense of a "Gespensterfeld"', ghost field [B2], clearly a reference
+to Einstein's idea of a Tuhrungsfeld.' Shortly thereafter, Born wrote to Einstein:
+My idea to consider Schroedinger's wavefield as a 'Gespensterfeld' in your sense
+of the word proves to be more useful all the time. . . . The probability field
+propagates, of course, not in ordinary space but in phase space (or configuration
+space). [B3]*
+Once more, but now for the last time, we encounter Einstein as a transitional
+figure in the period of the birth of quantum mechanics.
+Bern's papers had a mixed initial reception. Several leading physicists found it
+hard if not impossible to swallow the abandonment of causality in the classical
+sense, among them Schroedinger. More than once, Bohr mentioned to me that
+Schroedinger told him he might not have published his papers had he been able
+to foresee what consequences they would unleash.** Einstein's position in the
+years to follow can be summarized succinctly by saying that he took exception to
+every single statement in Bern's papers and in the letter Born subsequently wrote
+to him. His earliest expressions of lasting dissent I know of date from December
+1926 and are, in fact, contained in his reply to one of Bern's letters: 'Quantum
+mechanics is very impressive. But an inner voice tells me that it is not yet the real
+thing. The theory produces a good deal but hardly brings us closer to the secret
+of the Old One. I am at all events convinced that He does not play dice. Waves
+in 3n-dimensional space whose velocity is regulated by potential energy (e.g., rub-
+ber bands) ...' [Ell].
+'Einstein's verdict . . . came as a hard blow' to Born [B4]. There are other
+instances as well in which Einstein's reactions were experienced with a sense of
+loss, of being abandoned in battle by a venerated leader. Thus Goudsmit told me
+of a conversation that took place in mid-1927 (to the best of his recollection [Gl])
+between Ehrenfest and himself. In tears, Ehrenfest said that he had to make a
+choice between Bohr's and Einstein's position and that he could not but agree with
+Bohr. Needless to say, Einstein's reactions affected the older generation more
+intensely than the younger.
+Of the many important events in 1927, four are particularly significant for the
+present account.
+February 1927. In a lecture given in Berlin, Einstein is reported to have said
+that 'what nature demands from us is not a quantum theory or a wave theory;
+rather, nature demands from us a synthesis of these two views which thus far has
+exceeded the mental powers of physicists' [El2]. At this point in the developments,
+as others are about to take over, it should be recalled one more time that as early
+"This important letter is not included in the published Born-Einstein correspondence. I thank John
+Stachel for drawing my attention to its existence.
+** Schroedinger retained reservations on the interpretation of quantum mechanics for the rest of his
+life [SI].
+444 THE QUANTUM THEORY
+as 1909 Einstein had been the first to stress the need for incorporating a particle-
+wave duality in the foundations of physical theory (see Section 2la).
+March 1927. Heisenberg states the uncertainty principle [H6]. (In this paper,
+Heisenberg, too, referred to 'Einstein's discussions of the relation between waves
+and light-quanta.') In June 1927 Heisenberg writes a letter to Einstein which
+begins, 'Many cordial thanks for your kind letter; although I really do not know
+anything new, I would nevertheless like to write once more why I believe that
+indeterminism, that is, the nonvalidity of rigorous causality, is necessary [his ital-
+ics] and not just consistently possible' [H7]. This letter is apparently in response
+to another lost letter by Einstein, triggered, most probably, by Heisenberg's work
+in March. I shall return to Heisenberg's important letter in Chapter 26.1 mention
+its existence at this point only in order to emphasize once again that Einstein did
+not react to these new developments as a passive bystander. In fact, at just about
+that time, he was doing his own research on quantum mechanics (his first, I
+believe). 'Does Schroedinger's wave mechanics determine the motion of a system
+completely or only in the statistical sense?'* he asked. Heisenberg had heard
+indirectly that Einstein 'had written a paper in which you .. . advocate the view
+that it should be possible after all to know the orbits of particles more precisely
+than I would wish.' He asked for more information 'especially because I myself
+have thought so much about these questions and only came to believe in the uncer-
+tainty relations after many pangs of conscience, though now I am entirely con-
+vinced' [H8]. Einstein eventually withdrew his paper.
+September 16, 1927. At the Volta meeting in Como (Einstein had been invited
+but did not attend), Bohr enunciates for the first time the principle of comple-
+mentarity: 'The very nature of the quantum theory . . . forces us to regard the
+space-time coordination and the claim of causality, the union of which character-
+izes the classical theories, as complementary but exclusive features of the descrip-
+tion, symbolizing the idealization of observation and definition, respectively' [B5].
+October 1927. The fifth Solvay Conference convenes. All the founders of the
+quantum theory were there, from Planck, Einstein, and Bohr to de Broglie, Hei-
+senberg, Schroedinger, and Dirac. During the sessions, 'Einstein said hardly any-
+thing beyond presenting a very simple objection to the probability
+interpretation.. . . Then he fell back into silence' [B5a]. As was mentioned in
+Chapter 23, Einstein had declined an invitation to give a paper on quantum sta-
+tistics at that conference.
+However, the formal meetings were not the only place for discussion. All par-
+ticipants were housed in the same hotel, and there, in the dining room, Einstein
+was much livelier. Otto Stern has given this first-hand account**:
+"This is the title of a paper Einstein submitted for the May 5, 1927, meeting of the Prussian Acad-
+emy in Berlin. The records show that the paper was in print when Einstein requested by telephone
+that it be withdrawn. The unpublished manuscript is in the Einstein archive. See also [Kl],
+**In a discussion with Res Jost, taped on December 2, 1961. I am very grateful to Jost for making
+available to me a transcript of part of this discussion.
+EINSTEIN'S RESPONSE TO THE NEW DYNAMICS 445
+Einstein came down to breakfast and expressed his misgivings about the new
+quantum theory, every time [he] had invented some beautiful experiment from
+which one saw that [the theory] did not work. . . . Pauli and Heisenberg, who
+were there, did not pay much attention, 'ach was, das stimmt schon, das stimmt
+schon' [ah, well, it will be all right, it will be all right]. Bohr, on the other hand,
+reflected on it with care and in the evening, at dinner, we were all together and
+he cleared up the matter in detail.
+Thus began the great debate between Bohr and Einstein. Both men refined and
+sharpened their positions in the course of time. No agreement between them was
+ever reached. Between 1925 and 1931, the only objection by Einstein that
+appeared in print in the scientific literature is the one at the 1927 Solvay confer-
+ence [E13]. However, there exists a masterful account of the Bohr-Einstein dia-
+logue during these years, published by Bohr in 1949 [B6]. I have written else-
+where about the profound role that the" discussions with Einstein played in Bohr's
+life [PI].
+The record of the Solvay meeting contains only minor reactions to Einstein's
+comments. Bohr's later article analyzed them in detail. Let us consider next the
+substance of Einstein's remarks.
+Einstein's opening phrase tells more about him than does many a book: 'Je dois
+m'excuser de n'avoir pas approfondi la mecanique des quanta,' I must apologize
+for not having penetrated quantum mechanics deeply enough [El3]*.
+He then went on to discuss an experiment in which a beam of electrons hits a
+fixed screen with an aperture in it. The transmitted electrons form a diffraction
+pattern, which is observed on a second screen. Question: does quantum mechanics
+give a complete description of the individual electron events in this experiment?
+His answer: this cannot be. For let A and B be two distinct spots on the second
+screen. If I know that an individual electron arrives at A, then I know instanta-
+neously that it did not arrive at B. But this implies a peculiar instantaneous action
+at a distance between A and B contrary to the relativity postulate. Yet (Einstein
+notes) in the Geiger-Bothe experiment on the Gompton effect [B7], there is no
+limitation of principle to the accuracy with which one can observe coincidences in
+individual processes, and that without appeal to action at a distance. This circum-
+stance adds to the sense of incompleteness of the description for diffraction.
+Quantum mechanics provides the following answer to Einstein's query. It does
+apply to individual processes, but the uncertainty principle defines and delimits
+the optimal amount of information obtainable in a given experimental arrange-
+*The original German text reads, 'Ich [bin] mir des Umstandes bewusst dass ich in das Wesen der
+Quantenmechanik nicht tief genug eingedrungen bin' [El4],
+446 THE QUANTUM THEORY
+ment. This delimitation differs incomparably from the restrictions on information
+inherent in the coarse-grained description of events in classical statistical mechan-
+ics. There the restrictions are wisely self-imposed in order to obtain a useful
+approximation to a description in terms of an ideally knowable complete specifi-
+cation of momenta and positions of individual particles. In quantum mechanics,
+the delimitations mentioned earlier are not self-imposed but are renunciations of
+first principle (on the fine-grained level, one might say). It is true that one would
+need action at a distance if one were to insist on a fully causal description involving
+the localization of the electron at every stage of the experiment on hand. Quantum
+mechanics denies that such a description is called for and asserts that, in this
+experiment, the final position of an individual electron cannot be predicted with
+certainty. Quantum mechanics nevertheless makes a prediction in this case con-
+cerning the probability of an electron arriving at a given spot on the second screen.
+The verification of this prediction demands, of course, that the 'one-electron exper-
+iment' be repeated as often as necessary to obtain this probability distribution with
+the desired accuracy.
+Nor is there a conflict with Geiger-Bothe, since now one refers to another
+experimental arrangement in which localization in space-time is achieved, but
+this time at the price of renouncing information on sharp energy-momentum
+properties of the particles observed in coincidence. From the point of view of quan-
+tum mechanics, these renunciations are expressions of laws of nature. They are
+also applications of the saying, 'II faut reculer pour mieux sauter,' It is necessary
+to take a step back in order to jump better. As we shall see, what was and is an
+accepted renunciation to others was an intolerable abdication in Einstein's eyes.
+On this score, he was never prepared to give up anything.
+I have dwelt at some length on this simple problem since it contains the germ
+of Einstein's position, which he stated more explicitly in later years. Meanwhile,
+the debate in the corridors between Bohr and Einstein continued during the sixth
+Solvay Conference (on magnetism) in 1930. This time Einstein thought he had
+found a counterexample to the uncertainty principle. The argument was inge-
+nious. Consider a box having in one of its walls a hole that can be opened or closed
+by a shutter controlled by a clock inside the box. The box is filled with radiation.
+Weigh the box. Set the shutter to open for a brief interval during which a single
+photon escapes. Weigh the box again, some time later. Then (in principle) one
+has found to arbitrary accuracy both the photon energy and its time of passage,
+in conflict with the energy-time uncertainty principle.
+'It was quite a shock for Bohr ... he did not see the solution at once. During
+the whole evening he was extremely unhappy, going from one to the other and
+trying to persuade them that it couldn't be true, that it would be the end of physics
+if Einstein were right; but he couldn't produce any refutation. I shall never forget
+the vision of the two antagonists leaving the club [ of the Fondation Universitaire]:
+Einstein a tall majestic figure, walking quietly, with a somewhat ironical smile,
+EINSTEIN'S RESPONSE TO THE NEW DYNAMICS 447
+Bohr's drawing of Einstein's clock-in-the-box experiment [B6]. (Reproduced with the
+kind permission of Professor A. Schilpp.)
+and Bohr trotting near him, very excited. . . . The next morning came Bohr's
+triumph' [Rl].
+Bohr later illustrated his arguments [B6] with the help of the experimental
+arrangement reproduced above. The initial weighing is performed by recording
+the position of the pointer attached to the box relative to the scale attached to the
+fixed frame. The loss of weight resulting from the escape of the photon is com-
+pensated by a load (hung underneath the box) that returns the pointer to its initial
+position with a latitude Aq. Correspondingly, the weight measurement has an
+uncertainty Am. The added load imparts to the box a momentum which we can
+measure with an accuracy Ap delimited by ApAq « h. Obviously A/> < tgAm,
+448 THE QUANTUM THEORY
+where t is the time taken to readjust the pointer and g is the gravitational accel-
+eration. Thus, tgAmAq > h. Next, Bohr used the red shift formula*: the uncer-
+tainty Aqr of the position of the clock in the gravitational field implies an uncer-
+tainty At = c~2gtAq in the determination of t. Hence, c2Am&t = AEAt > h.
+Thus the accuracy with which the energy of the photon is measured restricts the
+precision with which its moment of escape can be determined, in accordance with
+the uncertainty relations for energy and time.
+Note that every one of the many details in the figure serves an experimental
+purpose: the heavy bolts fix the position of the scale along which the pointer
+moves, the spring guarantees the mobility of the box in the gravitational field, the
+weight attached to the box serves to readjust its position, and so on. There was
+nothing fanciful in Bohr's insistence on such details. Rather he had them drawn
+in order to illustrate that, since the results of all physical measurements are
+expressed in classical language, it is necessary to specify in detail the tools of mea-
+surement in that language as well.
+After this refutation by Bohr, Einstein ceased his search for inconsistencies. By
+1931 his position on quantum mechanics had undergone a marked change.
+First of all, his next paper on quantum mechanics [El 5], submitted in February
+1931, shows that he had accepted Bohr's criticism.** It deals with a new variant
+of the clock-in-the-box experiment. Experimental information about one particle
+is used to make predictions about a second particle. This paper, a forerunner of
+the Einstein-Podolsky-Rosen article to be discussed below, need not be remem-
+bered for its conclusions.!
+A far more important expression of Einstein's opinions is found in a letter he
+wrote the following September. In this letter, addressed to the Nobel committee
+in Stockholm, Einstein nominated Heisenberg and Schroedinger for the Nobel
+prize. In his movitation, he said about quantum mechanics, 'Diese Lehre enthalt
+nach meiner Uberzeugung ohne Zweifel ein Stuck endgiiltiger Wahrheit.'^: Ein-
+stein himself was never greatly stirred by honors and distinctions. Even so, his
+nominations reveal a freedom of spirit and a generosity of mind. In addition, they
+show most clearly his thoughts: he came to accept that quantum mechanics was
+not an aberration but rather a truly professional contribution to physics.
+'Recall that the only ingredients for the derivation of this formula are the special relativistic time
+dilation and the equivalence principle.
+**The Gedankenexperiment in this paper involved a time measurement. The authors take care to
+arrange things so that 'the rate of the clock ... is not disturbed by the gravitational effects involved
+in weighing the box.'
+•f-The authors are 'forced to conclude that there can be no method for measuring the momentum of
+a particle without changing its value,' a statement which, of course, is unacceptable.
+^'1 am convinced that this theory undoubtedly contains a part of the ultimate truth.' Einstein had
+already proposed Heisenberg and Schroedinger in 1928, and proposed Schroedinger again in 1932
+(see Chapter 31).
+EINSTEIN'S RESPONSE TO THE NEW DYNAMICS 449
+Not that from then on he desisted from criticizing quantum mechanics. He had
+recognized it to be part of the truth, but was and forever remained deeply con-
+vinced that it was not the whole truth. From 1931 on, the issue for him was no
+longer the consistency of quantum mechanics but rather its completeness.
+During the last twenty-five years of life, Einstein maintained that quantum
+mechanics was incomplete. He no longer believed that quantum mechanics was
+wrong but did believe that the common view of the physics community was wrong
+in ascribing to the postulates of quantum mechanics a degree of finality that he
+held to be naive and unjustified. The content and shape of his dissent will grad-
+ually unfold in what follows.
+In November 1931 Einstein gave a colloquium in Berlin 'on the uncertainty
+relation' [El6]. The report of this talk does not state that Einstein objected to
+Heisenberg's relations. Rather it conveys a sense of his discomfort about the free-
+dom of choice to measure precisely either the color of a light ray or its time of
+arrival. My friend Gasimir has written to me about a colloquium Einstein gave
+in Leiden, with Ehrenfest in the chair [Cl] (this must have been in November
+1930). In his talk, Einstein discussed several aspects of the clock-in-the-box exper-
+iments. In the subsequent discussion, it was mentioned that no conflict with quan-
+tum mechanics existed. Einstein reacted to this statement as follows: 'Ich weiss es,
+widerspruchsfrei ist die Sache schon, aber sie enthalt meines Erachtens doch eine
+gewisse Harte' (I know, this business is free of contradictions, yet in my view it
+contains a certain unreasonableness).
+By 1933 Einstein had stated explicitly his conviction that quantum mechanics
+does not contain logical contradictions. In his Spencer lecture, he said of the
+Schroedinger wave functions: 'These functions are supposed to determine in a
+mathematical way only the probabilities of encountering those objects in a partic-
+ular place or in a particular state of motion, if we make a measurement. This
+conception is logically unexceptionable and has led to important successes' [El7].
+It was in 1935 that Einstein stated his own desiderata for the first time in a
+precise form. This is the criterion of objective reality, to which he subscribed for
+the rest of his life. By 1935 Einstein was settled in Princeton. At this point, I
+interrupt the account of the quantum theory in order to describe what happened
+to Einstein and his family from 1932 to 1945.
+25b. Einstein at Princeton
+Einstein settled permanently in the United States in October 1933. His thoughts
+of leaving Germany had begun to take shape two years earlier, however. In
+December 1931, he wrote in his travel diary: 'Today, I made my decision essen-
+tially to give up my Berlin position' [E18]. He was on board ship at that time, en
+route to his first stay in Pasadena. It was an atmosphere conducive to reflecting
+on the recent happenings in Germany. A year earlier, the National Socialists had
+450 THE QUANTUM THEORY
+made a stunning advance, increasing their number of seats in the Reichstag from
+twelve to one hundred and seven.
+Einstein's decision to move to Princeton was the result of three meetings with
+Abraham Flexner [Fl]. The first of these was unplanned. Early in 1932, Flexner
+had come to Pasadena to discuss with faculty members at CalTech his project for
+a new center of research, The Institute for Advanced Study. On that occasion, he
+was introduced to Einstein. The two men discussed the Institute plan in general
+terms. When they met again in Oxford, in the spring of 1932, Flexner asked if
+Einstein himself might be interested in joining the Institute. At their third meeting,
+in Caputh in June 1932, Einstein said he was enthusiastic about coming, provided
+he could bring his assistant, Walther Mayer; for himself he requested an annual
+salary of $3000. 'He asked .. . "could I live on less"?' [F2]. Formal negotiations
+began at once [E19]. The appointment was approved in October 1932 [II]. His
+salary was set at $15000 per year. The remarkable story of the negotiations con-
+cerning Walther Mayer is found in Chapter 29.
+Einstein originally intended to spend five months of the year in Princeton and
+the rest of the time in Berlin [K2]. It never worked out that way. New elections
+in July 1932 gave the Nazis 230 Reichstag seats. It was the following December
+that Einstein told his wife that she would never see Caputh again (section 16d).
+On December 10, 1932, the Einsteins, accompanied by thirty pieces of luggage,
+left Bremerhaven on board the steamer Oakland, once again bound for California.
+As it turned out, it was their permanent departure from Germany.
+On January 30, 1933, Hitler came to power. Three days later, Einstein still
+wrote to the secretariat of the Prussian Academy concerning his salary arrange-
+ments [K3]. The situation deteriorated rapidly, however, and in a letter dated
+March 28, 1933, Einstein sent his resignation to the Akademie in Berlin [K4].*
+A week earlier, The New York Times had reported that 'one of the most perfect
+raids of recent German history was carried out' [Nl]. The SA had raided the
+Einsteins' Caputh home to search for hidden weapons. According to the Times,
+all they found was a breadknife.
+March 28 was also the day on which the Einsteins arrived in Antwerp, return-
+ing from California. They had to return to Europe because Einstein had obliga-
+tions and because arrangements had to be made for the move to Princeton, which
+now, of course, was to be their only home. Family and friends helped them find
+a temporary European abode, the villa Savoyard in Le Coq sur Mer on the Bel-
+gian coast. There they were joined by Use and Margot, who had meanwhile gone
+to Paris. Helen Dukas came from Zurich, Walther Mayer from Vienna. Their
+establishment was completed by two guards (assigned by the Belgian government)
+who were to watch over their safety. Rumors were rife of planned attempts on
+Einstein's life.
+Practical arrangements were made. Einstein's son-in-law Rudolf Kayser saw
+*On April 21 he also resigned from the Bavarian Academy.
+EINSTEIN S RESPONSE TO THE NEW DYNAMICS 451
+to it that Einstein's papers in Berlin were saved and sent to the Quai d'Orsay by
+French diplomatic pouch. Furniture from the home on the Haberlandstrasse was
+prepared for shipment (and arrived safely in Princeton some time later). Einstein
+traveled. He lectured several times in Brussels; he went to Zurich, where he saw
+his son Eduard for the last time; he went to Oxford, where on June 10 he gave
+the Spencer lecture, which I have often quoted [El7].
+Two days later, he lectured again in Oxford and on June 20 was in Glasgow
+to give the first Gibson lecture, dealing with the origins of general relativity
+[E20].* During a brief second visit to England, in July, he met with Churchill
+and other prominent personalities. Meanwhile, offers for academic positions
+reached him from several sides. Weizmann asked him to come to Jerusalem. Ein-
+stein refused outright because he was highly critical of the Hebrew University's
+administration. He was approached by Leiden and Oxford. Offers for chairs came
+from Madrid and Paris.
+In the midst of these happenings, Einstein and Mayer managed to do a little
+physics and complete two papers on semivectors, which they sent from Le Goq to
+Holland for publication in the Royal Dutch Academy proceedings [E21, E22].
+These were sequels to a joint paper they had finished a few days before Einstein
+had set off for Pasadena [E23]. This work was stimulated by Ehrenfest's insis-
+tence on a better understanding of the relation between single-valued and double-
+valued representations of the Lorentz group [E23]. In response, this is what they
+did. Associate a 2 X 2 matrix X to a special relativistic 4-vector ACM:
+each of the two columns of X transforms into itself. These columns, called semi-
+vectors by Einstein and Mayer, are double-valued representations of the proper
+Lorentz group; up to linear combinations they are spinors.** Not all of this was
+new [K5], but it was nice work, done independently. They went on to relate semi-
+*A report in The New York Times [N2] that Einstein was present at a Zionist Congress in Prague
+in August is incorrect.
+**The detailed connection between semivectors and spinors was discussed by Bargmann [B8].where A and B are complex 2X2 matrices. This transformation is length-pre-
+serving if det^4 detfi = 1. Scale in such a way that dttA = 1; then det^4 = det5
+= 1. With these constraints, Eq. 25.2 represents the general complex Lorentz
+group excluding reflections; reality preservation demands that B = A'. Under the
+transformationso that detX equals the vector's (invariant length)2. Transform X by
+(25.2)
+(25.3_(25.1)452 THE QUANTUM THEORY
+vectors to the Dirac equation and to generalize the formalism to general relativity.
+Their studies of semivector pairs led them to believe that for 'the first time ... an
+explanation has been given for the existence of two electric elementary particles
+of different mass, with charges that are [equal and] opposite' [E21], a conclusion
+that did not survive.*
+On September 9 Einstein left the Continent for good. Le Goq was too close to
+the German border for his safety. Again he went to England, where he spent a
+few quiet weeks in the country. On October 3 he addressed a mass meeting in
+London, chaired by Rutherford, which was designed to draw attention to the need
+for aid to scholars in exile [N3]. Then it was time to go. Use and Margot returned
+to Paris. Elsa, Helen Dukas, and Walther Mayer** boarded the Westmoreland
+in Antwerp. On October 7 Einstein joined them in Southampton. Carrying visi-
+tors' visas, the four of them set out for a new life.
+On October 17 they arrived in New York and were met at quarantine by Edgar
+Bamberger and Herbert Maass, trustees of the Institute, who handed Einstein a
+letter from Flexner, the Institute's first director. The letter read in part: 'There is
+no doubt whatsoever that there are organized bands of irresponsible Nazis in this
+country. I have conferred with the local authorities . .. and the national govern-
+ment in Washington, and they have all given me the advice . .. that your safety
+in America depends upon silence and refraining from attendance at public func-
+tions. .. . You and your wife will be thoroughly welcome at Princeton, but in the
+long run your safety will depend on your discretion' [F3]. The party was taken
+by special tug from quarantine to the Battery. From there, they were driven
+directly to Princeton, where rooms at the Peacock Inn were waiting for them. A
+few days later, the Einsteins and Helen Dukas moved to a rented house at 2
+Library Place. There they stayed until 1935, when Einstein bought the house at
+112 Mercer Street from Mary Marden, paying for it in cash. In the autumn of
+that year, they moved in. It was to be Einstein's last home. In 1939 Mussolini's
+racial laws forced Einstein's sister, Maja Winteler, to leave the small estate outside
+Florence which Einstein had bought for her and her husband, Paul. Maja came
+to live with her brother in Princeton. Paul moved in with the Michaele Bessos in
+Geneva.
+Death struck in the early years. Use died in Paris after a painful illness. There-
+after Margot joined her family in Princeton. In May 1935 Einstein and his wife
+as well as Margot and her husbandf sailed for Bermuda, in order to obtain immi-
+grant visas upon reentry. This was Einstein's last trip outside the United States.
+Not long thereafter, Elsa became gravely ill. She died on December 20, 1936, of
+heart disease.
+"These papers are rather bizarre since the authors were aware of the recent discovery of the positron
+[E21].
+**One biographer's story [C2] that Mayer had joined Einstein in England is incorrect.
+fMargot was briefly married to Dimitri Marianoff.
+EINSTEIN'S RESPONSE TO THE NEW DYNAMICS 453
+In 1938 Einstein's son Hans Albert came to the United States. In 1926 he had
+obtained the diploma as civil engineer at the ETH. In 1928 he married Frida
+Knecht in Dortmund, where he worked for some years as a steel designer. In 1930
+their son Bernhard Caesar was born, Einstein's first grandchild. In 1936, Hans
+Albert obtained his PhD degree at the ETH. From 1947 to 1971 he was professor
+of hydraulic engineering at the University of California in Berkeley. About his
+father's influence on him, he once remarked, 'Probably the only project he ever
+gave up on was me. He tried to give me advice, but he soon discovered that I was
+too stubborn and that he was just wasting his time' [N3a].
+Shortly after arriving in the United States, Einstein gave the Queen of Belgium
+his early impressions of Princeton: 'A quaint ceremonious village of puny demi-
+gods on stilts' [E24]. A year and a half later he wrote to her again: 'I have locked
+myself into quite hopeless scientific problems—the more so since, as an elderly
+man, I have remained estranged from the society here' [E25]. After he came to the
+United States, his charisma did not wane. In January 1934 he and Elsa had stayed
+with the Roosevelts at the White House and had spent a night in the Franklin
+Room. There were the same odd demands on his energies and time, as, for exam-
+ple, when he was asked to write a letter for a time capsule to be placed at the site
+of the New York World's Fair and to be opened in the year 6369 (he did [N4]).
+But Princeton, small, genteel, was not like the Berlin of the Weimar days, large,
+vibrant, and perverse. Even a man with a strong inner life like Einstein had to
+adjust himself to a new environment. He did, and very well. The more peaceful
+new life began to grow on him. There was music in the home. He found old
+friends and made new ones. He could be seen on Carnegie Lake in the small
+sailboat he had bought, which had been christened Tinnefby Helen Dukas (Yid-
+dish for 'cheaply made'). The name stuck. He never owned a car nor did he ever
+learn to drive. There were occasional trips to New York and to other cities. There
+were vacations, on the shores of Long Island or in the Adirondacks. In 1936 Ein-
+stein took out his citizenship papers. On October 1, 1940, in Trenton, he, Margot,
+and Helen Dukas were sworn in as United States citizens by that wonderful judge
+Phillip Forman. (I cherish his memory; he inducted me, too.) On the following
+November 5, the three of them waited their turn to vote in the Roosevelt-Willkie
+election.
+Einstein went on with his physics. What he did in those years was described in
+other chapters and will be returned to in the next section. The Institute did not
+yet have its own buildings when he arrived. He and other faculty members were
+given space in Princeton University's 'old' Fine Hall (now the Gest Institute of
+Oriental Studies). After 1939 they moved to the Institute's newly built Fuld Hall.
+His only official duty was to attend faculty meetings. This he did until his retire-
+ment at age 65, in 1944, and continued to do until early 1950. A number of people
+came to work with him. These we shall meet in Chapter 29. He was readily
+accessible to all who wanted to discuss science with him.
+454 THE QUANTUM THEORY
+During the years 1933-45 Einstein spoke out less on political issues than he
+had done before or would do again after the war.* The reasons for this relative
+quietude are obvious. In the early years he was not yet a U.S. citizen. When the
+war came there was only one issue: to win it. From 1933 until after the war he
+desisted from advocating world disarmament and conscientious objection. 'Orga-
+nized power can be opposed only by organized power. Much as I regret this, there
+is no other way' [N6]. During the war years he acted as occasional consultant to
+the Navy Bureau of Ordnance.
+Much has been written about Einstein's letters to President Roosevelt on the
+importance of the development of atomic weapons [E26]. Opinions on the influ-
+ence of these letters are divided.** It is my own impression that this influence was
+marginal. It is true that Roosevelt appointed a three-man Advisory Committee on
+Uranium on the same day he replied to Einstein's first letter. However, he only
+decided to go ahead with full scale atomic weapons development in October 1941.
+At that time he was mainly influenced, I believe, by the British efforts. It was not
+until then that Secretary of War Stimson heard about the project for the first time
+[S2]. In his later years, Einstein himself said more than once that he regretted
+having signed these letters. 'Had I known that the Germans would not succeed in
+producing an atomic bomb, I would not have lifted a finger' [VI].
+The story of Einstein in Princeton will be continued and concluded in Chapter
+27. Before returning to objective reality, I mention one anecdote of Einstein's early
+years in the United States, a story I owe to Helen Dukas.
+During a speech by a high official at a major reception for Einstein, the honored
+guest took out his pen and started scribbling equations on the back of his program,
+oblivious to everything. The speech ended with a great flourish. Everybody stood
+up, clapping hands and turning to Einstein. Helen whispered to him that he had
+to get up, which he did. Unaware of the fact that the ovation was for him, he
+clapped his hands, too, until Helen hurriedly told him that he was the one for
+whom the audience was cheering.
+25c. Einstein on Objective Reality
+In his Como address, Bohr had remarked that quantum mechanics, like relativity
+theory, demands refinements of our everyday perceptions of inanimate natural
+phenomena. 'We find ourselves here on the very path taken by Einstein of adapt-
+ing our modes of perception borrowed from the sensations to the gradually deep-
+ening knowledge of the laws of Nature' [B5]. Already then, in 1927, he empha-
+sized that we have to treat with extreme care our use of language in recording the
+results of observations that involve quantum effects. 'The hindrances met with on
+this path originate above all in the fact that, so to say, every word in the language
+*See [N5] for some of Einstein's opinions during the period 1933-45.
+**For comments by General Groves, I. I. Rabi, and E. P. Wigner see [LI].
+EINSTEIN S RESPONSE TO THE NEW DYNAMICS 455
+refers to our ordinary perception.' Bohr's deep concern with the role of language
+in the appropriate interpretation of quantum mechanics never ceased. In 1948 he
+put it as follows:
+Phrases often found in the physical literature, as 'disturbance of phenomena by
+observation' or 'creation of physical attributes of objects by measurements,' rep-
+resent a use of words like 'phenomena' and 'observation' as well as 'attribute'
+and 'measurement' which is hardly compatible with common usage and prac-
+tical definition and, therefore, is apt to cause confusion. As a more appropriate
+way of expression, one may strongly advocate limitation of the use of the word
+phenomenon to refer exclusively to observations obtained under specified cir-
+cumstances, including an account of the whole experiment. [B9]
+This usage of phenomenon, if not generally accepted, is the one to which nearly
+all physicists now subscribe.
+In contrast to the view that the concept of phenomenon irrevocably includes the
+specifics of the experimental conditions of observation, Einstein held that one
+should seek for a deeper-lying theoretical framework which permits the descrip-
+tion of phenomena independently of these conditions. That is what he meant by
+the term objective reality. After 1933 it was his almost solitary position that quan-
+tum mechanics is logically consistent but that it is an incomplete manifestation of
+an underlying theory in which an objectively real description is possible.
+In an article written in 1935 with Boris Podolsky and Nathan Rosen [E27],
+Einstein gave reasons for his position by discussing an example, simple as always.
+This paper 'created a stir among physicists and has played a large role in philo-
+sophical discussion' [BIO].* It contains the following definition. 'If without in any
+way disturbing a system we can predict with certainty (i.e., with a probability
+equal to unity) the value of a physical quantity, then there exists an element of
+physical reality corresponding to this physical quantity.' The authors then con-
+sider the following problem. Two particles with respective momentum and posi-
+tion variables (p\,q\) and (p2,q2) are in a state with definite total momentum
+P=p\ + pi and definite relative distance q= c/, — q2. This, of course, is possible
+since P and q commute. The particles are allowed to interact. Observations are
+made on particle 1 long after the interaction has taken place. Measure p\ and one
+knows p2 without having disturbed particle 2. Therefore (in their language), p2
+is an element of reality. Next, measure qt and one knows q2 again without having
+disturbed particle 2. Therefore q2 is also an element of reality, so that both p2 and
+q2 are elements of reality. But quantum mechanics tells us that p2 and q2 cannot
+simultaneously be elements of reality because of the noncommutativity of the
+"This stir reached the press. On May 4, 1935, The New York Times carried an article under the
+heading 'Einstein attacks quantum theory,' which also includes an interview with another physicist.
+Its May 7 issue contains a statement by Einstein in which he deprecated this release, which did not
+have his authorization.
+456 THE QUANTUM THEORY
+momentum and position operators of a given particle. Therefore quantum
+mechanics is incomplete.
+The authors stress that they 'would not arrive at our conclusion if one insisted
+that two . . . physical quantities can be regarded as simultaneous elements of real-
+ity only when they can be simultaneously measured or predicted' (their italics).
+Then follows a remark that is the key to Einstein's philosophy and which I have
+italicized in part:
+This [simultaneous predictability] makes the reality of p2 and q2 depend upon
+the process of measurement carried out on the first system which does not dis-
+turb the second system in any way. No reasonable definition of reality could be
+expected to permit this.
+The only part of this article that will ultimately survive, I believe, is this last
+phrase, which so poignantly summarizes Einstein's views on quantum mechanics
+in his later years. The content of this paper has been referred to on occasion as
+the Einstein-Podolsky-Rosen paradox. It should be stressed that this paper con-
+tains neither a paradox nor any flaw of logic. It simply concludes that objective
+reality is incompatible with the assumption that quantum mechanics is complete.
+This conclusion has not affected subsequent developments in physics, and it is
+doubtful that it ever will.
+'It is only the mutual exclusion of any two experimental procedures, permitting
+the unambiguous definition of complementary physical quantities which provides
+room for new physical laws,' Bohr wrote in his rebuttal [Bl 1]. He did not believe
+that the Einstein-Podolsky-Rosen paper called for any change in the interpre-
+tation of quantum mechanics. Most physicists (myself included) agree with this
+opinion.
+This concludes an account of Einstein's position. He returned to his criterion
+for objective reality in a number of later papers [E28, E29, E30, E31], in which
+he repeated the EPR argument on several occasions. These papers add nothing
+substantially new. In one of them [E30], he discussed the question of whether the
+quantum-mechanical notion of phenomenon should also apply to bodies of every-
+day size. The answer is, of course, in the affirmative.
+Bohr was, of course, not the only one to express opposition to objective reality;
+nor was Einstein the only one critical of the complementarity interpretation.* I
+have chosen to confine myself to the exchanges between Einstein and Bohr because
+I believe that Einstein's views come out most clearly in juxtaposing them with
+Bohr's. Moreover, I am well acquainted with their thoughts on these issues
+because of discussions with each of them. Bohr was in Princeton when he put the
+*In 1950 Einstein mentioned Schroedinger and von Laue as the only ones who shared his views
+[E32]. There were many others who at that time (and later) had doubts about the complementarity
+interpretation, but their views and Einstein's did not necessarily coincide or overlap (see [E33]).
+Note also that the term hidden variable does not occur in any of Einstein's papers or letters, as far
+as I know.
+EINSTEIN S RESPONSE TO THE NEW DYNAMICS 457
+finishing touches to his 1949 article [B6], and we discussed these matters often at
+that time. (It was during one of these discussions that Einstein sneaked in to steal
+some tobacco [PI].) However, it needs to be stressed that other theoretical physi-
+cists and mathematicians have made important contributions to this area of prob-
+lems. Experimentalists have actively participated, as well. A number of experi-
+mental tests of quantum mechanics in general and also of the predictions of specific
+alternative schemes have been made.* This has not led to any surprises.
+It has been stressed many times that, in order to follow Einstein's thinking, it
+is necessary to see him both as a critic and as a visionary. In this chapter the critic
+has been portrayed. In the next we meet the visionary.
+References
+Bl. M. Born; Z. Phys. 37, 863 (1926).
+B2. , Z. Phys. 38, 803 (1926).
+B3. , letter to A. Einstein, November 30, 1926.
+B4. The Born-Einstein Letters, p. 130. Walker, New York, 1971.
+B5. N. Bohr, Nature 121, 580 (1928).
+B5a. L. de Broglie, New Perspectives in Physics, p. 150. Basic, New York, 1962.
+B6. N. Bohr in Albert Einstein: Philosopher-Scientist (P. Schilpp, Ed.), p. 199.
+Tudor, New York, 1949.
+B7. W. Bothe and H. Geiger, Naturw. 13, 440 (1925) Z. Phys. 32, 639 (1925).
+B8. V. Bargmann, Helv. Phys. Acta 7, 57, (1933).
+B9. N. Bohr, Dialectica 2, 312 (1948).
+BIO. , [B6], p. 232.
+Bll. , Phys. Rev. 48, 696 (1935).
+Cl. H. B. G. Casimir, letter to A. Pais, December 31, 1977.
+02. R. W. Clark, Einstein: The Life and Times, p. 603. Avon Books, New York, 1971.
+Dl. P.A.M. Dirac, Proc. Roy. Soc. A114, 243 (1927).
+El. A. Einstein, letter to C. Lanczos, March 21, 1942.
+E2. W. Elsasser, Naturw. 13,711 (1925).
+E3. A. Einstein, letter to R. A. Millikan, September 1, 1925.
+E4. , letter to P. Ehrenfest, August 23, 1926.
+E5. , letter to P. Ehrenfest, August 28, 1926.
+E6. , in James Clark Maxwell, p. 66. Macmillan, New York, 1931.
+E7. , letter to M. Besso, December 25, 1925; EB, p. 215.
+E8. , letter to H. Born, March 7,1926. Reprinted in The Born-Einstein Letters
+(M. Born, Ed.), p. 91. Walker, New York, 1971.
+E9. , letter to E. Schroedinger, April 26, 1926. Reprinted in Letters on Wave
+Mechanics (M. Klein, Ed.). Philosophical Library, New York, 1967.
+E10. , letter to M. Besso, May 1, 1926; EB, p. 224.
+"Typically, these tests deal with variants of the EPR arrangement, such as long-range correlations
+between spins or polarizations. I must admit to being insufficiently familiar with the extensive the-
+oretical and experimental literature of these topics. My main guides have been a book by Jammer
+[Jl] and a review article by Pipkin [P2]. Both contain extensive references to other literature.
+458 THE QUANTUM THEORY
+El 1. , letter to M. Born, December 4, 1926; The Born-Einstein Letters, p. 90.
+£12. , Z. Angew. Chemie 40, 546 (1927).
+E13. —— ,in Proceedings of the Fifth Solvay Conference, p. 253. Gauthier-Villars, Paris,
+1928.
+E14. , letter to H. A. Lorentz, November 21, 1927.
+E15. , R. Tolman, and B. Podolsky, Phys. Rev. 37, 780 (1931).
+El 6. , Z. Angew. Chemie 45, 23 (1932).
+E17. ,On the Method of Theoretical Physics. Oxford University Press, New York,
+1933. Reprinted in Phil. Sci. 1, 162 (1934).
+E18. , personal travel diary, December 6, 1931.
+E19. , letter to A. Flexner, June 8, 1932.
+E20. ,0rigins of the General Theory of Relativity. Glasgow University, Publ. No.
+30, 1933.
+E21. , and W. Mayer, Proc. K. Ak. Amsterdam 36, 497 (1933).
+E22. , and , Proc. K. Ak. Amsterdam 36, 615 (1933).
+E23. , and , PAW, 1932, p. 522.
+E24. —, letter to Queen Elizabeth of Belgium, November 20, 1933.
+E25. , letter to Queen Elizabeth of Belgium, February 16, 1935.
+E26. ,letters to F. D. Roosevelt, August 2, 1939; March 7, 1940. Reprinted in [N3],
+pp. 294, 299.
+E27. —, B. Podolsky, and N. Rosen, Phys. Rev. 47, 777 (1935).
+E28. , Dialectica 2, 320 (1948).
+E29. , in Albert Einstein: philosopher-scientist (P. Schilpp, Ed.). Tudor, New
+York, 1949.
+E30. , in Scientific Papers Presented to Max Born, Hafner, New York, 1951. p. 33.
+E31. in Louis de Broglie, Physicien et Penseur, p. 5. Michel, Paris, 1953.
+E32. , letter to E. Schroedinger, December 22, 1950.
+E33. , letter to M. Born, May 12, 1952.
+Fl. A. Flexner, I Remember. Simon and Schuster, New York, 1940.
+F2. , The New York Times, April 19, 1955.
+F3. , letter to A. Einstein, October 13, 1933.
+Gl. S. Goudsmit, letter to A. Pais, January 16, 1978.
+HI. W. Heisenberg, postcard to W. Pauli, June 29, 1925. Reprinted in W. Fault Sci-
+entific Correspondence, Vol. 1, p. 229. Springer, New York, 1979.
+H2. , Z. Phys. 33, 879 (1926).
+H3. , Der Teil und das Game, pp. 90-100. Piper, Munich, 1969.
+H4. , letter to A. Einstein, November 30, 1925.
+H5. ,in Niels Bohr and the Development of Physics (W. Pauli, Ed.), p. 12.
+McGraw-Hill, New York, 1955.
+H6. , Z. Phys. 43, 172 (1927).
+H7. , letter to A. Einstein, June 10, 1927.
+H8. , letter to A. Einstein, May 19, 1927.
+II. The Institute for Advanced Study, excerpt from minutes, October 10, 1932.
+Jl. M. Jammer, The Philosophy of Quantum Mechanics. Wiley, New York, 1974.
+Kl. C. Kirsten and H. J. Treder, Einstein in Berlin, Vol. 2. p. 268. Akademie, Berlin,
+1979.
+EINSTEIN'S RESPONSE TO THE NEW DYNAMICS 459
+K2. and , [Kl], Vol. 1, p. 241.
+K3. and , [Kl], Vol. 1, p. 242.
+K4. — and , [Kl], Vol. 1, p. 246.
+K5. F. Klein, Vorlesungen iiber die Entwicklung der Mathematik im 19 Jahrhun-
+dert, Vol. 2, Chap. 2, Sec. 2. Springer, New York, 1979.
+LI. A. B. Lerner, Einstein and Newton, pp. 212-15. Lerner, Minneapolis, 1973.
+Ml. J. Mehra, Biogr. Mem. Fell. Roy. Soc. 21, 117 (1975).
+Nl. New York Times, March 20, 1933.
+N2. New York Times, August 22, 1933.
+N3. O. Nathan and M. Norden, Einstein on Peace, p. 236. Schocken, New York, 1968.
+N3a. New York Times, July 27, 1973.
+N4. New York Times, September 16, 1938.
+N5. O. Nathan and M. Norden, [N3], Chaps. 8-10.
+N6. and , [N3], p. 319.
+PI. A. Pais in Niels Bohr, p. 215. North-Holland, Amsterdam, 1967.
+P2. F. M. Pipkin, Adv. At. Mol. Phys. 14, 281 (1978).
+Rl. L. Rosenfeld in Proceedings of the Fourteenth Solvay Conference, p. 232. Inter-
+science, New York, 1968.
+51. W. T. Scott, Erwin Schroedinger, University of Massachusetts Press, Amherst,
+1967.
+52. H. L. Stimson, On active Service in Peace and War, Chap. 23. Harper New
+York 1947.
+VI. A. Vallentin, The Drama of Albert Einstein, p. 278. Doubleday, New York, 1954.
+Wl. E. P. Wigner, Proceedings, Einstein Centennial Conference at Princeton, p. 461.
+Addison-Wesley, Reading, Mass., 1980.

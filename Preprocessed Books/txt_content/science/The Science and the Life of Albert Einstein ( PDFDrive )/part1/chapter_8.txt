@@ -1,0 +1,509 @@
+8
+The Edge of History
+7. A New Way of Thinking. On April 6, 1922, the Societe Francaise de Phi-
+losophic (which Henri Poincare had helped found) convened for a discussion of
+the special and the general theories of relativity. Among those in attendance were
+the mathematicians Elie Cartan, Jacques Hadamard, and Paul Painleve, the
+physicists Jean Becquerel, Albert Einstein, and Paul Langevin, and the philoso-
+phers Henri Bergson, Leon Brunschvicg, Edouard LeRoy, and Emile Meyerson.
+In the course of the discussions, Bergson expressed his admiration for Einstein's
+work: 'I see [in this work] not only a new physics, but also, in certain respects, a
+new way of thinking' [Bl].
+Special relativity led to new modes of philosophical reflection. It also gave rise
+to new limericks, such as the one about the young lady from Wight. However,
+first and foremost this theory brought forth a new way of thinking in physics itself,
+new because it called for a revision of concepts long entrenched in the physics and
+chemistry of the classical period. In physics the great novelties were, first, that the
+recording of measurements of space intervals and time durations demanded more
+detailed specifications than were held necessary theretofore and, second, that the
+lessons of classical mechanics are correct only in the limit v/c <K. 1. In chemistry
+the great novelty was that Lavoisier's law of mass conservation and Dalton's rule
+of simply proportionate weights were only approximate but nevertheless so good
+that no perceptible changes in conventional chemistry were called for. Thus rel-
+ativity turned Newtonian mechanics and classical chemistry into approximate sci-
+ences, not diminished but better defined in the process.
+Today these revisions seem harmless and are easy to teach. To Einstein they
+came rather abruptly, but only after years of unsuccessful thinking. His postulates
+were obvious to him once he had conceived them. When I talked with him about
+those times of transition, he expressed himself in a curiously impersonal way. He
+would refer to the birth of special relativity as 'den Schritt,' the step.
+It was otherwise in the case of Lorentz and Poincare. Each of them had strug-
+gled hard with these same problems, made important steps toward their solution,
+and garnered deep insights along the way. But neither of them had quite made
+the final transitional steps. In later years all three men, Einstein, Lorentz, and
+Poincare, reacted to the special theory of relativity in ways which arouse curiosity.
+163
+164 RELATIVITY, THE SPECIAL THEORY
+Why, on the whole, was Einstein so reticent to acknowledge the influence of the
+Michelson-Morley experiment on his thinking? Why could Lorentz never quite
+let go of the aether? Why did Poincare never understand special relativity? These
+questions lead us to the edge of history.
+It is natural to suppose but wrong to conclude that the use of the term the edge
+of history implies that its user has a clear picture and sharp definition of what
+history is. History deals with happenings in the past. The history of a period is
+an account of that period based on a selective sampling of dates and facts from a
+pool of information which, it is safe to assume, is incomplete. The selective factor
+is necessary as well as unavoidably subjective. Therefore one cannot speak of the
+history of a period. An historian can definitely be wrong but often cannot be sure
+of being right. That much is clear. Also, the knowledge of selected facts and dates
+is necessary but not sufficient if one is not content—and one should not be—with
+some insight into what happened but wishes to inquire further how 'it' happened.
+In the case of the history of discovery, questions like, Why did A create what he
+did, why did B readily accept what A created, why did C resist A's new ideas?
+are fascinating. In my many years of immersion in theoretical physics I have
+known A's, B's, and C's. Though their concerns may not have been as profound
+as relativity, I often found it baffling to answer such questions as those just raised.
+Creation, acceptance, and resistance, whether in science or in other areas, are acts
+and attitudes the whys of which can be grasped only if one knows, along with
+facts, how the minds of A and B and C work. Who knows whether he knows?
+However, while the answers to the A-B-C questions are elusive and deliriously
+conjectural, the same is not necessarily true for the questions themselves. Return-
+ing to Einstein, Lorentz, and Poincare, the questions I raised about them are the
+result of patient reading of their papers. The questions themselves are therefore
+distilled from an historical record, and I do not think it is at all bold to call them
+part of history. Their answers, it seems to me, are beyond history. Somewhere
+between the question and the answer lies history's edge, a term I have now defined
+with more precision than history itself. In what follows I shall not entirely refrain
+from indulging in a bit of extrahistorical speculation regarding the answers.
+First, however, a few more facts.
+2. Einstein and the Literature. Einstein's 1907 article [El] for the Jahrbuch
+der Radioaktivitat und Elektronik was written at the invitation of Johannes Stark,
+the founder and editor of that series. In agreeing to review relativity theory, Ein-
+stein wrote to Stark, 'I should note that unfortunately I am not in a position to
+orient myself about everything that has been published on this subject, because
+the library is closed in my free time. Apart from my own papers, I know of a
+paper by Lorentz (1904), one by Cohn, one by Mosengeil, and two by Planck.*
+I would be much obliged if you could point out further relevant publications to
+me, if such are known to you' [E2]**. This letter, as well as an earlier one to
+*A11 these papers are referred to in Chapters 6 and 7.
+**This letter was published in an article by Hermann [HI].
+THE EDGE OF HISTORY 165
+Besso [E3], shows that access to the literature was difficult for the man from the
+patent office. In his reply to Einstein's letter, Stark mentioned work by Planck,
+von Laue, and himself and added, 'Apart from these papers and those mentioned
+by you, I do not know of any others either' [SI]. Thus neither Einstein nor Stark
+was aware of Poincare's long paper bearing on relativity, completed in July 1905
+and published in the 1906 volume of Rendiconti del Circolo matematico di
+Palermo [PI]. Minkowski referred to this article on November 5, 1907, in his
+lecturef before the Goettinger Mathematische Verein [Ml]. It is therefore certain
+that this publication was in circulation in December 1907, the time at which Ein-
+stein completed his review, and a fortiori in March 1908, when he added some
+corrections and comments to the review [E4]. Nevertheless, especially in view of
+the exchange between Einstein and Stark, I see no grounds for thinking that in
+1907 Einstein knew of Poincare's paper and chose to ignore it.
+I believe, however, that Einstein's complaint about his difficulties in getting
+hold of books and journals, while no doubt genuine, is only a secondary factor in
+the understanding of his handling of existing literature. The truth of the matter
+is that he did not much care. Read for example what he wrote in the introduction
+to a paper published in 1906: 'It seems to me to be in the nature of the subject,
+that what is to follow might already have been partially clarified by other authors.
+However, in view of the fact that the questions under consideration are treated
+here from a new point of view, I believed I could dispense with a literature search
+which would be very troublesome for me, especially since it is to be hoped that
+other authors will fill this gap, as was commendably done by Herr Planck and
+Herr Kaufmann on the occasion of my first paper on the principle of relativity'
+[E5].* This statement is not arrogant if, and only if, arrogance is a mark of inse-
+curity. To me these lines express ebullience, total self-assurance, and a notable
+lack of taste.**
+The period during which Einstein was unaware of Poincare's technical writing
+on relativity now stretches into 1908. I noted in Section 6b that by 1905 Einstein
+had already read Poincare's La Science et I'Hypothese, in which it is conjectured
+that the undetectability of the earth's motion relative to the aether should hold to
+fSee Section 7c.
+*"Es scheint mir in der Natur der Sache zu liegen, dasz das Nachfolgende zum Teil bereits von
+anderen Autoren klargestellt sein diirfte. Mit Riicksicht darauf jedoch, dasz hier die betreffenden
+Fragen von einem neuen Gesichtspunkt aus behandelt sind, glaubte ich, von einer fur mich sehr
+umstandlichen Durchmusterung der Literatur absehen zu diirfen, zumal zu hoffen 1st, dasz diese
+Liicke von anderen Autoren noch ausgefiillt werden wird, wie dies in dankenswerter Weise bei mei-
+ner ersten Arbeit iiber das Relativitatsprinzip durch Hrn. Planck und Hrn. Kaufmann bereits ge-
+schehen ist."
+** Einstein was evidently able to get to the literature if he set his mind to it. A number of journals
+are quoted in his 1907 paper [El], including even the American Journal of Science of 1887 in which
+the Michelson-Morley experiment was reported. I would not be surprised if Einstein had copied
+that reference from one of Lorentz's papers. Also, in 1906 Einstein mentioned [E6] a paper by
+Poincare [P2] which came to his attention because it appeared in a Festschrift for Lorentz.
+l66 RELATIVITY, THE SPECIAL THEORY
+all orders in v/c and also in which critical comments are made on the naive use
+of simultaneity. It cannot be said, however, that the content of Einstein's June
+1905 paper depends in any technical sense on these important remarks by Poin-
+care. Others in Einstein's position might perhaps have chosen to mention Poincare
+at the earliest opportunity. However, it does not seem to me that Einstein had
+compelling reasons to do so in 1905. I shall return soon to what Einstein had to
+say about Poincare in later years. Here I note that Poincare's name appears only
+once in a paper by Einstein on relativity, to wit, in 'Geometric und Erfahrung,'
+the text of a lecture he gave in 1921 on general relativity [E7] in which he praises
+'der tiefe und scharfsinnige Poincare,' the deep and sharp-witted P., for his ideas
+on non-Euclidean geometry—ideas which, incidentally, are found in Chapter 3
+of La Science et I'Hypothese.
+3. Lorentz and the Aether. To Lorentz simplicity meant simple dynamics.
+As an important example of the Lorentz style, consider his reaction to Kaufmann's
+result of 1901-6 about the purely electromagnetic origin of the electron's mass*:
+'With a view to simplicity, it will be best to admit Kaufmann's conclusion, or
+hypothesis, if we prefer so to call it, that the negative electrons have no material
+mass at all. This is certainly one of the most important results of modern physics
+.. .' [LI]. I believe that Lorentz clung to the idea of a purely electromagnetic
+electron mass for the rest of his life.
+Lorentz's words about Kaufmann are found in his 1906 Columbia lectures, the
+publication of which was held up for three years 'on account of my wish to give
+some further development to the subject' [L2]. Despite this considerable delay,
+'Einstein's principle of relativity [has not] received an adequate treatment' [L2].
+This is indeed true. For example, Lorentz still opines that the contraction of rods
+has a dynamic origin. There is no doubt that he had read and understood Ein-
+stein's papers by then. However, neither then nor later was he prepared to accept
+their conclusions as the definitive answer to the problems of the aether. With his
+customary clarity, he stated his own credo in the course of lectures given at the
+Teyler Foundation in Haarlem in 1913 [L3]:
+'According to Einstein, it has no meaning to speak of motion relative to the
+aether. He likewise denies the existence of absolute simultaneity.
+'It is certainly remarkable that these relativity concepts, also those concerning
+time, have found such a rapid acceptance.
+'The acceptance of these concepts belongs mainly to epistemology.... It is cer-
+tain, however, that it depends to a large extent on the way one is accustomed to
+think whether one is most attracted to one or another interpretation. As far as this
+lecturer is concerned, he finds a certain satisfaction in the older interpretations,
+according to which the aether possesses at least some substantiality, space and time
+can be sharply separated, and simultaneity without further specification can be
+spoken of. In regard to this last point, one may perhaps appeal to our ability of
+*See Section 7e.
+THE EDGE OF HISTORY 167
+imagining arbitrarily large velocities. In that way, one comes very close to the
+concept of absolute simultaneity.
+'Finally, it should be noted that the daring assertion that one can never observe
+velocities larger than the velocity of light contains a hypothetical restriction of
+what is accessible to us, [a restriction] which cannot be accepted without some
+reservation.'
+It is clear beyond doubt that Lorentz's imagination was the classical imagina-
+tion. Light moves with a velocity c km/s. There is no difficulty in imagining a
+velocity equal to c + 1 km/s. The classical mind asserts, the relativistic mind
+denies, that a velocity which can be imagined mathematically can necessarily be
+reached physically.
+As I understand Lorentz, he was a leader in theoretical physics who fully
+grasped all the physical and mathematical aspects of the special theory of relativity
+but who nevertheless could not quite take leave of a beloved classical past. This
+attitude has nothing to do with personality conflicts. Those were alien to him.
+Einstein and Poincare always spoke in praise of him, Lorentz always reciprocated.
+Nor did he hesitate to make clear where he had been in error: 'The chief cause of
+my failure [in discovering special relativity] was my clinging to the idea that only
+the variable t can be considered as the true time and that my local time t' must
+be regarded as no more than an auxiliary mathematical quantity,' he wrote in a
+note added to the second edition of his Columbia lectures [L4]. In a draft* of a
+letter to Einstein, written in January 1915 [L5], Lorentz wrote the following
+about the FitzGerald-Lorentz contraction: 'I added the remark that one arrives
+at this hypothesis if one extends to other forces what one can already say about
+the influence of a translation on electrostatic forces. If I had stressed this more,
+then the hypothesis would have given much less of an impression of having been
+invented ad hoc.' Lorentz never fully made the transition from the old dynamics
+to the new kinematics.**
+4. Poincare and the Third Hypothesis. In April 1909 Poincare gave a series
+of six lectures [P3] in Goettingen. In the last of these, entitled 'La Mecanique
+Nouvelle,' the lecturer dealt with questions bearing on relativity. At first glance
+the reader of this text may experience surprise at not finding any mention of Ein-
+stein, whose theory was four years old by then. On closer scrutiny, he will find
+that this absence is justified. Poincare does not describe Einstein's theory.
+The new mechanics, Poincare said, is based on three hypotheses. The first of
+these is that bodies cannot attain velocities larger than the velocity of light. The
+second is (I use modern language) that the laws of physics shall be the same in all
+inertial frames. So far so good. Then Poincare introduces a third hypothesis: 'One
+'This draft was discovered in 1979 by A. Kox in one of Lorentz's notebooks. I am grateful to Dr
+Kox for drawings my attention to this text.
+"'According to Born, 'Lorentz . . . probably never became a relativist at all, and only paid lip service
+to Einstein at times, to avoid arguments' [B2].
+l68 RELATIVITY, THE SPECIAL THEORY
+needs to make still a third hypothesis, much more surprising, much more difficult
+to accept, one which is of much hindrance to what we are currently used to. A
+body in translational motion suffers a deformation in the direction in which it is
+displaced. .. . However strange it may appear to us, one must admit that the third
+hypothesis is perfectly verified.' It is evident that as late as 1909 Poincare did not
+know that the contraction of rods is a consequence of the two Einstein postulates.
+Poincare therefore did not understand one of the most basic traits of special
+relativity.
+Should one give Poincare the benefit of the doubt and assume that his reference
+to a third hypothesis was made only for pedagogical reasons? This, I think, would
+be too far-fetched. Moreover, if one rereads his earlier papers in the light of what
+has just been noted, one finds a distinct similarity in the way he treats the
+FitzGerald-Lorentz contraction. I repeat what Poincare said in St Louis in 1904
+[P4]. On that occasion he also introduced in essence the first two postulates and
+then added, 'Unfortunately, [this reasoning] is not sufficient and complementary
+hypotheses are necessary; one must assume that bodies in motion suffer a uniform
+contraction in their direction of motion.' One rereads the grand memoir in the
+Rendiconti di Palermo [PI] and finds an admirable discussion of the Lorentz
+transformation but no mention that these transformations imply the contraction
+of rods; the emphasis in that paper is on dynamics. It is likewise the case in a
+semipopular account of relativity which Poincare wrote in 1908 [P5].
+My own assessment of Poincare's contributions to relativity coincides with what
+was said about him during the opening remarks of the meeting in Paris of the
+Societe Francaise de Philosophic, referred to earlier: 'The solution anticipated by
+Poincare was given by Einstein in his memoir of 1905 on special relativity. He
+accomplished the revolution which Poincare had foreseen and stated at a moment
+when the development of physics seemed to lead to an impasse' [L6].
+5. Whittaker and the History of Relativity. In 1910, Edmund Whittaker pub-
+lished a book entitled History of the Theories of Aether and Electricity [ W1 ]. This
+work covers the period from Descartes to the close of the nineteenth century. Col-
+leagues more knowledgeable on this period than I, confirm my impression that it
+is a masterpiece. Forty years later, a revised edition of this book came out. At that
+time Whittaker also published a second volume dealing with the period from 1900
+to 1926 [W2]. His treatment of the special theory of relativity in the latter volume
+shows how well the author's lack of physical insight matches his ignorance of the
+literature. I would have refrained from commenting on his treatment of special
+relativity were it not for the fact that his book has raised questions in many minds
+about the priorities in the discovery of this theory. Whittaker's opinion on this
+point is best conveyed by the title of his chapter on this subject: 'The Relativity
+Theory of Poincare and Lorentz.'* Born had given Whittaker fair warning [B3].
+Einstein's reaction was, 'I do not have to read the thing. ... If he manages to
+convince others, that is their own affair' [B4].
+*Whittaker's obituary of Einstein written for the Royal Society is no work of art either [W3].
+THE EDGE OF HISTORY 169
+6. Lorentz and Poincare. Every paper by Poincare dealing with the principle
+of relativity acknowledges Lorentz's pioneering role. In his Goettingen lectures,
+Poincare called him one of the 'grands demolisseurs' of Newtonian mechanics (I
+wonder if Lorentz would have agreed with that) and referred once again to his
+'very ingenious invention' of the idea of a local time.
+Conversely, Lorentz had high esteem for Poincare. In his major article of 1904
+he acknowledged the stimulus of Poincare's criticism (expressed at the Paris Con-
+gress of 1900) to the effect that too many independent hypotheses had been intro-
+duced in his earlier work [L7]. Later he wrote to Poincare acknowledging receipt
+of 'the important memoir on the dynamics of the electron' [L8]. In Volume 38 of
+the Acta Mathematica, devoted in its entirety to appreciations of the late Poincare,
+Lorentz gave a detailed analysis of the Palermo paper [L9] in which, incidentally,
+an imaginary time coordinate (x4 = icf) is introduced for the first time. Regarding
+Poincare's contributions to the principles of relativity, Lorentz's view is balanced,
+as always. In both editions of the Columbia lectures, Poincare appears only in
+connection with the stress terms he invented. In a letter to Einstein, Lorentz rem-
+inisced about the origins of the special theory: 'I felt the need for a more general
+theory, which I tried to develop later [i.e., in 1904] and which you (and to a lesser
+extent Poincare) formulated' [L5].
+7. Lorentz and Einstein. As Einstein told me more than once, Lorentz was
+to him the most well-rounded and harmonious personality he had met in his entire
+life. Einstein's thoughts and feelings about Lorentz were a blend of respect, love,
+and awe. 'I admire this man as no other, I would say I love him,' he wrote to
+Laub in 1909 [E8]. In a letter to Grossmann, he called Lorentz 'our greatest
+colleague' [E9]. To Lorentz himself he wrote, 'You will surely feel that I feel an
+unbounded admiration for you' [E10]. In a memorial service held at the Univer-
+sity of Leiden shortly after Lorentz's death, Einstein was one of the speakers: 'The
+enormous significance of his work consisted therein, that it forms the basis for the
+theory of atoms and for the general and special theories of relativity. The special
+theory was a more detailed expose of those concepts which are found in Lorentz's
+research of 1895'[Ell].
+Lorentz's life centered on Arnhem, Leiden, and Haarlem. He was forty-four
+years old when he attended his first international physics conference, just across
+the Dutch border. At that same age, Einstein had already lived in four countries
+and had held four professorships in succession. He, the bird of passage, must at
+times have been wistful about the Dutch upper-middle-class stability and serenity
+of Lorentz's existence.
+Lorentz's esteem for Einstein was extremely high as well. In Chapter 12, I
+shall have more to relate about the interactions between these two men at the time
+that Lorentz almost got Einstein to accept a permanent position in Holland.
+8. Poincare and Einstein. Why did Poincare not mention Einstein in his
+Goettingen lectures? Why is there no paper by Poincare in which Einstein and
+relativity are linked? It is inconceivable that Poincare would have studied Ein-
+stein's papers of 1905 without understanding them. It is impossible that in 1909
+170 RELATIVITY, THE SPECIAL THEORY
+(the year he spoke in Goettingen) he would never have heard of Einstein's activ-
+ities in this area. Shall I write of petulance or professional envy? I shall not, since
+my reader's speculations are as good as my own. Could it be that Poincare had
+had a mere glance at Einstein's papers and had concluded too hastily that he knew
+all that already and that there was nothing new there? Possibly. It would be nei-
+ther far-fetched nor a unique occurrence. In his book The Anxiety of Influence,
+Harold Bloom writes, 'Strong poets make ... history by misreading one another,
+so as to clear imaginative space for themselves,' and speaks of 'strong poets, major
+figures with the persistence to wrestle with their strong precursors even to the
+death' [B5].* In such respects I see little difference between strong poets and
+strong creative personalities in any other domain. Poincare's reaction to Riemann
+[Kl] and Einstein's to Hilbert (to be discussed in Chapter 14) may be cases in
+point. In any event, the questions are interesting and based on fact, the answers
+are beyond certain reach. In my opinion, it is more significant that Poincare until
+shortly before his death remained silent about Einstein than that Einstein until
+shortly before his death remained silent about Poincare. In closing the case of
+Poincare and Einstein, I offer their final statements with only minor comments of
+my own.
+Alexander Moszkowski begins his biography of Einstein [ M2] by recalling that
+on October 13,1910, Poincare gave a lecture before the Berliner Wissenschaftliche
+Verein about 'die neue Mechanik' (Poincare was quite comfortable with the Ger-
+man language). 'In this lecture it happened for the first time that we heard the
+name Albert Einstein.' Poincare spoke of 'the beginning of a current which, as he
+confessed, had disturbed the equilibrium of his earlier opinions.' Alas, we are not
+told in what way the speaker referred to Einstein.
+Einstein and Poincare met (for the first and last time, I believe) at the first
+Solvay Conference, held in Brussels in October 1911. About this encounter Ein-
+stein reported as follows to a friend: 'Poincare war (gegen die Relativitatstheorie)
+einfach allgemein ablehnend, zeigte bei allem Scharfsinn wenig Verstandnis fur
+die Situation' [E12].** It is apparent once again that Poincare either never under-
+stood or else never accepted the special theory of relativity.
+Shortly thereafter, the authorities at the ETH, in the course of their prepara-
+tions for offering Einstein a professorship, asked Poincare for an opinion about
+him. Poincare replied, 'Monsieur Einstein is one of the most original minds I have
+known; in spite of his youth he already occupies a very honorable position among
+the leading scholars of his time. We must especially admire in him the ease with
+which he adapts himself to new concepts and his ability to infer all the conse-
+quences from them. He does not remain attached to the classical principles and,
+faced with a physics problem, promptly envisages all possibilities. This is trans-
+*I would like to thank Sara Pais for directing me to Bloom's book.
+**P. was simply generally antipathetic (in regard to relativity theory) and showed little understand-
+ing for the situation despite all his sharp wit.
+THE EDGE OF HISTORY 171
+lated immediately in his mind into an anticipation of new phenomena, susceptible
+some day to experimental verification. I would not say that all his expectations
+will resist experimental check when such checks will become possible. Since he is
+probing in all directions, one should anticipate, on the contrary, that most of the
+roads he is following will lead to dead ends; but, at the same time, one must hope
+that one of the directions he has indicated will be a good one; and that suffices'
+[P6].
+That, as best I know, is the single and final judgment on Einstein that Poincare
+left us. Twice, having met Einstein and written this letter, did he comment on
+relativity [P7, P8]. Twice did he mention Lorentz but not Einstein, though he
+referred to Einstein in connection with the photo effect on the second of these
+occasions. That was in an address given on April 11, 1912. He died unexpectedly
+three months later.
+In 1919, the mathematician Mittag-Leffler wrote to Einstein, asking him to
+contribute an article to the Ada Mathematica volume in honor of Poincare [M3].
+Four months later, Einstein responded. The letter had reached him after a long
+delay and 'it might be too late' now [E14]. Mittag-Leffler replied that Einstein
+could still send a paper if he cared to do so [M4]. Two and a half months later,
+Einstein replied that obligations and travel prevented him from contributing, add-
+ing that his decision 'should be considered as nothing but high respect for the task'
+[EH].
+In December 1920, a New York Times correspondent interviewed Einstein in
+his home on the Haberlandstrasse in Berlin. In reply to a question about the
+origins of relativity theory, Einstein said, 'It was found that [Galilean invariance]
+would not conform to the rapid motions in electrodynamics. This led the Dutch
+professor Lorentz and myself to develop the theory of special relativity . ..' [El5].
+An additional mention of Poincare's pioneering ideas might have been gracious.
+In an interview with Le Figaro in 1921, he expressed his great admiration for
+Poincare, however [El6].
+In the early 1950s, I once asked Einstein how Poincare's Palermo paper had
+affected his thinking. Einstein replied that he had never read that paper. I owned
+a copy—a second-hand exemplar of the Gauthier-Villars reprint—and asked if
+he would like to borrow that. Yes, he said, he would. I brought it to him. It was
+never returned to me. Some time after Einstein's death, I asked Helen Dukas if
+she would please look for it. It had vanished. .. .
+Perhaps he did read it. In 1953 Einstein received an invitation to attend the
+forthcoming Bern celebration of the fiftieth anniversary of special relativity. Ein-
+stein wrote back that his health did not permit him to plan such a trip. In this
+letter Einstein mentions for the first time (as far as I know) Poincare's role in
+regard to the special theory: 'Hoffentlich wird dafiir gesorgt dasz die Verdienste
+von H. A. Lorentz und H. Poincare bei dieser Gelegenheit ebenfalls sachgemass
+gewiirdigt werden'* [E17]. The Bern conference took place shortly after Ein-
+*I hope that one will also take care on that occasion to honor suitably the merits of L. and P.
+172 RELATIVITY, THE SPECIAL THEORY
+stein's death. The task of speaking about Lorentz and Poincare fell to Born (who
+had attended Poincare's Goettingen lecture). He did not acquit himself well.**
+Two months before his death, Einstein gave his fair and final judgment:
+'Lorentz had already recognized that the transformations named after him are
+essential for the analysis of Maxwell's equations, and Poincare deepened this
+insight still further ...' [E18].
+9. Coda: The Michelson-Morley Experiment. In concluding this account of
+the history of special relativity, I return to its origins. Toward the end of Section
+6a, I promised to comment further on Einstein's reticence in acknowledging the
+influence of the Michelson-Morley experiment on his thinking. I now do so.
+In a letter to an historian, written a year before his death, Einstein expressed
+himself for the last time on this subject: 'In my own development, Michelson's
+result has not had a considerable influence. I even do not remember if I knew of
+it at all when I wrote my first paper on the subject (1905). The explanation is
+that I was, for general reasons, firmly convinced that there does not exist absolute
+motion and my problem was only how this could be reconciled with our knowledge
+of electrodynamics. One can therefore understand why in my personal struggle
+Michelson's experiment played no role, or at least no decisive role' [E19].
+Why this need not to remember or, at best, to underplay this influence?
+Just over twenty years before Einstein wrote this late letter, just under twenty
+years after his creation of the special theory, he gave a lecture at Oxford entitled
+'On the Method of Theoretical Physics' [E20], in the course of which he said, 'It
+is my conviction that pure mathematical construction enables us to discover the
+concepts and the laws connecting them, which give us the key to the understanding
+of the phenomena of Nature.' It seems to me that here Einstein grossly overesti-
+mates the capabilities of the human mind, even of one as great as his own. It is
+true that the theoretical physicist who has no sense of mathematical elegance,
+beauty, and simplicity is lost in some essential way. At the same time it is dan-
+gerous and can be fatal to rely exclusively on formal arguments. It is a danger
+from which Einstein himself did not escape in his later years.
+The emphasis on mathematics is so different from the way the young Einstein
+used to proceed. What wrought this change? Obviously, his realization that Rie-
+mannian geometry lay waiting for him as he groped his way to general relativity
+must have deeply affected his subsequent thinking. Could it be, however, that the
+conviction expressed in Oxford had even earlier roots?
+Stepping beyond the edge of history, I offer the thought that, just barely visible,
+the origins of Einstein's later attitude toward the discovery of concepts by purely
+mathematical thinking may go back to 1905. The kinematic part of his June paper
+has the ideal axiomatic structure of a finished theory, a structure which had
+**'The reasoning used by Poincare was just the same as that which Einstein introduced in his first
+paper of 1905. .. . Does this mean that Poincare knew all this before Einstein? It is possible . ..'
+[B6],
+THE EDGE OF HISTORY 173
+abruptly dawned on him after a discussion with Besso. Is it possible that this
+experience was so overwhelming that it seared his mind and partially blotted out
+reflections and information that had been with him earlier, as the result of deep-
+seated desires to come closer to the divine form of pure creation? Of course that
+is possible. Of course neither I nor anyone else will ever know whether it is true.
+And of course Einstein could never have been of any help in finding out.
+References
+Bl.. H. Bergson, Bull. Soc. Fran. Phil. 22, 102 (1922).
+B2. M. Born, The Born-Einstein Letters (I. Born, Tran.), p. 198. Walker and Cy,
+New York, 1971.
+B3. —, letter to A. Einstein, September 26, 1953; [B2], p. 197.
+B4. , [B2], p. 199.
+B5. H. Bloom, The Anxiety of Influence, p. 5. Oxford University Press, Oxford, 1973.
+B6. M. Born, Helv. Phys. Acta Suppl. 4, 244 (1956).
+El. A. Einstein, Jahrb. Rod. Elektr. 4, 411 (1907).
+E2. ——, letter to J. Stark, September 25, 1907.
+E3. , letter to M. Besso, March 17, 1903; EB, p. 13.
+E4. , Jahrb. Rad. Elektr. 5, 18 (1908).
+E5. , AdP23, 371 (1907).
+E6. , AdPZO, 627 (1906).
+E7. , PAW, 1921, p. 123. An extended version was published by Springer, Berlin,
+1921.
+E8. , letter to J. Laub, May 19, 1909.
+E9. —, letter to M. Grossmann, December 10, 1911.
+E10. , letter to H. A. Lorentz, November 23, 1911.
+Ell. , Math.-Naturw. Blatt. 22, 24 (1928).
+E12. , letter to H. Zangger, November 15, 1911.
+El3. , letter to M. G. Mittag-Leffler, April 12, 1920.
+E14. , letter to M. G. Mittag-Leffler, July 21, 1920.
+E15. , The New York Times, December 3, 1920.
+E16. , letter to A. Sommerfeld, January 28, 1922. Reprinted in Albert Einstein/
+Arnold Sommerfeld Briefwechsel (A. Hermann, Ed.), p. 99. Schwabe Verlag, Stutt-
+gart, 1968.
+E17. —, letter to A. Mercier, November 9, 1953.
+E18. , letter to C. Seelig, February 19, 1955; Se, p. 114.
+E19. —, letter to F. C. Davenport, February 9, 1954.
+E20. , On the Method of Theoretical Physics. Oxford University Press, Oxford,
+1933.
+HI. A. Herman, Sudhoffs Archiv. 50, 267 (1966).
+Kl. F.Klein, Vorlesungen iiber die Entwicklung der Mathematik im 19 Jahrhundert,
+Vol. 1, pp. 374-80, Springer, New York, 1979.
+LI. H. A. Lorentz, Theory of Electrons (1st edn.), p. 43. Teubner, Leipzig, 1909.
+L2. , [LI], preface.
+L3. , Das Relativitatsprinzip, p. 23. Teubner, Leipzig, 1920.
+174 RELATIVITY, THE SPECIAL THEORY
+L4. , [LI], 2nd edn., 1915, p. 321.
+L5. , draft of letter to A. Einstein, January 1915, undated.
+L6. X. Leon in [Bl], p. 93.
+L7. H. A. Lorentz, Proc. Roy. Soc. Amsterdam 6, 809 (1904). Reprinted in H. A.
+Lorentz, Collected Papers, Vol. 5, p. 172. Nyhoff, the Hague, 1937.
+L8. , letter to H. Poincare, March 8, 1906. Reprinted in A. I. Miller's contribution
+to the Proceedings of the Jerusalem Einstein Centennial Symposium, March 1979.
+L9. —, Acta Math. 38, 293 (1921).
+Ml. H. Minkowski, AdPtf, 927 (1915).
+M2. A. Moszkowski, Einstein, p. 15. Fontane, Berlin, 1921-2.
+M3. M. G. Mittag-Leffler, letter to A. Einstein, December 16, 1919.
+M4. , letter to A. Einstein, May 3, 1920.
+PI. H. Poincare, Rend. Circ. Mat. Palermo, 21, 129 (1906). Reprinted in Oeuvres de
+Henri Poincare, Vol. 9, p. 494. Gauthier-Villars, Paris, 1954.
+P2. , Arch. Neerl. 5, 252 (1900); Oeuvres, Vol. 9, p. 464. Also in Recueil de Tra-
+vaux Offerts a H. A. Lorentz. Nyhoff, the Hague, 1900.
+P3. , Seeks Vortrage aus der Reinen Mathematik und Mathematischen Physik.
+Teubner, Leipzig, 1910.
+P4. , Bull. Sci. Math. 28, 302 (1904).
+P5. ; Rev. Gen. Sci. 19, 386 (1908); Oeuvres, Vol. 9, p. 551.
+P6. , letter to a colleague at the ETH, undated, probably November 1911.
+P7. , Scientia 12, 159 (1912). Reprinted in Dernieres Pensees, Chap. 2. Flam-
+marion, Paris, 1913.
+P8. , /. de Phys. 5, 347 (1912). Reprinted Dernieres Pensees, Chap. 7.
+SI. J. Stark, letter to A. Einstein, October 4, 1907, published in [HI].
+Wl. E. T. Whittaker, History of the Theories of Aether and Electricity. Longman,
+Green, London, 1910.
+W2. E. T. Whittaker, History of the Theories of Aether and Electricity, Vol. 2. Nelson
+& Sons, New York, 1953.
+W3. E. T. Whittaker, Biogr. Mem. Fell. Roy. Soc. 1, 37 (1955).
+IV
+RELATIVITY,
+THE GENERAL THEORY
+This page intentionally left blank 

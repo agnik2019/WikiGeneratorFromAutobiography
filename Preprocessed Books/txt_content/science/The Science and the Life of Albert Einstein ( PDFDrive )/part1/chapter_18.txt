@@ -1,0 +1,265 @@
+i8
+Preliminaries
+18a. An Outline of Einstein's Contributions
+In 1948, I undertook to put together the Festschrift in honor of Einstein's seven-
+tieth birthday [Rl]. In a letter to prospective contributors, I wrote, 'It is planned
+that the first article of the volume shall be of a more personal nature and, written
+by a representative colleague, shall pay homage to Einstein on behalf of all con-
+tributors' [PI]. I then asked Robert Andrews Millikan to do the honors, as the
+senior contributor.* He accepted and his article is written in his customary forth-
+right manner. On that occasion, he expressed himself as follows on the equation
+E = hv — P for the photoelectric effect. 'I spent ten years of my life testing that
+1905 equation of Einstein's and contrary to all my expectations, I was compelled
+in 1915 to assert its unambiguous verification in spite of its unreasonableness,
+since it seemed to violate everything we knew about the interference of light' [Ml].
+Physics had progressed, and Millikan had mellowed since the days of his 1915
+paper on the photoeffect, as is evidenced by what he wrote at that earlier time:
+'Einstein's photoelectric equation .. . appears in every case to predict exactly the
+observed results.. .. Yet the semicorpuscular theory by which Einstein arrived at
+his equation seems at present wholly untenable' [M2]; and in his next paper,
+Millikan mentioned 'the bold, not to say the reckless, hypothesis of an electro-
+magnetic light corpuscle' [M3]. Nor was Millikan at that time the only first-rate
+physicist to hold such views, as will presently be recalled. Rather, the physics
+community at large had received the light-quantum hypothesis with disbelief and
+with skepticism bordering on derision. As one of the architects of the pre-1925
+quantum theory, the "old" quantum theory, Einstein had quickly found both
+enthusiastic and powerful support for one of his two major contributions to this
+field: the quantum theory of specific heat. (There is no reason to believe that such
+support satisfied any particular need in him.) By sharp contrast, from 1905 to
+1923, he was a man apart in being the only one, or almost the only one, to take
+the light-quantum seriously.
+*It was decided later that L. de Broglie, M. von Laue, and P. Frank should also write articles of a
+personal nature.
+357
+358 THE QUANTUM THEORY
+The critical reaction to Einstein's light-quantum hypothesis of 1905 is of great
+importance for an understanding of the early developments in quantum physics.
+It was also a reaction without parallel in Einstein's scientific career. Deservedly,
+his papers before 1905 had not attracted much attention. But his work on Brown-
+ian motion drew immediate and favorable response. The same is true for relativity.
+Planck became an advocate of the special theory only months after its publication;
+the younger generation took note as well. Lorentz, Hilbert, F. Klein, and others
+had followed the evolution of his ideas on general relativity; after 1915 they and
+others immediately started to work out its consequences. Attitudes to his work on
+unified field theory were largely critical. Many regarded these efforts as untimely,
+but few rejected the underlying idea out of hand. In regard to the quantum theory,
+however, Einstein almost constantly stood apart, from 1905 until his death. Those
+years cover two disparate periods, the first of which (1905-1923) I have just men-
+tioned. During the second period, from 1926 until the end of his life, he was the
+only one, or again nearly the only one, to maintain a profoundly skeptical attitude
+toward quantum mechanics. I shall discuss Einstein's position on quantum
+mechanics in Chapter 25, but cannot refrain from stating at once that Einstein's
+skepticism should not be equated with a purely negative attitude. It is true that
+he was forever critical of quantum mechanics, but at the same time he had his
+own alternative program for a synthetic theory in which particles, fields, and
+quantum phenomena all would find their place. Einstein pursued this program
+from about 1920 (before the discovery of quantum mechanics!) until the end of
+his life. Numerous discussions with him in his later years have helped me gain a
+better understanding of his views.
+But let me first return to the days of the old quantum theory. Einstein's con-
+tributions to it can be grouped under the following headings.
+(a) The Light-Quantum. In 1900 Planck discovered the blackbody radiation
+law without using light-quanta. In 1905 Einstein discovered light-quanta without
+using Planck's law. Chapter 19 is devoted to the light-quantum hypothesis. The
+interplay between the ideas of Planck and Einstein is discussed. A brief history of
+the photoelectric effect from 1887 to 1915 is given. This Chapter ends with a
+detailed account of the reasons why the light-quantum paper drew such a negative
+response.
+(b) Specific Heats. Toward the end of the nineteenth century, there existed
+grave conflicts between the data on specific heats and their interpretation in terms
+of the equipartition theorem of classical statistical mechanics. In 1906 Einstein
+completed the first paper on quantum effects in the solid state. This paper showed
+the way out of these paradoxes and also played an important role in the final
+formulation of the third law of thermodynamics. These topics are discussed in
+Chapter 20.
+(c) The Photon. The light-quantum as originally defined was a parcel of
+energy. The concept of the photon as a particle with definite energy and momen-
+tum emerged only gradually. Einstein himself did not discuss photon momentum
+PRELIMINARIES 359
+until 1917. Relativistic energy momentum conservation relations involving pho-
+tons were not written down till 1923. Einstein's role in these developments is dis-
+cussed in Chapter 21, which begins with Einstein's formulation in 1909 of the
+particle-wave duality for the case of electromagnetic radiation and also contains
+an account of his discovery of the A and B coefficients and of his earliest concern
+with the breakdown of classical causality. The Chapter concludes with remarks
+on the role of the Compton effect.
+The reader may wonder why the man who discovered the relation E = hv for
+light in 1905 and who propounded the special theory of relativity in that same
+year would not have stated sooner the relation p = hv/c. I shall comment on this
+question in Section 25d.
+(d) Einstein's work on quantum statistics is treated in Chapter 23, which also
+includes a discussion of Bose's contribution.
+(e) Einstein's role as a key transitional figure in the discovery of wave
+mechanics will be discussed in Chapter 24.
+I shall continue the outline of Einstein's contributions to the quantum theory
+in Section 18c. First, however, I should like to take leave of our main character
+for a brief while in order to comment on the singular role of the photon in the
+history of the physics of particles and fields. In so doing, I shall interrupt the
+historical sequence of events in order to make some comments from today's van-
+tage point.
+18b. Particle Physics: The First Fifty Years
+Let us leave aside the photon for a while and ask how physicists reacted to the
+experimental discovery or the theoretical prediction (whichever came first) of other
+new particles. No detailed references to the literature will be given, in keeping
+with the brevity of my comments on this subject.
+The discovery in 1897 of the first particle, the electron, was an unexpected
+experimental development which brought to an end the ongoing debate about
+whether cathode rays are molecular torrents or aetherial disturbances. The answer
+came as a complete surprise: they are neither, but rather are a new form of matter.
+There were some initial reactions of disbelief. J. J. Thomson once recalled the
+comment of a colleague who was present at the first lecture Thomson gave on the
+new discovery: 'I [T.] was told long afterwards by a distinguished physicist who
+had been present at my lecture that he thought I had been "pulling their leg" '
+[Tl]. Nevertheless, the existence of the electron was widely accepted within the
+span of very few years. By 1900 it had become clear that beta rays are electrons
+as well. The discoveries of the free electron and of the Zeeman effect (in 1896)
+combined made it evident that a universal atomic constituent had been discovered
+and that the excitations of electrons in atoms were somehow the sources of atomic
+spectra.
+The discovery of the electron was a discovery at the outer experimental frontier.
+360 THE QUANTUM THEORY
+In the first instance, this finding led to the abandonment of the earlier qualitative
+concept of the indivisibility of the atom, but it did not require, or at least not at
+once, a modification of the established corpus of theoretical physics.
+During the next fifty years, three other particles entered the scene in ways not
+so dissimilar from the case of the electron, namely, via unexpected discoveries of
+an experimental nature at the outer frontier. These are the proton (or, rather, the
+nucleus), the neutron,* and—just half a century after the electron—the muon,
+the first of the electron's heavier brothers. As to the acceptance of these particles,
+it took little time to realize that their coming was, in each instance, liberating.
+Within two years after Rutherford's nuclear model, Bohr was able to make the
+first real theoretical predictions in atomic physics. Almost at once after the discov-
+ery of the neutron, the first viable models of the nucleus were proposed, and
+nuclear physics could start in earnest. The muon is still one of the strangest ani-
+mals in the particle zoo, yet its discovery was liberating, too, since it made possible
+an understanding of certain anomalies in the absorption of cosmic rays. (Prior to
+the discovery of the muon, theorists had already speculated about the need for an
+extra particle to explain these anomalies.)
+To complete the particle list of the first half century, there are four more par-
+ticles (it is too early to include the graviton) which have entered physics—but in
+a different way: initially, they were theoretical proposals. The first neutrino was
+proposed in order to save the law of energy conservation in beta radioactivity. The
+first meson (now called the pion) was proposed as the conveyer of nuclear forces.
+Both suggestions were ingenious, daring, innovative, and successful—but did not
+demand a radical change of theory. Within months after the public unveiling of
+the neutrino hypothesis, the first theory of the weak interactions, which is still
+immensely useful, was proposed. The meson hypothesis immediately led to con-
+siderable theoretical activity as well.
+The neutrino hypothesis was generally assimilated long before this particle was
+actually observed. The interval between the proposal and the first observation of
+the neutrino is even longer than the corresponding interval for the photon. The
+meson postulate found rapid experimental support from cosmic-ray data—or so
+it seemed. More than a decade passed before it became clear that the bulk of these
+observations actually involved muons instead of pions.
+Then there was the positron, 'a new kind of particle, unknown to experimental
+physics, having the same mass and opposite charge to an electron' [Dl]. This
+particle was proposed in 1931, after a period of about three years of considerable
+*It is often said, and not without grounds, that the neutron was actually anticipated. In fact, twelve
+years before its discovery, in one of his Bakerian lectures (1920) Rutherford spoke [R2] of 'the idea
+of the possible existence of an atom of mass one which has zero nuclear charge.' Nor is there any
+doubt that the neutron being in the air at the Cavendish was of profound importance to its discoverer,
+James Chadwick [Cl]. Even so, not even a Rutherford could have guessed that his 1920 neutron
+(then conjectured to be a tightly bound proton-electron system) was so essentially different from the
+particle that would eventually go by that name.
+PRELIMINARIES 361
+controversy over the meaning of the negative energy solutions of the Dirac equa-
+tion. During that period, one participant expressed fear for 'a new crisis in quan-
+tum physics'[Wl]. The crisis was short-lived, however. The experimental discov-
+ery of the positron in 1932 was a triumph for theoretical physics. The positron
+theory belongs to the most important advances of the 1930s.
+And then there was the photon, the first particle to be predicted theoretically.
+Never, either in the first half-century or in the years thereafter, has the idea of
+a new particle met for so long with such resistance as the photon. The light-quan-
+tum hypothesis was considered somewhat of an aberration even by leading phys-
+icists who otherwise held Einstein in the highest esteem. Its assimilation came
+after a struggle more intense and prolonged than for any other particle ever pos-
+tulated. Because never, to this day, has the proposal of any particle but the photon
+led to the creation of a new inner frontier. The hypothesis seemed paradoxical:
+light was known to consist of waves, hence it could not consist of particles. Yet
+this paradox alone does not fully account for the resistance to Einstein's hypoth-
+esis. We shall look more closely at the situation in Section 19f.
+18c. The Quantum Theory: Lines of Influence
+The skeleton diagram below is an attempt to reduce the history of the quantum
+theory to its barest outlines. At the same time, this figure will serve as a guide to
+the rest of this paper; in it X -* Y means 'the work of X was instrumental to an
+advance by Y.' Arrows marked M and R indicate that the influence went via the
+theory of matter and radiation, respectively.
+If Planck, Einstein, and Bohr are the fathers of the quantum theory, then Gus-
+tav Robert Kirchhoff is its grandfather. Since he was the founder of optical spectra
+analysis (in 1860, together with Robert Bunsen [Kl]), an arrow leads from him
+and Bunsen to Johann Jakob Balmer, the inventor of the Balmer formula [Bl].
+From Balmer we move to Bohr, the founder of atomic quantum dynamics.
+Returning to Kirchhoff as the discoverer of the universal character of blackbody
+radiation [K2], we note that his influence goes via Wien to Planck (see further,
+Section 19a).
+The arrow from Wien to Planck refers to the latter's formulation of his black-
+body radiation law and the triangle Wien-Planck-Einstein to the mutual influ-
+ences which led to the light-quantum hypothesis (Sections 19b-d).
+The arrow from Bose to Einstein refers to Bose's work on electromagnetic
+radiation and its impact on Einstein's contributions to the quantum statistics of a
+material gas (Chapter 23, wherein Einstein's influence on Dirac is also briefly
+mentioned).
+The triangle Einstein-de Broglie-Schroedinger has to do with the role of Ein-
+stein as the transitional figure in the birth of wave mechanics, discussed in Chapter
+24.
+The h marking the arrow from Planck to Bohr serves as a reminder that not
+362 THE QUANTUM THEORY
+The quantum theory: Lines of influence.
+so much the details of Planck's work on radiation as the very introduction by
+Planck of his new universal constant h was decisive for Bohr's ideas about atomic
+stability. An account of Bohr's influence on Heisenberg and of Heisenberg's and
+Schroedinger's impact on Dirac is beyond the scope of the present book.
+In the case of Einstein and Bohr, it cannot be said that the work of one induced
+major advances in the work of the other. Therefore, the simplified diagram does
+not and should not contain links between them. Nevertheless, for forty years there
+were influences at work between Einstein and Bohr and these were in fact intense,
+but on a different plane. In a spirit of friendly and heroic antagonism, these two
+men argued about questions of principle. Chapter 22 deals with Bohr's resistance
+to Einstein's idea of the photon. This was but a brief interlude. It ended with the
+detailed experimental vindication of the photon concept, to which Bohr fully sub-
+scribed from then on. Their far more important debate on the foundations of
+quantum mechanics began in 1927. On these issues, the intellectual resistance and
+PRELIMINARIES 363
+opposition of one against the most basic views held by the other continued una-
+bated until the end of Einstein's life. At issue were the criteria by which one should
+judge the completeness of the description of the physical world. Their discussions
+have not affected the evolution of physical theory. Yet theirs will be remembered
+as one of the great debates on scientific principle between two dominant contem-
+porary figures.
+The dialogue between Bohr and Einstein had one positive outcome: it forced
+Bohr to express the tenets of complementarity in increasingly precise language.
+This debate will be one of the themes of Chapter 25, which deals with Einstein's
+objections to quantum mechanics.
+A point made earlier bears repeating here: Einstein's own visions on physics
+issues were often in opposition to the mainstream, but they were never negative.
+So it was in the case of quantum mechanics. After 1930 he considered this theory
+to be consistent and successful but incomplete. At the same time, he had his own
+aspirations for a future theory of particles and fields. I shall try to make clear in
+Chapter 26 what these were.
+I do not believe that Einstein presented valid arguments for the incompleteness
+of quantum theory, but neither do I think that the times are ripe to answer the
+question of whether the quantum-mechanical description is indeed complete, since
+to this day the physics of particles and fields is a subject beset with many unre-
+solved fundamental problems. Among these, there is one that was most dear to
+Einstein and with which he (and all of us to date) struggled in vain: the synthesis
+of quantum physics with general relativity. In the survey given in Chapter 2, I
+noted that we still have far to go in regard to this synthesis. The assessment of
+Einstein's view of this problem, to be given in Chapter 26, must therefore neces-
+sarily be tentative.
+References
+Bl. J. J. Balmer, AdP 25, 80 (1885).
+Cl. J. Chadwick, Proceedings Tenth International Conference on the History of Science,
+Ithaca, Vol., 1, p. 159. Hermann, Paris, 1962.
+Dl. P.A.M. Dirac, Proc. Roy. Soc. A133, 60 (1931).
+Kl. G. Kirchhoff and R. Bunsen, Ann. Phys. Chem. 110, 160 (1860).
+K2. , Ann. Phys. Chem. 109, 275 (1860).
+Ml. R. A. Millikan, Rev. Mod. Phys. 21, 343 (1949).
+M2. , Phys. Rev. 7, 18 (1916).
+M3. , Phys. Rev. 7, 355 (1916).
+PI. A. Pais, letter dated December 9, 1948.
+Rl. Rev. Mod. Phys. 21(3) (1949).
+R2. E. Rutherford, Proc. Roy. Soc. A97, 374 (1920).
+Tl. J. J. Thomson, Recollections and Reflections, p. 341. Bell, London, 1936.
+Wl. H. Weyl, The theory of groups and quantum mechanics (2nd edn.), pp. 263-264
+and preface. Dover, New York, 1930 (original edition published in 1928 as Grup-
+pentheorie und Quantenmechanik).

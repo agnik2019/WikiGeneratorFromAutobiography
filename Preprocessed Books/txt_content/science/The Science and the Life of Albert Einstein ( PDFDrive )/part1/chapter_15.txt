@@ -1,0 +1,1272 @@
+!5
+The New Dynamics
+15a. From 1915 to 1980
+Einstein arrived at the special theory of relativity after thinking for ten years about
+the properties of light. Electromagnetism was not the only area of physics that
+attracted his attention during those years. In the intervening time, he also thought
+hard about statistical mechanics and about the meaning of Planck's radiation law.
+In addition, he tried his hand at experiments. The final steps leading to his June
+1905 paper were made in an intense burst of activity that lasted for less than two
+months.
+Einstein arrived at the general theory of relativity after thinking for eight years
+about gravitation. This was not the only area of physics which attracted his atten-
+tion during those years. In the intervening time, he also thought hard about quan-
+tum physics and about statistical mechanics. In addition, he tried his hand at
+experiments. The final steps leading to his November 25,1915, paper were made
+in an intense burst of activity that lasted for less than two months.
+In every other respect, a comparison of the development of the special and the
+general theory is a tale of disparities. In June 1905, Einstein at once gave special
+relativity its ultimate form in the first paper he ever wrote on the subject. By
+contrast, before November 25, 1915, he had written more than a dozen papers on
+gravitation, often retracting in later ones some conclusions reached earlier. The
+November 25 paper is a monumental contribution, of that there can be no doubt.
+Yet this paper—again in contrast with the paper of June 1905—represents only
+a first beach-head in new territory, the only sure beacon at its time of publication
+(but what a beacon) being the one-week-old agreement between theory and exper-
+iment in regard to the perihelion precession of Mercury. Both in 1905 and in
+1915, Einstein presented new fundamental principles. As I have stressed repeat-
+edly, the theory of 1905 was purely kinematic in character. Its new tenets had
+already been digested to a large extent by the next generation of physicists. By
+contrast, general relativity consists of an intricate web of new kinematics and new
+dynamics. Its one kinematic novelty was perfectly transparent from the start:
+Lorentz invariance is deprived of its global validity but continues to play a central
+role as a local invariance. However, the new dynamics contained in the equations
+of general relativity has not been fully fathomed either during Einstein's life or in
+the quarter of a century following his death. It is true that since 1915 the under-
+266
+THE NEW DYNAMICS 267
+standing of general relativity has vastly improved, our faith in the theory has
+grown, and no assured limitations on the validity of Einstein's theory have been
+encountered. Yet, even on the purely classical level, no one today would claim to
+have a full grasp of the rich dynamic content of the nonlinear dynamics called
+general relativity.
+Having completed my portrait of Einstein as the creator of general relativity.
+I turn to a brief account of Einstein as its practitioner. For the present, I exclude
+his work on unified field theory, a subject that will be dealt with separately in
+Chapter 17.
+As I prepare to write this chapter, my desk is cluttered. Obviously, copies of
+Einstein's papers are at hand. In addition, I have the following books within
+reach: Pauli's encyclopedia article on relativity completed in 1920 [PI] as well as
+its English translation [P2], of particular interest because of the notes Pauli added
+in the mid-1950s; several editions of Weyl's Raum, Zeit, Materie (including the
+English translation of the fourth edition [Wl]), of importance because the vari-
+ances in the different editions are helpful for an understanding of the evolution of
+general relativity in the first decade after its creation; the book by North dealing
+with the history of modern cosmology to 1965 [Nl]; the fine source book on cos-
+mology published by the American Association of Physics Teachers [SI]; and, for
+diversion, the collection of papers on cosmology assembled by Munitz [Ml], in
+which Plato appears as the oldest and my friend Dennis Sciama as the youngest
+contributor. Taken together, these books are an excellent guide to the decade
+1915-25. They enable me to confine myself to a broad outline of this period and
+to refer the reader to these readily accessible volumes for more details.
+There are more books on my desk. The modern texts by Weinberg [W2] and
+by Misner, Thorne, and Wheeler [M2] (affectionately known as the 'telephone
+book') serve as sources of information about developments in general relativity
+during the rest of Einstein's life and the years beyond. Finally, my incomplete
+little library is brought up to date by a recent report of a workshop on sources and
+detectors of gravitational radiation [S2], the Einstein centenary survey by Hawk-
+ing and Israel [HI], the record of the centennial symposium in Princeton [W3],
+and the two centenary volumes published by the International Society on General
+Relativity and Gravitation [H2]. I have these five books near me for two reasons,
+first to remind me that these authoritative and up-to-date reviews of recent devel-
+opments free me from writing a full history of general relativity up to the present,
+a task which in any event would far exceed the scope of this book and the com-
+petence of its author, and second to remind me that my own understanding would
+lack perspective if I failed to indicate the enormous changes that have taken place
+in the ways general relativity is practiced today as compared with the way things
+were in Einstein's lifetime. I do indeed intend to comment on those changes, but
+will often urge my reader to consult these recent books for further particulars.
+268 RELATIVITY, THE GENERAL THEORY
+In preparation for the subsequent short sections which deal more directly with
+Einstein's work, I turn next to a general outline of the entire period from 1915 to
+the present.
+The decade 1915-25 was a period of consolidation and of new ideas. The main
+advances were the introduction in mathematics of parallel transport by Levi-Civ-
+ita in 1917 [LI], a concept soon widely used in general relativity; the emergence
+of a better understanding of the energy-momentum conservation laws as the result
+of the work by Einstein, Hilbert, Felix Klein, Lorentz, Schroedinger, and Her-
+mann Weyl; Einstein's first papers on gravitational waves; and the pioneering
+explorations of general relativistic cosmologies by Einstein, Willem de Sitter, and
+Aleksandr Aleksandrovich Friedmann. The number of participating theoretical
+physicists is small but growing.
+There were also two major experimental developments. The solar eclipse expe-
+ditions of 1919 demonstrated that light is bent by an amount close to Einstein's
+prediction [El] of November 18, 1915. (I shall return to this event in the next
+chapter.) The first decade of general relativity ends with the announcement by
+Edwin Powell Hubble in December 1924 of an experimental result which settled
+a debate that had been going on for well over a century: the first incontrovertible
+evidence for the existence of an extragalactic object, Messier 31, the Andromeda
+nebula [H3].* Theoretical studies of cosmological models received even more
+important stimulus and direction from Hubble's great discovery of 1929 that the
+universe is expanding: nebulas are receding with a velocity proportional to their
+distance. In Hubble's own words, there exists ' . . . a roughly linear relation
+between velocities and distances.. . . The outstanding feature ... is ... the pos-
+sibility that numerical data may be introduced into discussions of the general cur-
+vature of space' [H3a].** Still, the literature on cosmology remained modest in
+size, though high in quality.f Several attempts to revert to a neo-Euclidean theory
+of gravitation and cosmology were also made in this period [N4]. These have left
+no trace.
+The number of those actively engaged in research in general relativity continued
+to remain small in the 1930s, 1940s, and early 1950s. Referring to those years,
+Peter Bergmann once said to me, 'You only had to know what your six best friends
+were doing and you would know what was happening in general relativity.' Stud-
+ies of cosmological models and of special solutions to the Einstein equations con-
+*A brief history of cosmic distances is found in [W4].
+**The history of the antecedents of Hubble's law as well as of the improvements in the determination
+of Hubble's constant during the next few decades is given in [N2].
+•(•The most detailed bibliography on relativity up to the beginning of 1924 was compiled by Lecat
+[L2]. See also [N3]. A list of the principal papers on cosmology for the years 1917 to 1932 is found
+in[Rlj.
+THE NEW DYNAMICS 269
+tinued. There was also further research on the problem of motion (which had
+interested Einstein since 1927), the question of if and how the equations of motion
+of a distribution of matter can be obtained as a consequence of the gravitational
+field equations. By and large, throughout this period the advances due to general
+relativity are perceived to be the 'three successes'—the precession of the perihelion
+of Mercury, the bending of light, and the red shift—and a rationale for an
+expanding universe.
+However, in the 1930s a new element was injected which briefly attracted
+attention, then stayed more or less quiescent for a quarter of a century, after which
+time it became one of general relativity's main themes. Principally as an exercise
+in nuclear physics, J. Robert Oppenheimer and his research associate Robert Ser-
+ber decided to study the relative influence of nuclear and gravitational forces in
+neutron stars [Ol].* One of their aims was to improve the estimate made by Lev
+Davidovich Landau for the limiting mass above which an ordinary star becomes
+a neutron star. (Landau discussed a model in which this mass is ~ 0.001 O. He
+also suggested that every star has an interior neutron core [L2a].) Their work
+attracted the attention of Richard Chase Tolman. As a result of discussions
+between Tolman and Oppenheimer and his co-workers, there appeared in 1939,
+a pair of papers, one by Tolman on static solutions of Einstein's field equations
+for fluid spheres [Tl] and one, directly following it, by Oppenheimer and George
+Volkoff entitled 'On massive neutron cores' [O2]. In this paper, the foundations
+are laid for a general relativistic theory of stellar structure. The model discussed
+is a static spherical star consisting of an ideal Fermi gas of neutrons. The authors
+found that the star is stable as long as its mass < % O. (The present best value
+for a free-neutron gas is — 0.7 O and is called the Oppenheimer-Volkoff limit.)**
+Half a year later, the paper 'On continued gravitational attraction' by Oppenhei-
+mer and Hartland Snyder came out [O3]. The first line of its abstract reads,
+'When all thermonuclear sources of energy are exhausted, a sufficiently heavy star
+will collapse; [a contraction follows which] will continue indefinitely.' Thus began
+the physics of black holes, the name for the ultimate collapsed state proposed by
+John Archibald Wheeler at a conference held in the fall of 1967 at the Goddard
+Institute of Space Studies in New York [W5]. At that time, pulsars had just been
+discovered and neutron stars and black holes were no longer considered 'exotic
+objects [which] remained a textbook curiosity. . . . Cooperative efforts of radio and
+optical astronomers [had begun] to reveal a great many strange new things in the
+sky' [W6].
+Which brings us to the change in style of general relativity after Einstein's
+death.
+During Einstein's lifetime, there was not one major international conference
+*I am indebted to Robert Serber for a discussion of the papers on neutron stars by Oppenheimer
+and his collaborators.
+**For further details, see [M2], p. 627.
+270 RELATIVITY, THE GENERAL THEORY
+exclusively devoted to relativity theory and gravitation.* The first international
+conference on relativity convened in Bern, in July 1955, three months after his
+death. Its purpose was to celebrate the fiftieth anniversary of relativity. Einstein
+himself had been invited to attend but had to decline for reasons of health. How-
+ever, he had written to the organizers requesting that tribute be paid to Lorentz
+and Poincare. Pauli was in charge of the scientific program. Browsing through
+the proceedings of the meeting! one will note (how could it be otherwise) that the
+subjects dealt with are still relativity in the old style. This conference, now known
+as GR04 had 89 participants from 22 countries. It marked the beginning of a
+series of international congresses on general relativity and gravitation: GR1 was
+held in Chapel Hill, N.C. (1957), GR2 in Royaumont (1959), GR3 in Warsaw
+(1962), GR4 in London (1965), GR5 in Tblisi (1968), GR6 in Copenhagen
+(1971), GR7 in Tel Aviv (1974), and GR8 in Waterloo, Canada (1977). The
+most recent one, GR9, took place in Jena in June 1980. The growth of this field
+is demonstrated by the fact that this meeting was attended by about 800 partici-
+pants from 53 countries.
+What caused this growth and when did it begin? Asked this question, Dennis
+Sciama replied: 'The Bern Conference was followed two years later by the Chapel
+Hill Conference organized by Bryce de Witt. . .. This was the real beginning in
+one sense; that is, it brought together isolated people, showed that they had
+reached a common set of problems, and inspired them to continue working. The
+"relativity family" was born then. The other, no doubt more important, reason
+was the spectacular observational developments in astronomy. This began perhaps
+in 1954 when Cygnus A—the second strongest radio source in the sky—was iden-
+tified with a distant galaxy. This meant that (a) galaxies a Hubble radius away
+could be picked up by radio astronomy (but not optically), (b) the energy needed
+to power a radio galaxy (on the synchrotron hypothesis) was the rest mass energy
+« 108 solar masses, that is, 10~3 of a galaxy mass. Then came X-ray sources in
+1962, quasars in 1963, the 3°K background in 1965, and pulsars in 1967. The
+black hole in Cygnus X-l dates from 1972. Another climax was the Kruskal treat-
+ment** of the Schwarzschild solution in 1960, which opened the doors to modern
+black hole theory' [S5]. Thus new experimental developments were a main stim-
+*The Solvay conferences (which over the years have lost their preeminent status as summit meetings)
+did not deal with these subjects until 1958 [M3].
+f These were published in 1956 as Supplement 4 of Helvetica Physica Ada.
+:|Some call it GR1, not giving the important Chapel Hill meeting a number. Proceedings were pub-
+lished in the cases of GRO, GR1 (Rev. Mod. Phys. 29, 351 -546, 1957), GR2 (CNRS Report 1962),
+GR3 (Conference Internationale sur les Theories de la Gravitation, Gauthier-Villars, 1964) and
+GR7 [S3]. Some of the papers presented at the GR conferences after 1970 are found in the journal
+General Relativity and Gravitation.
+**Here Sciama refers to the coordinate system introduced independently by Kruskal [Kl] and by
+Szekeres [S4]. For details see [M2], Chapter 31.
+THE NEW DYNAMICS 271
+ulus for the vastly increased activity and the new directions in general relativity.
+The few dozen practitioners in Einstein's days are followed by a new generation
+about a hundred times more numerous.
+Now, in 1982, the beginning of a new era described by Sciama has already been
+followed by further important developments. In June 1980 I attended the GR9
+conference in order to find out more about the status of the field. Some of my
+impressions are found in what follows. Each of the next five sections is devoted to
+a topic in general relativity in which Einstein himself was active after 1915. In
+each section I shall indicate what he did and sketch ever so briefly how that subject
+developed in later years. In the final section, I list those topics which in their
+entirety belong to the post-Einsteinian era.
+15b. The Three Successes
+In 1933 Einstein, speaking in Glasgow on the origins of the general theory of
+relativity [E2], recalled some of his struggles, the 'errors in thinking which caused
+me two years of hard work before at last, in 1915,1 recognized them as such and
+returned penitently to the Riemann curvature, which enabled me to find the rela-
+tion to the empirical facts of astronomy.'
+The period 1914-15 had been a confusing two years, not only for Einstein but
+also for those of his colleagues who had tried to follow his gyrations. For example,
+when in December 1915 Ehrenfest wrote to Lorentz, he referred to what we call
+the theory of general relativity as 'the theory of November 25, 1915.' He asked if
+Lorentz agreed with his own understanding that Einstein had now abandoned his
+arguments of 1914 for the impossibility of writing the gravitational field equations
+in covariant form [E3]. All through December 1915 and January 1916, the cor-
+respondence between Lorentz and Ehrenfest is intense and reveals much about
+their personalities. Lorentz, aged 62, is calculating away in Haarlem, making
+mistakes, correcting them, finally understanding what Einstein has in mind. In a
+letter to Ehrenfest he writes, 'I have congratulated Einstein on his brilliant result'
+[L3]. Ehrenfest, aged 35, in Leiden, ten miles down the road, is also hard at work
+on relativity. His reply to Lorentz's letter shows a glimpse of the despair that
+would ultimately overwhelm him: 'Your remark "I have congratulated Einstein
+on his brilliant results" has a similar meaning for me as when one Freemason
+recognizes another by a secret sign' [E4].
+Meanwhile Lorentz had received a letter from Einstein in which the latter
+expressed his happiness with Lorentz's praise. Einstein added, 'The series of my
+papers about gravitation is a chain of false steps [Irrwegen] which nevertheless by
+and by led to the goal. Thus the basic equations are finally all right but the der-
+ivations are atrocious; this shortcoming remains to be eliminated' [E5]. He went
+on to suggest that Lorentz might be the right man for this task. 'I could do it
+myself, since all is clear to me. However, nature has unfortunately denied me the
+gift of being able to communicate, so that what I write is correct, to be sure, but
+272 RELATIVITY, THE GENERAL THEORY
+also thoroughly indigestible.' Shortly afterward, Lorentz once again wrote to
+Ehrenfest. 'I had written to Einstein that, now that he has reached the acme of
+his theory, it would be important to give an expose of its principles in as simple
+a form as possible, so that every physicist (or anyway many of them) may famil-
+iarize himself with its content. I added that I myself would very much like to try
+doing this but that it would be more beautiful if he did it himself [L4].
+Lorentz's fatherly advice must have been one of the incentives that led Einstein
+to write his first synopsis of the new theory [E6].* This beautiful, fifty-page
+account was completed in March 1916. It was well received. This may have
+encouraged Einstein—who did not communicate all that badly—to do more writ-
+ing. In December 1916 he completed Uber die spezielle und die allgemeine Rela-
+livitdtstheorie, gemeinverstdndlich,** his most widely known work [E8a].
+Demand for it became especially high after the results of the eclipse expedition
+caused such an immense stir (see Chapter 16). Its tenth printing came out in 1920,
+the twenty-second in 1972.
+Einstein's paper of March 1916 concludes with a brief section on the three new
+predictions: the red shift, the bending of light, and the precession of the perihelion
+of Mercury. In the final paragraph of that section is recorded the single major
+experimental confirmation which at that time could be claimed for the theory: the
+Mercury anomaly. In 1916 next to nothing was known about the red shift; the
+bending of light was first observed in 1919.
+Commenting on the status of experimental relativity in 1979, David Wilkinson
+remarked:
+[These] two early successes [—the perihelion precession and the bending of
+light—were] followed by decades of painfully slow experimental progress. It
+has taken nearly sixty years finally to achieve empirical tests of general relativ-
+ity at the one per cent level. Progress . . . required development of technology
+and experimental techniques well beyond those available in the early 1920s.
+[W7]
+I refer the reader to Wilkinson's paper for further remarks on the technological
+and sociological aspects of modern relativity experiments. For a summary of the
+present status of the experimental verification of general relativity (excluding cos-
+mology), the reader should consult the report by Irwin Shapiro wherein it will be
+found that, within the errors, all is well with the red shift (both astronomically
+and terrestrially), with the bending of light, with the precession of the perihelia
+of Mercury and other bodies, and also with the modern refined tests of the equiv-
+*This article was published both in the Annalen der Physik and, also in 1916, as a separate booklet
+[E7] which went through numerous printings and was also translated into English [E8].
+** On the Special and the General Relativity Theory, a Popular Exposition. Under this title, the
+English translation appeared in 1920 (Methuen, London). Einstein used to joke that the book should
+rather be called 'gemeinunverstandlich,' commonly ununderstandable.
+THE NEW DYNAMICS 273
+alence principle [S6]. In another modern review, the current situation is sum-
+marized as follows:
+So far [general relativity] has withstood every confrontation, but new confron-
+tations, in new arenas, are on the horizon. Whether general relativity survives
+is a matter of speculation for some, pious hope for some, and supreme confi-
+dence for others. [W8]
+With fervent good wishes and with high hopes for further experiments with rock-
+ets, satellites, and planetary probes, I hereby leave the subject of the comparison
+between theory and experiment in general relativity.
+What did Einstein himself have to say in later years about the three successes?
+I described in the previous chapter his high excitement at the time he found the
+right value for the precession of the perihelion of Mercury. He still considered
+this to be a crucial discovery when he sent Lorentz his New Year's wishes for
+1916 ('I wish you and yours a happy year and Europe an honest and definitive
+peace'): 'I now enjoy a hard-won clarity and the agreement of the perihelion
+motion of Mercury' [E9]. As will be seen in the next chapter, the results of the
+solar eclipse expeditions in 1919 also greatly stirred him personally. But, as is
+natural, in later times he tended to emphasize the simplicity of the theory rather
+than its consequences. In 1930 he wrote, 'I do not consider the main significance
+of the general theory of relativity to be the prediction of some tiny observable
+effects, but rather the simplicity of its foundations and its consistency' [E10]. More
+and more he stressed formal aspects. Again in 1930 he expressed the opinion that
+the idea of general relativity 'is a purely formal point of view and not a definite
+hypothesis about nature. .. . Non-[generally] relativistic theory contains not only
+statements about things but [also] statements which refer to things and the coor-
+dinate systems which are needed for their description; also from a logical point of
+view such a theory is less satisfactory than a relativistic one, the content of which
+is independent of the choice of coordinates' [Ell]. In 1932 he went further: 'In
+my opinion this theory [general relativity] possesses little inner probability....
+The field variables g^ and </>„ [the electromagnetic potentials] do not correspond
+to a unified conception of the structure of the continuum' [E12].
+Thus we see Einstein move from the joy of successfully confronting experimen-
+tal fact to higher abstraction and finally to that discontent with his own achieve-
+ments which accompanied his search for a unified field theory. He did not live to
+again use tiny effects for the purpose of advancing physical knowledge. Nor have
+we to this day recognized any tiny effects which we can be sure pose a threat to
+the physical principles with which we, perhaps clumsily, operate.
+General relativity does predict new tiny effects of a conventional kind, however.
+One of these caught Einstein's attention in 1936 when R. W. Mandl pointed out
+to him [ M4] that if an observer is perfectly aligned with a 'near' and a 'far' star,
+then he will observe the image of the far star as an annular ring as a result of the
+bending of its light by the near star. The idea was, of course, not new. Eddington
+274 RELATIVITY, THE GENERAL THEORY
+knew already that one may obtain two pointlike images of the far star if the align-
+ment is imperfect [E12a]. In any event, to Mandl's delight [M5] Einstein went
+on to publish a calculation of the dependence of the image intensity upon the
+displacement of the observer from the extended line of centers of the two stars
+[E12b].* He believed that 'there is no hope of observing this phenomenon.' How-
+ever, in 1979 it was shown that the apparent double quasar 0957 + 561 A,B is
+actually the double image of a single quasar [W8a]. An intervening galaxy acts
+as the gravitational lens [Yl].
+15c. Energy and Momentum Conservation; the Bianchi Identities
+The collected works of Felix Klein contain a set of papers devoted to the links
+between geometry on the one hand and group theory and the theory of invariants
+on the other, his own Erlangen program. The last three articles of this set deal
+with general relativity. ('For Klein .. . the theory of relativity and its connection
+with his old ideas of the Erlangen program brought the last flare-up of his math-
+ematical interests and mathematical production' [W9].) One of those three, com-
+pleted in 1918, is entitled 'On the Differential Laws for the Conservation of
+Momentum and Energy in the Einstein Theory of Gravitation' [K2]. In its intro-
+duction Klein observed, 'As one will see, in the following presentation [of the con-
+servation laws] I really do not any longer need to calculate but only to make use
+of the most elementary formulae of the calculus of variations.' It was the year of
+the Noether theorem.
+In November 1915, neither Hilbert nor Einstein was aware of this royal road
+to the conservation laws. Hilbert had come close. I recall here some of his conclu-
+sions, discussed in Section 14d. He had derived the gravitational equations from
+the correct variational principle
+for variations g^ —*• g^ + dg^, where the dg,,, are infinitesimal and vanish on
+the boundary of the integration domain. Without proof, he had also stated the
+theorem that if / is a scalar function of n fields and if
+then there exist four identities between the n fields. He believed that these ident-
+ities meant that electromagnetism is a consequence of gravitation and failed to see
+that this theorem at once yields the conservation laws [H4]. In a sequel to his
+work of 1915, presented in December 1916 [H5], his interpretation of Eq. 15.2
+had not changed. (In view of the relations between Hilbert and Einstein, it is of
+interest to note that in this last paper Hilbert refers to his subject as 'the new
+*For references to later calculations of this effect, see [S6a].
+THE NEW DYNAMICS 275
+physics of Einstein's relativity principle' [H6].) As for Einstein, in 1914 [E13]
+and again on November 4, 1915, [E14] he had derived the field equations of grav-
+itation from a variational principle—but in neither case did he have the correct
+field equations. In his paper of November 25, 1915, [El 5] energy-momentum
+conservation appears as a constraint on the theory rather than as an almost
+immediate consequence of general covariance; no variational principle is used.
+I repeat one last time that neither Hilbert nor Einstein was aware of the Bian-
+chi identities in that crucial November. Let us see how these matters were straight-
+ened out in subsequent years.
+The conservation laws are the one issue on which Einstein's synopsis of March
+1916 [E6] is weak. A variational principle is introduced but only for the case of
+pure gravitation; the mathematics is incorrect;* matter is introduced in a plausible
+but nonsystematic way ([E6], Section 16) and the conservation laws are verified
+by explicit computation rather than by an invariance argument ([E6], Section 17).
+In October 1916 Einstein came back to energy-momentum conservation [E16].**
+This time he gave a general proof (free of coordinate conditions) that for any
+matter Lagrangian L the energy-momentum tensor T1" satisfies
+as a consequence of the gravitational field equations. I shall return shortly to this
+paper, but first must note another development.
+In August 1917 Hermann Weyl finally decoded the variational principle (Eq.
+15.2) [W10]. Let us assume (he said) that the £* are infinitesimal and that f and
+its derivatives vanish on the boundary of the integration domain. Then for the case
+that / = L, it follows that Eq. 15.3 holds true, whereas if / = R we obtainf
+A correspondence between Felix Klein and Hilbert, published by Klein early in
+1918 [K4], shows that also in Goettingcn circles it had rapidly become clear that
+the principle (Eq. 15.2), properly used in the case of general relativity, gives rise
+to eight rather than four identities, four for / = L and four for / = R.
+Interestingly enough, in 1917 the experts were not aware that Weyl's derivation
+of Eq. 15.4 by variational techniques was a brand new method for obtaining a
+long-known result. Neither Hilbert nor Klein (nor, of course, Einstein) realized
+that Eq. 15.4, the contracted Bianchi identities, had been derived much earlier,
+first by the German mathematician Aurel Voss in 1880, then independently by
+*As Bargmann pointed out to me, Einstein first specializes to the coordinate condition \Jg = 1 and
+then introduces a variational principle without a Lagrange multiplier for this condition.
+**An English translation of this paper is included in the well-known collection of papers by Einstein,
+Lorentz, Minkowksi, and Weyl [S7].
+fFor this way of deriving Eqs. 15.3 and 15.4, see [Wll]. Other contributions to this subject are
+discussed in [P3]. For the relation of Weyl's results to those of Klein, see [K3].
+276 RELATIVITY, THE GENERAL THEORY
+Ricci in 1889, and then, again independently, in 1902 by Klein's former pupil
+Luigi Bianchi.* The name Bianchi appears neither in any of the five editions of
+Weyl's Raum, Zeit, Materie (the fifth edition appeared in 1923) nor in Pauli's
+review article of 1921 [PI]. In 1920, Eddington wrote in his book Space, Time
+and Gravitation, 'I doubt whether anyone has performed the laborious task of
+verifying these identities by straightforward algebra' [El7]. The next year he per-
+formed this task himself [E18]. In 1922 a simpler derivation was given [Jl], soon
+followed by the remark that Eq. 15.4 follows from
+now known as the Bianchi identities, where R^, is the Riemann curvature tensor
+[H7].** Harward, the author of this paper, remarked, 'I discovered the general
+theorem [Eq. 15.5] for myself, but I can hardly believe that it has not been dis-
+covered before.' This surmise was, of course, quite correct. Indeed, Eq. 15.5 was
+the relation discovered by the old masters, as was finally brought to the attention
+of a new generation by the Dutch mathematicians Jan Schouten and Dirk Struik
+in 1924: 'It may be of interest to mention that this theorem [Eq. 15.5] is known
+especially in Germany and Italy as Bianchi's Identity' [S9].
+From a modern point of view, the identities 15.3 and 15.4 are special conse-
+quences of a celebrated theorem of Emmy Noether, who herself participated in
+the Goettingen debates on the energy-momentum conservation laws. She had
+moved to Goettingen in April 1915. Soon thereafter her advice was asked. 'Emmy
+Noether, whose help I sought in clarifying questions concerning my energy law
+...' Hilbert wrote to Klein [K4], 'You know that Fraulein Noether continues to
+advise me in my work,' Klein wrote to Hilbert [K4]. At that time, Noether herself
+told a friend that a team in Goettingen, to which she also belonged, was perform-
+ing calculations of the most difficult kind for Einstein but that 'none of us under-
+stands what they are good for' [Dl]. Her own work on the relation between
+invariance under groups of continuous transformations and conservation theorems
+was published in 1918 [N5]. Noether's theorem has become an essential tool in
+modern theoretical physics. In her own oeuvre, this theorem represents only a
+sideline. After her death, Einstein wrote of her, 'In the judgment of the most com-
+petent living mathematicians, Fraulein Noether was the most significant creative
+mathematical genius since the higher education of women began' [E19].
+Let us return to Einstein's article of October 1916. The principal point of that
+paper is not so much the differential as the integral conservation laws. As is now
+*For more historical details, see the second edition of Schouten's book on Ricci calculus [S8].
+**Equation 15.4 follows from Eq. 15.5 by contraction and by the use of symmetry properties of the
+Riemann tensor [W12].
+THE NEW DYNAMICS 277
+well known, this is not a trivial problem. Equation 15.3 can equivalently be writ-
+ten in the form
+The second term—which accounts for the possibility of exchanging energy-
+momentum between the gravitational field and matter—complicates the transition
+from differential to integral laws by simple integration over spatial domains. Ein-
+stein found a way out of this technical problem. He was the first to cast Eq. 15.6
+in the form of a vanishing divergence [El6]. He noted that since the curvature
+scalar R is linear in the second derivatives of the g^, one can uniquely define a
+quantity R* which depends only on the g^ and their first derivatives by means
+of the relation
+Next define an object tff by
+With the help of the gravitational field equations, it can be shown that Eq. 15.6
+can be cast in the alternative form
+Therefore, one can define
+as the total energy-momentum of a closed system. Einstein emphasized that,
+despite appearances, Eq. 15.9 is fully covariant. However, the quantity f^ is not
+a generally covariant tensor density. Rather, it is a tensor only relative to affine
+transformations.
+These results are of particular interest in that they show how Einstein was both
+undaunted by and quite at home with Riemannian geometry, which he handled
+with ingenuity. In those years, he would tackle difficult mathematical questions
+only if compelled by physical motivations. I can almost hear him say, 'General
+relativity is right. One must be able to give meaning to the total energy and
+momentum of a closed system. I am going to find out how.' I regard it as no
+accident that in his October 1916 paper Einstein took the route from Eq. 15.9 to
+Eq. 15.6 rather than the other way around! For details of the derivation of Eq.
+15.9 and the proof that ^ is an affine tensor, I refer the reader to Pauli's review
+article [P4] and the discussion of the energy-momentum pseudotensor by Landau
+and Lifshitz [L5].
+278 RELATIVITY, THE GENERAL THEORY
+The discovery of Eq. 15.9 marks the beginning of a new chapter in general
+relativity. New problems arise. Since t\ is not a general tensor density, to what
+extent are the definitions of energy and momentum independent of the choice of
+coordinate system? During the next two years, this question was discussed by
+Felix Klein, Levi-Civita, Lorentz, Pauli, Schroedinger, and others,* as well as by
+Einstein himself, who in 1918 came back to this issue one more time. 'The sig-
+nificance of [Eq. 15.9] is rather generally doubted,' he wrote. He noted that the
+quantity ff can be given arbitrary values at any given point but that nevertheless
+the energy and momentum integrated over all space have a definite meaning
+[E19b]. Later investigations have shown that /*„ is well defined provided that the
+metric suitably approaches the Minkowski metric at spatial infinity.
+Many related questions continue to be studied intensely in the era of renewed
+activity following Einstein's death. Examples: Can one calculate the energy in a
+finite domain? Can one separate the energy into a gravitational and a nongravi-
+tational part? Does purely gravitational energy exist? Is the total energy of a grav-
+itating system always positive? A status report on these questions (many of them
+not yet fully answered) is found in an article by Trautman [T2]. The last-men-
+tioned question was the subject of a plenary lecture at GR9. This difficult problem
+(known for years as the positive energy program) arises because ^ by itself is not
+positive definite. It was found in 1979 that positive definiteness of the total energy
+can nevertheless be demonstrated [S10]. After my return from GR9,1 learned that
+the original proof can be simplified considerably [W13].
+15d. Gravitational Waves
+At no time during GR9 did I sense more strongly how much general relativity
+belongs to the future than when I listened to the plenary lectures by Kip Thorne
+from Pasadena and Vladimir Braginsky from Moscow on the present state of
+experiments designed to detect gravitational waves. So far such waves have not
+been found, but perhaps, Thorne said, they will be observed in this century. Fif-
+teen experimental groups, some of them multinational, are preparing for this
+event.
+None of these groups is planning to emulate Hertz's discovery of electromag-
+netic waves by terrestrial means. The probability of an atomic transition accom-
+panied by gravitational radiation is some fifty powers of 10 less than for photon
+emission. We have to look to the heavens for the best sources of gravitational
+radiation, most particularly to exotic, violent, and rare stellar phenomena such as
+the collapse of star cores into neutron stars or supernovas; or the formation of
+black holes. Sources like these may produce intensities some fifty powers of 10
+higher than what can be attained on earth. Gravitational antennas need to be built
+which are sensitive enough to overcome stupendous background problems. Work
+"This early work is described in Pauli [P5]. See also [E19a],
+THE NEW DYNAMICS 279
+is in progress on acoustical detectors, on improved Weber bars (named after
+Joseph Weber, whose pioneering work in the 1960s did much to stimulate the
+present worldwide efforts [W14]) and monocrystals, and on electromagnetic detec-
+tors, such as laser interferometers. These devices are designed to explore the fre-
+quency range from about 100 Hz to 10 kHz. The use of space probes in the search
+for gravitational waves (in the range 10~2-10~4 Hz) by Doppler tracking is also
+being contemplated. Detector studies have led to a burgeoning new technology,
+quantum electronics [Cl]. The hope is not just to observe gravitational waves but
+to use them for a new kind of experimental astronomy. When these waves pass
+through matter, they will absorb and scatter vastly less even than neutrinos do.
+Therefore, they will be the best means we may ever have for exploring what hap-
+pens in the interior of superdense matter. It is anticipated that gravitational wave
+astronomy may inform us about the dynamics of the evolution of supernova cores,
+neutron stars, and black holes. In addition, it may well be that gravitational waves
+will provide us with experimental criteria for distinguishing between the orthodox
+Einsteinian general relativity and some of its modern variants.
+Detailed accounts and literature referring to all these extraordinarily interesting
+and challenging aspects of gravitational wave physics are found in some of the
+books mentioned earlier in this chapter. I mention in particular the proceedings
+of a 1978 workshop [S2], the chapter by Weber in the GRG book [H2], the chap-
+ters by Douglass and Braginsky and by Will in the Hawking-Israel book [HI],
+and the review of reviews completed in 1980 by Thorne [T3]. All these papers
+reveal a developing interaction between astrophysics, particle physics, and general
+relativity. They also show that numerical relativity has taken great strides with
+the help of ever-improving computers.
+Einstein contributed the quadrupole formula.
+Even before relativity, Lorentz had conjectured in 1900 that gravitation 'can be
+attributed to actions which do not propagate with a velocity larger than that of
+light' [L6]. The term gravitational wave (onde gravifique) appeared for the first
+time in 1905, when Poincare discussed the extension of Lorentz invariance to
+gravitation [P6]. In June 1916, Einstein became the first to cast these qualitative
+ideas into explicit form [E20]. He used the weak-field approximation:
+where rj^ is the Minkowski metric, \hf,\ « 1, and terms of higher order than
+the first in h^ are neglected throughout. For the source-free case, he showed that
+the quantities
+satisfy (D is the Dalembertian)
+28O RELATIVITY, THE GENERAL THEORY
+in a coordinate system for which the 'gauge condition'
+holds true (Eq. 15.14 is sometimes called the Hilbert condition since Hilbert was
+the first to prove in general that the coordinate condition Eq. 15.14 can always be
+satisfied to the first order in h^ [H5]).
+Einstein noted not only that in the weak-field approximation there exist grav-
+itational waves which propagate with light velocity but also that only two of the
+ten h',,, have independent physical significance, or, as we now say, that there are
+only two helicity states. He also pointed out that the existence of radiationless
+stable interatomic orbits is equally mysterious from the electromagnetic as from
+the gravitational point of view! 'It seems that the quantum theory will have to
+modify not only Maxwell's electrodynamics but also the new gravitational theory.'
+Perhaps this renewed concern with quantum physics spurred him, a few months
+later, to make one of his great contributions to quantum electrodynamics: in the
+fall of 1916 he introduced the concepts of spontaneous and induced transitions and
+gave a new derivation of Planck's radiation law [E21].
+In the same June 1916 paper, Einstein also attempted to calculate the amount
+of gravitational radiation emitted by an excited isolated mechanical system with
+linear dimensions R. He introduced two further approximations: (1) only wave-
+lengths A for which X/R » 1 are considered and (2) all internal velocities of
+the mechanical system are « c. At that time he mistakenly believed that a
+permanently spherically symmetric mechanical system can emit gravitational
+radiation. There the matter lay until he corrected this error in 1918 and presented
+the quadrupole formula [E22]: the energy loss of the mechanical system is given
+by*
+where
+is the mass quadrupole moment and p the mass density of the source.
+After 1918 Einstein returned one more time to gravitational waves. In 1937 he
+and Rosen studied cylindrical wave solutions of the exact gravitational equations
+[E23], which were analyzed further in [W15].
+*Einstein's result was off by a factor of 2. This factor is corrected in Eq. 15.15, which has also been
+written in modernized form. Dots denote time derivatives. Equation 15.15 represents, of course, the
+leading term in a gravitational multipole expansion. For a review of this expansion, see [T4].
+THE NEW DYNAMICS 28l
+Do gravitational waves exist? Is the derivation of the quadrupole formula cor-
+rect? If so, does the formula apply to those extreme circumstances mentioned
+above, which may offer the most potent sources of gravitational radiation?
+There exists an extensive and important literature on these questions, beginning
+in 1922 with a remark by Eddington, who believed that the waves were spurious
+and 'propagate . . . with the speed of thought' [E24]. In 1937, Einstein briefly
+thought that gravitational waves do not exist (see Chapter 29). 'Among the present
+day theoretical physicists there is a strong consensus that gravitational radiation
+does exist,' one reads in [H8]. At GR9, the validity of the quadrupole formula
+was the subject of a plenary lecture and a discussion session. In the closing months
+of 1980, there appeared in the literature 'a contribution to the debate concerning
+the validity of Einstein's quadrupole formula' [W16].
+The difficulties in answering the above questions stem, of course, from the non-
+linear nature of gravitation, an aspect not incorporated in Einstein's linearized
+approximation. No one doubts that Eq. 15.15 holds true (in the long-wavelength,
+slow-motion approximation) for nongravitational sources of gravitational waves,
+such as elastically vibrating bars. The hard question is what happens if both
+material sources and the gravitational field itself are included as sources of grav-
+itational waves. The difficult questions which arise are related in part to the def-
+inition of energy localization referred to in the previous section. For a recent
+assessment of these difficulties see especially [E25] and [R2]. For a less severe
+judgment, see [T5]. I myself have not struggled enough with these problems to
+dare take sides.*
+Finally, as a gift from the heavens, there comes to us the binary pulsar
+PSR1913 + 16, 'the first known system in which relativistic gravity can be used
+as a practical tool for the determination of astrophysical parameters' [W17]. This
+system offers the possibility of testing whether the quantitative general relativistic
+prediction of a change in period due to energy loss arising from gravitational quad-
+rupole radiation holds true. At GR9, this loss was reported to be 1.04 + 0.13
+times the quadrupole prediction. This result does, of course, not prove the validity
+of the quadrupole formula, nor does it diminish the urge to observe gravitational
+waves directly. It seems more than fair to note, however, that this binary pulsar
+result strengthens the belief that the quadrupole formula cannot be far off the
+mark and that the experimental relativists' search for gravitational waves will not
+be in vain.
+15e. Cosmology
+Die Unbegrenztheit des Raumes besitzt . . . eine groszere empir-
+ische Gewiszheit als irgend eine aiiszere Erfahrung. Hieraus folgt
+aber die Unendlichkeit keineswegs. . . .
+Bernhard Riemann, Habilitationsvortrag, 1854.
+* I am grateful to J. Ehlers and P. Havas for enlightening discussions on this group of problems.
+282 RELATIVITY, THE GENERAL THEORY
+7. Einstein and Mach. Einstein was in the middle of preparing his first synopsis
+on general relativity when in February 1916 word reached him that the sufferings
+of Mach had come to an end. He interrupted his work and prepared a short article
+on Mach [E26] which reached the editors of Naturwissenschaften a week before
+his synopsis was received by the Annalen der Physik. The paper on Mach is not
+just a standard obituary. It is the first occasion on which Einstein shows his excep-
+tional talent for drawing with sensitivity a portrait of a man and his work, placing
+him in his time and speaking of his achievements and of his frailties with equal
+grace.
+Mach was successively a professor of mathematics, experimental physics, and
+philosophy. In the obituary, Einstein lauded a number of diverse contributions
+but reserved his highest praise for Mach's historical and critical analysis of
+mechanics [M6], a work that had profoundly influenced him since his student
+days [E27], when he was introduced to it by Besso [E28]. He had studied it again
+in Bern, together with his colleagues of the Akademie Olympia [Sll]. In 1909 he
+had written to Mach that of all his writings, he admired this book the most
+[E29].* Initially, Mach seems to have looked with favor on relativity, for Einstein
+wrote to him, again in 1909, 'I am very pleased that you enjoy the relativity theory'
+[E30]. In the obituary, Einstein cited extensively Mach's famous critique of New-
+ton's concepts of absolute space and absolute motion and concluded, 'The cited
+places show that Mach clearly recognized the weak sides of classical mechanics
+and that he was not far from demanding a general theory of relativity, and that
+nearly half a century ago!' [E26]. In his nineteenth century classic, Mach had
+indeed criticized the Newtonian view that one can distinguish between absolute
+and relative rotation. 'I cannot share this view. For me, only relative motions exist,
+and I can see, in this regard, no distinction between rotation and translation,' he
+had written [M7].** Einstein had Mach's discussion of rotational motion in mind
+when he wrote his own 1916 synopsis: its second section, entitled 'On the Grounds
+Which Make Plausible an Extension of the [Special] Relativity Postulate,' begins
+with the phrase:
+Classical mechanics, and the special theory of relativity not less, suffer from an
+epistemological shortcoming [the preferred position of uniform translation over
+all other types of relative motion] which was probably emphasized for the first
+time by Mach. [E6]
+In 1910, Mach had expressed himself positively about the work of Lorentz,
+Einstein, and Minkowski [M8]. Around January 1913, Einstein had written to
+him how pleased he was with Mach's 'friendly interest which you manifest for
+*Four letters from Einstein to Mach have been preserved, none from Mach to Einstein. These letters
+are discussed in essays by Herneck [H9] and by Holton [H10], along with more details on the
+relations between the two men.
+**In this connection, readers may wish to refresh their memory about Newton's rotating bucket
+experiment and Mach's analysis thereof; see, e.g., [W18]. In February 1916, Einstein gave a lecture
+on the Foucault pendulum [E31].
+THE NEW DYNAMICS 283
+the new [i.e., the Einstein-Grossmann] theory' [E32]. In his later years, however,
+Mach turned his back on relativity. In July 1913 he wrote, 'I must ... as
+assuredly disclaim to be a forerunner of the relativists as I withhold from the
+atomistic belief of the present day,' and added that to him relativity seemed 'to be
+growing more and more dogmatical' [M9]. These phrases appear in a book that
+was not published until 1921. Even so, Einstein's esteem for Mach never faltered.
+'There can hardly be any doubt that this [reaction by M.] was a consequence of
+an absorption capacity diminished by age, since the whole direction of thinking of
+this theory is in concordance with that of Mach, so that it is justified to consider
+Mach as the precursor of the general theory of relativity,' he wrote in 1930 [E33].
+In the last interview given by Einstein, two weeks before his death, he reminisced
+with evident pleasure about the one visit he had paid to Mach and he spoke of
+four people he admired: Newton, Lorentz, Planck, and Mach [G2]. They, and
+Maxwell, and no others, are the only ones Einstein ever accepted as his true
+precursors.
+In a discussion of Mach's influence on Einstein, it is necessary to make a clear
+distinction between three themes.
+First, Mach's emphasis on the relativity of all motion. As we have just seen, in
+this regard Einstein's respect was and remained unqualified.
+Second, Mach's philosophy or, perhaps better, his scientific methodology.
+'Mach fought and broke the dogmatism of nineteenth century physics' is one of
+the rare approving statements Einstein ever made about Mach's philosophical
+positions [E34]. In 1922 he expressed himself as follows before a gathering of
+philosophers. 'Mach's system [consists of] the study of relations which exist
+between experimental data; according to Mach, science is the totality of these
+relations. That is a bad point of view; in effect, what Mach made was a catalog
+and not a system. Mach was as good at mechanics as he was wretched at philos-
+ophy.* This short-sighted view of science led him to reject the existence of atoms.
+It is possible that Mach's opinion would be different if he were alive today' [E35].
+His negative opinion of Mach's philosophy changed as little during his later years
+as did his admiration for Mach's mechanics. Just before his death,
+Einstein said he had always believed that the invention of scientific concepts
+and the building of theories upon them was one of the creative properties of the
+human mind. His own view was thus opposed to Mach, because Mach assumed
+that the laws of science were only an economical way of describing a large col-
+lection of facts. [C2]**
+*'Autant Mach fut un bon mechanician, autant il fut un deplorable philosophe.'
+**In his autobiographical sketch, Einstein mentioned that the critical reasoning required for his
+discovery of special relativity was decisively furthered by his reading of Mach's philosophical writ-
+ings [E27]. I would venture to guess that at this point Einstein had once again Mach's mechanics in
+mind.
+284 RELATIVITY, THE GENERAL THEORY
+The third theme, Mach's conjecture on the dynamic origins of inertia, leads us
+to Einstein's work on cosmology.
+2. Einstein and Mach 's Principle. The central innovation in Mach's mechan-
+ics is the abolition of absolute space in the formulation of the law of inertia. Write
+this law as: A system on which no forces act is either at rest or in uniform motion
+relative to xxx. Then
+xxx = absolute space Newton
+xxx = the fixed stars
+idealized as a
+rigid system Mach
+'When ... we say that a body preserves unchanged its direction and velocity in
+space, our assertion is nothing more or less than an abbreviated reference to the
+entire universe' [M10]. Those are Mach's words and italics. He argued further
+that the reference to the entire universe could be restricted to the heavy bodies at
+large distances which make up the fixed stars idealized as a rigid system, since the
+relative motion of the body with regard to nearby bodies averages out to zero.
+Mach goes on to raise a new question.* Newton's law of inertia refers to
+motions that are uniform relative to an absolute space; this law is a kinematic first
+principle. By contrast, his own version of the law of inertia refers to motions of
+bodies relative to the fixed stars. Should one not seek a dynamic explanation of
+such motions, just as one explains dynamically the planetary orbits by means of
+gravitational dynamics or the relative motion of electrically-charged particles by
+means of electrodynamics? These are not Mach's own words. However, this
+dynamic view is implicit in his query: 'What would become of the law of inertia
+if the whole of the heavens began to move and the stars swarmed in confusion?
+How would we apply it then? How would it be expressed then? ... Only in the
+case of a shattering of the universe [do] we learn that all bodies [his italics] each
+with its share are of importance in the law of inertia' [Mil]. We do not find in
+Mach's book how this importance of all bodies manifests itself; he never proposed
+an explicit dynamic scheme for his new interpretation of the law of inertia. Mach
+invented Mach's law of inertia, not Mach's principle. Reading his discourse on
+inertia is not unlike reading the Holy Scriptures. The text is lucid but one senses,
+perhaps correctly, perhaps wrongly, a deeper meaning behind the words. Let us
+see how Einstein read Mach.
+Soon after Einstein arrived in Prague and broke his long silence on gravitation,
+he published a short note entitled 'Does There Exist a Gravitational Action Anal-
+ogous to the Electrodynamical Induction Effect?' [E36]. In this paper (based on
+the rudimentary gravitation theory of the Prague days), he showed that if a hol-
+low, massive sphere is accelerated around an axis passing through its center, then
+the inertial mass of a mass point located at the sphere's center is increased, an
+effect which foreshadows the Lense-Thirring effect [T6].
+*Seealso[Hll].
+THE NEW DYNAMICS 285
+Enter Mach.
+In this note Einstein declared, 'This [conclusion] lends plausibility to the con-
+jecture that the total inertia of a mass point is an effect due to the presence of all
+other masses, due to a sort of interaction with the latter. . . . This is just the point
+of view asserted by Mach in his penetrating investigations on this subject.' From
+that time on, similar references to Mach are recurrent. In the Einstein-Gross-
+mann paper we read of 'Mach's bold idea that inertia originates in the interaction
+of [a given] mass point with all other [masses]' [E37]. In June 1913, Einstein
+wrote to Mach about the induction effect as well as about the bending of light,
+adding that, if these effects were found, it would be 'a brilliant confirmation of
+your ingenious investigations on the foundations of mechanics' [E38]. In his
+Vienna lecture given in the fall of 1913, Einstein referred again to Mach's view
+of inertia and named it 'the hypothesis of the relativity of inertia' [E39]. He men-
+tioned neither this hypothesis nor the problem of inertia in any of his subsequent
+articles until February 1917, when he submitted a paper [E40] which once again
+marks the beginning of a new chapter in physics: general relativistic cosmology.
+A few days before presenting this paper to the Prussian Academy, Einstein had
+written to Ehrenfest, 'I have . . . again perpetrated something about gravitation
+theory which somewhat exposes me to the danger of being confined in a madhouse'
+[E41]. In the paper itself, he mentions the 'indirect and bumpy road' he had fol-
+lowed to arrive at the first cosmological model of the new era, an isotropic, homo-
+geneous, unbounded, but spatially finite static universe. It must have taken him
+a relatively long time to formulate this theory, since already in September 1916
+de Sitter mentions a conversation with Einstein about the possibility 'of an entirely
+material origin of inertia' and the implementation of this idea in terms of 'a world
+which of necessity must be finite' [SI2].
+Einstein's paper is no doubt motivated by Machian ideas. However, he begins
+with a re-analysis of another problem, the difficulties with a static Newtonian
+universe.* He remarked that the Newton-Poisson equation
+permits only (average) mass densities p which tend to zero faster than 1/r2 for r
+—* oo, since otherwise the gravitational potential would be infinite and the force
+on a particle due to all the masses in the universe undetermined. (He realized soon
+afterward that this reasoning is incorrect [E41a].) He also argued that even if 0
+remains finite for large r, there still are difficulties. For it is still impossible to
+have a Boltzmann equilibrium distribution of stars as long as the total stellar
+energy is larger than the energy needed to expel stars one by one to infinity as the
+result of collisions with other stars during the infinite time the universe has lived.
+On the other hand (he notes), if Eq. 15.17 is replaced by
+ 
+*For details and references to cosmology in the nineteenth century, see especially [P7] and [N6]. For
+broader historial reviews, see [Ml] and [Ml2].
+(15.18)(15.17)286 RELATIVITY, THE GENERAL THEORY
+(a proposal which again has nineteenth century origins), where p is a uniform
+density, then the solution
+0==_l
+is dynamically acceptable.
+Is it also physically acceptable? Constant p means an isotropic, homogeneous
+universe. In 1917 the universe was supposed to consist of our galaxy and presum-
+ably a void beyond. The Andromeda nebula had not yet been certified to lie
+beyond the Milky Way. Today an individual galaxy is considered as a local dis-
+turbance of a distribution which is indeed isotropic and homogeneous, to a degree
+which itself demands explanation [SI3]. Einstein had no such physical grounds
+for assuming these two properties—except for the fact that, he believed, they led
+to the first realization of the relativity of inertia in the model he was about to
+unveil. That this model is of the static variety is natural for its time. In 1917 no
+large-scale galactic motions were yet known to exist.
+Let us return to the transition from Eq. 15.17 to Eq. 15.18. There are three
+main points in Einstein's paper. First, he performs the very same transition in
+general relativity, that is, he replaces
+ 
+by
+(15.21)
+Second, he constructs a solution of Eq. 15.21 that resolves the conundrum of the
+Newtonian infinite. Third, he proposes a dynamic realization of the relativity of
+inertia. His solution, the Einsteinian universe, had to be abolished in later years.
+It will nevertheless be remembered as the first serious proposal for a novel topol-
+ogy of the world at large. Let us see how he came to it.
+Einstein had applied Eq. 15.20 with great success to the motion of planets,
+assuming that far away from their orbits the metric is flat. Now he argued that
+there are two reasons why this boundary condition is unsatisfactory for the uni-
+verse at large. First, the old problem of the Newtonian infinite remains. Second—
+and here Mach enters—the flatness condition implies that 'the inertia [of a body]
+is influenced by matter (at finite distances) but not determined by it [his italics]
+If only a single mass point existed it would have inertia .. . [but] in a consistent
+relativity theory there cannot be inertia relative to "space" but only inertia of
+masses relative to each other.' Thus Einstein began to give concrete form to
+Mach's ideas: since the g^ determine the inertial action, they should, in turn, be
+completely determined by the mass distribution in the universe. He saw no way
+of using Eq. 15.20 and meeting this desideratum. Equation 15.21, on the other
+hand, did provide the answer, it seemed to him,* in terms of the following solution
+(i,k =1,2, 3):
+*He also noted that this equation preserves the conservation laws, since gme = 0.
+(15.20)THE NEW DYNAMICS 287
+ 
+provided that
+(15.23)
+where p is a constant mass density. In this Einsteinian universe, the Newtonian
+infinite no longer causes problems because it has been abolished; three-dimen-
+sional space is spherically bounded and has a time-independent curvature. More-
+over, if there is no matter, then there is no inertia, that is, for nonzero X, Eq. 15.21
+cannot be satisfied if p = 0. Of course, this solution did not specifically associate
+inertia with the distant stars, but it seemed a good beginning.
+So strongly did Einstein believe at that time in the relativity of inertia that in
+1918 he stated as being on equal footing three principles on which a satisfactory
+theory of gravitation should rest [E42]:
+1. The principle of relativity as expressed by general covariance
+2. The principle of equivalence
+3. Mach's principle (the first time this term entered the literature): 'Das G-Feld
+ist restlos durch die Massen der Korper bestimmt,' that is, the g^ are com-
+pletely determined by the mass of bodies, more generally by T^. In 1922, Ein-
+stein noted that others were satisfied to proceed without this criterion and
+added, 'This contentedness will appear incomprehensible to a later generation,
+however' [E42a].
+In later years, Einstein's enthusiasm for Mach's principle waned and finally
+vanished. I conclude with a brief chronology of his subsequent involvement with
+cosmology.
+7977. Einstein never said so explicitly, but it seems reasonable to assume that
+he had in mind that the correct equations should have no solutions at all in the
+absence of matter. However, right after his paper appeared, de Sitter did find a
+solution of Eq. 15.21 with p = 0 [S14, W19]. Thus the cosmological term X^
+does not prevent the occurrence of 'inertia relative to space.' Einstein must have
+been disappointed. In 1918 he looked for ways to rule out the de Sitter solution
+[E42b], but soon realized that there is nothing wrong with it.
+1919. Einstein suggests [E43] that perhaps electrically-charged particles are
+held together by gravitational forces. He starts from Eq. 15.21, assumes that T^
+is due purely to electromagnetism so that 7£ = 0, and notes that this yields the
+trace condition X = R/4. Thus electromagnetism constrains gravitation. This idea
+may be considered Einstein's first attempt at a unified field theory. In 1927 he
+wrote a further short note on the mathematical properties of this model [E44].
+Otherwise, as is not unusual for him in his later years, a thought comes, is men-
+tioned in print, and then vanishes without a trace.
+(15.22)288 RELATIVITY, THE GENERAL THEORY
+7922. Friedmann shows that Eq. 15.20 admits nonstatic solutions with iso-
+tropic, homogeneous matter distributions, corresponding to an expanding universe
+[Fl]. Einstein first believes the reasoning is incorrect [E45], then finds an error
+in his own objection [E46] and calls the new results 'clarifying.'
+7923. Weyl and Eddington find that test particles recede from each other in
+the de Sitter world. This leads Einstein to write to Weyl, 'If there is no quasi-
+static world, then away with the cosmological term' [E47].
+7937. Referring to the theoretical work by Friedmann, 'which was not influ-
+enced by experimental facts' and the experimental discoveries of Hubble, 'which
+the general theory of relativity can account for in an unforced way, namely, with-
+out a A term' Einstein formally abandons the cosmological term, which is 'theo-
+retically unsatisfactory anyway' [E48]. In 1932, he and de Sitter jointly make a
+similar statement [E49]. He never uses the \ term again [E50].
+7954. Einstein writes to a colleague, 'Von dem Mach'schen Prinzip sollte
+man eigentlich iiberhaupt nicht mehr sprechen,' As a matter of fact, one should
+no longer speak of Mach's principle at all [E51].
+It was to be otherwise. After Einstein, the Mach principle faded but never died.
+In the post-Einsteinian era of revitalized interest in general relativity, it has
+become an important topic of research. At GR9, a discussion group debated the
+issue, in particular what one has to understand by this principle. This question
+can arouse passion. I am told that the Zeitschrift fur Physik no longer accepts
+papers on general relativity on the grounds that articles on Mach's principle pro-
+voke too many polemical replies. At stake is, for example, whether a theory is then
+acceptable only if it incorporates this principle as a fundamental requirement (as
+Einstein had in mind in 1918) or whether this principle should be a criterion for
+the selection of solutions within a theory that also has non-Machian solutions.* It
+must be said that, as far as I can see, to this day Mach's principle has not brought
+physics decisively farther. It must also be said that the origin of inertia is and
+remains the most obscure subject in the theory of particles and fields. Mach's prin-
+ciple may therefore have a future—but not without quantum theory.
+15f. Singularities; the Problem of Motion
+In 1917 Einstein wrote to Weyl, 'The question whether the electron is to be
+treated as a singular point, whether true singularities are at all admissible in the
+physical description, is of great interest. In the Maxwell theory one decided on a
+finite radius in order to explain the finite inertia of the electron' [E52]. Probably
+already then, certainly later, there was no doubt in his mind (except for one brief
+*For a detailed review of the various versions of the principle and a survey of the literature, see
+[Gl].
+THE NEW DYNAMICS 289
+interlude) what the answer to this question was: singularities are anathema. His
+belief in the inadmissibility of singularities was so deeply rooted that it drove him
+to publish a paper purporting to show that 'the "Schwarzschild singularity" [at
+r = 2GM/C2] does not appear [in nature] for the reason that matter cannot be
+concentrated arbitrarily .. . because otherwise the constituting particles would
+reach the velocity of light' [E53].* This paper was submitted in 1939, two months
+before Oppenheimer and Snyder submitted theirs on stellar collapse [O3]. Unfor-
+tunately, I do not know how Einstein reacted to that paper. As to the big bang,
+Einstein's last words on that subject were, 'One may .. . not assume the validity
+of the equations for very high density of field and matter, and one may not con-
+clude that the "beginning of expansion" must mean a singularity in the mathe-
+matical sense' [E54]. He may very well be right in this.
+The scientific task which Einstein set himself in his later years is based on three
+desiderata, all of them vitally important to him: to unify gravitation and electro-
+magnetism, to derive quantum physics from an underlying causal theory, and to
+describe particles as singularity-free solutions of continuous fields. I add a com-
+ment on this last point (unified field theory and quantum theory will be discussed
+in later chapters). As Einstein saw it, Maxwell's introduction of the field concept
+was a revolutionary advance which, however, did not go far enough. It was his
+belief that, also, in the description of the sources of the electromagnetic field, and
+other fields, all reference to the Newtonian mechanical world picture should be
+eradicated. In 1931 he expressed this view in these words:
+In [electrodynamics], the continuous field [appears] side by side with the mate-
+rial particle [the source] as the representative of physical reality. This dualism,
+though disturbing to any systematic mind, has today not yet disappeared. Since
+Maxwell's time, physical reality has been thought of as [being] represented by
+continuous fields, governed by partial differential equations, and not capable of
+any mechanical interpretation. ... It must be confessed that the complete real-
+ization of the program contained in this idea has so far by no means been
+attained. The successful physical systems that have been set up since then rep-
+resent rather a compromise between these two programs [Newton's and
+Maxwell's], and it is precisely this character of compromise that stamps them
+as temporary and logically incomplete, even though in their separate domains
+they have led to great advances. [E55]
+That is the clearest expression I know of Einstein's profound belief in a descrip-
+tion of the world exclusively in terms of everywhere-continuous fields.
+There was a brief period, however, during which Einstein thought that singu-
+larities might be inevitable. That was around 1927, when he wrote, 'All attempts
+'Actually, the singularity at the Schwarzschild radius is not an intrinsic singularity. It was shown
+later that the Schwarzschild solution is a two-sheeted manifold that is analytically complete except
+at r = 0. Two-sheetedness was first introduced in 1935 by Einstein and Rosen [E53a], who believed,
+however, that the singularity at r = 2GM/C2 is intrinsic.
+290 RELATIVITY, THE GENERAL THEORY
+of recent years to explain the elementary particles of nature by means of contin-
+uous fields have failed. The suspicion that this is not the correct way of conceiving
+material particles has become very strong in us after very many failed attempts,
+about which we do not wish to speak here. Thus, one is forced into the direction
+of conceiving of elementary particles as singular points or world lines.. . . We are
+led to a way of thinking in which it is supposed that there are no field variables
+other than the gravitational and the electromagnetic field (with the possible excep-
+tion of the 'cosmological term' [!]); instead one assumes that singular world lines
+exist' [E56]. These phrases are found in a paper, prepared with Jacob Grommer,
+in which Einstein made his first contribution to the problem of motion. Let us
+recall what that problem is.
+Our knowledge of the left-hand side of the gravitational equations (Eq. 15.20)
+is complete: R^ and R are known functions of the g^ and their derivatives and
+of nothing else. To this day, our knowledge of the right-hand side, the source
+7^, is flimsy. However, the left-hand side satisfies the identities Eq. 15.4. This
+piece of purely gravitational information implies that 7^ = 0. Thus general rel-
+ativity brings a new perspective to energy-momentum conservation: gravitation
+alone constrains its own sources to satisfy these laws. Consider now, as the sim-
+plest instance of such a source, a structureless point particle, a gravitational mono-
+pole. Its motion is necessarily constrained by T% = 0. Question: In view of these
+constraints, which are of gravitational origin, does the equation of motion of the
+source follow from the gravitational field equations alone? In other words, was
+the separate postulate of geodesic motion, already introduced by Einstein in 1914,
+unnecessary? Einstein and Grommer showed that this is indeed true for the case
+of a weak external gravitational field.
+A few weeks later, Weyl wrote to Einstein, thanking him for the opportunity
+to see the galley proofs of his new paper and 'for the support [this paper] gives to
+my old idea about matter' [W20], adding a reference to an article he had written
+in 1922 [W21] in which similar conclusions had been reached. Indeed, as was
+discussed in particular by Havas [HI2],* Einstein was one of the independent
+originators of the problem of motion, but neither the only nor the first one.
+Einstein's reply to Weyl is especially interesting because it adds to our under-
+standing of his interest in this problem at that time. 'I attach so much value to the
+whole business because it would be very important to know whether or not the
+field equations as such are disproved by the established facts about the quanta
+[Quantenthatsachen]' [E58]. Recall that we are in 1927, shortly after the discov-
+eries by Heisenberg and Schroedinger.
+Einstein's last important contribution to general relativity deals again with the
+problem of motion. It is the work done with Leopold Infeld and Banesh Hoffmann
+"Havas's paper, which also contains a simple derivation of the Einstein-Grommer result, is one of
+several important articles on the problem of motion in modern guise found in a volume edited by J.
+Ehlers [E57].
+THE NEW DYNAMICS 291
+on the TV-body problem of motion [E59, E60]. In these papers, the gravitational
+field is no longer treated as external. Instead, it and the motion of its (singular)
+sources are treated simultaneously. A new approximation scheme is introduced in
+which the fields are no longer necessarily weak but in which the source velocities
+are small compared with the light velocity. Their results are not new; the same or
+nearly the same results were obtained much earlier by Lorentz and Droste, de
+Sitter, Fock, and Levi-Civita (P. Havas, private communication). The equations
+obtained have found use in situations where Newtonian interaction must be
+included. '[These equations] are widely used in analyses of planetary orbits in the
+solar system. For example, the Gal Tech Jet Propulsion Laboratory uses them,
+in modified form, to calculate ephemerides for high-precision tracking of planets
+and spacecraft' [Ml3].
+In his report to GR9 on the problem of motion, Ehlers stressed the difficulties
+of defining isolated systems in general relativity and the need not to treat the prob-
+lem of motion as an isolated question. Rather, the problem should be linked with
+other issues, such as the description of extended bodies and gravitational radiation
+(see also [E61 ]).* A particle physicist might like to add that the problem of motion
+should perhaps not be dissociated from the fact that a body has a Compton wave-
+length, a parameter of little interest for big things—and vice versa.
+15g. What Else Was New at GR9?
+The program of GR9 showed that all the topics discussed in the preceding sections
+continue to be of intense interest. I conclude by listing other subjects discussed at
+that meeting. Exact solutions are now examined by new analytic methods as well
+as by computer studies. Other classical interests include the important Cauchy
+problem.** Current experimental results (notably the huge precession of the per-
+iastron of PSR 1913 + 16) and future terrestrial and planetary experiments were
+discussed, with refined tests of general relativity in mind. There was a debate on
+relativistic thermodynamics, a controversial subject to this day. There were reports
+on the fundamental advances of our understanding regarding the general structure
+of relativity theory, with special reference to singularity theorems, black holes, and
+cosmic censorship. We were told that the best of all possible universes is still the
+Friedmann universe, not only in our epoch but since time began. These beginnings
+(especially the earliest fraction of a second) were reviewed with reference to bary-
+*For example, it so happens that in the approximation defined by Eqs. 15.11-15.14, sources move
+with constant velocity (!) [E57].
+**Mme Y. Choquet-Bruhat told me that Einstein did not show much interest in this problem when
+she once discussed it with him.
+292 RELATIVITY, THE GENERAL THEOR
+on asymmetries in the universe. There were discussions on the neutrino contents
+of the universe and on the 3°K background radiation.
+And there was discussion of quantum mechanics in general relativistic context,
+not only of Hawking radiation, the important theoretical discovery of the 1970s
+that particles are steadily created in the background geometry of a black hole, but
+also of quantum gravity and supergravity. To the listener at this conference, these
+last two topics, more than anything else, brought home most strikingly how much
+still remains to be done in general relativity.
+References
+Cl. C. Caves, K. Thorne, R. Braver, V. Sandberg, and M. Zimmerman, Rev. Mod.
+Phys. 52, 341 (1980).
+C2. I. B. Cohen, Sci. Amer., July 1955, p. 69.
+Dl. A. Dick, Elem. Math. Beiheft 13 (1970).
+El. A. Einstein, PAW, 1915, p. 831.
+E2. ——, The Origins of the General Theory of Relativity. Jackson, Wylie, Glasgow,
+1933.
+E3. P. Ehrenfest, letter to H. A. Lorentz, December 23, 1915.
+E4. , letters to H. A. Lorentz, January 12 and 13, 1916.
+E5. A. Einstein, letter to H. A. Lorentz, January 17, 1916.
+E6. ,AdP49, 769 (1916).
+E7. ——, Die Grundlage der Allgemeinen Relativitdtstheorie. Barth, Leipzig, 1916.
+E8. and H. Minkowski, The Principle of Relativity (M. N. Saha and S. N. Bose,
+Trans.). University of Calcutta, Calcutta, 1920.
+E8a. , Uber die Spezielle und die Allgemeine Relativitdtstheorie Gemeinverstdn-
+dlich. Vieweg, Braunschweig, 1917.
+E9. , letter to H. A. Lorentz, January 1, 1916.
+E10. , Forum Phil. 1, 173 (1930).
+Ell. , The Yale University Library Gazette 6, 3 (1930).
+El2. —, unpublished manuscript, probably from 1932.
+E12a. A. S. Eddington, Space, Time and Gravitation, p. 134. Cambridge University
+Press, Cambridge, 1920.
+E12b. A. Einstein, Science 84, 506 (1936).
+£13. , PAW, 1914, p. 1030, Sec. 13.
+E14. , PAW, 1915, p. 778.
+E15. , PAW, 1915, p. 844.
+E16. —, PAW, 1916, p. 1111.
+E17. A. Eddington, [E12a], p. 209.
+El8. A. Eddington, Espace, Temps et Gravitation, Partie Theorique, p. 89. Hermann,
+El8. A. Eddington, Espace, Temps et Gravitation, p. 89. Hermann, Paris, 1921.
+E19. A. Einstein, letter to The New York Times, May 4, 1935.
+E19a. , Phys. Zeitschr. 19, 115, 165 (1918).
+E19b. , PAW, 1918, p. 448.
+E20. PAW, 1916, p. 688.
+E21. , Verh. Deutsch. Phys. Ges. 18, 318 (1916); Mitt. Phys. Ges. Zurich 16, 
+(1916).
+THE NEW DYNAMICS 293
+E22. , PAW, 1918, p. 154.
+E23. and N. Rosen, /. Franklin Inst. 223, 43 (1937).
+E24. A. S. Eddington, The Mathematical Theory oj Relativity (2nd edn.), p. 130. Cam-
+bridge University Press, Cambridge, 1960.
+E25. J. Ehlers, A Rosenblum, J. Goldberg, and P. Havas, Astrophys. J. 208, L77
+(1976).
+E26. A. Einstein, Naturw. 17, 101 (1916).
+E27. in Albert Einstein: Philosopher-Scientist (P. Schilpp, Ed.), p. 21. Tudor,
+New York, 1949.
+E28. , letter to M. Besso, March 6, 1952; EB, p. 464.
+E29. —, letter to E. Mach, August 9, 1909.
+E30. , letter to E. Mach, August 17, 1909.
+E31. , PAW,\9\6, p. 98.
+E32. , letter to E. Mach, undated, around January 1913.
+E33. , letter to A. Weiner, September 18, 1930.
+E34. , letter to C. B. Weinberg, December 1, 1937.
+E35. , Bull. Soc. Fran. Phil. 22, 91 (1922); see also Nature 112, 253 (1923).
+E36. , Viertelj. Schnft Ger. Medizin 44, 37 (1912).
+E37. and M. Grossmann, Z. Math. Physik. 62, 225, (1914) see p. 228; also, A.
+Einstein, Viertelj. Schrift. Naturf. Ges. Zurich 59, 4 (1914).
+E38. —, letter to E. Mach, June 25, 1913.
+E39. —, Phys. Zeitschr. 14, 1249 (1913), Sec. 9.
+E40. , PAW, 1917, p. 142.
+E41. , letter to P. Ehrenfest, February 4, 1917.
+E41a. , letters to M. Besso, December 1916, August 20, 1918; EB, pp. 96, 134.
+E42. , AdP55, 241 (1918); also, Naturw. 8, 1010 (1920).
+E42a. —, AdP69, 436 (1922).
+E42b. , PAW, 1918, p. 270.
+E43. , PAW, 1919, pp. 349, 463.
+E44. , Math. Ann. 97, 99 (1927).
+E45. , Z. Phys. 11, 326 (1922).
+E46. , Z. Phys. 16, 228 (1923).
+E47. , letter to H. Weyl, May 23, 1923.
+E48. , PAW, 1931, p. 235.
+E49. and W. De Sitter, Proc. Nat. Ac. Sci. 18, 213 (1932).
+E50. , The Meaning oj Relativity (5th edn.), p. 127. Princeton University Press,
+Princeton, N.J., 1955.
+E51. —, letter to F. Pirani, February 2, 1954; also, D. Sciama in [W3], p. 396.
+E52. , letter to H. Weyl, January 3, 1917.
+E53. , Ann. Math. 40, 922 (1939).
+E53a. and N. Rosen, Phys. Rev. 48, 73 (1935).
+E54. [E50] p. 129.
+E55. in James Clerk Maxwell, p. 66. Macmillan, New York, 1931.
+E56. and J. Grommer, PAW, 1927, p. 2.
+E57. J. Ehlers (Ed.), Isolated Gravitating Systems, Varenna Lectures, Vol 67. Societa
+Italiana di Fisica, Bologna, 1979.
+E58. A. Einstein, letter to H. Weyl, April 26, 1927.
+E59. , L. Infeld and B. Hoffmann, Ann Math. 39, 65 (1938).
+294 RELATIVITY, THE GENERAL THEORY
+£60. and , Ann Math. 41, 455 (1940).
+E61. J. Ehlers, Ann N.Y. Ac. Sci. 336, 279 (1980).
+Fl. A. Friedmann, Z. Phys. 10, 377 (1922).
+Gl. H. F. Goenner, in Grundlagenproblemen der modernen Physik, BI Verlag, Mann-
+heim, 1981.
+HI. S. W. Hawking and W. Israel (Eds.), General Relativity, an Einstein Century
+Survey. Cambridge University Press, Cambridge, 1979.
+H2. A. Held (Ed.), General Relativity and Gravitation. Plenum Press, New York,
+1980.
+H3. E. P. Hubble, Astrophys. J. 62, 409 (1925); 63, 236 (1926); 64, 321 (1926).
+H3a. —, Proc. Nat. Ac. Sci. 15, 169 (1929).
+H4. D. Hilbert, Goett. Nachr., 1915, p. 395.
+H5. —, Goett. Nachr., 1917, p. 53.
+H6. , [H5], p. 63.
+H7. A. E. Harward, Phil. Mag. 44, 380 (1922).
+H8. S. W. Hawking and W. Israel, [HI], p. 90.
+H9. F. Herneck, Einstein und Sein Weltbild, p. 109. Verlag der Morgen, Berlin,
+1976.
+H10. G. Holton, Thematic Origins of Scientific Thought, p. 219. Harvard University
+Press, Cambridge, Mass., 1973.
+Hll. H. Honl, Einstein Symposium 1965, Ak. Verl. Berlin, 1966, p. 238.
+H12. P. Havas in Isolated Systems in General Relativity (J. Ehlers, Ed.), p. 74. North
+Holland, Amsterdam, 1979.
+Jl. G. B. Jeffery, Phil. Mag. 43, 600 (1922).
+Kl. M. D. Kruskal, Phys. Rev. 119, 1743 (1960).
+K2. F. Klein, Goett. Nachr., 1918, p. 71. Reprinted in Felix Klein, Gesammelte
+Mathematische Abhandlungen (R. Fricke and A. Ostrowski, Eds.), Vol. 1, p. 568.
+Springer, Berlin, 1921.
+K3. , [K2], Sec. 8, especially footnote 14.
+K4. , Goett. Nachr., 1917, p. 469. Reprinted in Fricke and Ostrowski, [K2], Vol.
+l.p.553.
+LI. T. Levi-Civita, Rend. Circ. Mat. Palermo 42, 173 (1917).
+L2. M. Lecat, Bibliographie de la Relativite. Lamertin, Brussels, 1924.
+L2a. L. D. Landau, Nature 141, 333 (1938).
+L3. H. A. Lorentz, letters to P. Ehrenfest, January 10 and 11, 1916.
+L4. , letter to P. Ehrenfest, January 22, 1916.
+L5. L. D. Landau and E. M. Lifshitz, The Classical Theory of Fields, (3rd edn.), p.
+304. Addison-Wesley, Reading, Mass., 1971.
+L6. H. A. Lorentz, Proc. K. Ak. Amsterdam 8, 603 (1900); Collected Works, Vol. 5,
+p. 198. Nyhoff, the Hague, 1937.
+Ml. M. K. Munitz, Theories of the Universe, The Free Press, Glencoe, 111., 1957.
+M2. C. W. Misner, K. S. Thorne, and J. A. Wheeler, Gravitation. Freeman, San
+Francisco, 1973.
+M3. J. Mehra, The Solvay Conferences on Physics, Chap. 15. Reidel, Boston, 1975.
+M4. R. W. Mandl, letter to A. Einstein, May 3, 1936.
+M5. , letter to A. Einstein, December 18, 1936.
+M6. E. Mach, Die Mechanik in Ihrer Entwicklung, Historisch-Kritisch Dargestellt.
+THE NEW DYNAMICS 295
+Brockhaus, Leipzig, 1883. Translated as The Science of Mechanics (4th edn.).
+Open Court, Chicago, 1919.
+M7. , [M6], English translation, pp. 542, 543.
+M8. , Phys. Zeitschr. 11, 599 (1910).
+M9. ——, The Principles of Physical Optics, preface. Methuen, London, 1926.
+M10. , [M6], Chap. 2, Sec. 6, Subsec. 7.
+Mil. , History and Root of the Principle of the Conservation of Energy (2nd edn.;
+P. Jourdain, Tran.), pp. 78, 79. Open Court, Chicago, 1911.
+M12. C. W. Misner et al., [M2], pp. 752-62.
+M13. ,[M2], p. 1095.
+Nl. J. D. North, The Measure of the Universe. Oxford University Press, Oxford,
+1965.
+N2. , [Nl], Chap. 7.
+N3. Nature 106, issue of February 17, 1921.
+N4. J. D. North, [Nl], Chaps. 8 and 9.
+N5. E. Noether, Goett. Nachr., 1918, pp. 37, 235.
+N6. J. D. North, [Nl], Chap. 2.
+01. J. R. Oppenheimer and R. Serber, Phys. Rev. 54, 540 (1938).
+02. and G. M. Volkoff, Phys. Rev. 55, 374 (1939).
+03. and H. Snyder, Phys. Rev. 56, 455 (1939).
+PI. W. Pauli, 'Relativitatstheorie,' Encyklopadie der Mathematischen Wissenschaf-
+ten. Teubner, Leipzig, 1921.
+P2. , Theory of Relativity (G. Field, Tran.). Pergamon Press, London, 1958.
+P3. _, [PI] or [P2], Sec. 54.
+P4. , [PI] or [P2], Sees. 23 and 57.
+P5. , [PI] or [P2], Sec. 61.
+P6. H. Poincare, C. R. Ac. Sci. Pans 140, 1504 (1905); Oeuvres de H. Poincare, Vol.
+9, p. 489. Gauthier-Villars, Paris, 1954.
+P7. W. Pauli, [PI] or [P2], Sec. 62.
+Rl. H. P. Robertson, Rev. Mod. Phys. 5, 62 (1933).
+R2. A. Rosenblum, Phys. Rev. Lett. 41, 1003 (1978).
+51. L. S. Shepley and A. A. Strassenberg, Cosmology. AAPT, Stony Brook, N.Y.,
+1979.
+52. L. L. Smarr (Ed.), Sources of Gravitational Radiation. Cambridge University
+Press, Cambridge, 1979.
+53. G. Shaviv and J. Rosen (Eds.), Relativity and Gravitation. Wiley, New York,
+1975.
+54. G. Szekeres, Pub. Mat. Debrecen. 7, 285 (1960).
+55. D. W. Sciama letter to A. Pais, October 16, 1979.
+56. I. I. Shapiro, [W3], p. 115.
+S6a. N. Sanitt, Nature 234, 199 (1971).
+57. A. Sommerfeld (Ed.), The Principle of Relativity. Dover, New York.
+58. J. Schouten, Ricci-Calculus (2nd edn.), p. 146. Springer, Berlin, 1954.
+59. and D. J. Struik, Phil. Mag. 47, 584 (1924).
+510. R. Schoen and S. T. Yau, Phys. Rev. Lett. 43, 1457 (1979).
+511. Se, p. 98.
+512. W. de Sitter, Proc. K. Ak. Amsterdam 19, 527 (1917), footnote on pp. 531, 532.
+296 RELATIVITY, THE GENERAL THEORY
+513. D. Sciama, [W3], p. 387.
+514. W. de Sitter, Proc. K. Ak. Amsterdam 19, 1217 (1917); 20, 229 (1917).
+Tl. R. C. Tolman, Phys. Rev. 55, 364 (1939).
+T2. A. Trautman in Gravitation (L. Witten, Ed.), p. 169. Wiley, New York, 1962.
+T3. K. Thome, Rev. Mod. Phys. 52, 285 (1980).
+T4. —, Rev. Mod. Phys. 52, 299 (1980).
+T5. , Rev. Mod. Phys. 52, 290 (1980).
+T6. H. Thirring and J. Lense Phys. Z. 19, 156 (1918).
+Wl. H. Weyl, Space, Time and Matter (H. L. Brose, Tran.). Dover, New York, 1951.
+W2. S. Weinberg, Gravitation and Cosmology. Wiley, New York, 1972.
+W3. H. Woolf (Ed.), Some Strangeness in the Proportion. Addison-Wesley, Reading,
+Mass., 1980.
+W4. S. Weinberg, [W2], Chap. 14, Sec. 5.
+W5. J. A. Wheeler, Am. Scholar 37, 248 (1968); Am. Scientist 56, 1 (1968).
+W6. S. Weinberg, [W2], p. 297.
+W7. D. T. Wilkinson, [W3], p. 137.
+W8. C. M. Will, [HI], Chap. 2.
+W8a. D. Walsh, R. F. Carswell, and R. J. Weymann, Nature 279, 381 (1979).
+W9. H. Weyl, Scripta Math. 3, 201 (1935).
+W10. , AdP 54, 117 (1917).
+Wll. S. Weinberg, [W2], Chap. 12, Sees. 3 and 4.
+W12. , [W2], Chap. 9, Sec. 8.
+W13. E. Witten, Comm. Math. Phys. 80, 381 (1981); see further R. Schoen and S. T.
+Yau, Phys. Rev. Lett. 48, 369, 1981; G. T. Horowitz and M. J. Perry, Phys. Rev.
+Lett. 48, 371,1981.
+W14. J. Weber, Phys. Rev. 47, 306 (1960); Phys. Rev. Lett. 22, 1302 (1969).
+W15. and J. A. Wheeler, Rev. Mod. Phys. 29, 509 (1957).
+W16. M. Walker and C. M. Will, Phys. Rev. Lett. 22, 1741 (1980).
+W17. C. M. Will, [HI], Chap. 2.
+W18. S. Weinberg, [W2], pp. 16, 17.
+W19. See, e.g., [W2], pp. 613ff.
+W20. H. Weyl, letter to A. Einstein, February 3, 1927.
+W21. , addendum to a paper by R. Bach, Math. Zeitschr. 13, 134 (1922).
+Yl. P. Young, J. E. Gunn, J. Kristian, J. B. Oke, and J. A. Westphal, Astrophys. J.
+241, 507 (1980).
+V
+THE LATER JOURNEY
+This page intentionally left blank 
